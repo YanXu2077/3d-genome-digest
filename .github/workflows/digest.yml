@@ -4,19 +4,100 @@ on:
   schedule:
     # Every 3 hours, aligned to 9am EDT (UTC-4): 13/16/19/22/01/04/07/10 UTC
     - cron: '3 1,4,7,10,13,16,19,22 * * *'
-  workflow_dispatch:  # allow manual trigger from Actions tab
+  workflow_dispatch:
 
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
+    env:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      TO_EMAIL: yanxu2077@gmail.com
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Run digest
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          TO_EMAIL: yanxu2077@gmail.com
-        run: python daily_digest.py
+
+      - name: Fetch candidate preprints
+        run: |
+          python fetch_papers.py > /tmp/papers.json
+          echo "papers count: $(python -c 'import json,sys; print(json.load(open(\"/tmp/papers.json\"))[\"count\"])')"
+
+      - name: Claude picks best paper, writes commentary, sends email
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: "--max-turns 12 --model claude-sonnet-4-6"
+          prompt: |
+            You are curating a daily preprint digest for Yan Xu (MIT, Anders Hansen lab) — a researcher in 3D genome organization, Micro-C, loop extrusion, single-molecule chromatin biology.
+
+            Yan's core research interests (use to judge relevance — DO NOT mention "Hansen Lab" or "Hansen" anywhere in the visible email):
+              * Micro-C and high-resolution (sub-kb / nucleosome) contact maps
+              * CTCF, cohesin, loop extrusion mechanism
+              * Single-molecule live-cell imaging (SPT, SMLM, lattice light sheet)
+              * Transcription factor dynamics, chromatin binding kinetics
+              * Polymer physics of chromatin, bridging-induced phase separation
+              * RNA Pol II clusters / biomolecular condensates
+              * TAD / loop / compartment / chromatin domain biology
+
+            STEPS (do all in one Bash step is fine):
+
+            1. Read /tmp/papers.json — JSON with {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract}]}.
+               Each paper was published in the last 48h on bioRxiv.
+
+            2. Read every paper's title + abstract. SEMANTICALLY rank them for Yan's interests:
+               - Tier 1 = directly 3D-genome / Hi-C / Micro-C / loop extrusion / cohesin / CTCF / TAD
+               - Tier 2 = adjacent (single-molecule chromatin imaging, condensates, TF dynamics, polymer modeling, chromatin dynamics, enhancer-promoter biology)
+               - Tier 3 = broader chromatin / gene regulation / cell biology of nuclear organization
+               - Tier 4 = nothing remotely related — pick the most interesting biology paper as token reading
+               Within a tier, prefer methods papers > biological discoveries > incremental work. Prefer novel / surprising findings.
+
+            3. Pick exactly ONE paper.
+
+            4. Write a 2-3 sentence Chinese 点评 (commentary) that is SPECIFIC and SUBSTANTIVE:
+               - Briefly state the method/finding
+               - State concretely WHY this paper is worth Yan's time given his focus
+               - Reference what experimental approach / resolution / system the paper uses, and how it could inform or contrast Yan's Micro-C / single-molecule work
+               - Avoid generic phrases like "值得一读" / "很有意思" — be concrete
+               - DO NOT mention "Hansen Lab" or "Hansen"
+               - 2-3 sentences MAX, tight prose
+
+            5. Build email payload at /tmp/payload.json (use python -c with json.dump for proper escaping; do NOT hand-write JSON):
+               {
+                 "from": "onboarding@resend.dev",
+                 "to": "yanxu2077@gmail.com",
+                 "subject": "[3D Genome Daily] <chosen paper title, truncated to 80 chars with ellipsis if needed>",
+                 "html": "<HTML body>"
+               }
+
+               HTML body template (中文点评 BEFORE Abstract):
+               ```
+               <div style="font-family:-apple-system,sans-serif;max-width:680px;line-height:1.55;color:#222;">
+                 <h2 style="margin:0 0 6px 0;">{title}</h2>
+                 <p style="color:#666;margin:0 0 14px 0;font-size:14px;">{authors, first 5 + " et al." if more} · {date} · bioRxiv ({category}) · Tier {N}</p>
+                 <p><a href="{url}">{url}</a></p>
+                 <h3 style="margin-top:22px;">中文点评</h3>
+                 <p>{your Chinese commentary}</p>
+                 <h3 style="margin-top:22px;">Abstract</h3>
+                 <p>{abstract verbatim — no translation, escape HTML chars}</p>
+               </div>
+               ```
+
+            6. Send the email:
+               ```
+               curl -sS -w '\nHTTP_STATUS:%{http_code}\n' -X POST https://api.resend.com/emails \
+                 -H "Authorization: Bearer $RESEND_API_KEY" \
+                 -H "Content-Type: application/json" \
+                 -d @/tmp/payload.json
+               ```
+
+            7. Verify HTTP 200 and response JSON contains "id". Print one summary line: "Sent: <subject> [Tier N]"
+
+            CONSTRAINTS:
+              - Send EXACTLY ONE email
+              - Abstract verbatim English, never translated
+              - Commentary in Chinese, 2-3 sentences, concrete
+              - No mention of "Hansen Lab" or "Hansen"
+              - If /tmp/papers.json has count=0, send one email with subject "[3D Genome Daily] fetch 失败" and body explaining no candidates were retrieved
