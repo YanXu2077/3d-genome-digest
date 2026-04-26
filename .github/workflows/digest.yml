@@ -77,6 +77,8 @@ jobs:
 
       - name: Update sent history and push
         if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_history.py
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -86,5 +88,7 @@ jobs:
             echo "no history change to commit"
           else
             git commit -m "log sent paper $(date -u +%FT%TZ)"
+            # claude-code-action overwrote git auth — reset to GITHUB_TOKEN for push
+            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
             git push
           fi
