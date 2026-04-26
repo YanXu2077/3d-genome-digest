@@ -1,0 +1,22 @@
+name: 3D Genome Daily Digest
+
+on:
+  schedule:
+    # Every 3 hours, aligned to 9am EDT (UTC-4): 13/16/19/22/01/04/07/10 UTC
+    - cron: '3 1,4,7,10,13,16,19,22 * * *'
+  workflow_dispatch:  # allow manual trigger from Actions tab
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: yanxu2077@gmail.com
+        run: python daily_digest.py
