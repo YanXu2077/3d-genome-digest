@@ -10,6 +10,9 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+    permissions:
+      id-token: write    # required by anthropics/claude-code-action for OAuth
+      contents: read
     env:
       RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
       TO_EMAIL: yanxu2077@gmail.com
@@ -23,7 +26,7 @@ jobs:
       - name: Fetch candidate preprints
         run: |
           python fetch_papers.py > /tmp/papers.json
-          echo "papers count: $(python -c 'import json,sys; print(json.load(open(\"/tmp/papers.json\"))[\"count\"])')"
+          python -c "import json; d=json.load(open('/tmp/papers.json')); print(f'papers count: {d[\"count\"]} (window {d[\"window_utc\"]})')"
 
       - name: Claude picks best paper, writes commentary, sends email
         uses: anthropics/claude-code-action@v1
