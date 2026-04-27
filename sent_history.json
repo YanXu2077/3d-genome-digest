@@ -46,5 +46,11 @@
     "title": "Beyond ERCs: exploring catastrophic forms of rDNA instability in aging yeast",
     "sent_at": "2026-04-27T01:06:14.458816Z",
     "tier": 4
+  },
+  {
+    "doi": "10.64898/2026.04.24.720717",
+    "title": "RNA2PS: A sequence-specific coarse-grained RNA model linking structure, thermodynamics and phase separation",
+    "sent_at": "2026-04-27T04:39:34.471457Z",
+    "tier": 2
   }
 ]
