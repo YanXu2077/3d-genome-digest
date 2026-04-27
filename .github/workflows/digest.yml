@@ -45,8 +45,8 @@ jobs:
               * TAD / loop / compartment / chromatin domain biology
 
             TASK:
-            1. Use the Read tool to read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract}]}.
-            2. Use the Read tool to read sent_history.json (in current working directory) — list of papers already emailed to the reader (each with `doi` and `title`). **Exclude any paper whose `doi` matches an entry in sent_history.** This is a hard requirement — do NOT pick a paper already in the history.
+            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract}]}.
+            2. Read sent_history.json (in current working directory) — list of papers already emailed (each with `doi`). Exclude any paper whose `doi` matches an entry in sent_history (HARD requirement).
             3. From REMAINING candidates, semantically rank for the reader's interests:
                - Tier 1 = directly 3D-genome / Hi-C / Micro-C / loop extrusion / cohesin / CTCF / TAD
                - Tier 2 = adjacent (single-molecule chromatin imaging, condensates, TF dynamics, polymer modeling, chromatin dynamics, enhancer-promoter biology)
@@ -54,23 +54,24 @@ jobs:
                - Tier 4 = nothing related — pick the most interesting biology paper as token reading
                Within a tier, prefer methods/tools > novel discoveries > incremental work.
             4. Pick exactly ONE paper that is NOT in sent_history.
-               If literally every candidate is in sent_history (extremely rare — would mean the entire 48h pool has been previously emailed), pick the most relevant one even if previously sent, and START the commentary with "（此前已推送过，但近 48h 内仍无更新候选）".
-            5. Write a 2-3 sentence Chinese 点评 that is SPECIFIC AND SUBSTANTIVE:
-               - Briefly state the method/finding
-               - Concretely state WHY it's worth the reader's time given their focus
-               - Reference the experimental approach / resolution / system, and how it could inform or contrast Micro-C / single-molecule work
-               - Avoid generic phrases ("值得一读", "很有意思") — be concrete, technical
-               - 2-3 sentences MAX, tight prose
-               - DO NOT mention "Hansen Lab" or "Hansen"
-            6. Use the Write tool to create /tmp/chosen.json with EXACTLY this structure:
-               {
-                 "chosen": { ... copy the picked paper object verbatim from input (title, authors, date, doi, url, category, abstract) ... },
-                 "tier": <1|2|3|4>,
-                 "commentary_zh": "<your 2-3 sentence Chinese commentary>",
-                 "subject": "[3D Genome Daily] <chosen paper title — keep full or truncate naturally to ~80 chars>"
-               }
+               If literally every candidate is in sent_history, pick the most relevant one anyway and START the commentary with "（此前已推送过，但近 48h 内仍无更新候选）".
 
-            DO NOT send any email — a separate workflow step handles that. Just write /tmp/chosen.json and finish.
+            5. Write THREE plain-text files (no JSON, no escaping needed):
+
+               (a) /tmp/chosen_doi.txt — write EXACTLY the picked paper's `doi` field, nothing else (no quotes, no whitespace, no newline at end ideally — single line is fine).
+
+               (b) /tmp/chosen_tier.txt — write a single digit: 1, 2, 3, or 4.
+
+               (c) /tmp/chosen_commentary.txt — write your 2-3 sentence Chinese 点评:
+                   * Briefly state the method/finding
+                   * Concretely state WHY it's worth the reader's time given their focus
+                   * Reference the experimental approach / resolution / system, and how it could inform or contrast Micro-C / single-molecule work
+                   * Avoid generic phrases ("值得一读", "很有意思") — be concrete, technical
+                   * 2-3 sentences MAX, tight prose
+                   * DO NOT mention "Hansen Lab" or "Hansen"
+                   Just the prose. No quotes around it. No JSON. No markdown headers. Plain text, can include 中文 / English / numbers freely.
+
+            DO NOT send any email — a separate workflow step handles that. Just write the 3 files and finish.
 
       - name: Send email via Resend
         run: python send_email.py

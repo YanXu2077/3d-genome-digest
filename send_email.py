@@ -1,6 +1,17 @@
 #!/usr/bin/env python3
-"""Read /tmp/chosen.json (written by claude-code-action), build HTML email,
-and send via Resend API."""
+"""Read Claude's plain-text outputs (no JSON escape issues), look up paper
+metadata from papers.json, build HTML, send via Resend.
+
+Inputs (written by claude-code-action):
+  /tmp/chosen_doi.txt        — DOI of the picked paper
+  /tmp/chosen_tier.txt       — "1" / "2" / "3" / "4"
+  /tmp/chosen_commentary.txt — Chinese commentary (raw text)
+
+Inputs (written by fetch_papers.py):
+  /tmp/papers.json — the candidate pool (always valid JSON)
+
+Output: writes /tmp/chosen.json for downstream history step.
+"""
 
 import json
 import os
@@ -26,8 +37,7 @@ def truncate(s, limit):
     return s if len(s) <= limit else s[: limit - 1] + "…"
 
 
-def build_html(c, tier, commentary_zh):
-    p = c
+def build_html(p, tier, commentary_zh):
     title = escape(p.get("title", ""))
     authors = escape(short_authors(p.get("authors", "")))
     date = escape(p.get("date", ""))
@@ -70,37 +80,77 @@ def send(subject, html):
         return json.loads(body)
 
 
+def read_text(path, default=None):
+    if not os.path.exists(path):
+        return default
+    with open(path, encoding="utf-8") as f:
+        return f.read().strip()
+
+
+def fallback_pick(papers):
+    """If Claude failed to produce outputs, pick the most recent paper as
+    a token reading so the user still gets *something*."""
+    if not papers:
+        return None
+    papers_sorted = sorted(papers, key=lambda p: p.get("date", ""), reverse=True)
+    return papers_sorted[0]
+
+
 def main():
-    chosen_path = "/tmp/chosen.json"
-    if not os.path.exists(chosen_path):
-        # Claude failed to write the file — fall back to error report
-        send("[3D Genome Daily] FAILED — chosen.json missing",
-             "<p>Claude step did not produce /tmp/chosen.json. Check the workflow logs.</p>")
+    with open("/tmp/papers.json", encoding="utf-8") as f:
+        pool = json.load(f)
+    papers = pool.get("papers", [])
+
+    doi = read_text("/tmp/chosen_doi.txt", "")
+    tier_raw = read_text("/tmp/chosen_tier.txt", "4")
+    commentary = read_text("/tmp/chosen_commentary.txt", "")
+
+    try:
+        tier = int(tier_raw)
+    except ValueError:
+        tier = 4
+
+    paper = None
+    if doi:
+        paper = next((p for p in papers if p.get("doi", "") == doi), None)
+
+    fallback_used = False
+    if paper is None:
+        paper = fallback_pick(papers)
+        fallback_used = True
+        if not commentary:
+            commentary = "（Claude 步骤失败，自动 fallback 到 48h 内最新一篇 preprint。请检查 Actions 日志。）"
+
+    if paper is None:
+        # Truly nothing — send error notice
+        send("[3D Genome Daily] FAILED — fetch + Claude 都失败了",
+             "<p>没有候选 paper（fetch_papers 可能挂了），也没有 Claude 输出。检查 Actions 日志。</p>")
         sys.exit(1)
 
-    with open(chosen_path, encoding="utf-8") as f:
-        c = json.load(f)
+    title = paper.get("title", "(untitled)")
+    subject = truncate(f"[3D Genome Daily] {title}", 100)
+    if fallback_used:
+        subject = "[3D Genome Daily fallback] " + truncate(title, 80)
 
-    paper = c["chosen"]
-    tier = c["tier"]
-    commentary = c["commentary_zh"]
-    subject_in = c.get("subject") or f"[3D Genome Daily] {paper.get('title','(untitled)')}"
-    subject = truncate(subject_in, 100)
     html = build_html(paper, tier, commentary)
     resp = send(subject, html)
-    print(f"Sent: {subject} [Tier {tier}] (id={resp.get('id')})")
+    print(f"Sent: {subject} [Tier {tier}]{' (fallback)' if fallback_used else ''} (id={resp.get('id')})")
+
+    # Write /tmp/chosen.json for downstream history step
+    with open("/tmp/chosen.json", "w", encoding="utf-8") as f:
+        json.dump({"chosen": paper, "tier": tier, "commentary_zh": commentary,
+                   "fallback": fallback_used}, f, ensure_ascii=False)
 
 
 if __name__ == "__main__":
     try:
         main()
-    except Exception as e:
+    except Exception:
         import traceback
         tb = traceback.format_exc()
         print(tb, file=sys.stderr)
-        # Try sending error notification — best effort
         try:
-            send("[3D Genome Daily] FAILED — email step",
+            send("[3D Genome Daily] FAILED — email step crashed",
                  f"<pre>{escape(tb)}</pre>")
         except Exception:
             pass
