@@ -1,0 +1,31 @@
+name: Auto-retry digest on first failure
+
+# When the digest workflow fails on its FIRST attempt, re-run only the failed jobs.
+# Catches transient flakes (bioRxiv 5xx, Claude rate limits, network).
+# Subsequent failures (run_attempt > 1) are NOT retried, to avoid loops.
+
+on:
+  workflow_run:
+    workflows: ["3D Genome Daily Digest"]
+    types: [completed]
+
+jobs:
+  retry:
+    if: >-
+      github.event.workflow_run.conclusion == 'failure' &&
+      github.event.workflow_run.run_attempt == 1
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Re-run failed jobs of the digest workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runId = context.payload.workflow_run.id;
+            console.log(`Retrying run ${runId} (attempt 1 failed)`);
+            await github.rest.actions.reRunWorkflowFailedJobs({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: runId,
+            });

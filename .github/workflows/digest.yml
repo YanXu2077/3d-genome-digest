@@ -93,3 +93,7 @@ jobs:
             git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
             git push
           fi
+
+      - name: Notify on failure
+        if: failure()
+        run: python notify_failure.py
