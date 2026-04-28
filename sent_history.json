@@ -88,5 +88,11 @@
     "title": "Controlling for DNA dosage with Whole Genome Sequencing improves ATAC-seq peak calling",
     "sent_at": "2026-04-27T22:53:53.568944Z",
     "tier": 3
+  },
+  {
+    "doi": "10.64898/2026.04.24.720727",
+    "title": "TFAM organizes DNA into compact higher order structures",
+    "sent_at": "2026-04-28T04:37:10.560905Z",
+    "tier": 2
   }
 ]
