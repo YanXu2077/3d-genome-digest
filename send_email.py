@@ -42,12 +42,14 @@ def build_html(p, tier, commentary_zh):
     authors = escape(short_authors(p.get("authors", "")))
     date = escape(p.get("date", ""))
     cat = escape(p.get("category", ""))
+    src = escape(p.get("source", "bioRxiv"))
     url = p.get("url", "")
     abstract = escape(p.get("abstract", ""))
     note = escape(commentary_zh)
+    src_label = f"{src} ({cat})" if cat else src
     return f"""<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:680px;line-height:1.55;color:#222;">
   <h2 style="margin:0 0 6px 0;">{title}</h2>
-  <p style="color:#666;margin:0 0 14px 0;font-size:14px;">{authors} &middot; {date} &middot; bioRxiv ({cat}) &middot; Tier {tier}</p>
+  <p style="color:#666;margin:0 0 14px 0;font-size:14px;">{authors} &middot; {date} &middot; {src_label} &middot; Tier {tier}</p>
   <p><a href="{url}">{url}</a></p>
   <h3 style="margin-top:22px;">中文点评</h3>
   <p>{note}</p>

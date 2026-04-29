@@ -22,10 +22,16 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch candidate preprints
+      - name: Fetch bioRxiv preprints
+        run: python fetch_papers.py > /tmp/biorxiv.json
+
+      - name: Fetch PubMed journal articles
+        run: python fetch_pubmed.py > /tmp/pubmed.json
+
+      - name: Combine sources
         run: |
-          python fetch_papers.py > /tmp/papers.json
-          python -c "import json; d=json.load(open('/tmp/papers.json')); print(f'papers: {d[\"count\"]} (window {d[\"window_utc\"]})')"
+          python combine_sources.py > /tmp/papers.json
+          python -c "import json; d=json.load(open('/tmp/papers.json')); print(f'combined: {d[\"count\"]} (window {d[\"window_utc\"]})')"
 
       - name: Claude picks paper + writes commentary
         uses: anthropics/claude-code-action@v1
@@ -45,13 +51,19 @@ jobs:
               * TAD / loop / compartment / chromatin domain biology
 
             TASK:
-            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract}]}.
+            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract, source}]}. Papers come from bioRxiv (preprints) AND PubMed (journal articles published today). Both sources are valid.
             2. Read sent_history.json (in current working directory) — list of papers already emailed (each with `doi`). Exclude any paper whose `doi` matches an entry in sent_history (HARD requirement).
-            3. From REMAINING candidates, semantically rank for the reader's interests:
-               - Tier 1 = directly 3D-genome / Hi-C / Micro-C / loop extrusion / cohesin / CTCF / TAD
-               - Tier 2 = adjacent (single-molecule chromatin imaging, condensates, TF dynamics, polymer modeling, chromatin dynamics, enhancer-promoter biology)
-               - Tier 3 = broader chromatin / gene regulation / nuclear organization
-               - Tier 4 = nothing related — pick the most interesting biology paper as token reading
+            3. From REMAINING candidates, semantically rank for the reader's interests. **BE HONEST. DO NOT INFLATE TIERS.** A Tier 4 day is a normal occurrence — most days have no Tier 1 papers.
+
+               STRICT TIER DEFINITIONS:
+               - **Tier 1**: Title OR abstract MUST contain explicit reference to 3D genome organization. Required keywords (one of these MUST appear): Hi-C, Micro-C, loop extrusion, cohesin (in chromatin context), CTCF, TAD/topologically associating domain, "3D genome", chromosome conformation, chromatin loop, A/B compartment, condensin (in chromatin context). The paper's CENTRAL contribution must be about chromatin spatial organization. Generic "chromatin remodeling" or "chromatin accessibility" alone DOES NOT qualify as Tier 1.
+
+               - **Tier 2**: Paper's central topic is one of: single-molecule chromatin imaging (SPT/SMLM in nuclear context), biomolecular condensates IN nuclear/transcriptional context, transcription factor binding kinetics/dynamics, polymer physics modeling of chromatin, enhancer-promoter contacts/biology, RNA Pol II clustering. Must be CHROMATIN- or NUCLEUS-related, not generic biophysics or generic single-molecule methods.
+
+               - **Tier 3**: Broader chromatin / gene regulation / nuclear organization without 3D structure focus (e.g., histone modifications, nucleosome biology without spatial focus, transcriptional regulation, ATAC-seq / ChIP-seq method papers).
+
+               - **Tier 4**: Everything else — generic biophysics, generic cell biology, methods papers unrelated to chromatin, biology in non-chromatin contexts (mitochondria, membrane, actin, etc.). **THIS IS THE EXPECTED ANSWER MOST DAYS.** Do not inflate.
+
                Within a tier, prefer methods/tools > novel discoveries > incremental work.
             4. Pick exactly ONE paper that is NOT in sent_history.
                If literally every candidate is in sent_history, pick the most relevant one anyway and START the commentary with "（此前已推送过，但近 48h 内仍无更新候选）".
