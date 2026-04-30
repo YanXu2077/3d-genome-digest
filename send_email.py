@@ -38,19 +38,32 @@ def truncate(s, limit):
 
 
 def build_html(p, tier, commentary_zh):
-    title = escape(p.get("title", ""))
+    import urllib.parse
+    title_raw = p.get("title", "")
+    title = escape(title_raw)
     authors = escape(short_authors(p.get("authors", "")))
     date = escape(p.get("date", ""))
     cat = escape(p.get("category", ""))
     src = escape(p.get("source", "bioRxiv"))
     url = p.get("url", "")
+    doi = p.get("doi", "")
     abstract = escape(p.get("abstract", ""))
     note = escape(commentary_zh)
     src_label = f"{src} ({cat})" if cat else src
+
+    scholar_url = "https://scholar.google.com/scholar?q=" + urllib.parse.quote(title_raw)
+    doi_url = f"https://doi.org/{doi}" if doi and not doi.startswith("pmid:") else ""
+
+    links = [f'<a href="{url}">{src} link</a>']
+    if doi_url and doi_url != url:
+        links.append(f'<a href="{escape(doi_url)}">doi.org</a>')
+    links.append(f'<a href="{escape(scholar_url)}">Google Scholar</a>')
+    links_html = " &middot; ".join(links)
+
     return f"""<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:680px;line-height:1.55;color:#222;">
   <h2 style="margin:0 0 6px 0;">{title}</h2>
   <p style="color:#666;margin:0 0 14px 0;font-size:14px;">{authors} &middot; {date} &middot; {src_label} &middot; Tier {tier}</p>
-  <p><a href="{url}">{url}</a></p>
+  <p style="font-size:14px;">{links_html}</p>
   <h3 style="margin-top:22px;">中文点评</h3>
   <p>{note}</p>
   <h3 style="margin-top:22px;">Abstract</h3>
