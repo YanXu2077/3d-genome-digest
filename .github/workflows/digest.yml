@@ -51,7 +51,7 @@ jobs:
               * TAD / loop / compartment / chromatin domain biology
 
             TASK:
-            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract, source}]}. Papers come from bioRxiv (preprints) AND PubMed (journal articles published today). Both sources are valid.
+            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract, source}]}. Papers come from bioRxiv (preprints) AND PubMed (journal articles). **Every paper's URL has been pre-validated as reachable (HTTP 2xx)** — you don't need to verify links.
             2. Read sent_history.json (in current working directory) — list of papers already emailed (each with `doi`). Exclude any paper whose `doi` matches an entry in sent_history (HARD requirement).
             3. From REMAINING candidates, semantically rank for the reader's interests. **BE HONEST. DO NOT INFLATE TIERS.** A Tier 4 day is a normal occurrence — most days have no Tier 1 papers.
 

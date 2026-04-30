@@ -128,7 +128,8 @@ def parse_articles(xml_text, date_from, date_to):
                 if aid.attrib.get("IdType") == "doi":
                     doi = text(aid)
                     break
-            url = f"https://doi.org/{doi}" if doi else f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+            # Always use pubmed.ncbi direct URL — DOI redirect to publisher often 403s
+            url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else (f"https://doi.org/{doi}" if doi else "")
 
             out.append({
                 "title": title,
