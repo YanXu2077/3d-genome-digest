@@ -232,5 +232,11 @@
     "title": "A digital twin of pancreatic islet differentiation predicts cell fate",
     "sent_at": "2026-05-01T04:47:29.701794Z",
     "tier": 4
+  },
+  {
+    "doi": "10.64898/2026.04.28.721268",
+    "title": "MethylBench: A comprehensive benchmark of DNA methylation profiling methods across diverse sequencing platforms",
+    "sent_at": "2026-05-01T08:59:12.479785Z",
+    "tier": 3
   }
 ]
