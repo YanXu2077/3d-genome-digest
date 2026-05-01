@@ -238,5 +238,11 @@
     "title": "MethylBench: A comprehensive benchmark of DNA methylation profiling methods across diverse sequencing platforms",
     "sent_at": "2026-05-01T08:59:12.479785Z",
     "tier": 3
+  },
+  {
+    "doi": "10.1186/s40104-026-01393-z",
+    "title": "Comprehensive multi-omics reveals dynamic chromatin changes and gene regulatory networks during duck folliculogenesis.",
+    "sent_at": "2026-05-01T11:05:46.304848Z",
+    "tier": 1
   }
 ]
