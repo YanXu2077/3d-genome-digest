@@ -268,5 +268,11 @@
     "title": "Motif grammar and transcriptional programs decouple CTCF binding from nucleosome phasing to control cell-type-specific chromatin insulation.",
     "sent_at": "2026-05-01T22:45:53.134397Z",
     "tier": 1
+  },
+  {
+    "doi": "10.1126/sciadv.aed2806",
+    "title": "Nanopore-based sequencing of active DNA replication reveals key principles of metazoan replication dynamics.",
+    "sent_at": "2026-05-02T03:02:00.854055Z",
+    "tier": 3
   }
 ]
