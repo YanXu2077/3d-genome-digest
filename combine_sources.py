@@ -54,24 +54,33 @@ def main():
     print(f"raw: bioRxiv={len(bx.get('papers',[]))}, PubMed={len(pm.get('papers',[]))}, deduped={len(deduped)}",
           file=sys.stderr)
 
-    # Validate URLs in parallel
+    # URL validation: only for PubMed (publisher DOI redirects often dead).
+    # bioRxiv pages 403 from server-side curl due to Cloudflare bot protection,
+    # but real browsers reach them fine — trust the API metadata.
+    SKIP_VALIDATION_SOURCES = {"bioRxiv"}
+
+    needs_check_idx = [i for i, p in enumerate(deduped) if p.get("source") not in SKIP_VALIDATION_SOURCES]
     results = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
-        future_to_idx = {ex.submit(url_ok, p.get("url", "")): i for i, p in enumerate(deduped)}
-        for fut in concurrent.futures.as_completed(future_to_idx):
-            results[future_to_idx[fut]] = fut.result()
+    if needs_check_idx:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+            future_to_idx = {ex.submit(url_ok, deduped[i].get("url", "")): i for i in needs_check_idx}
+            for fut in concurrent.futures.as_completed(future_to_idx):
+                results[future_to_idx[fut]] = fut.result()
 
     keepers = []
     drop_count_by_source = {}
     for i, p in enumerate(deduped):
-        if results.get(i, False):
+        src = p.get("source", "?")
+        if src in SKIP_VALIDATION_SOURCES:
+            keepers.append(p)  # trust without checking
+        elif results.get(i, False):
             keepers.append(p)
         else:
-            src = p.get("source", "?")
             drop_count_by_source[src] = drop_count_by_source.get(src, 0) + 1
 
     drops_summary = ", ".join(f"{k}={v}" for k, v in sorted(drop_count_by_source.items())) or "0"
-    print(f"URL validation: kept {len(keepers)}/{len(deduped)} | dropped: {drops_summary}",
+    skipped_count = sum(1 for p in deduped if p.get("source") in SKIP_VALIDATION_SOURCES)
+    print(f"URL validation: checked {len(needs_check_idx)}, skipped(trusted) {skipped_count} | dropped: {drops_summary} | kept {len(keepers)}/{len(deduped)}",
           file=sys.stderr)
 
     window = bx.get("window_utc") or pm.get("window_utc") or []
