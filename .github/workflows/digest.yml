@@ -2,10 +2,10 @@ name: 3D Genome Daily Digest
 
 on:
   schedule:
-    # Primary fire at :03 of each slot
-    - cron: '3 1,4,7,10,13,16,19,22 * * *'
-    # Backup fire at :33 (in case primary is dropped by GH Actions cron jitter)
-    - cron: '33 1,4,7,10,13,16,19,22 * * *'
+    # Primary fire at :03 of every even hour (2h cadence): 00,02,04,...,22 UTC
+    - cron: '3 */2 * * *'
+    # Backup fire at :33 (catches missed primary)
+    - cron: '33 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -44,7 +44,7 @@ jobs:
           LAST_TS=$(date -u -d "${LAST_CLEAN}Z" +%s 2>/dev/null || echo 0)
           NOW_TS=$(date -u +%s)
           AGE=$((NOW_TS - LAST_TS))
-          MIN_GAP=5400  # 90 min
+          MIN_GAP=4500  # 75 min — tighter so 2h cadence backup fire still triggers
           echo "last sent: $LAST (${AGE}s ago)"
           if [ "$AGE" -lt "$MIN_GAP" ] && [ "$AGE" -gt "0" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
@@ -74,7 +74,7 @@ jobs:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           claude_args: '--max-turns 15 --model claude-sonnet-4-6 --allowed-tools "Read,Write,Bash"'
           prompt: |
-            You are curating a daily preprint digest for a researcher in 3D genome organization, Micro-C, loop extrusion, and single-molecule chromatin biology (MIT). DO NOT mention "Hansen Lab" or "Hansen" anywhere in your output.
+            You are curating a daily research digest for a 3D genome / Micro-C / loop extrusion / single-molecule chromatin researcher (MIT). DO NOT mention "Hansen Lab" or "Hansen" anywhere.
 
             Reader's research interests:
               * Micro-C and high-resolution (sub-kb / nucleosome) contact maps
@@ -85,44 +85,52 @@ jobs:
               * RNA Pol II clusters / biomolecular condensates
               * TAD / loop / compartment / chromatin domain biology
 
-            TASK:
-            1. Read /tmp/papers.json — JSON: {window_utc, count, papers: [{title, authors, date, doi, url, category, abstract, source}]}. Papers come from bioRxiv (preprints) AND PubMed (journal articles). **Every paper's URL has been pre-validated as reachable (HTTP 2xx)** — you don't need to verify links.
-            2. Read sent_history.json (in current working directory) — list of papers already emailed (each with `doi`). Exclude any paper whose `doi` matches an entry in sent_history (HARD requirement).
-            3. From REMAINING candidates, semantically rank for the reader's interests. **BE HONEST. DO NOT INFLATE TIERS.** A Tier 4 day is a normal occurrence — most days have no Tier 1 papers.
+            TASK: pick TWO papers — one preprint + one journal article.
 
-               STRICT TIER DEFINITIONS:
-               - **Tier 1**: Title OR abstract MUST contain explicit reference to 3D genome organization. Required keywords (one of these MUST appear): Hi-C, Micro-C, loop extrusion, cohesin (in chromatin context), CTCF, TAD/topologically associating domain, "3D genome", chromosome conformation, chromatin loop, A/B compartment, condensin (in chromatin context). The paper's CENTRAL contribution must be about chromatin spatial organization. Generic "chromatin remodeling" or "chromatin accessibility" alone DOES NOT qualify as Tier 1.
+            1. Read /tmp/papers.json — fields: {title, authors, date, doi, url, category, abstract, source}. `source` is either "bioRxiv" (preprint) or "PubMed" (journal article).
+            2. Read sent_history.json — list of already-emailed DOIs. EXCLUDE any paper whose `doi` matches an entry in sent_history.
 
-               - **Tier 2**: Paper's central topic is one of: single-molecule chromatin imaging (SPT/SMLM in nuclear context), biomolecular condensates IN nuclear/transcriptional context, transcription factor binding kinetics/dynamics, polymer physics modeling of chromatin, enhancer-promoter contacts/biology, RNA Pol II clustering. Must be CHROMATIN- or NUCLEUS-related, not generic biophysics or generic single-molecule methods.
+            3. STRICT TIER DEFINITIONS (BE HONEST, DO NOT INFLATE — a Tier 4 day is normal):
+               - **Tier 1**: title OR abstract explicitly contains: Hi-C, Micro-C, loop extrusion, cohesin (chromatin context), CTCF, TAD/topologically associating, "3D genome", chromosome conformation, chromatin loop, A/B compartment, condensin (chromatin context). Paper's CENTRAL contribution is chromatin spatial organization. Generic "chromatin remodeling" or "chromatin accessibility" alone does NOT qualify.
+               - **Tier 2**: central topic is single-molecule chromatin imaging, condensates in nuclear context, TF binding kinetics, polymer modeling of chromatin, enhancer-promoter contacts, RNA Pol II clustering. Must be CHROMATIN-related.
+               - **Tier 3**: broader chromatin / gene regulation / nuclear org without 3D focus (histone marks, nucleosome biology, ATAC/ChIP methods).
+               - **Tier 4**: everything else.
+               Within a tier, prefer methods/tools > novel discoveries > incremental.
 
-               - **Tier 3**: Broader chromatin / gene regulation / nuclear organization without 3D structure focus (e.g., histone modifications, nucleosome biology without spatial focus, transcriptional regulation, ATAC-seq / ChIP-seq method papers).
+            4. Pick TWO papers (one from each source):
+               - **PREPRINT**: highest-tier paper from `source == "bioRxiv"` not in sent_history
+               - **JOURNAL**: highest-tier paper from `source == "PubMed"` not in sent_history
+               If a source has 0 candidates after history exclusion, leave its files empty (the email step will skip that one).
 
-               - **Tier 4**: Everything else — generic biophysics, generic cell biology, methods papers unrelated to chromatin, biology in non-chromatin contexts (mitochondria, membrane, actin, etc.). **THIS IS THE EXPECTED ANSWER MOST DAYS.** Do not inflate.
+            5. Write SIX plain-text files (no JSON, no escaping needed):
 
-               Within a tier, prefer methods/tools > novel discoveries > incremental work.
-            4. Pick exactly ONE paper that is NOT in sent_history.
-               If literally every candidate is in sent_history, pick the most relevant one anyway and START the commentary with "（此前已推送过，但近 48h 内仍无更新候选）".
+               PREPRINT:
+               - /tmp/preprint_doi.txt — picked bioRxiv DOI (single line, nothing else); empty file if no preprint candidate
+               - /tmp/preprint_tier.txt — single digit 1-4
+               - /tmp/preprint_commentary.txt — 2-3 sentence Chinese 点评 (concrete, technical, no Hansen mention)
 
-            5. Write THREE plain-text files (no JSON, no escaping needed):
+               JOURNAL:
+               - /tmp/journal_doi.txt — picked PubMed DOI; empty if no journal candidate
+               - /tmp/journal_tier.txt — single digit 1-4
+               - /tmp/journal_commentary.txt — 2-3 sentence Chinese 点评
 
-               (a) /tmp/chosen_doi.txt — write EXACTLY the picked paper's `doi` field, nothing else (no quotes, no whitespace, no newline at end ideally — single line is fine).
+            Commentary guidelines (for both):
+               * Briefly state method/finding
+               * State concretely WHY it's worth the reader's time
+               * Reference experimental approach / resolution / system, how it informs or contrasts Micro-C / single-molecule work
+               * Avoid generic phrases ("值得一读", "很有意思")
+               * 2-3 sentences MAX
+               * DO NOT mention "Hansen Lab" or "Hansen"
 
-               (b) /tmp/chosen_tier.txt — write a single digit: 1, 2, 3, or 4.
+            DO NOT send any email. Just write the 6 files and finish.
 
-               (c) /tmp/chosen_commentary.txt — write your 2-3 sentence Chinese 点评:
-                   * Briefly state the method/finding
-                   * Concretely state WHY it's worth the reader's time given their focus
-                   * Reference the experimental approach / resolution / system, and how it could inform or contrast Micro-C / single-molecule work
-                   * Avoid generic phrases ("值得一读", "很有意思") — be concrete, technical
-                   * 2-3 sentences MAX, tight prose
-                   * DO NOT mention "Hansen Lab" or "Hansen"
-                   Just the prose. No quotes around it. No JSON. No markdown headers. Plain text, can include 中文 / English / numbers freely.
-
-            DO NOT send any email — a separate workflow step handles that. Just write the 3 files and finish.
-
-      - name: Send email via Resend
+      - name: Send preprint email
         if: steps.guard.outputs.skip != 'true'
-        run: python send_email.py
+        run: python send_email.py preprint
+
+      - name: Send journal email
+        if: steps.guard.outputs.skip != 'true'
+        run: python send_email.py journal
 
       - name: Update sent history and push
         if: success() && steps.guard.outputs.skip != 'true'
