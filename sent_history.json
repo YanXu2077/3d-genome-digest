@@ -316,5 +316,19 @@
     "title": "Nuclear mTOR-Polycomb synergism at developmental gene promoters prone to activation",
     "sent_at": "2026-05-02T22:41:20.186608Z",
     "tier": 3
+  },
+  {
+    "doi": "10.64898/2026.05.01.721706",
+    "title": "Dynamic CTCF bridges drive genome organization",
+    "sent_at": "2026-05-03T04:13:11.180337Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/genetics/iyag109",
+    "title": "Pangenomes reveal extensive structural variation in a suboscine passerine bird, the Pearly-vented Tody-Tyrant (Hemitriccus margaritaceiventer).",
+    "sent_at": "2026-05-03T04:13:11.180337Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
