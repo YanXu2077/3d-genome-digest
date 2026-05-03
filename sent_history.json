@@ -365,5 +365,12 @@
     "sent_at": "2026-05-03T13:46:28.495254Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.30.721618",
+    "title": "Targeting ZC3H12C improves T cell persistence and antitumor function in adoptive T cell therapy",
+    "sent_at": "2026-05-03T15:12:37.536177Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
