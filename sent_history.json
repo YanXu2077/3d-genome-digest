@@ -449,5 +449,19 @@
     "sent_at": "2026-05-04T14:28:03.566592Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.22.695891",
+    "title": "CAD-C: An engineered nuclease enables repair-free in situ proximity ligation and nucleosome-resolution chromosome walks in human cells",
+    "sent_at": "2026-05-04T19:56:41.906271Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.20.719605",
+    "title": "Mechanisms controlling the deposition and dynamics of histone variant H2BE.",
+    "sent_at": "2026-05-04T19:56:41.906271Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
