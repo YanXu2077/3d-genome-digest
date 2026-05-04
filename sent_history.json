@@ -477,5 +477,19 @@
     "sent_at": "2026-05-04T21:19:33.541262Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.30.721988",
+    "title": "Histone H3K27 methylation states are sequentially catalyzed in cycling cells",
+    "sent_at": "2026-05-04T23:14:15.110550Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1063/5.0325391",
+    "title": "Multivalency-dependent DNA compaction in bridging-induced condensates.",
+    "sent_at": "2026-05-04T23:14:15.110550Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
