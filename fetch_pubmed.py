@@ -146,23 +146,52 @@ def parse_articles(xml_text, date_from, date_to):
     return out
 
 
+def safe_esearch_with_retry(date_from, date_to, attempts=3):
+    last_err = None
+    for i in range(attempts):
+        try:
+            return esearch(date_from, date_to, max_results=100)
+        except Exception as e:
+            last_err = e
+            print(f"PubMed esearch attempt {i+1}/{attempts} failed: {e}", file=sys.stderr)
+            time.sleep(2 ** i)  # 1s, 2s, 4s backoff
+    raise last_err
+
+
+def safe_efetch_with_retry(pmids, attempts=3):
+    last_err = None
+    for i in range(attempts):
+        try:
+            return efetch(pmids)
+        except Exception as e:
+            last_err = e
+            print(f"PubMed efetch attempt {i+1}/{attempts} failed: {e}", file=sys.stderr)
+            time.sleep(2 ** i)
+    raise last_err
+
+
 def main():
     today = datetime.now(timezone.utc).date()
     yesterday = today - timedelta(days=1)
     date_from = yesterday.isoformat()
     date_to = today.isoformat()
 
-    pmids = esearch(date_from, date_to, max_results=100)
-    print(f"PubMed esearch: {len(pmids)} hits in {date_from}..{date_to}", file=sys.stderr)
-    if not pmids:
-        json.dump({"window_utc": [date_from, date_to], "count": 0, "papers": []}, sys.stdout, ensure_ascii=False)
-        return
+    try:
+        pmids = safe_esearch_with_retry(date_from, date_to)
+        print(f"PubMed esearch: {len(pmids)} hits in {date_from}..{date_to}", file=sys.stderr)
+        if not pmids:
+            json.dump({"window_utc": [date_from, date_to], "count": 0, "papers": []},
+                      sys.stdout, ensure_ascii=False)
+            return
 
-    # Polite delay to respect NCBI rate limit
-    time.sleep(0.4)
-    xml_text = efetch(pmids)
-    papers = parse_articles(xml_text, date_from, date_to)
-    print(f"PubMed parsed: {len(papers)} papers retained after date filter", file=sys.stderr)
+        time.sleep(0.4)
+        xml_text = safe_efetch_with_retry(pmids)
+        papers = parse_articles(xml_text, date_from, date_to)
+        print(f"PubMed parsed: {len(papers)} papers retained after date filter", file=sys.stderr)
+    except Exception as e:
+        # Don't fail the pipeline — output empty so the bioRxiv side can still proceed.
+        print(f"PubMed fetch failed permanently after retries: {e}", file=sys.stderr)
+        papers = []
 
     json.dump({"window_utc": [date_from, date_to], "count": len(papers), "papers": papers},
               sys.stdout, ensure_ascii=False, indent=2)

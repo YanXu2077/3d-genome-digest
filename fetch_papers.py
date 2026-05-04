@@ -45,10 +45,20 @@ def main():
     papers = []
     for cursor in range(0, 4000, 30):
         url = f"https://api.biorxiv.org/details/biorxiv/{date_from}/{date_to}/{cursor}"
-        try:
-            data = json.loads(http_get(url))
-        except Exception as e:
-            print(f"WARN cursor {cursor}: {e}", file=sys.stderr)
+        # Retry on transient errors (bioRxiv API occasionally 5xx / bad JSON)
+        attempts, last_err = 3, None
+        for i in range(attempts):
+            try:
+                data = json.loads(http_get(url))
+                last_err = None
+                break
+            except Exception as e:
+                last_err = e
+                print(f"WARN cursor {cursor} attempt {i+1}: {e}", file=sys.stderr)
+                if i < attempts - 1:
+                    import time as _t; _t.sleep(2 ** i)
+        if last_err is not None:
+            print(f"bioRxiv fetch giving up at cursor {cursor}", file=sys.stderr)
             break
         coll = data.get("collection", [])
         if not coll:
