@@ -435,5 +435,19 @@
     "sent_at": "2026-05-04T12:12:59.040157Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.02.722390",
+    "title": "Nested TAD hierarchy defines cohesion zones on replicated chromosomes",
+    "sent_at": "2026-05-04T14:28:03.566592Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17040414",
+    "title": "Single-Cell Multi-Omics Reveal Gene Regulatory Mechanisms Underlying Cardiac Embryonic Development.",
+    "sent_at": "2026-05-04T14:28:03.566592Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
