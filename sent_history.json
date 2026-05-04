@@ -421,5 +421,19 @@
     "sent_at": "2026-05-04T10:25:09.343094Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.03.722406",
+    "title": "Transcription initiation profiling defines the regulatory logic of astrocyte gene regulation",
+    "sent_at": "2026-05-04T12:12:59.040157Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17040480",
+    "title": "NuRepress: Inferring Transcriptional Repressors from Phased Nucleosome Architecture.",
+    "sent_at": "2026-05-04T12:12:59.040157Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
