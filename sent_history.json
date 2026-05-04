@@ -463,5 +463,19 @@
     "sent_at": "2026-05-04T19:56:41.906271Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.08.05.668773",
+    "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
+    "sent_at": "2026-05-04T21:19:33.541262Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/mlf2.70060",
+    "title": "fCUT&Tag-Seq: An optimized CUT&Tag-based method for high-resolution profiling of histone modifications and chromatin-binding proteins in fungi.",
+    "sent_at": "2026-05-04T21:19:33.541262Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
