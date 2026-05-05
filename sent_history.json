@@ -491,5 +491,19 @@
     "sent_at": "2026-05-04T23:14:15.110550Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.30.721893",
+    "title": "Synergy of RNA Concentration, RNA Binding Proteins, and RNA Palindrome Drives clustering of oskar mRNA in vivo",
+    "sent_at": "2026-05-05T03:46:39.962040Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27083657",
+    "title": "Multimodal Single-Cell Transcriptomic and Chromatin Accessibility Profiling Reveals Monocyte-Derived Macrophage Dynamics Following Ischemic Stroke.",
+    "sent_at": "2026-05-05T03:46:39.962040Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
