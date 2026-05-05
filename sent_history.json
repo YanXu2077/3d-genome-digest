@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.23.719229",
-    "title": "TET2-driven activation of AGO2 links epigenetic remodeling to myeloid commitment and leukemia",
-    "sent_at": "2026-04-26T04:32:58Z",
-    "tier": 1
-  },
-  {
-    "doi": "10.64898/2026.04.23.720290",
-    "title": "Coordinated Temporal Dynamics of Glucocorticoid Receptor Binding and Chromatin Landscape Drive Transcriptional Regulation",
-    "sent_at": "2026-04-26T04:40:24.720137Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.24.718482",
     "title": "ProPER: Programmable, multiplexed detection of molecular proximities and RNA life-cycle stages in situ",
     "sent_at": "2026-04-26T04:42:56.519902Z",
@@ -504,6 +492,20 @@
     "title": "Multimodal Single-Cell Transcriptomic and Chromatin Accessibility Profiling Reveals Monocyte-Derived Macrophage Dynamics Following Ischemic Stroke.",
     "sent_at": "2026-05-05T03:46:39.962040Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.27.721027",
+    "title": "H2A.Z levels control the timing of major events at the maternal-zygotic transition",
+    "sent_at": "2026-05-05T06:31:05.104279Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41594-026-01807-6",
+    "title": "Integrated MINFLUX tracking reveals two distinct chromatin dynamics classes across cell types.",
+    "sent_at": "2026-05-05T06:31:05.104279Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
