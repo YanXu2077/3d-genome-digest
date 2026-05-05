@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.02.04.636058",
-    "title": "Stress Granule Sequestration of CCR4-NOT Promotes Poly(A) Lengthening of Stress-Survival Transcripts",
-    "sent_at": "2026-04-27T15:07:51.577533Z",
-    "tier": 2
-  },
-  {
-    "doi": "10.64898/2026.04.23.720115",
-    "title": "A single-molecule reporter of membrane-proximal actin detects rapid remodeling upon B cell receptor clustering",
-    "sent_at": "2026-04-27T17:21:54.434891Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.22.720257",
     "title": "Intranuclear Quantum Sensing with Fluorescent Nanodiamond Enabled by Electron-Irradiation and Surface-Chemical Optimization for Microinjection",
     "sent_at": "2026-04-27T20:09:17.272160Z",
@@ -516,5 +504,19 @@
     "sent_at": "2026-05-05T21:38:44.383000Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.04.03.647011",
+    "title": "Learning the dynamic organization of a replicating bacterial chromosome from time-course Hi-C data",
+    "sent_at": "2026-05-05T23:09:33.654874Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2536391123",
+    "title": "Stag2-mediated chromatin dynamics regulates antibody class switch recombination.",
+    "sent_at": "2026-05-05T23:09:33.654874Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
