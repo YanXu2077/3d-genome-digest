@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.10.16.682983",
-    "title": "Single Domain Antibody Inhibitors Target the Coiled Coil Arms of the Bacillus subtilis SMC complex",
-    "sent_at": "2026-04-27T11:44:38.332588Z",
-    "tier": 1
-  },
-  {
     "doi": "10.1101/2025.02.04.636058",
     "title": "Stress Granule Sequestration of CCR4-NOT Promotes Poly(A) Lengthening of Stress-Survival Transcripts",
     "sent_at": "2026-04-27T15:07:51.577533Z",
@@ -514,6 +508,13 @@
     "title": "MACRO-MOLECULAR CROWDING FAVORS WRITHE IN UNWOUND DNA",
     "sent_at": "2026-05-05T20:03:12.720734Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.01.722258",
+    "title": "Loop Extrusion Reversal by Condensin Motor is Mediated by Catch Bonds",
+    "sent_at": "2026-05-05T21:38:44.383000Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
