@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.06.708946",
-    "title": "A Modular Framework for Automated Segmentation and Analysis of AFM Imaging of Chromatin Organization",
-    "sent_at": "2026-04-27T09:16:15.310987Z",
-    "tier": 1
-  },
-  {
     "doi": "10.1101/2025.10.16.682983",
     "title": "Single Domain Antibody Inhibitors Target the Coiled Coil Arms of the Bacillus subtilis SMC complex",
     "sent_at": "2026-04-27T11:44:38.332588Z",
@@ -513,6 +507,13 @@
     "title": "Cohesin extrudes chromatin loop unidirectionally through two modes of mechanisms in human cells",
     "sent_at": "2026-05-05T17:48:05.300078Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.30.722034",
+    "title": "MACRO-MOLECULAR CROWDING FAVORS WRITHE IN UNWOUND DNA",
+    "sent_at": "2026-05-05T20:03:12.720734Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
