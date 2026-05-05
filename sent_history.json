@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.24.720717",
-    "title": "RNA2PS: A sequence-specific coarse-grained RNA model linking structure, thermodynamics and phase separation",
-    "sent_at": "2026-04-27T04:39:34.471457Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.03.06.708946",
     "title": "A Modular Framework for Automated Segmentation and Analysis of AFM Imaging of Chromatin Organization",
     "sent_at": "2026-04-27T09:16:15.310987Z",
@@ -513,5 +507,12 @@
     "sent_at": "2026-05-05T16:22:01.126840Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.01.722300",
+    "title": "Cohesin extrudes chromatin loop unidirectionally through two modes of mechanisms in human cells",
+    "sent_at": "2026-05-05T17:48:05.300078Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
