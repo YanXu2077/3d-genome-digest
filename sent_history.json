@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.1111/gtc.70113",
-    "title": "Histone Density and Dynamics Shape Mitotic Chromatid Architecture in Xenopus Egg Extracts.",
-    "sent_at": "2026-04-29T01:07:44.314669Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.25.719469",
     "title": "Kilobase-scale compartments enabled by CRUSH reveal regulatory programs across cell types, single-cells, and ancient mammoths",
     "sent_at": "2026-04-29T04:29:48.213796Z",
@@ -527,5 +521,12 @@
     "sent_at": "2026-05-06T17:54:33.068204Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.01.722206",
+    "title": "Uncertainty-aware localization microscopy by variational diffusion",
+    "sent_at": "2026-05-06T20:04:53.586450Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
