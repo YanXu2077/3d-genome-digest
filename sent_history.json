@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.23.720296",
-    "title": "Controlling for DNA dosage with Whole Genome Sequencing improves ATAC-seq peak calling",
-    "sent_at": "2026-04-27T22:53:53.568944Z",
-    "tier": 3
-  },
-  {
-    "doi": "10.64898/2026.04.24.720727",
-    "title": "TFAM organizes DNA into compact higher order structures",
-    "sent_at": "2026-04-28T04:37:10.560905Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.27.720408",
     "title": "Generative design of sequence specific DNA binding proteins",
     "sent_at": "2026-04-28T09:22:01.959728Z",
@@ -519,5 +507,19 @@
     "sent_at": "2026-05-06T04:02:26.830154Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.03.722550",
+    "title": "Dynamics of synthetic transcriptional condensates emerge from RNA synthesis and degradation",
+    "sent_at": "2026-05-06T10:30:53.348446Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41418-026-01753-2",
+    "title": "The RNA binding protein LIN28A mediates chromatin dynamics during neuronal differentiation.",
+    "sent_at": "2026-05-06T10:30:53.348446Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
