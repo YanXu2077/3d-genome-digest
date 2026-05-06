@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.22.720257",
-    "title": "Intranuclear Quantum Sensing with Fluorescent Nanodiamond Enabled by Electron-Irradiation and Surface-Chemical Optimization for Microinjection",
-    "sent_at": "2026-04-27T20:09:17.272160Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.23.720296",
     "title": "Controlling for DNA dosage with Whole Genome Sequencing improves ATAC-seq peak calling",
     "sent_at": "2026-04-27T22:53:53.568944Z",
@@ -518,5 +512,12 @@
     "sent_at": "2026-05-05T23:09:33.654874Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.01.722242",
+    "title": "Massively parallel reporter assay-informed modeling improves prediction of context-specific enhancer-gene regulatory interactions",
+    "sent_at": "2026-05-06T04:02:26.830154Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
