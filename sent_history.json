@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.24.720531",
-    "title": "Epigenetic and 3D Genome Changes Drive Primary Trastuzumab Resistance in HER2+ Breast Cancer",
-    "sent_at": "2026-04-28T20:14:36.144287Z",
-    "tier": 1
-  },
-  {
-    "doi": "10.64898/2026.04.24.720715",
-    "title": "Endocytic accessory proteins assemble clathrin while simultaneously destabilizing protein condensates",
-    "sent_at": "2026-04-28T22:57:50.069596Z",
-    "tier": 2
-  },
-  {
     "doi": "10.1111/gtc.70113",
     "title": "Histone Density and Dynamics Shape Mitotic Chromatid Architecture in Xenopus Egg Extracts.",
     "sent_at": "2026-04-29T01:07:44.314669Z",
@@ -524,6 +512,20 @@
     "title": "Structural and functional insights into an anticancer peptide candidate derived from the EP400NL C-terminal domain.",
     "sent_at": "2026-05-06T14:48:16.056755Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722487",
+    "title": "Modular control of CpG islands by chromatin-opening transcription factors specifies transcription start sites",
+    "sent_at": "2026-05-06T17:54:33.068204Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1083/jcb.202511182",
+    "title": "NASP functions in the cytoplasm to prevent histone H3 aggregation during early embryogenesis.",
+    "sent_at": "2026-05-06T17:54:33.068204Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
