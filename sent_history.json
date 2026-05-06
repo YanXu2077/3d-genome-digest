@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.23.719849",
-    "title": "Metal-induced energy transfer uncovers activation-induced axial reorganization of signaling complexes inside cells",
-    "sent_at": "2026-04-28T15:42:40.748117Z",
-    "tier": 2
-  },
-  {
-    "doi": "10.64898/2026.04.21.719792",
-    "title": "Epithelial NCAPD3 expression protects against stress-induced intestinal injury in mice",
-    "sent_at": "2026-04-28T17:48:08.524522Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.24.720531",
     "title": "Epigenetic and 3D Genome Changes Drive Primary Trastuzumab Resistance in HER2+ Breast Cancer",
     "sent_at": "2026-04-28T20:14:36.144287Z",
@@ -522,6 +510,20 @@
     "title": "Viral Nucleosome-Like Particles Show Increased Dynamic Behavior and Altered Thermodynamic Stability.",
     "sent_at": "2026-05-06T12:27:57.291054Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.30.721912",
+    "title": "Identification of functional non-coding variants affecting Alzheimer's disease risk by Massively Parallel Reporter Assay",
+    "sent_at": "2026-05-06T14:48:16.056755Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bbrc.2026.153880",
+    "title": "Structural and functional insights into an anticancer peptide candidate derived from the EP400NL C-terminal domain.",
+    "sent_at": "2026-05-06T14:48:16.056755Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
