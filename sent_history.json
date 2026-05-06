@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.720408",
-    "title": "Generative design of sequence specific DNA binding proteins",
-    "sent_at": "2026-04-28T09:22:01.959728Z",
-    "tier": 2
-  },
-  {
-    "doi": "10.64898/2026.04.23.720434",
-    "title": "Organization of Myosin H in the Apical Complex of Toxoplasma Gondii Revealed by 3D Single-Molecule Super-Resolution Microscopy",
-    "sent_at": "2026-04-28T11:47:22.199734Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.23.719849",
     "title": "Metal-induced energy transfer uncovers activation-induced axial reorganization of signaling complexes inside cells",
     "sent_at": "2026-04-28T15:42:40.748117Z",
@@ -519,6 +507,20 @@
     "doi": "10.1038/s41418-026-01753-2",
     "title": "The RNA binding protein LIN28A mediates chromatin dynamics during neuronal differentiation.",
     "sent_at": "2026-05-06T10:30:53.348446Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.02.722397",
+    "title": "Structural basis for site-specific histone H3 acetylation-dependent regulation of RNAPII transcription through nucleosomes",
+    "sent_at": "2026-05-06T12:27:57.291054Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bpj.2026.04.036",
+    "title": "Viral Nucleosome-Like Particles Show Increased Dynamic Behavior and Altered Thermodynamic Stability.",
+    "sent_at": "2026-05-06T12:27:57.291054Z",
     "tier": 3,
     "kind": "journal"
   }
