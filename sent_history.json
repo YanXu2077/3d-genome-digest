@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.1038/s41592-026-03078-x",
-    "title": "Single-molecule localization and diffusivity microscopy reveals dynamic biomolecular organization in living cells.",
-    "sent_at": "2026-04-29T17:26:42.841986Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.02.25.707951",
     "title": "Time-Resolved Single-Molecule FRET Reveals Length-Dependent Nucleosome Decompaction by Poly(ADP-ribose).",
     "sent_at": "2026-04-29T20:11:41.038007Z",
@@ -532,5 +526,12 @@
     "sent_at": "2026-05-07T06:51:42.223859Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.03.722504",
+    "title": "Reactivation of a TAL1 progenitor cell enhancer region by non-coding somatic variants in T-lineage acute lymphoblastic leukemia",
+    "sent_at": "2026-05-07T10:37:39.794180Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
