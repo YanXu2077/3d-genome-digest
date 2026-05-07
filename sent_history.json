@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.1093/jxb/erag210",
-    "title": "Regulatory structural variation upstream of a NAC transcription factor controls fruit maturity timing in peach.",
-    "sent_at": "2026-04-30T09:11:14.537514Z",
-    "tier": 4
-  },
-  {
-    "doi": "10.55730/1300-0152.2794",
-    "title": "Unusual RNA polymerase II patterns in meiotic prophase I in Nannospalax xanthodon: insights into chromatin, telomeres, and sex chromosomes.",
-    "sent_at": "2026-04-30T11:28:20.953436Z",
-    "tier": 3
-  },
-  {
     "doi": "10.1186/s12983-026-00611-8",
     "title": "Dynamic changes in chromatin accessibility reveal the role of NF-Y targeting AURKB in mediating cell cycle during asynchronous oogenesis in the Chinese Alligator (Alligator sinensis).",
     "sent_at": "2026-04-30T15:07:40.445430Z",
@@ -536,6 +524,20 @@
     "title": "Increased Telomere Mobility in Progeria is Restored by Isoprenylcysteine Carboxyl Methyltransferase Inhibition.",
     "sent_at": "2026-05-07T18:12:48.374394Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.01.31.702974",
+    "title": "Epigenetic Gatekeeping of Intestinal Stem Cell Transformation",
+    "sent_at": "2026-05-07T19:56:33.237923Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.23.720450",
+    "title": "Single-nucleus multiome sequencing identifies candidate regulators of mouse gastric epithelial homeostasis.",
+    "sent_at": "2026-05-07T19:56:33.237923Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
