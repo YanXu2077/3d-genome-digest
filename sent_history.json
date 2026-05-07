@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.02.25.707951",
-    "title": "Time-Resolved Single-Molecule FRET Reveals Length-Dependent Nucleosome Decompaction by Poly(ADP-ribose).",
-    "sent_at": "2026-04-29T20:11:41.038007Z",
-    "tier": 2
-  },
-  {
-    "doi": "10.64898/2026.04.26.720855",
-    "title": "BLeaching In-cell Single-molecule burstS (BLISS) reveals a small dynamic fraction of HP1α clusters in undifferentiated embryonic stem cells",
-    "sent_at": "2026-04-29T22:56:50.976619Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.27.721191",
     "title": "CoCUT&Tag maps linked chromatin states at single-molecule, single-cell resolution",
     "sent_at": "2026-04-30T04:33:00.159413Z",
@@ -533,5 +521,19 @@
     "sent_at": "2026-05-07T10:37:39.794180Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.08.13.670061",
+    "title": "Autosomal Allelic Inactivation: Variable Replication and Dosage Sensitivity",
+    "sent_at": "2026-05-07T14:53:43.706933Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.25.720760",
+    "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer.",
+    "sent_at": "2026-05-07T14:53:43.706933Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
