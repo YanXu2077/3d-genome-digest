@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.721182",
-    "title": "TFIIIC regulates SMC complex binding and 3D DNA contacts between tRNA genes",
-    "sent_at": "2026-04-29T09:10:17.185190Z",
-    "tier": 1
-  },
-  {
     "doi": "10.64898/2026.04.25.720760",
     "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer",
     "sent_at": "2026-04-29T11:29:23.816753Z",
@@ -528,6 +522,13 @@
     "title": "Protocol for measuring endocrine disruptive effects on transcriptional bursting using single-molecule imaging in human breast cancer cells",
     "sent_at": "2026-05-06T23:27:28.033680Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.03.722496",
+    "title": "Nucleosome remodeling by a CHD enzyme promotes H3K9 methylation establishment and spreading via remodeler-writer feedback",
+    "sent_at": "2026-05-07T04:01:21.934948Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
