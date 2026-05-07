@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.721191",
-    "title": "CoCUT&Tag maps linked chromatin states at single-molecule, single-cell resolution",
-    "sent_at": "2026-04-30T04:33:00.159413Z",
-    "tier": 3
-  },
-  {
-    "doi": "10.1016/j.tig.2026.03.004",
-    "title": "The structure and regulatory biology of the SST1/NBL2 macrosatellite family.",
-    "sent_at": "2026-04-30T04:48:38.682195Z",
-    "tier": 3
-  },
-  {
     "doi": "10.1093/jxb/erag210",
     "title": "Regulatory structural variation upstream of a NAC transcription factor controls fruit maturity timing in peach.",
     "sent_at": "2026-04-30T09:11:14.537514Z",
@@ -534,6 +522,20 @@
     "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer.",
     "sent_at": "2026-05-07T14:53:43.706933Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722686",
+    "title": "Single-cell chromatin landscapes visualize epigenetic barriers and reveal lineage-specific Polycomb-mediated repression",
+    "sent_at": "2026-05-07T18:12:48.374394Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.25.720781",
+    "title": "Increased Telomere Mobility in Progeria is Restored by Isoprenylcysteine Carboxyl Methyltransferase Inhibition.",
+    "sent_at": "2026-05-07T18:12:48.374394Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
