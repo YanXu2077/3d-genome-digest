@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.25.720760",
-    "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer",
-    "sent_at": "2026-04-29T11:29:23.816753Z",
-    "tier": 1
-  },
-  {
-    "doi": "10.1016/j.bpj.2026.04.027",
-    "title": "Mechanism of Loop-Forming Cohesin to Suppress Dynamic Chromatin Movement.",
-    "sent_at": "2026-04-29T15:13:04.288492Z",
-    "tier": 1
-  },
-  {
     "doi": "10.1038/s41592-026-03078-x",
     "title": "Single-molecule localization and diffusivity microscopy reveals dynamic biomolecular organization in living cells.",
     "sent_at": "2026-04-29T17:26:42.841986Z",
@@ -530,5 +518,19 @@
     "sent_at": "2026-05-07T04:01:21.934948Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2023.09.11.557269",
+    "title": "Uncoupling the TFIIH Core and Kinase Modules Leads To Misregulated RNA Polymerase II CTD Serine 5 Phosphorylation",
+    "sent_at": "2026-05-07T06:51:42.223859Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s10555-026-10336-z",
+    "title": "New biological insights into osteosarcoma-lessons from single cell sequencing studies.",
+    "sent_at": "2026-05-07T06:51:42.223859Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
