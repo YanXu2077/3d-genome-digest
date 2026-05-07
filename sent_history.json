@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.01.11.575312",
-    "title": "Loss of Tip60-dependent H2A.Z acetylation reprogramscardiomyocyte identity toward a regenerative state.",
-    "sent_at": "2026-04-30T20:09:47.248630Z",
-    "tier": 3
-  },
-  {
-    "doi": "10.1007/s12035-026-05859-z",
-    "title": "Uncovering Spatiotemporal and Functional Dynamics of Long Non-coding RNAs During Alzheimer's Progression in the Human Brain at Single-Cell Resolution.",
-    "sent_at": "2026-04-30T22:52:31.549885Z",
-    "tier": 4
-  },
-  {
     "doi": "10.64898/2026.04.27.721124",
     "title": "A digital twin of pancreatic islet differentiation predicts cell fate",
     "sent_at": "2026-05-01T04:47:29.701794Z",
@@ -540,6 +528,20 @@
     "title": "Molecular heterogeneity and differential metabolic signatures in thymic adipocytes.",
     "sent_at": "2026-05-07T21:20:38.669623Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722036",
+    "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters",
+    "sent_at": "2026-05-07T23:13:12.828548Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/jacs.6c02267",
+    "title": "Proximity of the Histone-Acetylation Site to the Termini Shapes Phase Behavior with DNA.",
+    "sent_at": "2026-05-07T23:13:12.828548Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
