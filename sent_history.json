@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.29.721002",
-    "title": "Average local nucleosome motion remains constant during interphase in living human cells",
-    "sent_at": "2026-05-02T08:23:39.422088Z",
-    "tier": 2
-  },
-  {
-    "doi": "10.1016/j.ijbiomac.2026.152307",
-    "title": "The biogenesis of extrachromosomal circular DNA is associated with enhancer-promoter dynamics and chromatin architecture.",
-    "sent_at": "2026-05-02T10:49:42.594320Z",
-    "tier": 2
-  },
-  {
     "doi": "10.64898/2026.04.30.721698",
     "title": "A unified photosensitizer platform for in situ DNA, RNA, and protein directed proximity labeling",
     "sent_at": "2026-05-02T14:13:22.204130Z",
@@ -552,5 +540,19 @@
     "sent_at": "2026-05-08T14:15:52.809689Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.07.716875",
+    "title": "Programmable DNA Protonuclei Reveal Environmental Context on Protein Phase Separation",
+    "sent_at": "2026-05-08T19:58:33.546602Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1158/1078-0432.CCR-25-4370",
+    "title": "Reprogramming of Cellular Plasticity via ETS and MYC Core-regulatory Circuits During Response to MAPK Inhibition in BRAF-mutant Colorectal Cancer.",
+    "sent_at": "2026-05-08T19:58:33.546602Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
