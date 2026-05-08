@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.1186/s40104-026-01393-z",
-    "title": "Comprehensive multi-omics reveals dynamic chromatin changes and gene regulatory networks during duck folliculogenesis.",
-    "sent_at": "2026-05-01T11:05:46.304848Z",
-    "tier": 1
-  },
-  {
-    "doi": "10.3389/fimmu.2026.1817853",
-    "title": "Phase separation as an emerging regulatory framework in antibody class switching and genome stability.",
-    "sent_at": "2026-05-01T14:17:14.702659Z",
-    "tier": 3
-  },
-  {
     "doi": "10.1242/dev.205125",
     "title": "Microcephaly-associated genes asp and Sas4 influence chromatin organization and nuclear lamina structure in Drosophila melanogaster.",
     "sent_at": "2026-05-01T16:55:58.433301Z",
@@ -544,6 +532,20 @@
     "title": "Perturbation of potassium homeostasis impairs oocyte maturation.",
     "sent_at": "2026-05-08T03:51:01.266779Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722644",
+    "title": "Nuclear Speckles Regulate Splicing During Muscle Stem Cell Activation and Aging",
+    "sent_at": "2026-05-08T06:09:16.079092Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s13072-026-00679-w",
+    "title": "H1.3 depletion in AML cells prompts H1.2 redistribution, chromatin remodeling and cell cycle defects.",
+    "sent_at": "2026-05-08T06:09:16.079092Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
