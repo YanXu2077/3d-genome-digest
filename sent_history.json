@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117316",
-    "title": "Motif grammar and transcriptional programs decouple CTCF binding from nucleosome phasing to control cell-type-specific chromatin insulation.",
-    "sent_at": "2026-05-01T22:45:53.134397Z",
-    "tier": 1
-  },
-  {
     "doi": "10.1126/sciadv.aed2806",
     "title": "Nanopore-based sequencing of active DNA replication reveals key principles of metazoan replication dynamics.",
     "sent_at": "2026-05-02T03:02:00.854055Z",
@@ -549,5 +543,12 @@
     "sent_at": "2026-05-08T08:10:15.879264Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.05.722847",
+    "title": "Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation",
+    "sent_at": "2026-05-08T10:00:14.858616Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
