@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.721065",
-    "title": "Selective cross-TAD gene regulation by the Tcra enhancer during T cell development",
-    "sent_at": "2026-05-02T06:30:43.091216Z",
-    "tier": 1
-  },
-  {
     "doi": "10.64898/2026.04.29.721002",
     "title": "Average local nucleosome motion remains constant during interphase in living human cells",
     "sent_at": "2026-05-02T08:23:39.422088Z",
@@ -550,6 +544,13 @@
     "title": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells",
     "sent_at": "2026-05-08T11:46:46.294436Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723480",
+    "title": "16p11.2 Copy Number Variation Alters Genome Architecture and Transcriptional Regulation During Neurodevelopment",
+    "sent_at": "2026-05-08T14:15:52.809689Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
