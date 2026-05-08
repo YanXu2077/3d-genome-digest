@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.721124",
-    "title": "A digital twin of pancreatic islet differentiation predicts cell fate",
-    "sent_at": "2026-05-01T04:47:29.701794Z",
-    "tier": 4
-  },
-  {
-    "doi": "10.64898/2026.04.28.721268",
-    "title": "MethylBench: A comprehensive benchmark of DNA methylation profiling methods across diverse sequencing platforms",
-    "sent_at": "2026-05-01T08:59:12.479785Z",
-    "tier": 3
-  },
-  {
     "doi": "10.1186/s40104-026-01393-z",
     "title": "Comprehensive multi-omics reveals dynamic chromatin changes and gene regulatory networks during duck folliculogenesis.",
     "sent_at": "2026-05-01T11:05:46.304848Z",
@@ -542,6 +530,20 @@
     "title": "Proximity of the Histone-Acetylation Site to the Termini Shapes Phase Behavior with DNA.",
     "sent_at": "2026-05-07T23:13:12.828548Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723196",
+    "title": "Loop extrusion dynamics and cooperative activation independently regulate enhancer-driven transcription",
+    "sent_at": "2026-05-08T03:51:01.266779Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/biolre/ioag097",
+    "title": "Perturbation of potassium homeostasis impairs oocyte maturation.",
+    "sent_at": "2026-05-08T03:51:01.266779Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
