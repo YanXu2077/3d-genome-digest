@@ -1,11 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aed2806",
-    "title": "Nanopore-based sequencing of active DNA replication reveals key principles of metazoan replication dynamics.",
-    "sent_at": "2026-05-02T03:02:00.854055Z",
-    "tier": 3
-  },
-  {
     "doi": "10.64898/2026.04.27.721065",
     "title": "Selective cross-TAD gene regulation by the Tcra enhancer during T cell development",
     "sent_at": "2026-05-02T06:30:43.091216Z",
@@ -548,6 +542,13 @@
     "doi": "10.64898/2026.05.05.722847",
     "title": "Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation",
     "sent_at": "2026-05-08T10:00:14.858616Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.02.26.581705",
+    "title": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells",
+    "sent_at": "2026-05-08T11:46:46.294436Z",
     "tier": 3,
     "kind": "preprint"
   }
