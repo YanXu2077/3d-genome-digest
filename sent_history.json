@@ -1,17 +1,5 @@
 [
   {
-    "doi": "10.1242/dev.205125",
-    "title": "Microcephaly-associated genes asp and Sas4 influence chromatin organization and nuclear lamina structure in Drosophila melanogaster.",
-    "sent_at": "2026-05-01T16:55:58.433301Z",
-    "tier": 3
-  },
-  {
-    "doi": "10.1016/j.xcrp.2026.103116",
-    "title": "3D environment favors persistent changes in cell functions and altered morphology, wrinkling, and biomechanical signature of the nucleus.",
-    "sent_at": "2026-05-01T20:03:36.160713Z",
-    "tier": 3
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117316",
     "title": "Motif grammar and transcriptional programs decouple CTCF binding from nucleosome phasing to control cell-type-specific chromatin insulation.",
     "sent_at": "2026-05-01T22:45:53.134397Z",
@@ -546,6 +534,20 @@
     "title": "H1.3 depletion in AML cells prompts H1.2 redistribution, chromatin remodeling and cell cycle defects.",
     "sent_at": "2026-05-08T06:09:16.079092Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722673",
+    "title": "Chromatin State Distinguishes Injury-Responsive from State-Stabilizing Transcriptional Programs in Hybrid Hepatocytes",
+    "sent_at": "2026-05-08T08:10:15.879264Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7150/thno.124965",
+    "title": "CIAPIN1 functions as a redox-sensitive transcriptional repressor of Tp53 during vascular remodeling.",
+    "sent_at": "2026-05-08T08:10:15.879264Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
