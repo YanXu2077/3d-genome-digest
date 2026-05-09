@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721836",
-    "title": "Sex differences in the genetic basis of human recombination within 190,000 parent-child pairs",
-    "sent_at": "2026-05-03T11:13:42.915906Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.30.721837",
     "title": "Distinct functions of PBRM1 and BAP1 reconcile the course of kidney cancer evolution and disease progression",
     "sent_at": "2026-05-03T13:46:28.495254Z",
@@ -557,6 +550,13 @@
     "title": "Postnatal Reprogramming Shapes Human Intestinal Epithelial Immune Competency",
     "sent_at": "2026-05-09T11:33:02.405239Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723561",
+    "title": "Cohesin bridging as a physical principle of enhancer-promoter communication",
+    "sent_at": "2026-05-09T13:53:00.726340Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
