@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s10142-026-01872-6",
-    "title": "Integrative characterization of tissue-specific 3D genome organization and associated transcriptional regulation in pig liver and muscle.",
-    "sent_at": "2026-05-03T09:48:54.593297Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.04.30.721836",
     "title": "Sex differences in the genetic basis of human recombination within 190,000 parent-child pairs",
     "sent_at": "2026-05-03T11:13:42.915906Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.04.22.716296",
     "title": "Focus on the edges: a biomolecular network of histone PTMs, metabolites and proteins unveils functional entanglement in AML",
     "sent_at": "2026-05-09T09:59:03.376330Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.05.722861",
+    "title": "Postnatal Reprogramming Shapes Human Intestinal Epithelial Immune Competency",
+    "sent_at": "2026-05-09T11:33:02.405239Z",
     "tier": 3,
     "kind": "preprint"
   }
