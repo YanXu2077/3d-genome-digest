@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.29.718396",
-    "title": "Nanoscale Organization of Membrane Tension during Neutrophil Extracellular Trap Formation Revealed by Fluorescence Lifetime Imaging",
-    "sent_at": "2026-05-03T19:16:16.370628Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.29.721744",
     "title": "The TET-dependent DNA demethylation pathway is the driving force of hematopoiesis",
     "sent_at": "2026-05-03T21:01:01.726323Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.05.723058",
     "title": "MYC pathway reprogramming through a TIP60 coactivator switch in neuroendocrine lineage transition in prostate cancer",
     "sent_at": "2026-05-09T21:03:32.842869Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723235",
+    "title": "QuadStack: Specialized convolutional blocks enable in vivo BG4-binding motif prediction and highlight discrepancies with in vitro G-quadruplexes.",
+    "sent_at": "2026-05-09T23:24:26.457418Z",
     "tier": 3,
     "kind": "preprint"
   }
