@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721837",
-    "title": "Distinct functions of PBRM1 and BAP1 reconcile the course of kidney cancer evolution and disease progression",
-    "sent_at": "2026-05-03T13:46:28.495254Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.30.721618",
     "title": "Targeting ZC3H12C improves T cell persistence and antitumor function in adoptive T cell therapy",
     "sent_at": "2026-05-03T15:12:37.536177Z",
@@ -557,6 +550,13 @@
     "title": "Cohesin bridging as a physical principle of enhancer-promoter communication",
     "sent_at": "2026-05-09T13:53:00.726340Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723106",
+    "title": "Histone modifications analysis reveals enhancers reprogramming during maternal-to-zygotic transition",
+    "sent_at": "2026-05-09T17:11:40.399793Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
