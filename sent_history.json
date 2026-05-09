@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/genetics/iyag109",
-    "title": "Pangenomes reveal extensive structural variation in a suboscine passerine bird, the Pearly-vented Tody-Tyrant (Hemitriccus margaritaceiventer).",
-    "sent_at": "2026-05-03T04:13:11.180337Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.04.26.650733",
-    "title": "Extrachromosomal DNA Gives Cancer a New Evolutionary Pathway",
-    "sent_at": "2026-05-03T07:06:55.000532Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.02.12.703632",
     "title": "Genomic Maxwell's Demon Control of Cancer Cell Fates: Integrated Biophysical Mechanisms of Fate Commitment",
     "sent_at": "2026-05-03T09:48:54.593297Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.jbc.2026.113104",
     "title": "Regulation of chromatin dynamics by a calcium-dependent nucleoskeleton.",
     "sent_at": "2026-05-09T06:29:52.779413Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.30.721783",
+    "title": "In vivo BMAL1 occupancy mapping using MACS-Calling Cards reveals disease-associated retargeting in Cln3Δex7/8 astrocytes",
+    "sent_at": "2026-05-09T08:30:53.053781Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jbc.2026.113120",
+    "title": "Structural Basis for HIV-1 Rev Recognition by the Histone Chaperone Human Nap1.",
+    "sent_at": "2026-05-09T08:30:53.053781Z",
     "tier": 3,
     "kind": "journal"
   }
