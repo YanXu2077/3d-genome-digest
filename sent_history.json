@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.02.12.703632",
-    "title": "Genomic Maxwell's Demon Control of Cancer Cell Fates: Integrated Biophysical Mechanisms of Fate Commitment",
-    "sent_at": "2026-05-03T09:48:54.593297Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s10142-026-01872-6",
     "title": "Integrative characterization of tissue-specific 3D genome organization and associated transcriptional regulation in pig liver and muscle.",
     "sent_at": "2026-05-03T09:48:54.593297Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-09T08:30:53.053781Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.22.716296",
+    "title": "Focus on the edges: a biomolecular network of histone PTMs, metabolites and proteins unveils functional entanglement in AML",
+    "sent_at": "2026-05-09T09:59:03.376330Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
