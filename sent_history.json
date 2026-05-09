@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721530",
-    "title": "In vivo CRISPR-based screen identifies ZC3H12C as a mediator of CAR-T cell dysfunction in solid tumors",
-    "sent_at": "2026-05-03T17:07:13.628187Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.29.718396",
     "title": "Nanoscale Organization of Membrane Tension during Neutrophil Extracellular Trap Formation Revealed by Fluorescence Lifetime Imaging",
     "sent_at": "2026-05-03T19:16:16.370628Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.05.723070",
     "title": "HES3-dependent regulatory functions in development and fusion-positive rhabdomyosarcoma",
     "sent_at": "2026-05-09T19:23:48.410437Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.05.723058",
+    "title": "MYC pathway reprogramming through a TIP60 coactivator switch in neuroendocrine lineage transition in prostate cancer",
+    "sent_at": "2026-05-09T21:03:32.842869Z",
     "tier": 3,
     "kind": "preprint"
   }
