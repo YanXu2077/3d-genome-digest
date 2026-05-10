@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.29.720997",
-    "title": "A 37-million-particle dataset from over 250 experiments to accelerate data-driven cryo-EM analysis",
-    "sent_at": "2026-05-04T04:03:50.684931Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.01.09.698267",
-    "title": "RNA Polymerase III subunit Polr3a is required for craniofacial cartilage and bone development",
-    "sent_at": "2026-05-04T06:54:16.066557Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.29.721711",
     "title": "A Perturb-seq screen guided by species divergence uncovers pathways for collateral artery formation",
     "sent_at": "2026-05-04T10:25:09.343094Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-10T07:14:49.489483Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723064",
+    "title": "Increased chromatin accessibility following 1α,25-dihydroxyvitamin D3 treatment in human endometrial stromal cells",
+    "sent_at": "2026-05-10T09:55:46.799632Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41540-026-00734-y",
+    "title": "CT-TADB predicts TAD boundaries without Hi-C by integrating DNA sequences and epigenomic features.",
+    "sent_at": "2026-05-10T09:55:46.799632Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
