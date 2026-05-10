@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.20.719605",
-    "title": "Mechanisms controlling the deposition and dynamics of histone variant H2BE.",
-    "sent_at": "2026-05-04T19:56:41.906271Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.08.05.668773",
     "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
     "sent_at": "2026-05-04T21:19:33.541262Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2025.04.25.650690",
     "title": "Mitotic phosphorylation of Lamin B1 rod domain by ULK1 and Aurora A/PLK1 promotes spindle function.",
     "sent_at": "2026-05-10T21:08:41.353351Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723607",
+    "title": "Selective Elimination of TP53 Mutant Cells by Transcript-Activated Chromatin Shredding",
+    "sent_at": "2026-05-10T23:06:12.094259Z",
     "tier": 4,
     "kind": "preprint"
   }
