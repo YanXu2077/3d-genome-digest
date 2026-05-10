@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.03.722406",
-    "title": "Transcription initiation profiling defines the regulatory logic of astrocyte gene regulation",
-    "sent_at": "2026-05-04T12:12:59.040157Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/genes17040480",
     "title": "NuRepress: Inferring Transcriptional Repressors from Phased Nucleosome Architecture.",
     "sent_at": "2026-05-04T12:12:59.040157Z",
@@ -557,6 +550,13 @@
     "title": "A massively parallel reporter assay of MECP2 cis-regulatory elements reveals genetic candidates for male-biased autism",
     "sent_at": "2026-05-10T11:30:53.866830Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.07.28.667104",
+    "title": "Sp100-HMG drives 'inside-out' PML-NB assembly to modulate transcription and cell-cycle dynamics",
+    "sent_at": "2026-05-10T13:55:06.713739Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
