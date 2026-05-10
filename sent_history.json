@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.29.721716",
-    "title": "MissAlignment Teaches Itself Better Cryo-ET Tilt-Series Alignment by Making It Worse",
-    "sent_at": "2026-05-03T23:00:02.472599Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.29.720997",
     "title": "A 37-million-particle dataset from over 250 experiments to accelerate data-driven cryo-EM analysis",
     "sent_at": "2026-05-04T04:03:50.684931Z",
@@ -557,6 +550,13 @@
     "title": "A Fractal-Dimension Framework for Quantifying Self-Similarity in Chromatin Folding",
     "sent_at": "2026-05-10T04:09:34.171783Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723782",
+    "title": "piRNA direct the chromatin reader to its genomic targets",
+    "sent_at": "2026-05-10T07:14:49.489483Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
