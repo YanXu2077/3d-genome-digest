@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/genes17040480",
-    "title": "NuRepress: Inferring Transcriptional Repressors from Phased Nucleosome Architecture.",
-    "sent_at": "2026-05-04T12:12:59.040157Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.02.722390",
     "title": "Nested TAD hierarchy defines cohesion zones on replicated chromosomes",
     "sent_at": "2026-05-04T14:28:03.566592Z",
@@ -557,6 +550,13 @@
     "title": "Sp100-HMG drives 'inside-out' PML-NB assembly to modulate transcription and cell-cycle dynamics",
     "sent_at": "2026-05-10T13:55:06.713739Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.07.15.664992",
+    "title": "A tool to pulse-label yeast Nuclear Pore Complexes in imaging and biochemical experiments",
+    "sent_at": "2026-05-10T15:35:04.335519Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
