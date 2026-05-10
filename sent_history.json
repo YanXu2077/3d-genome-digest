@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/genes17040414",
-    "title": "Single-Cell Multi-Omics Reveal Gene Regulatory Mechanisms Underlying Cardiac Embryonic Development.",
-    "sent_at": "2026-05-04T14:28:03.566592Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2025.12.22.695891",
     "title": "CAD-C: An engineered nuclease enables repair-free in situ proximity ligation and nucleosome-resolution chromosome walks in human cells",
     "sent_at": "2026-05-04T19:56:41.906271Z",
@@ -557,6 +550,13 @@
     "title": "Dpb11 facilitates the colocalization of Mec1-Ddc2 with its activators on gapped DNA",
     "sent_at": "2026-05-10T17:11:50.466990Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723215",
+    "title": "Failure of Bacillus Calmette-Guerin Therapy in Patients with Bladder Cancer is Characterized by Immune Dysfunction Associated with Activator Protein 1",
+    "sent_at": "2026-05-10T19:24:43.705462Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
