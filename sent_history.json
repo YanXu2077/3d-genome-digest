@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.29.721744",
-    "title": "The TET-dependent DNA demethylation pathway is the driving force of hematopoiesis",
-    "sent_at": "2026-05-03T21:01:01.726323Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.29.721716",
     "title": "MissAlignment Teaches Itself Better Cryo-ET Tilt-Series Alignment by Making It Worse",
     "sent_at": "2026-05-03T23:00:02.472599Z",
@@ -557,6 +550,13 @@
     "title": "QuadStack: Specialized convolutional blocks enable in vivo BG4-binding motif prediction and highlight discrepancies with in vitro G-quadruplexes.",
     "sent_at": "2026-05-09T23:24:26.457418Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723123",
+    "title": "A Fractal-Dimension Framework for Quantifying Self-Similarity in Chromatin Folding",
+    "sent_at": "2026-05-10T04:09:34.171783Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
