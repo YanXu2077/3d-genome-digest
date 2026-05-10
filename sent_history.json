@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.02.722390",
-    "title": "Nested TAD hierarchy defines cohesion zones on replicated chromosomes",
-    "sent_at": "2026-05-04T14:28:03.566592Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/genes17040414",
     "title": "Single-Cell Multi-Omics Reveal Gene Regulatory Mechanisms Underlying Cardiac Embryonic Development.",
     "sent_at": "2026-05-04T14:28:03.566592Z",
@@ -557,6 +550,13 @@
     "title": "A tool to pulse-label yeast Nuclear Pore Complexes in imaging and biochemical experiments",
     "sent_at": "2026-05-10T15:35:04.335519Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.11.28.691181",
+    "title": "Dpb11 facilitates the colocalization of Mec1-Ddc2 with its activators on gapped DNA",
+    "sent_at": "2026-05-10T17:11:50.466990Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
