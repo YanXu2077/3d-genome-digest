@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.23.720290",
-    "title": "Coordinated Temporal Dynamics of Glucocorticoid Receptor Binding and Chromatin Landscape Drive Transcriptional Regulation.",
-    "sent_at": "2026-05-05T10:17:25.126868Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.04.30.722071",
-    "title": "Lamins and lineage-relevant transcription factors coordinate gene expression in lineage development",
-    "sent_at": "2026-05-05T11:56:37.893994Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3791/70497",
     "title": "Visualization and Quantitative Analysis of Genotoxin-induced PARP1/PARP2 Activation in Cells using a Fluorescent Fusion Protein-based Reporter.",
     "sent_at": "2026-05-05T11:56:37.893994Z",
@@ -557,6 +543,20 @@
     "title": "Genetic-Environmental Programming of Microglial Identity: Shaping Spatiotemporal Dynamics in Neurodevelopment and Neurodevelopmental Diseases.",
     "sent_at": "2026-05-11T21:45:12.222254Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.05.722814",
+    "title": "ME1 Programs Latent Effector Capacity and Grounds a Mathematical Model of Reversible T Cell Exhaustion",
+    "sent_at": "2026-05-11T23:12:13.596183Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1242/dev.205214",
+    "title": "ATAC-seq of low-input and cryopreserved primordial germ cells reveals functional enhancers.",
+    "sent_at": "2026-05-11T23:12:13.596183Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
