@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41594-026-01807-6",
-    "title": "Integrated MINFLUX tracking reveals two distinct chromatin dynamics classes across cell types.",
-    "sent_at": "2026-05-05T06:31:05.104279Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.03.722466",
-    "title": "H3K9me3 as a gatekeeper of lineage-specific enhancers in embryonic progenitor cells",
-    "sent_at": "2026-05-05T10:17:25.126868Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.23.720290",
     "title": "Coordinated Temporal Dynamics of Glucocorticoid Receptor Binding and Chromatin Landscape Drive Transcriptional Regulation.",
     "sent_at": "2026-05-05T10:17:25.126868Z",
@@ -557,6 +543,20 @@
     "title": "Epigenome regulators imbue a single eukaryotic promoter with diverse gene expression dynamics.",
     "sent_at": "2026-05-11T20:05:17.465827Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723296",
+    "title": "Chemical screens identify HDAC6 as an epigenetic vulnerability in acquired Temozolomide-resistant models of glioblastoma",
+    "sent_at": "2026-05-11T21:45:12.222254Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s10571-026-01741-7",
+    "title": "Genetic-Environmental Programming of Microglial Identity: Shaping Spatiotemporal Dynamics in Neurodevelopment and Neurodevelopmental Diseases.",
+    "sent_at": "2026-05-11T21:45:12.222254Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
