@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721988",
-    "title": "Histone H3K27 methylation states are sequentially catalyzed in cycling cells",
-    "sent_at": "2026-05-04T23:14:15.110550Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1063/5.0325391",
-    "title": "Multivalency-dependent DNA compaction in bridging-induced condensates.",
-    "sent_at": "2026-05-04T23:14:15.110550Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.04.30.721893",
     "title": "Synergy of RNA Concentration, RNA Binding Proteins, and RNA Palindrome Drives clustering of oskar mRNA in vivo",
     "sent_at": "2026-05-05T03:46:39.962040Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-11T10:01:13.525052Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.09.10.675455",
+    "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
+    "sent_at": "2026-05-11T12:51:21.853775Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/g3journal/jkag123",
+    "title": "Spt5's Central KOW Domains and the Pol II Stalk Collaborate to Regulate Chromatin and 3'-End Processing in Saccharomyces cerevisiae.",
+    "sent_at": "2026-05-11T12:51:21.853775Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
