@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.08.05.668773",
-    "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
-    "sent_at": "2026-05-04T21:19:33.541262Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/mlf2.70060",
     "title": "fCUT&Tag-Seq: An optimized CUT&Tag-based method for high-resolution profiling of histone modifications and chromatin-binding proteins in fungi.",
     "sent_at": "2026-05-04T21:19:33.541262Z",
@@ -557,6 +550,13 @@
     "title": "Selective Elimination of TP53 Mutant Cells by Transcript-Activated Chromatin Shredding",
     "sent_at": "2026-05-10T23:06:12.094259Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.07.28.667251",
+    "title": "Cleavage of the RNA polymerase II general transcription factor TFIIB tunes transcription during stress",
+    "sent_at": "2026-05-11T04:21:01.043094Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
