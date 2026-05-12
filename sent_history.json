@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.03.722550",
-    "title": "Dynamics of synthetic transcriptional condensates emerge from RNA synthesis and degradation",
-    "sent_at": "2026-05-06T10:30:53.348446Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41418-026-01753-2",
-    "title": "The RNA binding protein LIN28A mediates chromatin dynamics during neuronal differentiation.",
-    "sent_at": "2026-05-06T10:30:53.348446Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.02.722397",
     "title": "Structural basis for site-specific histone H3 acetylation-dependent regulation of RNAPII transcription through nucleosomes",
     "sent_at": "2026-05-06T12:27:57.291054Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-12T21:53:49.838712Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723400",
+    "title": "Quantifying Cross-Modal Association Confidence for Single-Cell RNA-ATAC Integration",
+    "sent_at": "2026-05-12T23:17:00.196064Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2530814123",
+    "title": "Lineage-specific evolution of regulatory landscapes in a polyploid plant and its diploid progenitors.",
+    "sent_at": "2026-05-12T23:17:00.196064Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
