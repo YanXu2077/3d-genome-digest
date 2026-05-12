@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.01.722242",
-    "title": "Massively parallel reporter assay-informed modeling improves prediction of context-specific enhancer-gene regulatory interactions",
-    "sent_at": "2026-05-06T04:02:26.830154Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.03.722550",
     "title": "Dynamics of synthetic transcriptional condensates emerge from RNA synthesis and degradation",
     "sent_at": "2026-05-06T10:30:53.348446Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.08.723760",
     "title": "Pericentromeric repeat copy number tunes heterochromatin dosage to control chromosome segregation and gene expression in fission yeast",
     "sent_at": "2026-05-12T20:19:01.870442Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.25.707818",
+    "title": "Temporal chromatin and transcriptome dynamics driven by JUND and progesterone receptor binding in the pregnant mouse myometrium",
+    "sent_at": "2026-05-12T21:53:49.838712Z",
     "tier": 3,
     "kind": "preprint"
   }
