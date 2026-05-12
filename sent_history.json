@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.01.722300",
-    "title": "Cohesin extrudes chromatin loop unidirectionally through two modes of mechanisms in human cells",
-    "sent_at": "2026-05-05T17:48:05.300078Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.30.722034",
     "title": "MACRO-MOLECULAR CROWDING FAVORS WRITHE IN UNWOUND DNA",
     "sent_at": "2026-05-05T20:03:12.720734Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-12T06:49:19.798620Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724207",
+    "title": "Mapping active cis-regulatory elements from transcription initiation events",
+    "sent_at": "2026-05-12T10:45:58.256466Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
