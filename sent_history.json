@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.01.722258",
-    "title": "Loop Extrusion Reversal by Condensin Motor is Mediated by Catch Bonds",
-    "sent_at": "2026-05-05T21:38:44.383000Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.04.03.647011",
-    "title": "Learning the dynamic organization of a replicating bacterial chromosome from time-course Hi-C data",
-    "sent_at": "2026-05-05T23:09:33.654874Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2536391123",
     "title": "Stag2-mediated chromatin dynamics regulates antibody class switch recombination.",
     "sent_at": "2026-05-05T23:09:33.654874Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-12T14:49:48.460475Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723272",
+    "title": "H2AX C-Terminal Dipeptide Truncation: A Master Switch of the DNA Damage Response.",
+    "sent_at": "2026-05-12T18:17:53.776932Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biology15090687",
+    "title": "Mechanistic Links Between DNA Methylation and Protein Translation and Their Impacts on Brain Development.",
+    "sent_at": "2026-05-12T18:17:53.776932Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
