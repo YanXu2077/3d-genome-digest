@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.722034",
-    "title": "MACRO-MOLECULAR CROWDING FAVORS WRITHE IN UNWOUND DNA",
-    "sent_at": "2026-05-05T20:03:12.720734Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.01.722258",
     "title": "Loop Extrusion Reversal by Condensin Motor is Mediated by Catch Bonds",
     "sent_at": "2026-05-05T21:38:44.383000Z",
@@ -557,6 +550,13 @@
     "title": "Mapping active cis-regulatory elements from transcription initiation events",
     "sent_at": "2026-05-12T10:45:58.256466Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723557",
+    "title": "Triplet tumbling microscopy enables in situ quantification of protein complex assembly and dynamics",
+    "sent_at": "2026-05-12T14:49:48.460475Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
