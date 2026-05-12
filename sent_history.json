@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.17.686592",
-    "title": "Dynamics of TFIIH and Spt4/5 during the transition from transcription initiation to elongation",
-    "sent_at": "2026-05-05T16:22:01.126840Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/biom16040544",
-    "title": "Transcriptomic Assessment of Host Responses in Vaccinia and Venezuelan Equine Encephalitis Virus-Infected Human Dendritic Cells.",
-    "sent_at": "2026-05-05T16:22:01.126840Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.01.722300",
     "title": "Cohesin extrudes chromatin loop unidirectionally through two modes of mechanisms in human cells",
     "sent_at": "2026-05-05T17:48:05.300078Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-12T04:04:07.000438Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.07.18.665545",
+    "title": "Disorder in coiled-coils orchestrate chromatin organization and define a new permeability barrier at the nuclear pore basket",
+    "sent_at": "2026-05-12T06:49:19.798620Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/humrep/deag071",
+    "title": "Bi-allelic mutations of CAMSAP1 result in teratozoospermia with sperm head and flagella defects in humans.",
+    "sent_at": "2026-05-12T06:49:19.798620Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
