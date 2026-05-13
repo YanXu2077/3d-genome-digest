@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s10555-026-10336-z",
-    "title": "New biological insights into osteosarcoma-lessons from single cell sequencing studies.",
-    "sent_at": "2026-05-07T06:51:42.223859Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.03.722504",
-    "title": "Reactivation of a TAL1 progenitor cell enhancer region by non-coding somatic variants in T-lineage acute lymphoblastic leukemia",
-    "sent_at": "2026-05-07T10:37:39.794180Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.08.13.670061",
     "title": "Autosomal Allelic Inactivation: Variable Replication and Dosage Sensitivity",
     "sent_at": "2026-05-07T14:53:43.706933Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/cells15090844",
     "title": "Nuclear Lamins in Cardiac Development and Disease.",
     "sent_at": "2026-05-13T15:25:40.963421Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.05.06.652547",
+    "title": "Promoter strength and position govern promoter competition via transcript-dependent insulation",
+    "sent_at": "2026-05-13T18:28:59.763276Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.24.707761",
+    "title": "LEMONmethyl-seq: Targeted long-read DNA methylation profiling reveals dynamics of CRISPR epigenome editing and endogenous DNA methylation patterns.",
+    "sent_at": "2026-05-13T18:28:59.763276Z",
     "tier": 3,
     "kind": "journal"
   }
