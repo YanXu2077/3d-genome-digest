@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.02.722397",
-    "title": "Structural basis for site-specific histone H3 acetylation-dependent regulation of RNAPII transcription through nucleosomes",
-    "sent_at": "2026-05-06T12:27:57.291054Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.bpj.2026.04.036",
-    "title": "Viral Nucleosome-Like Particles Show Increased Dynamic Behavior and Altered Thermodynamic Stability.",
-    "sent_at": "2026-05-06T12:27:57.291054Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.04.30.721912",
     "title": "Identification of functional non-coding variants affecting Alzheimer's disease risk by Massively Parallel Reporter Assay",
     "sent_at": "2026-05-06T14:48:16.056755Z",
@@ -557,6 +543,20 @@
     "title": "Lineage-specific evolution of regulatory landscapes in a polyploid plant and its diploid progenitors.",
     "sent_at": "2026-05-12T23:17:00.196064Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.10.723265",
+    "title": "Centromeric origin of Arabidopsis interstitial telomeric repeat domains",
+    "sent_at": "2026-05-13T04:13:06.381280Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/10408363.2026.2665294",
+    "title": "Single cell mechanodeformation signatures as early biomarkers for hematological malignancies.",
+    "sent_at": "2026-05-13T04:13:06.381280Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
