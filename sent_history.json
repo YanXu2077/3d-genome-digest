@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.08.13.670061",
-    "title": "Autosomal Allelic Inactivation: Variable Replication and Dosage Sensitivity",
-    "sent_at": "2026-05-07T14:53:43.706933Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.04.25.720760",
-    "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer.",
-    "sent_at": "2026-05-07T14:53:43.706933Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.04.722686",
     "title": "Single-cell chromatin landscapes visualize epigenetic barriers and reveal lineage-specific Polycomb-mediated repression",
     "sent_at": "2026-05-07T18:12:48.374394Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.02.24.707761",
     "title": "LEMONmethyl-seq: Targeted long-read DNA methylation profiling reveals dynamics of CRISPR epigenome editing and endogenous DNA methylation patterns.",
     "sent_at": "2026-05-13T18:28:59.763276Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.10.724127",
+    "title": "Single-stranded telomeric repeats segregate into spatial compartments within ALT-associated PML bodies",
+    "sent_at": "2026-05-13T20:12:07.112923Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.04.022",
+    "title": "RegVelo: Gene-regulatory-informed dynamics of single cells.",
+    "sent_at": "2026-05-13T20:12:07.112923Z",
     "tier": 3,
     "kind": "journal"
   }
