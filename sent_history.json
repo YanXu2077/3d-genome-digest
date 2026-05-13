@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.01.722206",
-    "title": "Uncertainty-aware localization microscopy by variational diffusion",
-    "sent_at": "2026-05-06T20:04:53.586450Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.01.722245",
-    "title": "Protocol for measuring endocrine disruptive effects on transcriptional bursting using single-molecule imaging in human breast cancer cells",
-    "sent_at": "2026-05-06T23:27:28.033680Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.03.722496",
     "title": "Nucleosome remodeling by a CHD enzyme promotes H3K9 methylation establishment and spreading via remodeler-writer feedback",
     "sent_at": "2026-05-07T04:01:21.934948Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.jbc.2026.113139",
     "title": "TIP60 acts as a wound-induced factor essential for efficient regeneration in planaria.",
     "sent_at": "2026-05-13T08:59:57.345815Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723508",
+    "title": "ISWI remodeler facilitates cBAF genomic binding to drive cell fate transition",
+    "sent_at": "2026-05-13T11:08:19.365288Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12864-026-12891-9",
+    "title": "Understanding super enhancers in genome architecture and their roles in livestock breeding.",
+    "sent_at": "2026-05-13T11:08:19.365288Z",
     "tier": 3,
     "kind": "journal"
   }
