@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.03.722496",
-    "title": "Nucleosome remodeling by a CHD enzyme promotes H3K9 methylation establishment and spreading via remodeler-writer feedback",
-    "sent_at": "2026-05-07T04:01:21.934948Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2023.09.11.557269",
-    "title": "Uncoupling the TFIIH Core and Kinase Modules Leads To Misregulated RNA Polymerase II CTD Serine 5 Phosphorylation",
-    "sent_at": "2026-05-07T06:51:42.223859Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s10555-026-10336-z",
     "title": "New biological insights into osteosarcoma-lessons from single cell sequencing studies.",
     "sent_at": "2026-05-07T06:51:42.223859Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s12864-026-12891-9",
     "title": "Understanding super enhancers in genome architecture and their roles in livestock breeding.",
     "sent_at": "2026-05-13T11:08:19.365288Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.09.724006",
+    "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest and a shared enhancer in mice.",
+    "sent_at": "2026-05-13T15:25:40.963421Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/cells15090844",
+    "title": "Nuclear Lamins in Cardiac Development and Disease.",
+    "sent_at": "2026-05-13T15:25:40.963421Z",
     "tier": 3,
     "kind": "journal"
   }
