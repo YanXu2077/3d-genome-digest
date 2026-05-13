@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721912",
-    "title": "Identification of functional non-coding variants affecting Alzheimer's disease risk by Massively Parallel Reporter Assay",
-    "sent_at": "2026-05-06T14:48:16.056755Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.bbrc.2026.153880",
-    "title": "Structural and functional insights into an anticancer peptide candidate derived from the EP400NL C-terminal domain.",
-    "sent_at": "2026-05-06T14:48:16.056755Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.04.722487",
     "title": "Modular control of CpG islands by chromatin-opening transcription factors specifies transcription start sites",
     "sent_at": "2026-05-06T17:54:33.068204Z",
@@ -557,6 +543,20 @@
     "title": "Single cell mechanodeformation signatures as early biomarkers for hematological malignancies.",
     "sent_at": "2026-05-13T04:13:06.381280Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723772",
+    "title": "ContextTAD: Context-aware boundary learning for TAD calling from Hi-C contact maps",
+    "sent_at": "2026-05-13T07:39:57.605563Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag474",
+    "title": "Pds5 regulates sister chromatid cohesion by controlling cohesin ATPase activity through the Eco1-Smc3 acetylation pathway.",
+    "sent_at": "2026-05-13T07:39:57.605563Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
