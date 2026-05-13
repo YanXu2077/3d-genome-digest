@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722686",
-    "title": "Single-cell chromatin landscapes visualize epigenetic barriers and reveal lineage-specific Polycomb-mediated repression",
-    "sent_at": "2026-05-07T18:12:48.374394Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.04.25.720781",
-    "title": "Increased Telomere Mobility in Progeria is Restored by Isoprenylcysteine Carboxyl Methyltransferase Inhibition.",
-    "sent_at": "2026-05-07T18:12:48.374394Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.01.31.702974",
     "title": "Epigenetic Gatekeeping of Intestinal Stem Cell Transformation",
     "sent_at": "2026-05-07T19:56:33.237923Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.cell.2026.04.022",
     "title": "RegVelo: Gene-regulatory-informed dynamics of single cells.",
     "sent_at": "2026-05-13T20:12:07.112923Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.08.11.669713",
+    "title": "Resolving endogenous protein organization in cells with nanometer precision",
+    "sent_at": "2026-05-13T21:57:06.260479Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00299-026-03795-9",
+    "title": "HUB1 positively regulates salt tolerance in Arabidopsis through dynamic H2B monoubiquitination.",
+    "sent_at": "2026-05-13T21:57:06.260479Z",
     "tier": 3,
     "kind": "journal"
   }
