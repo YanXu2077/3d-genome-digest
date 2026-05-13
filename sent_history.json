@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722487",
-    "title": "Modular control of CpG islands by chromatin-opening transcription factors specifies transcription start sites",
-    "sent_at": "2026-05-06T17:54:33.068204Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1083/jcb.202511182",
-    "title": "NASP functions in the cytoplasm to prevent histone H3 aggregation during early embryogenesis.",
-    "sent_at": "2026-05-06T17:54:33.068204Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.01.722206",
     "title": "Uncertainty-aware localization microscopy by variational diffusion",
     "sent_at": "2026-05-06T20:04:53.586450Z",
@@ -557,6 +543,20 @@
     "title": "Pds5 regulates sister chromatid cohesion by controlling cohesin ATPase activity through the Eco1-Smc3 acetylation pathway.",
     "sent_at": "2026-05-13T07:39:57.605563Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723821",
+    "title": "Repulsion-Driven Layering in Polymer-Assisted Condensation",
+    "sent_at": "2026-05-13T08:59:57.345815Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jbc.2026.113139",
+    "title": "TIP60 acts as a wound-induced factor essential for efficient regeneration in planaria.",
+    "sent_at": "2026-05-13T08:59:57.345815Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
