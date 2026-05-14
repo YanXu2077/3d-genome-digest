@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722036",
-    "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters",
-    "sent_at": "2026-05-07T23:13:12.828548Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1021/jacs.6c02267",
-    "title": "Proximity of the Histone-Acetylation Site to the Termini Shapes Phase Behavior with DNA.",
-    "sent_at": "2026-05-07T23:13:12.828548Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.06.723196",
     "title": "Loop extrusion dynamics and cooperative activation independently regulate enhancer-driven transcription",
     "sent_at": "2026-05-08T03:51:01.266779Z",
@@ -557,6 +543,20 @@
     "title": "N-Substituted-2-(9H-Xanthen-9-yl)acetamide Derivatives Induce In Vitro Colon Cancer Cell Death via TASK-1 Inhibition: Lead Compounds for Further Optimization as TASK-1-Targeted Therapeutics in Colorec",
     "sent_at": "2026-05-14T04:14:40.608705Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.10.724166",
+    "title": "Kaiso reads methylated CpGs at nucleosome entry/exit and displaces the H3 tail",
+    "sent_at": "2026-05-14T07:31:38.164517Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-72963-y",
+    "title": "Chromatin rewiring of β-globin and MYC enhancers by TGF-β1 drives defective erythropoiesis.",
+    "sent_at": "2026-05-14T07:31:38.164517Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
