@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722673",
-    "title": "Chromatin State Distinguishes Injury-Responsive from State-Stabilizing Transcriptional Programs in Hybrid Hepatocytes",
-    "sent_at": "2026-05-08T08:10:15.879264Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.7150/thno.124965",
     "title": "CIAPIN1 functions as a redox-sensitive transcriptional repressor of Tp53 during vascular remodeling.",
     "sent_at": "2026-05-08T08:10:15.879264Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-14T10:46:51.382138Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724289",
+    "title": "PolyA/polyQ-mediated conformational rewiring regulates DNA engagement and drives aggregation in the neuronal transcription factor Ascl1",
+    "sent_at": "2026-05-14T14:41:37.558738Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
