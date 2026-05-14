@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.05.722847",
-    "title": "Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation",
-    "sent_at": "2026-05-08T10:00:14.858616Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.02.26.581705",
     "title": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells",
     "sent_at": "2026-05-08T11:46:46.294436Z",
@@ -557,6 +550,13 @@
     "title": "RNA synthesis and degradation regulate biomolecular condensates through non-equilibrium feedback",
     "sent_at": "2026-05-14T18:08:55.264350Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724317",
+    "title": "Hierarchical Interplay between H3K27ac and H3K4me3 in Transcriptional Regulation",
+    "sent_at": "2026-05-14T20:17:55.676591Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
