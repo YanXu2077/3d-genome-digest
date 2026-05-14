@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.05.722311",
-    "title": "PEPR-GNN: Perturbation-Enhancer-Promoter-RNA Graph Neural Networks for Multiome Perturb-Seq modeling of regulomes",
-    "sent_at": "2026-05-07T21:20:38.669623Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.01.14.699556",
-    "title": "Molecular heterogeneity and differential metabolic signatures in thymic adipocytes.",
-    "sent_at": "2026-05-07T21:20:38.669623Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.04.722036",
     "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters",
     "sent_at": "2026-05-07T23:13:12.828548Z",
@@ -557,6 +543,20 @@
     "title": "Epigenetically regulated transcriptional repressor, BASIC PENTACYSTEINE1 (BPC1) acts together with polycomb repressive complex 2 (PRC2) to suppress camalexin biosynthesis in Arabidopsis.",
     "sent_at": "2026-05-13T23:22:16.718701Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724242",
+    "title": "Endocrine therapy-specific lineage and partial epithelial-mesenchymal reprogramming defines divergent resistant cell-states in ER+ breast cancer",
+    "sent_at": "2026-05-14T04:14:40.608705Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27094069",
+    "title": "N-Substituted-2-(9H-Xanthen-9-yl)acetamide Derivatives Induce In Vitro Colon Cancer Cell Death via TASK-1 Inhibition: Lead Compounds for Further Optimization as TASK-1-Targeted Therapeutics in Colorec",
+    "sent_at": "2026-05-14T04:14:40.608705Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
