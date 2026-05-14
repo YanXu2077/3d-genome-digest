@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.7150/thno.124965",
-    "title": "CIAPIN1 functions as a redox-sensitive transcriptional repressor of Tp53 during vascular remodeling.",
-    "sent_at": "2026-05-08T08:10:15.879264Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.05.722847",
     "title": "Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation",
     "sent_at": "2026-05-08T10:00:14.858616Z",
@@ -557,6 +550,13 @@
     "title": "PolyA/polyQ-mediated conformational rewiring regulates DNA engagement and drives aggregation in the neuronal transcription factor Ascl1",
     "sent_at": "2026-05-14T14:41:37.558738Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724287",
+    "title": "RNA synthesis and degradation regulate biomolecular condensates through non-equilibrium feedback",
+    "sent_at": "2026-05-14T18:08:55.264350Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
