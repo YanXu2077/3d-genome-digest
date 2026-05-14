@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723196",
-    "title": "Loop extrusion dynamics and cooperative activation independently regulate enhancer-driven transcription",
-    "sent_at": "2026-05-08T03:51:01.266779Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/biolre/ioag097",
-    "title": "Perturbation of potassium homeostasis impairs oocyte maturation.",
-    "sent_at": "2026-05-08T03:51:01.266779Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.04.722644",
     "title": "Nuclear Speckles Regulate Splicing During Muscle Stem Cell Activation and Aging",
     "sent_at": "2026-05-08T06:09:16.079092Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin rewiring of β-globin and MYC enhancers by TGF-β1 drives defective erythropoiesis.",
     "sent_at": "2026-05-14T07:31:38.164517Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724351",
+    "title": "Polarization-engineered aberration-resilient light sheet microscopy",
+    "sent_at": "2026-05-14T08:55:37.784165Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11307-026-02110-y",
+    "title": "Recent Advances in the Development of CRISPR-Based Live-Cell Molecular Imaging and Sensing.",
+    "sent_at": "2026-05-14T08:55:37.784165Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
