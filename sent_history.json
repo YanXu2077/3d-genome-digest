@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.07.723480",
-    "title": "16p11.2 Copy Number Variation Alters Genome Architecture and Transcriptional Regulation During Neurodevelopment",
-    "sent_at": "2026-05-08T14:15:52.809689Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.04.07.716875",
-    "title": "Programmable DNA Protonuclei Reveal Environmental Context on Protein Phase Separation",
-    "sent_at": "2026-05-08T19:58:33.546602Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1158/1078-0432.CCR-25-4370",
     "title": "Reprogramming of Cellular Plasticity via ETS and MYC Core-regulatory Circuits During Response to MAPK Inhibition in BRAF-mutant Colorectal Cancer.",
     "sent_at": "2026-05-08T19:58:33.546602Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-14T21:49:20.490708Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724304",
+    "title": "KMT5C-H4K20me3 drives changes in epigenetic landscape independent of H3K9me3",
+    "sent_at": "2026-05-14T23:15:56.197862Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2532263123",
+    "title": "NAT10/ac4C drives intrahepatic cholangiocarcinoma by suppressing transposable elements via chromatin remodeling.",
+    "sent_at": "2026-05-14T23:15:56.197862Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
