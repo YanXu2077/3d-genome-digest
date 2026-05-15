@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.722996",
-    "title": "A radial map of the budding yeast genome reveals novel organizational principles",
-    "sent_at": "2026-05-09T06:29:52.779413Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jbc.2026.113104",
     "title": "Regulation of chromatin dynamics by a calcium-dependent nucleoskeleton.",
     "sent_at": "2026-05-09T06:29:52.779413Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-15T12:07:59.230611Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.14.725081",
+    "title": "A weak-interaction model defines the cell-autonomous function of DNA methylation in gastrulation",
+    "sent_at": "2026-05-15T14:37:29.770183Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
