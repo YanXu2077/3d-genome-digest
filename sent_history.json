@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.22.716296",
-    "title": "Focus on the edges: a biomolecular network of histone PTMs, metabolites and proteins unveils functional entanglement in AML",
-    "sent_at": "2026-05-09T09:59:03.376330Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.05.722861",
-    "title": "Postnatal Reprogramming Shapes Human Intestinal Epithelial Immune Competency",
-    "sent_at": "2026-05-09T11:33:02.405239Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.07.723561",
     "title": "Cohesin bridging as a physical principle of enhancer-promoter communication",
     "sent_at": "2026-05-09T13:53:00.726340Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-15T21:24:16.347162Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.13.724493",
+    "title": "TDP-43 regulates chromatin looping and gene transcription through binding and stabilizing DNA G-quadruplex structures",
+    "sent_at": "2026-05-15T23:10:28.891883Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117361",
+    "title": "Cooperative response loops enhanced by histamine signaling during tumor-neutrophil crosstalk in pleural mesothelioma.",
+    "sent_at": "2026-05-15T23:10:28.891883Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
