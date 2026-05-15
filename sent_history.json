@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1158/1078-0432.CCR-25-4370",
-    "title": "Reprogramming of Cellular Plasticity via ETS and MYC Core-regulatory Circuits During Response to MAPK Inhibition in BRAF-mutant Colorectal Cancer.",
-    "sent_at": "2026-05-08T19:58:33.546602Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.11.25.690627",
     "title": "Improved spike-in normalization clarifies the relationship between active histone modifications and transcription",
     "sent_at": "2026-05-08T23:34:04.307708Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-14T23:15:56.197862Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.13.725051",
+    "title": "SMCHD1 is a novel target for gene-activation therapy to treat Prader-Willi Syndrome",
+    "sent_at": "2026-05-15T04:18:18.573498Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
