@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.30.721783",
-    "title": "In vivo BMAL1 occupancy mapping using MACS-Calling Cards reveals disease-associated retargeting in Cln3Δex7/8 astrocytes",
-    "sent_at": "2026-05-09T08:30:53.053781Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jbc.2026.113120",
     "title": "Structural Basis for HIV-1 Rev Recognition by the Histone Chaperone Human Nap1.",
     "sent_at": "2026-05-09T08:30:53.053781Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.14.725231",
     "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development",
     "sent_at": "2026-05-15T17:54:40.485232Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.12.724649",
+    "title": "Bound for the nucleus: defining the molecular principles of cargo selection by importin 9",
+    "sent_at": "2026-05-15T19:56:53.126463Z",
     "tier": 3,
     "kind": "preprint"
   }
