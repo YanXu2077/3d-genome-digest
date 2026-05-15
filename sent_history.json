@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.25.690627",
-    "title": "Improved spike-in normalization clarifies the relationship between active histone modifications and transcription",
-    "sent_at": "2026-05-08T23:34:04.307708Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1099/jmm.0.002161",
     "title": "Candida glabrata and the host: a neglected affair.",
     "sent_at": "2026-05-08T23:34:04.307708Z",
@@ -557,6 +550,13 @@
     "title": "SMCHD1 is a novel target for gene-activation therapy to treat Prader-Willi Syndrome",
     "sent_at": "2026-05-15T04:18:18.573498Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.14.724942",
+    "title": "Towards a database capturing chromosome structure and function: symbols and syntax",
+    "sent_at": "2026-05-15T09:25:11.574831Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
