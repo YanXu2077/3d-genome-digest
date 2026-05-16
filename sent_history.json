@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723123",
-    "title": "A Fractal-Dimension Framework for Quantifying Self-Similarity in Chromatin Folding",
-    "sent_at": "2026-05-10T04:09:34.171783Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.08.723782",
     "title": "piRNA direct the chromatin reader to its genomic targets",
     "sent_at": "2026-05-10T07:14:49.489483Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2025.03.11.642677",
     "title": "Inhibition of TFIIH translocase reveals a novel lncRNA regulatory network at the BRCA1 locus",
     "sent_at": "2026-05-16T09:54:56.976428Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.09.21.676689",
+    "title": "simPIC: flexible simulation of single-cell ATAC-seq paired-insertion counts from individuals to populations",
+    "sent_at": "2026-05-16T11:17:51.077540Z",
     "tier": 3,
     "kind": "preprint"
   }
