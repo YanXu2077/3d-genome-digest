@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723064",
-    "title": "Increased chromatin accessibility following 1α,25-dihydroxyvitamin D3 treatment in human endometrial stromal cells",
-    "sent_at": "2026-05-10T09:55:46.799632Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41540-026-00734-y",
     "title": "CT-TADB predicts TAD boundaries without Hi-C by integrating DNA sequences and epigenomic features.",
     "sent_at": "2026-05-10T09:55:46.799632Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.13.724860",
     "title": "Mapping the diffusional landscape of short NEAT1 in living cells",
     "sent_at": "2026-05-16T13:57:52.299274Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.18.710733",
+    "title": "Phosphatidylinositol 3-phosphate promotes 53BP1 condensate-like assembly at DNA double-strand breaks",
+    "sent_at": "2026-05-16T15:36:40.219101Z",
     "tier": 2,
     "kind": "preprint"
   }
