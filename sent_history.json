@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.07.28.667104",
-    "title": "Sp100-HMG drives 'inside-out' PML-NB assembly to modulate transcription and cell-cycle dynamics",
-    "sent_at": "2026-05-10T13:55:06.713739Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.07.15.664992",
     "title": "A tool to pulse-label yeast Nuclear Pore Complexes in imaging and biochemical experiments",
     "sent_at": "2026-05-10T15:35:04.335519Z",
@@ -557,6 +550,13 @@
     "title": "A chromatin accessibility map of pea aphid brain and embryo identifies tissue-specific regulatory elements",
     "sent_at": "2026-05-16T19:25:39.326840Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724171",
+    "title": "Evaluation of fluorescent proteins for compatibility with STED microscopy systems using two-color spectroscopies",
+    "sent_at": "2026-05-16T21:11:49.922965Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
