@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723235",
-    "title": "QuadStack: Specialized convolutional blocks enable in vivo BG4-binding motif prediction and highlight discrepancies with in vitro G-quadruplexes.",
-    "sent_at": "2026-05-09T23:24:26.457418Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723123",
     "title": "A Fractal-Dimension Framework for Quantifying Self-Similarity in Chromatin Folding",
     "sent_at": "2026-05-10T04:09:34.171783Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-16T06:36:34.875890Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.03.11.642677",
+    "title": "Inhibition of TFIIH translocase reveals a novel lncRNA regulatory network at the BRCA1 locus",
+    "sent_at": "2026-05-16T09:54:56.976428Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
