@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41540-026-00734-y",
-    "title": "CT-TADB predicts TAD boundaries without Hi-C by integrating DNA sequences and epigenomic features.",
-    "sent_at": "2026-05-10T09:55:46.799632Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.08.723809",
     "title": "A massively parallel reporter assay of MECP2 cis-regulatory elements reveals genetic candidates for male-biased autism",
     "sent_at": "2026-05-10T11:30:53.866830Z",
@@ -557,6 +550,13 @@
     "title": "Phosphatidylinositol 3-phosphate promotes 53BP1 condensate-like assembly at DNA double-strand breaks",
     "sent_at": "2026-05-16T15:36:40.219101Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.14.725191",
+    "title": "Continuous negative autoregulation fine-tunes dosage-sensitive transcription factor expression to maintain post-mitotic neuron identity",
+    "sent_at": "2026-05-16T17:19:25.226094Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
