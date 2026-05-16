@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.05.723070",
-    "title": "HES3-dependent regulatory functions in development and fusion-positive rhabdomyosarcoma",
-    "sent_at": "2026-05-09T19:23:48.410437Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.05.723058",
-    "title": "MYC pathway reprogramming through a TIP60 coactivator switch in neuroendocrine lineage transition in prostate cancer",
-    "sent_at": "2026-05-09T21:03:32.842869Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723235",
     "title": "QuadStack: Specialized convolutional blocks enable in vivo BG4-binding motif prediction and highlight discrepancies with in vitro G-quadruplexes.",
     "sent_at": "2026-05-09T23:24:26.457418Z",
@@ -557,6 +543,20 @@
     "title": "Sleep Deprivation Inhibits CD8+ T Cell Function by Elevating Galectin-9 Expression in Colorectal Cancer Cells.",
     "sent_at": "2026-05-16T03:59:22.053796Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.12.724628",
+    "title": "H3K27M-driven hypertranscription leads to a new targetable dependency in diffuse midline gliomas",
+    "sent_at": "2026-05-16T06:36:34.875890Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44319-026-00800-w",
+    "title": "Polymerase face-off: emerging concepts in transcription-replication coordination.",
+    "sent_at": "2026-05-16T06:36:34.875890Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
