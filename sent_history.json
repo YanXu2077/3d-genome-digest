@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.08.723782",
-    "title": "piRNA direct the chromatin reader to its genomic targets",
-    "sent_at": "2026-05-10T07:14:49.489483Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723064",
     "title": "Increased chromatin accessibility following 1α,25-dihydroxyvitamin D3 treatment in human endometrial stromal cells",
     "sent_at": "2026-05-10T09:55:46.799632Z",
@@ -557,6 +550,13 @@
     "title": "simPIC: flexible simulation of single-cell ATAC-seq paired-insertion counts from individuals to populations",
     "sent_at": "2026-05-16T11:17:51.077540Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.13.724860",
+    "title": "Mapping the diffusional landscape of short NEAT1 in living cells",
+    "sent_at": "2026-05-16T13:57:52.299274Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
