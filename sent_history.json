@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.04.25.650690",
-    "title": "Mitotic phosphorylation of Lamin B1 rod domain by ULK1 and Aurora A/PLK1 promotes spindle function.",
-    "sent_at": "2026-05-10T21:08:41.353351Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.08.723607",
-    "title": "Selective Elimination of TP53 Mutant Cells by Transcript-Activated Chromatin Shredding",
-    "sent_at": "2026-05-10T23:06:12.094259Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.07.28.667251",
     "title": "Cleavage of the RNA polymerase II general transcription factor TFIIB tunes transcription during stress",
     "sent_at": "2026-05-11T04:21:01.043094Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-17T08:34:17.928330Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725544",
+    "title": "KaryoScope: rapid, alignment-free sequence annotation for the pangenome era",
+    "sent_at": "2026-05-17T11:25:31.415710Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11033-026-11964-y",
+    "title": "Functional dynamics of lncRNAs and miRNAs in cancer metabolism and neuroinflammation.",
+    "sent_at": "2026-05-17T11:25:31.415710Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
