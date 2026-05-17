@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/g3journal/jkag123",
-    "title": "Spt5's Central KOW Domains and the Pol II Stalk Collaborate to Regulate Chromatin and 3'-End Processing in Saccharomyces cerevisiae.",
-    "sent_at": "2026-05-11T12:51:21.853775Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.08.723885",
     "title": "A cohesion optimum underlies chromosome segregation fidelity in oocytes",
     "sent_at": "2026-05-11T16:44:30.468708Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.13.724900",
     "title": "BARseq3: a modular system for integrating spatial multi-omics and cellular barcoding in single cells",
     "sent_at": "2026-05-17T17:13:19.456401Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.14.725010",
+    "title": "Pangenome reference assemblies reveal the variation and recent activity of human LINE-1 retrotransposons",
+    "sent_at": "2026-05-17T19:26:51.219985Z",
     "tier": 4,
     "kind": "preprint"
   }
