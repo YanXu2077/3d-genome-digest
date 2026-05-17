@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723263",
-    "title": "SPIFEE - A pipeline for analyzing traces of live-cell fluorescence microscopy data",
-    "sent_at": "2026-05-11T20:05:17.465827Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.isci.2026.115805",
     "title": "Epigenome regulators imbue a single eukaryotic promoter with diverse gene expression dynamics.",
     "sent_at": "2026-05-11T20:05:17.465827Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.13.724825",
     "title": "Hydrogen Peroxide induces resistance to DNA damage in a localization and p53 dependent manner.",
     "sent_at": "2026-05-17T21:09:14.078621Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725337",
+    "title": "Discovering conserved regulatory modules in predicted gene regulatory networks across species",
+    "sent_at": "2026-05-17T23:08:55.553037Z",
     "tier": 4,
     "kind": "preprint"
   }
