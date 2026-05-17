@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.06.723303",
-    "title": "Dual regulation of chemical stress-induced DDI2/3 expression by a transcription factor Fzf1 and nucleosome in Saccharomyces cerevisiae",
-    "sent_at": "2026-05-11T10:01:13.525052Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.09.10.675455",
     "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
     "sent_at": "2026-05-11T12:51:21.853775Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.15.725498",
     "title": "Canavanine-based assay for gross chromosomal rearrangements reveals genome instability hotspots and modulating genes in fission yeast",
     "sent_at": "2026-05-17T13:57:29.912214Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.13.724850",
+    "title": "OpenBase: a universal framework for high-accuracy single-molecule detection of diverse non-canonical DNA bases using nanopore sequencing",
+    "sent_at": "2026-05-17T15:40:17.857956Z",
     "tier": 4,
     "kind": "preprint"
   }
