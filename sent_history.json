@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.07.28.667251",
-    "title": "Cleavage of the RNA polymerase II general transcription factor TFIIB tunes transcription during stress",
-    "sent_at": "2026-05-11T04:21:01.043094Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723303",
     "title": "Dual regulation of chemical stress-induced DDI2/3 expression by a transcription factor Fzf1 and nucleosome in Saccharomyces cerevisiae",
     "sent_at": "2026-05-11T10:01:13.525052Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-17T11:25:31.415710Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725498",
+    "title": "Canavanine-based assay for gross chromosomal rearrangements reveals genome instability hotspots and modulating genes in fission yeast",
+    "sent_at": "2026-05-17T13:57:29.912214Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
