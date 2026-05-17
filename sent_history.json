@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.09.10.675455",
-    "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
-    "sent_at": "2026-05-11T12:51:21.853775Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/g3journal/jkag123",
     "title": "Spt5's Central KOW Domains and the Pol II Stalk Collaborate to Regulate Chromatin and 3'-End Processing in Saccharomyces cerevisiae.",
     "sent_at": "2026-05-11T12:51:21.853775Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.13.724850",
     "title": "OpenBase: a universal framework for high-accuracy single-molecule detection of diverse non-canonical DNA bases using nanopore sequencing",
     "sent_at": "2026-05-17T15:40:17.857956Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.13.724900",
+    "title": "BARseq3: a modular system for integrating spatial multi-omics and cellular barcoding in single cells",
+    "sent_at": "2026-05-17T17:13:19.456401Z",
     "tier": 4,
     "kind": "preprint"
   }
