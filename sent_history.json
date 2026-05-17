@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.28.691181",
-    "title": "Dpb11 facilitates the colocalization of Mec1-Ddc2 with its activators on gapped DNA",
-    "sent_at": "2026-05-10T17:11:50.466990Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723215",
     "title": "Failure of Bacillus Calmette-Guerin Therapy in Patients with Bladder Cancer is Characterized by Immune Dysfunction Associated with Activator Protein 1",
     "sent_at": "2026-05-10T19:24:43.705462Z",
@@ -557,6 +550,13 @@
     "title": "Cellular stemness identifies high-risk ductal carcinoma in situ and offers a therapeutic interception opportunity",
     "sent_at": "2026-05-16T23:07:05.380100Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725364",
+    "title": "MCM10 targets CMG dimers via a conserved mechanism for synchronized helicase activation",
+    "sent_at": "2026-05-17T04:16:56.105309Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
