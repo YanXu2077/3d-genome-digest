@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724227",
-    "title": "The +1 nucleosome functions in Pol II transcription initiation and the transition to elongation",
-    "sent_at": "2026-05-12T04:04:07.000438Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.07.18.665545",
-    "title": "Disorder in coiled-coils orchestrate chromatin organization and define a new permeability barrier at the nuclear pore basket",
-    "sent_at": "2026-05-12T06:49:19.798620Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/humrep/deag071",
     "title": "Bi-allelic mutations of CAMSAP1 result in teratozoospermia with sperm head and flagella defects in humans.",
     "sent_at": "2026-05-12T06:49:19.798620Z",
@@ -557,6 +543,20 @@
     "title": "Cohesin bridging as a physical principle of enhancer-promoter communication.",
     "sent_at": "2026-05-18T18:15:25.090764Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.14.724656",
+    "title": "Epigenetic maintenance of PRC2-repressed chromatin requires RTT109 but not H3K56 acetylation",
+    "sent_at": "2026-05-18T20:16:11.461839Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722036",
+    "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters.",
+    "sent_at": "2026-05-18T20:16:11.461839Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
