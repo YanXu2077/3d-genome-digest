@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.05.722814",
-    "title": "ME1 Programs Latent Effector Capacity and Grounds a Mathematical Model of Reversible T Cell Exhaustion",
-    "sent_at": "2026-05-11T23:12:13.596183Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1242/dev.205214",
-    "title": "ATAC-seq of low-input and cryopreserved primordial germ cells reveals functional enhancers.",
-    "sent_at": "2026-05-11T23:12:13.596183Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.11.724227",
     "title": "The +1 nucleosome functions in Pol II transcription initiation and the transition to elongation",
     "sent_at": "2026-05-12T04:04:07.000438Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-18T15:56:24.227843Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725493",
+    "title": "INTEGRATOR: Structural Elucidation of the INO80 Chromatin Remodeler via Experimentally Guided Molecular Simulations",
+    "sent_at": "2026-05-18T18:15:25.090764Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.07.723561",
+    "title": "Cohesin bridging as a physical principle of enhancer-promoter communication.",
+    "sent_at": "2026-05-18T18:15:25.090764Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
