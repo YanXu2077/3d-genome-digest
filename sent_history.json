@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.07.723296",
-    "title": "Chemical screens identify HDAC6 as an epigenetic vulnerability in acquired Temozolomide-resistant models of glioblastoma",
-    "sent_at": "2026-05-11T21:45:12.222254Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s10571-026-01741-7",
     "title": "Genetic-Environmental Programming of Microglial Identity: Shaping Spatiotemporal Dynamics in Neurodevelopment and Neurodevelopmental Diseases.",
     "sent_at": "2026-05-11T21:45:12.222254Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.15.724335",
     "title": "Determinants of centromeric nucleosome conformation",
     "sent_at": "2026-05-18T04:28:26.918927Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725447",
+    "title": "Reciprocal constraint couples architectural protein abundance and pericentromeric satellite expansion",
+    "sent_at": "2026-05-18T10:27:28.616552Z",
     "tier": 3,
     "kind": "preprint"
   }
