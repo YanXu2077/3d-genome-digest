@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s10571-026-01741-7",
-    "title": "Genetic-Environmental Programming of Microglial Identity: Shaping Spatiotemporal Dynamics in Neurodevelopment and Neurodevelopmental Diseases.",
-    "sent_at": "2026-05-11T21:45:12.222254Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.05.722814",
     "title": "ME1 Programs Latent Effector Capacity and Grounds a Mathematical Model of Reversible T Cell Exhaustion",
     "sent_at": "2026-05-11T23:12:13.596183Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.15.725447",
     "title": "Reciprocal constraint couples architectural protein abundance and pericentromeric satellite expansion",
     "sent_at": "2026-05-18T10:27:28.616552Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725323",
+    "title": "Deep analysis of FANTOM CAGE data reveals hierarchical patterns of TSS co-deployment hubs and their disruption in cancers",
+    "sent_at": "2026-05-18T15:56:24.227843Z",
     "tier": 3,
     "kind": "preprint"
   }
