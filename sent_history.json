@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/humrep/deag071",
-    "title": "Bi-allelic mutations of CAMSAP1 result in teratozoospermia with sperm head and flagella defects in humans.",
-    "sent_at": "2026-05-12T06:49:19.798620Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.11.724207",
-    "title": "Mapping active cis-regulatory elements from transcription initiation events",
-    "sent_at": "2026-05-12T10:45:58.256466Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.07.723557",
     "title": "Triplet tumbling microscopy enables in situ quantification of protein complex assembly and dynamics",
     "sent_at": "2026-05-12T14:49:48.460475Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.05.04.722036",
     "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters.",
     "sent_at": "2026-05-18T20:16:11.461839Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.14.725269",
+    "title": "HiCPEP: Efficient estimation of chromatin compartment PC1 from Hi-C covariance structure",
+    "sent_at": "2026-05-18T21:47:16.984536Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.04.722644",
+    "title": "Nuclear Speckles Regulate Splicing During Muscle Stem Cell Activation and Aging.",
+    "sent_at": "2026-05-18T21:47:16.984536Z",
     "tier": 2,
     "kind": "journal"
   }
