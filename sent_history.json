@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.115805",
-    "title": "Epigenome regulators imbue a single eukaryotic promoter with diverse gene expression dynamics.",
-    "sent_at": "2026-05-11T20:05:17.465827Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.07.723296",
     "title": "Chemical screens identify HDAC6 as an epigenetic vulnerability in acquired Temozolomide-resistant models of glioblastoma",
     "sent_at": "2026-05-11T21:45:12.222254Z",
@@ -557,6 +550,13 @@
     "title": "Discovering conserved regulatory modules in predicted gene regulatory networks across species",
     "sent_at": "2026-05-17T23:08:55.553037Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.724335",
+    "title": "Determinants of centromeric nucleosome conformation",
+    "sent_at": "2026-05-18T04:28:26.918927Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
