@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1080/10408363.2026.2665294",
-    "title": "Single cell mechanodeformation signatures as early biomarkers for hematological malignancies.",
-    "sent_at": "2026-05-13T04:13:06.381280Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.08.723772",
-    "title": "ContextTAD: Context-aware boundary learning for TAD calling from Hi-C contact maps",
-    "sent_at": "2026-05-13T07:39:57.605563Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag474",
     "title": "Pds5 regulates sister chromatid cohesion by controlling cohesin ATPase activity through the Eco1-Smc3 acetylation pathway.",
     "sent_at": "2026-05-13T07:39:57.605563Z",
@@ -556,6 +542,20 @@
     "doi": "10.1111/jnc.70465",
     "title": "The Chromatin-Modifying Protein RCOR2/CoREST2 Safeguards Axon-Dendrite Growth and Microtubule Stability in Brain Neurons.",
     "sent_at": "2026-05-19T12:57:44.828074Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.11.17.688899",
+    "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
+    "sent_at": "2026-05-19T16:58:38.479705Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/19491034.2026.2673721",
+    "title": "Antagonistic contributions of A-type and B-type lamins to LBR localization and dynamics.",
+    "sent_at": "2026-05-19T16:58:38.479705Z",
     "tier": 3,
     "kind": "journal"
   }
