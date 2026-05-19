@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jbc.2026.113139",
-    "title": "TIP60 acts as a wound-induced factor essential for efficient regeneration in planaria.",
-    "sent_at": "2026-05-13T08:59:57.345815Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.08.723508",
     "title": "ISWI remodeler facilitates cBAF genomic binding to drive cell fate transition",
     "sent_at": "2026-05-13T11:08:19.365288Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-19T20:09:01.573808Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.18.722789",
+    "title": "The Prion-Like Properties of the INO80 Chromatin Remodeler Regulate Metabolic Gene Expression",
+    "sent_at": "2026-05-19T21:46:31.406586Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
