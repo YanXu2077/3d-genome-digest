@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.02.25.707818",
-    "title": "Temporal chromatin and transcriptome dynamics driven by JUND and progesterone receptor binding in the pregnant mouse myometrium",
-    "sent_at": "2026-05-12T21:53:49.838712Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.07.723400",
-    "title": "Quantifying Cross-Modal Association Confidence for Single-Cell RNA-ATAC Integration",
-    "sent_at": "2026-05-12T23:17:00.196064Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2530814123",
     "title": "Lineage-specific evolution of regulatory landscapes in a polyploid plant and its diploid progenitors.",
     "sent_at": "2026-05-12T23:17:00.196064Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.05.05.722311",
     "title": "PEPR-GNN: Perturbation-Enhancer-Promoter-RNA Graph Neural Networks for Multiome Perturb-Seq modeling of regulomes.",
     "sent_at": "2026-05-19T04:25:49.086235Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.09.10.675455",
+    "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
+    "sent_at": "2026-05-19T10:05:48.028314Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bcp.2026.118072",
+    "title": "The nucleosome assembly protein 1 like 1: From histone chaperone to disease regulator.",
+    "sent_at": "2026-05-19T10:05:48.028314Z",
     "tier": 3,
     "kind": "journal"
   }
