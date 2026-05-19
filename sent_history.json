@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag474",
-    "title": "Pds5 regulates sister chromatid cohesion by controlling cohesin ATPase activity through the Eco1-Smc3 acetylation pathway.",
-    "sent_at": "2026-05-13T07:39:57.605563Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.08.723821",
-    "title": "Repulsion-Driven Layering in Polymer-Assisted Condensation",
-    "sent_at": "2026-05-13T08:59:57.345815Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jbc.2026.113139",
     "title": "TIP60 acts as a wound-induced factor essential for efficient regeneration in planaria.",
     "sent_at": "2026-05-13T08:59:57.345815Z",
@@ -557,6 +543,20 @@
     "title": "Antagonistic contributions of A-type and B-type lamins to LBR localization and dynamics.",
     "sent_at": "2026-05-19T16:58:38.479705Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.15.725569",
+    "title": "KAS-CUT&Tag for direct mapping of transcription bubbles",
+    "sent_at": "2026-05-19T20:09:01.573808Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s42003-026-10315-8",
+    "title": "Molecular regulators of regeneration and strategies for overcoming genotype-dependent recalcitrance in wheat (Triticum aestivum).",
+    "sent_at": "2026-05-19T20:09:01.573808Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
