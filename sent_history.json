@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2530814123",
-    "title": "Lineage-specific evolution of regulatory landscapes in a polyploid plant and its diploid progenitors.",
-    "sent_at": "2026-05-12T23:17:00.196064Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.10.723265",
-    "title": "Centromeric origin of Arabidopsis interstitial telomeric repeat domains",
-    "sent_at": "2026-05-13T04:13:06.381280Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/10408363.2026.2665294",
     "title": "Single cell mechanodeformation signatures as early biomarkers for hematological malignancies.",
     "sent_at": "2026-05-13T04:13:06.381280Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.bcp.2026.118072",
     "title": "The nucleosome assembly protein 1 like 1: From histone chaperone to disease regulator.",
     "sent_at": "2026-05-19T10:05:48.028314Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.18.725834",
+    "title": "Convergent evolution of cluster-wide Hox gene regulation in Bilateria",
+    "sent_at": "2026-05-19T12:57:44.828074Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/jnc.70465",
+    "title": "The Chromatin-Modifying Protein RCOR2/CoREST2 Safeguards Axon-Dendrite Growth and Microtubule Stability in Brain Neurons.",
+    "sent_at": "2026-05-19T12:57:44.828074Z",
     "tier": 3,
     "kind": "journal"
   }
