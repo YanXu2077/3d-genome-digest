@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/biology15090687",
-    "title": "Mechanistic Links Between DNA Methylation and Protein Translation and Their Impacts on Brain Development.",
-    "sent_at": "2026-05-12T18:17:53.776932Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.08.723760",
-    "title": "Pericentromeric repeat copy number tunes heterochromatin dosage to control chromosome segregation and gene expression in fission yeast",
-    "sent_at": "2026-05-12T20:19:01.870442Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.02.25.707818",
     "title": "Temporal chromatin and transcriptome dynamics driven by JUND and progesterone receptor binding in the pregnant mouse myometrium",
     "sent_at": "2026-05-12T21:53:49.838712Z",
@@ -557,6 +543,20 @@
     "title": "RNA-Associated Chromatin DNA-DNA Interaction Method.",
     "sent_at": "2026-05-18T23:19:21.709710Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.05.14.654144",
+    "title": "Genome reorganization and its functional impact during breast cancer progression",
+    "sent_at": "2026-05-19T04:25:49.086235Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.05.722311",
+    "title": "PEPR-GNN: Perturbation-Enhancer-Promoter-RNA Graph Neural Networks for Multiome Perturb-Seq modeling of regulomes.",
+    "sent_at": "2026-05-19T04:25:49.086235Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
