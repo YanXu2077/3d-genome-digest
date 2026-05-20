@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.09.724006",
-    "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest and a shared enhancer in mice.",
-    "sent_at": "2026-05-13T15:25:40.963421Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/cells15090844",
     "title": "Nuclear Lamins in Cardiac Development and Disease.",
     "sent_at": "2026-05-13T15:25:40.963421Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-19T23:22:13.644283Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.18.725888",
+    "title": "Deep Learning of High-throughput Transcription Factor-DNA Binding Affinity Data: Quantitative Comparison with Pairwise-Additive Models",
+    "sent_at": "2026-05-20T04:26:40.547045Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
