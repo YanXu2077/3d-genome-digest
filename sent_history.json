@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s00299-026-03795-9",
-    "title": "HUB1 positively regulates salt tolerance in Arabidopsis through dynamic H2B monoubiquitination.",
-    "sent_at": "2026-05-13T21:57:06.260479Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.10.724164",
     "title": "Systematic Regional Bias is Widespread in ChIP-seq",
     "sent_at": "2026-05-13T23:22:16.718701Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-20T17:27:38.648575Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.18.725960",
+    "title": "HiCP2GAN: A Plug and Play Foundation Model-based GAN for Hi-C Enhancement",
+    "sent_at": "2026-05-20T20:33:50.999394Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
