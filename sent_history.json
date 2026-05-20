@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/cells15090844",
-    "title": "Nuclear Lamins in Cardiac Development and Disease.",
-    "sent_at": "2026-05-13T15:25:40.963421Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.05.06.652547",
-    "title": "Promoter strength and position govern promoter competition via transcript-dependent insulation",
-    "sent_at": "2026-05-13T18:28:59.763276Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.02.24.707761",
     "title": "LEMONmethyl-seq: Targeted long-read DNA methylation profiling reveals dynamics of CRISPR epigenome editing and endogenous DNA methylation patterns.",
     "sent_at": "2026-05-13T18:28:59.763276Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-20T04:26:40.547045Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726389",
+    "title": "Stress Granules and FUS condensates recruit functionally distinct sets of RNAs",
+    "sent_at": "2026-05-20T09:56:18.924759Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41392-026-02766-6",
+    "title": "Targeting ZMIZ1 induces differentiation in acute myeloid leukemia via chromatin remodeling.",
+    "sent_at": "2026-05-20T09:56:18.924759Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
