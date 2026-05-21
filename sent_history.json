@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.10.724166",
-    "title": "Kaiso reads methylated CpGs at nucleosome entry/exit and displaces the H3 tail",
-    "sent_at": "2026-05-14T07:31:38.164517Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-72963-y",
-    "title": "Chromatin rewiring of β-globin and MYC enhancers by TGF-β1 drives defective erythropoiesis.",
-    "sent_at": "2026-05-14T07:31:38.164517Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.11.724351",
     "title": "Polarization-engineered aberration-resilient light sheet microscopy",
     "sent_at": "2026-05-14T08:55:37.784165Z",
@@ -557,6 +543,20 @@
     "title": "A Multidimensional View of Biomolecular Condensates in Plant Biology.",
     "sent_at": "2026-05-21T10:05:40.963943Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.18.725916",
+    "title": "Two-dye-imager DNA-PAINT enables volumetric nanoscopy of expanded cells",
+    "sent_at": "2026-05-21T13:01:35.169090Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag485",
+    "title": "UniversalEPI: robust prediction of cell type-specific and differential chromatin interactions from DNA sequence and chromatin accessibility.",
+    "sent_at": "2026-05-21T13:01:35.169090Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
