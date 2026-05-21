@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.sbi.2026.103282",
-    "title": "Base excision repair hierarchy in eukaryotes: Intrinsically disordered region-mediated regulation of genomic surveillance and assembly dynamics.",
-    "sent_at": "2026-05-14T10:46:51.382138Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.11.724289",
     "title": "PolyA/polyQ-mediated conformational rewiring regulates DNA engagement and drives aggregation in the neuronal transcription factor Ascl1",
     "sent_at": "2026-05-14T14:41:37.558738Z",
@@ -557,6 +550,13 @@
     "title": "Computational screen of promoter configurations that robustly sense transcription factor dynamics",
     "sent_at": "2026-05-21T20:11:20.505558Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726329",
+    "title": "In the Drosophila germline H2Av and Arp6 suppress transposons by driving piRNA pathway expression",
+    "sent_at": "2026-05-21T21:59:29.059288Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
