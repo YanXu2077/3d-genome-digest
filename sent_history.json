@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s11103-026-01720-y",
-    "title": "Epigenetically regulated transcriptional repressor, BASIC PENTACYSTEINE1 (BPC1) acts together with polycomb repressive complex 2 (PRC2) to suppress camalexin biosynthesis in Arabidopsis.",
-    "sent_at": "2026-05-13T23:22:16.718701Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.11.724242",
     "title": "Endocrine therapy-specific lineage and partial epithelial-mesenchymal reprogramming defines divergent resistant cell-states in ER+ breast cancer",
     "sent_at": "2026-05-14T04:14:40.608705Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.17.725716",
     "title": "Active field theory approach to explain size control of transcriptional condensates",
     "sent_at": "2026-05-20T23:29:10.170777Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.18.725930",
+    "title": "Prediction of Transcription Factor DNA Binding Affinity with High-Throughput Kd Measurements and Deep Learning",
+    "sent_at": "2026-05-21T04:44:42.148174Z",
     "tier": 2,
     "kind": "preprint"
   }
