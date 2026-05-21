@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724289",
-    "title": "PolyA/polyQ-mediated conformational rewiring regulates DNA engagement and drives aggregation in the neuronal transcription factor Ascl1",
-    "sent_at": "2026-05-14T14:41:37.558738Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.11.724287",
     "title": "RNA synthesis and degradation regulate biomolecular condensates through non-equilibrium feedback",
     "sent_at": "2026-05-14T18:08:55.264350Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.19.726329",
     "title": "In the Drosophila germline H2Av and Arp6 suppress transposons by driving piRNA pathway expression",
     "sent_at": "2026-05-21T21:59:29.059288Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726263",
+    "title": "Protein-DNA mesh assembly drives dsDNA-specific and duplex length-dependent activation of cGAS",
+    "sent_at": "2026-05-21T23:41:25.584941Z",
     "tier": 3,
     "kind": "preprint"
   }
