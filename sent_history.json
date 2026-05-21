@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.05.14.654032",
-    "title": "A novel FRET-force biosensor for nucleoporin gp210 reveals that the nuclear pore complex experiences mechanical tension",
-    "sent_at": "2026-05-14T10:46:51.382138Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103282",
     "title": "Base excision repair hierarchy in eukaryotes: Intrinsically disordered region-mediated regulation of genomic surveillance and assembly dynamics.",
     "sent_at": "2026-05-14T10:46:51.382138Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-21T16:49:49.365832Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726340",
+    "title": "Computational screen of promoter configurations that robustly sense transcription factor dynamics",
+    "sent_at": "2026-05-21T20:11:20.505558Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
