@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724351",
-    "title": "Polarization-engineered aberration-resilient light sheet microscopy",
-    "sent_at": "2026-05-14T08:55:37.784165Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/s11307-026-02110-y",
-    "title": "Recent Advances in the Development of CRISPR-Based Live-Cell Molecular Imaging and Sensing.",
-    "sent_at": "2026-05-14T08:55:37.784165Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.05.14.654032",
     "title": "A novel FRET-force biosensor for nucleoporin gp210 reveals that the nuclear pore complex experiences mechanical tension",
     "sent_at": "2026-05-14T10:46:51.382138Z",
@@ -557,6 +543,20 @@
     "title": "UniversalEPI: robust prediction of cell type-specific and differential chromatin interactions from DNA sequence and chromatin accessibility.",
     "sent_at": "2026-05-21T13:01:35.169090Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726354",
+    "title": "Telomere Dysfunction in Human Astrocytes Drives Acrocentric Chromosome Instability and Nucleolar Reorganization",
+    "sent_at": "2026-05-21T16:49:49.365832Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15476286.2026.2678068",
+    "title": "Chromatin remodeling: a driving force in reverse mechanotransduction.",
+    "sent_at": "2026-05-21T16:49:49.365832Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
