@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724242",
-    "title": "Endocrine therapy-specific lineage and partial epithelial-mesenchymal reprogramming defines divergent resistant cell-states in ER+ breast cancer",
-    "sent_at": "2026-05-14T04:14:40.608705Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/ijms27094069",
-    "title": "N-Substituted-2-(9H-Xanthen-9-yl)acetamide Derivatives Induce In Vitro Colon Cancer Cell Death via TASK-1 Inhibition: Lead Compounds for Further Optimization as TASK-1-Targeted Therapeutics in Colorec",
-    "sent_at": "2026-05-14T04:14:40.608705Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.10.724166",
     "title": "Kaiso reads methylated CpGs at nucleosome entry/exit and displaces the H3 tail",
     "sent_at": "2026-05-14T07:31:38.164517Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-21T04:44:42.148174Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.17.725756",
+    "title": "Systematic mapping of chromatin dysregulation driven by viral transcriptional regulators at scale",
+    "sent_at": "2026-05-21T10:05:40.963943Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1146/annurev-arplant-070725-083459",
+    "title": "A Multidimensional View of Biomolecular Condensates in Plant Biology.",
+    "sent_at": "2026-05-21T10:05:40.963943Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
