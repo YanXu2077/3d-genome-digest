@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724317",
-    "title": "Hierarchical Interplay between H3K27ac and H3K4me3 in Transcriptional Regulation",
-    "sent_at": "2026-05-14T20:17:55.676591Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.10.724120",
-    "title": "The Onset of Myeloid Differentiation in Hematopoietic Progenitors In Vivo is Coordinated with S-phase Progression",
-    "sent_at": "2026-05-14T21:49:20.490708Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.11.724304",
     "title": "KMT5C-H4K20me3 drives changes in epigenetic landscape independent of H3K9me3",
     "sent_at": "2026-05-14T23:15:56.197862Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-22T04:28:00.076252Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.10.01.679801",
+    "title": "SWING regions prime chromatin for nuclear speckle mediated gene regulation",
+    "sent_at": "2026-05-22T09:51:20.381247Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41568-026-00935-x",
+    "title": "Beyond sex determination: the Y chromosome in male cancers.",
+    "sent_at": "2026-05-22T09:51:20.381247Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
