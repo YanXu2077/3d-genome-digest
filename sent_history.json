@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.14.725081",
-    "title": "A weak-interaction model defines the cell-autonomous function of DNA methylation in gastrulation",
-    "sent_at": "2026-05-15T14:37:29.770183Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.14.725231",
     "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development",
     "sent_at": "2026-05-15T17:54:40.485232Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-22T20:06:32.968347Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.20.726505",
+    "title": "Combinatorial transcription factor interactions drive modular gene regulatory networks",
+    "sent_at": "2026-05-22T21:28:09.752898Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
