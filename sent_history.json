@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.14.725231",
-    "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development",
-    "sent_at": "2026-05-15T17:54:40.485232Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.12.724649",
     "title": "Bound for the nucleus: defining the molecular principles of cargo selection by importin 9",
     "sent_at": "2026-05-15T19:56:53.126463Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.20.726505",
     "title": "Combinatorial transcription factor interactions drive modular gene regulatory networks",
     "sent_at": "2026-05-22T21:28:09.752898Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.725914",
+    "title": "Denaturing purifications support direct interaction between PRC2 and RNA in cells",
+    "sent_at": "2026-05-22T23:19:58.109764Z",
     "tier": 3,
     "kind": "preprint"
   }
