@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724287",
-    "title": "RNA synthesis and degradation regulate biomolecular condensates through non-equilibrium feedback",
-    "sent_at": "2026-05-14T18:08:55.264350Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.11.724317",
     "title": "Hierarchical Interplay between H3K27ac and H3K4me3 in Transcriptional Regulation",
     "sent_at": "2026-05-14T20:17:55.676591Z",
@@ -557,6 +550,13 @@
     "title": "Protein-DNA mesh assembly drives dsDNA-specific and duplex length-dependent activation of cGAS",
     "sent_at": "2026-05-21T23:41:25.584941Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726226",
+    "title": "A key role for chromosome compartment interactions in directing Xist RNA localisation",
+    "sent_at": "2026-05-22T04:28:00.076252Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
