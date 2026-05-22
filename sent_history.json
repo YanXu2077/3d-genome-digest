@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.17.712366",
-    "title": "Deciphering context-dependent epigenetic program by network-based prediction of clustered open regulatory elements from single-cell chromatin accessibility",
-    "sent_at": "2026-05-15T12:07:59.230611Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fmolb.2026.1757821",
-    "title": "Structural and mechanistic perspectives on Nse5/6 regulation of the Smc5/6 complex.",
-    "sent_at": "2026-05-15T12:07:59.230611Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.14.725081",
     "title": "A weak-interaction model defines the cell-autonomous function of DNA methylation in gastrulation",
     "sent_at": "2026-05-15T14:37:29.770183Z",
@@ -557,6 +543,20 @@
     "title": "Master Regulator SMC1A, Stabilized by N6-Methyladenosine Reader IGF2BP1, Promotes HCC Progression Through Facilitating Enhancer-Promoter Interaction of Nestin.",
     "sent_at": "2026-05-22T16:38:43.437832Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726322",
+    "title": "Combinatorial pioneer transcription factor binding reinforces bivalent epigenetic states to preserve lineage fidelity",
+    "sent_at": "2026-05-22T20:06:32.968347Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.phymed.2026.158301",
+    "title": "6''-O-acetylsaikosaponin D targets STAT3-mediated transcriptional remodeling to induce ferroptosis and apoptosis.",
+    "sent_at": "2026-05-22T20:06:32.968347Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
