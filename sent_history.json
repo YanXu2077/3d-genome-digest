@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.12.724649",
-    "title": "Bound for the nucleus: defining the molecular principles of cargo selection by importin 9",
-    "sent_at": "2026-05-15T19:56:53.126463Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.10.22.680884",
-    "title": "Ancient and Animal-Specific Regulatory Modes of EWS::FLI1 Revealed by a Minimal Yeast Model.",
-    "sent_at": "2026-05-15T21:24:16.347162Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.724493",
     "title": "TDP-43 regulates chromatin looping and gene transcription through binding and stabilizing DNA G-quadruplex structures",
     "sent_at": "2026-05-15T23:10:28.891883Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-22T23:19:58.109764Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727156",
+    "title": "Promiscuous RNA binding by WDR5 remodels the KMT2A (MLL1) histone methyltransferase complex to an inactive state",
+    "sent_at": "2026-05-23T04:06:39.809715Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/procel/pwag033",
+    "title": "Epigenetic Dynamics of Human Spermatogenesis and Their Dysregulation in Non-Obstructive Azoospermia.",
+    "sent_at": "2026-05-23T04:06:39.809715Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
