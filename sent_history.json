@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s44319-026-00800-w",
-    "title": "Polymerase face-off: emerging concepts in transcription-replication coordination.",
-    "sent_at": "2026-05-16T06:36:34.875890Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.03.11.642677",
     "title": "Inhibition of TFIIH translocase reveals a novel lncRNA regulatory network at the BRCA1 locus",
     "sent_at": "2026-05-16T09:54:56.976428Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-23T11:44:49.197419Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.20.726634",
+    "title": "Echo characterizes the desynchronization of gene expression and chromatin accessibility during cell-state transitions",
+    "sent_at": "2026-05-23T14:04:41.514475Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
