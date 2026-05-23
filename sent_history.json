@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.18.710733",
-    "title": "Phosphatidylinositol 3-phosphate promotes 53BP1 condensate-like assembly at DNA double-strand breaks",
-    "sent_at": "2026-05-16T15:36:40.219101Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.14.725191",
     "title": "Continuous negative autoregulation fine-tunes dosage-sensitive transcription factor expression to maintain post-mitotic neuron identity",
     "sent_at": "2026-05-16T17:19:25.226094Z",
@@ -557,6 +550,13 @@
     "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of E. coli chromosome organization",
     "sent_at": "2026-05-23T19:28:20.023356Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.20.726666",
+    "title": "Developmental conversion of the nucleolus into an RNA Polymerase II transcriptional platform in Drosophila spermatocytes",
+    "sent_at": "2026-05-23T21:10:08.785823Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
