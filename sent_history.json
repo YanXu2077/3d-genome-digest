@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.09.21.676689",
-    "title": "simPIC: flexible simulation of single-cell ATAC-seq paired-insertion counts from individuals to populations",
-    "sent_at": "2026-05-16T11:17:51.077540Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.724860",
     "title": "Mapping the diffusional landscape of short NEAT1 in living cells",
     "sent_at": "2026-05-16T13:57:52.299274Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.21.726924",
     "title": "CMAPS: Causal Mediation Analysis of Perturbation Screens with Application to Genome-scale Perturb-seq Data",
     "sent_at": "2026-05-23T15:44:17.148616Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.06.18.660457",
+    "title": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma.",
+    "sent_at": "2026-05-23T17:21:40.692418Z",
     "tier": 3,
     "kind": "preprint"
   }
