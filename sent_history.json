@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.13.724493",
-    "title": "TDP-43 regulates chromatin looping and gene transcription through binding and stabilizing DNA G-quadruplex structures",
-    "sent_at": "2026-05-15T23:10:28.891883Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117361",
     "title": "Cooperative response loops enhanced by histamine signaling during tumor-neutrophil crosstalk in pleural mesothelioma.",
     "sent_at": "2026-05-15T23:10:28.891883Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-23T04:06:39.809715Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.20.726565",
+    "title": "Lamin dosage in cardiomyocytes supports nuclear organization and chromatin gating for transcription",
+    "sent_at": "2026-05-23T07:22:07.646412Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
