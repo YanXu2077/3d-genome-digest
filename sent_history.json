@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.15.725337",
-    "title": "Discovering conserved regulatory modules in predicted gene regulatory networks across species",
-    "sent_at": "2026-05-17T23:08:55.553037Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.15.724335",
     "title": "Determinants of centromeric nucleosome conformation",
     "sent_at": "2026-05-18T04:28:26.918927Z",
@@ -557,6 +550,13 @@
     "title": "Optical tweezers combined with FRET tension sensor reveal force-dependent vinculin dynamics",
     "sent_at": "2026-05-24T21:13:31.930467Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726207",
+    "title": "Snhg26 long non-coding RNA regulates pluripotent cell states through a SINEB2-derived sequence",
+    "sent_at": "2026-05-24T23:12:53.800576Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
