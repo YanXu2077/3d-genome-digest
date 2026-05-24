@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s11033-026-11964-y",
-    "title": "Functional dynamics of lncRNAs and miRNAs in cancer metabolism and neuroinflammation.",
-    "sent_at": "2026-05-17T11:25:31.415710Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.15.725498",
-    "title": "Canavanine-based assay for gross chromosomal rearrangements reveals genome instability hotspots and modulating genes in fission yeast",
-    "sent_at": "2026-05-17T13:57:29.912214Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.724850",
     "title": "OpenBase: a universal framework for high-accuracy single-molecule detection of diverse non-canonical DNA bases using nanopore sequencing",
     "sent_at": "2026-05-17T15:40:17.857956Z",
@@ -557,6 +543,20 @@
     "title": "NR5A2 controls gene expression and chromatin contacts of essential circadian metabolic genes in the liver.",
     "sent_at": "2026-05-24T13:58:50.126025Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726761",
+    "title": "TSC2 is a stress granule suppressor",
+    "sent_at": "2026-05-24T15:21:06.036784Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/bs.apcsb.2026.01.002",
+    "title": "Transcriptomic insights into epigenetic and immunomodulatory roles of nuclear histone genes in bladder cancer: A bioinformatics approach.",
+    "sent_at": "2026-05-24T15:21:06.036784Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
