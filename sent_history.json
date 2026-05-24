@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.14.725010",
-    "title": "Pangenome reference assemblies reveal the variation and recent activity of human LINE-1 retrotransposons",
-    "sent_at": "2026-05-17T19:26:51.219985Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.724825",
     "title": "Hydrogen Peroxide induces resistance to DNA damage in a localization and p53 dependent manner.",
     "sent_at": "2026-05-17T21:09:14.078621Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-24T17:20:53.986096Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.20.726702",
+    "title": "Pathway-resolved flux decomposition reveals hidden kinetic hierarchy in protein folding",
+    "sent_at": "2026-05-24T19:43:07.328631Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
