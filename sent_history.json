@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.13.724850",
-    "title": "OpenBase: a universal framework for high-accuracy single-molecule detection of diverse non-canonical DNA bases using nanopore sequencing",
-    "sent_at": "2026-05-17T15:40:17.857956Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.13.724900",
-    "title": "BARseq3: a modular system for integrating spatial multi-omics and cellular barcoding in single cells",
-    "sent_at": "2026-05-17T17:13:19.456401Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.14.725010",
     "title": "Pangenome reference assemblies reveal the variation and recent activity of human LINE-1 retrotransposons",
     "sent_at": "2026-05-17T19:26:51.219985Z",
@@ -557,6 +543,20 @@
     "title": "Transcriptomic insights into epigenetic and immunomodulatory roles of nuclear histone genes in bladder cancer: A bioinformatics approach.",
     "sent_at": "2026-05-24T15:21:06.036784Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726797",
+    "title": "Decoding Immune Reconstitution Failure in People Living with HIV through Single-cell Genomics",
+    "sent_at": "2026-05-24T17:20:53.986096Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.canlet.2026.218582",
+    "title": "Arginine restriction exploits DNMT3B-ASS1-driven arginine auxotrophy and mTORC1-suppressed autophagy to overcome niraparib resistance in ovarian cancer.",
+    "sent_at": "2026-05-24T17:20:53.986096Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
