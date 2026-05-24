@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.14.725175",
-    "title": "A chromatin accessibility map of pea aphid brain and embryo identifies tissue-specific regulatory elements",
-    "sent_at": "2026-05-16T19:25:39.326840Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.11.724171",
     "title": "Evaluation of fluorescent proteins for compatibility with STED microscopy systems using two-color spectroscopies",
     "sent_at": "2026-05-16T21:11:49.922965Z",
@@ -557,6 +550,13 @@
     "title": "Pervasive co-option of prokaryotic adenine methyltransferases by eukaryotic retrotransposons",
     "sent_at": "2026-05-23T23:08:55.990430Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727289",
+    "title": "A membrane-permeable small molecule biosensor accesses intractable cells and animals without genetic manipulation",
+    "sent_at": "2026-05-24T04:26:04.943614Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
