@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.13.724825",
-    "title": "Hydrogen Peroxide induces resistance to DNA damage in a localization and p53 dependent manner.",
-    "sent_at": "2026-05-17T21:09:14.078621Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.15.725337",
     "title": "Discovering conserved regulatory modules in predicted gene regulatory networks across species",
     "sent_at": "2026-05-17T23:08:55.553037Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.20.726702",
     "title": "Pathway-resolved flux decomposition reveals hidden kinetic hierarchy in protein folding",
     "sent_at": "2026-05-24T19:43:07.328631Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.11.10.687568",
+    "title": "Optical tweezers combined with FRET tension sensor reveal force-dependent vinculin dynamics",
+    "sent_at": "2026-05-24T21:13:31.930467Z",
     "tier": 4,
     "kind": "preprint"
   }
