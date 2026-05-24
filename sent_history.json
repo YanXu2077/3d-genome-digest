@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.11.724171",
-    "title": "Evaluation of fluorescent proteins for compatibility with STED microscopy systems using two-color spectroscopies",
-    "sent_at": "2026-05-16T21:11:49.922965Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.724882",
     "title": "Cellular stemness identifies high-risk ductal carcinoma in situ and offers a therapeutic interception opportunity",
     "sent_at": "2026-05-16T23:07:05.380100Z",
@@ -557,6 +550,13 @@
     "title": "A membrane-permeable small molecule biosensor accesses intractable cells and animals without genetic manipulation",
     "sent_at": "2026-05-24T04:26:04.943614Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726779",
+    "title": "Analysis of multi-way chromatin interactions at sub-nucleosome resolution identifies synergistic nano-scale interactions within super-enhancers",
+    "sent_at": "2026-05-24T08:45:10.801253Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
