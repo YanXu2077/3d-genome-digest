@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.13.724882",
-    "title": "Cellular stemness identifies high-risk ductal carcinoma in situ and offers a therapeutic interception opportunity",
-    "sent_at": "2026-05-16T23:07:05.380100Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.15.725364",
-    "title": "MCM10 targets CMG dimers via a conserved mechanism for synchronized helicase activation",
-    "sent_at": "2026-05-17T04:16:56.105309Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.13.725012",
     "title": "Disordered protein COSA-2 maintains crossover-specific repair compartments to ensure meiotic crossover maturation",
     "sent_at": "2026-05-17T08:34:17.928330Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-24T08:45:10.801253Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727261",
+    "title": "Cohesin collisions maintain ordered nucleosome architecture at boundaries and promoters",
+    "sent_at": "2026-05-24T11:27:46.686142Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s42003-026-10279-9",
+    "title": "RFX5 as a regulator of spatial chromatin contacts and gene expression.",
+    "sent_at": "2026-05-24T11:27:46.686142Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
