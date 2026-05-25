@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722036",
-    "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters.",
-    "sent_at": "2026-05-18T20:16:11.461839Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.14.725269",
-    "title": "HiCPEP: Efficient estimation of chromatin compartment PC1 from Hi-C covariance structure",
-    "sent_at": "2026-05-18T21:47:16.984536Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.04.722644",
     "title": "Nuclear Speckles Regulate Splicing During Muscle Stem Cell Activation and Aging.",
     "sent_at": "2026-05-18T21:47:16.984536Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.05.11.724317",
     "title": "Hierarchical Interplay between H3K27ac and H3K4me3 in Transcriptional Regulation.",
     "sent_at": "2026-05-25T17:54:18.866741Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727214",
+    "title": "Highly Constrained Kinetic Models for Single-Cell Gene Expression Analysis",
+    "sent_at": "2026-05-25T19:58:15.609153Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.15.724335",
+    "title": "Determinants of centromeric nucleosome conformation.",
+    "sent_at": "2026-05-25T19:58:15.609153Z",
     "tier": 3,
     "kind": "journal"
   }
