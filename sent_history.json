@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.15.725323",
-    "title": "Deep analysis of FANTOM CAGE data reveals hierarchical patterns of TSS co-deployment hubs and their disruption in cancers",
-    "sent_at": "2026-05-18T15:56:24.227843Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.15.725493",
     "title": "INTEGRATOR: Structural Elucidation of the INO80 Chromatin Remodeler via Experimentally Guided Molecular Simulations",
     "sent_at": "2026-05-18T18:15:25.090764Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-25T04:49:27.300310Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727281",
+    "title": "Genome-wide mapping of Bicoid/DNA interactions reveals quantitative constraints on transcriptional regulation",
+    "sent_at": "2026-05-25T10:45:34.009587Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
