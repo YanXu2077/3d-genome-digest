@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3791/70090",
-    "title": "RNA-Associated Chromatin DNA-DNA Interaction Method.",
-    "sent_at": "2026-05-18T23:19:21.709710Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.05.14.654144",
-    "title": "Genome reorganization and its functional impact during breast cancer progression",
-    "sent_at": "2026-05-19T04:25:49.086235Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.05.722311",
     "title": "PEPR-GNN: Perturbation-Enhancer-Promoter-RNA Graph Neural Networks for Multiome Perturb-Seq modeling of regulomes.",
     "sent_at": "2026-05-19T04:25:49.086235Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin accessibility dynamics and a hierarchical transcriptional regulatory network for shoot apex cold stress in Eucalyptus grandis.",
     "sent_at": "2026-05-25T21:24:25.960357Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726529",
+    "title": "HiCPotts: An R/Bioconductor package to identify significant interactions in chromosome conformation capture data and model sources of biases.",
+    "sent_at": "2026-05-25T23:20:54.907247Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21037/tcr-2025-1-2752",
+    "title": "Lysine crotonylation-related long non-coding RNAs: a novel prognostic framework for gastric carcinoma.",
+    "sent_at": "2026-05-25T23:20:54.907247Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
