@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.07.723561",
-    "title": "Cohesin bridging as a physical principle of enhancer-promoter communication.",
-    "sent_at": "2026-05-18T18:15:25.090764Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.14.724656",
-    "title": "Epigenetic maintenance of PRC2-repressed chromatin requires RTT109 but not H3K56 acetylation",
-    "sent_at": "2026-05-18T20:16:11.461839Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.04.722036",
     "title": "CpG island density predicts CBP/p300 dependency across 3D chromatin clusters.",
     "sent_at": "2026-05-18T20:16:11.461839Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-25T15:29:37.693347Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.24.727549",
+    "title": "Transcription condensates are promoter hubs that enhance transcriptional bursts",
+    "sent_at": "2026-05-25T17:54:18.866741Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724317",
+    "title": "Hierarchical Interplay between H3K27ac and H3K4me3 in Transcriptional Regulation.",
+    "sent_at": "2026-05-25T17:54:18.866741Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
