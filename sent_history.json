@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.15.724335",
-    "title": "Determinants of centromeric nucleosome conformation",
-    "sent_at": "2026-05-18T04:28:26.918927Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.15.725447",
-    "title": "Reciprocal constraint couples architectural protein abundance and pericentromeric satellite expansion",
-    "sent_at": "2026-05-18T10:27:28.616552Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.15.725323",
     "title": "Deep analysis of FANTOM CAGE data reveals hierarchical patterns of TSS co-deployment hubs and their disruption in cancers",
     "sent_at": "2026-05-18T15:56:24.227843Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-24T23:12:53.800576Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.02.08.619913",
+    "title": "Multi-lineage transcriptional and cell communication signatures define evolving personalized mechanisms that initiate and perpetuate rheumatoid arthritis",
+    "sent_at": "2026-05-25T04:49:27.300310Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-3-032-20041-9_4",
+    "title": "Modeling Therapeutic Targets: β-Globin Disorders and Beyond.",
+    "sent_at": "2026-05-25T04:49:27.300310Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
