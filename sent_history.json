@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.17.688899",
-    "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
-    "sent_at": "2026-05-19T16:58:38.479705Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/19491034.2026.2673721",
     "title": "Antagonistic contributions of A-type and B-type lamins to LBR localization and dynamics.",
     "sent_at": "2026-05-19T16:58:38.479705Z",
@@ -557,6 +550,13 @@
     "title": "Chromatin priming by transcription factor ELF3 confers transcriptional competence for amniotic differentiation on primed human embryonic stem cells",
     "sent_at": "2026-05-26T16:08:48.406991Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.22.726336",
+    "title": "cGAS bends unpaired DNA to form an unconventional structure that hyperactivates the innate immune response",
+    "sent_at": "2026-05-26T18:40:23.915842Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
