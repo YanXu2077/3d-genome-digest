@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1080/19491034.2026.2673721",
-    "title": "Antagonistic contributions of A-type and B-type lamins to LBR localization and dynamics.",
-    "sent_at": "2026-05-19T16:58:38.479705Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.15.725569",
     "title": "KAS-CUT&Tag for direct mapping of transcription bubbles",
     "sent_at": "2026-05-19T20:09:01.573808Z",
@@ -557,6 +550,13 @@
     "title": "cGAS bends unpaired DNA to form an unconventional structure that hyperactivates the innate immune response",
     "sent_at": "2026-05-26T18:40:23.915842Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.24.727475",
+    "title": "Activator-binding domains are required but insufficient for Med15 recruitment to UAS, revealing a critical role for its disordered C-terminus in directing genome targeting",
+    "sent_at": "2026-05-26T20:34:51.394726Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
