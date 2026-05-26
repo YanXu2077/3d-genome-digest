@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.05.722311",
-    "title": "PEPR-GNN: Perturbation-Enhancer-Promoter-RNA Graph Neural Networks for Multiome Perturb-Seq modeling of regulomes.",
-    "sent_at": "2026-05-19T04:25:49.086235Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.09.10.675455",
     "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
     "sent_at": "2026-05-19T10:05:48.028314Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-25T23:20:54.907247Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.25.727590",
+    "title": "Large RNA polymerase II condensates are promoter-centric assemblies associated with early stages of transcription at all expressed genes",
+    "sent_at": "2026-05-26T04:23:18.912186Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
