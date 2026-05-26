@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.09.10.675455",
-    "title": "Genome-Wide Annotation of Promoter-Enhancer Interactions via Chromatin Loops in the Hybrid Rat Diversity Panel",
-    "sent_at": "2026-05-19T10:05:48.028314Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bcp.2026.118072",
     "title": "The nucleosome assembly protein 1 like 1: From histone chaperone to disease regulator.",
     "sent_at": "2026-05-19T10:05:48.028314Z",
@@ -557,6 +550,13 @@
     "title": "Large RNA polymerase II condensates are promoter-centric assemblies associated with early stages of transcription at all expressed genes",
     "sent_at": "2026-05-26T04:23:18.912186Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.08.26.609711",
+    "title": "Ligand-dependent Enhancer Activation Indirectly Modulates Non-target Promoters in a Chromatin Domain",
+    "sent_at": "2026-05-26T10:19:04.658126Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
