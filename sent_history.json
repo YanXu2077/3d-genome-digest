@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bcp.2026.118072",
-    "title": "The nucleosome assembly protein 1 like 1: From histone chaperone to disease regulator.",
-    "sent_at": "2026-05-19T10:05:48.028314Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.18.725834",
-    "title": "Convergent evolution of cluster-wide Hox gene regulation in Bilateria",
-    "sent_at": "2026-05-19T12:57:44.828074Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1111/jnc.70465",
     "title": "The Chromatin-Modifying Protein RCOR2/CoREST2 Safeguards Axon-Dendrite Growth and Microtubule Stability in Brain Neurons.",
     "sent_at": "2026-05-19T12:57:44.828074Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-26T10:19:04.658126Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.24.727463",
+    "title": "Benchmarking normalisation methods for differential binding analysis in CUT&RUN",
+    "sent_at": "2026-05-26T13:34:12.315903Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag535",
+    "title": "Physics-based nucleosome-resolution modeling of epigenetic-driven chromatin domain dynamics.",
+    "sent_at": "2026-05-26T13:34:12.315903Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
