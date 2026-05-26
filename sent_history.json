@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1111/jnc.70465",
-    "title": "The Chromatin-Modifying Protein RCOR2/CoREST2 Safeguards Axon-Dendrite Growth and Microtubule Stability in Brain Neurons.",
-    "sent_at": "2026-05-19T12:57:44.828074Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.11.17.688899",
     "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
     "sent_at": "2026-05-19T16:58:38.479705Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-26T13:34:12.315903Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.08.04.668400",
+    "title": "Chromatin priming by transcription factor ELF3 confers transcriptional competence for amniotic differentiation on primed human embryonic stem cells",
+    "sent_at": "2026-05-26T16:08:48.406991Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
