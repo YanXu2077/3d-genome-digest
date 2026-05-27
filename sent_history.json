@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2601272123",
-    "title": "The Greenland shark genome: Insights into lifespan extremes and population dynamics.",
-    "sent_at": "2026-05-19T23:22:13.644283Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.18.725888",
     "title": "Deep Learning of High-throughput Transcription Factor-DNA Binding Affinity Data: Quantitative Comparison with Pairwise-Additive Models",
     "sent_at": "2026-05-20T04:26:40.547045Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-27T04:48:34.529401Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.22.727304",
+    "title": "Atg8 orchestrates stress-responsive chromatin programs across immunity and metabolism",
+    "sent_at": "2026-05-27T10:18:45.017201Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
