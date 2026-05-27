@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bpj.2026.05.021",
-    "title": "Telomeres in Lamin-A Depleted Cells Exhibit Directed Motion and Dynamic Coherence.",
-    "sent_at": "2026-05-20T12:37:58.969290Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.18.726059",
-    "title": "Arginine methylation of BAF155 regulates interactions with RNA processing machinery",
-    "sent_at": "2026-05-20T17:27:38.648575Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1039/d6md00286b",
     "title": "From scaffold to selectivity-medicinal insights of PRMT1 and PRMT4 inhibitors for epigenetic cancer therapy.",
     "sent_at": "2026-05-20T17:27:38.648575Z",
@@ -556,6 +542,20 @@
     "doi": "10.1007/s00018-026-06255-5",
     "title": "Regulation of lineage reprogramming by dynamic chromatin SUMOylation.",
     "sent_at": "2026-05-27T18:43:02.667814Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.23.727275",
+    "title": "Nitrosomes: protein language modeling and live-cell imaging reveal condensate-like nitrogenase organization in heterocysts",
+    "sent_at": "2026-05-27T20:34:36.353593Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/17501911.2026.2678924",
+    "title": "Epigenetic regulation of non-coding DNA in placental development and disorders.",
+    "sent_at": "2026-05-27T20:34:36.353593Z",
     "tier": 3,
     "kind": "journal"
   }
