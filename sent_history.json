@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.18.725888",
-    "title": "Deep Learning of High-throughput Transcription Factor-DNA Binding Affinity Data: Quantitative Comparison with Pairwise-Additive Models",
-    "sent_at": "2026-05-20T04:26:40.547045Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.19.726389",
-    "title": "Stress Granules and FUS condensates recruit functionally distinct sets of RNAs",
-    "sent_at": "2026-05-20T09:56:18.924759Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41392-026-02766-6",
     "title": "Targeting ZMIZ1 induces differentiation in acute myeloid leukemia via chromatin remodeling.",
     "sent_at": "2026-05-20T09:56:18.924759Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-27T10:18:45.017201Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.21.726873",
+    "title": "Lipid Composition Modulates Secondary Structure at the Biocondensate-Membrane Interface",
+    "sent_at": "2026-05-27T16:20:10.142501Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17050521",
+    "title": "Dynamic Histone Modification Patterns in Key Transcription Factor Genes During Porcine Adipogenesis.",
+    "sent_at": "2026-05-27T16:20:10.142501Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
