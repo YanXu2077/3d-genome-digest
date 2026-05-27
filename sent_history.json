@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41392-026-02766-6",
-    "title": "Targeting ZMIZ1 induces differentiation in acute myeloid leukemia via chromatin remodeling.",
-    "sent_at": "2026-05-20T09:56:18.924759Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.01.28.635202",
-    "title": "YAP1-2α heterodimerization with TAZ promotes cancer aggressiveness through BRD4-dependent liquid-liquid phase separation at super-enhancers",
-    "sent_at": "2026-05-20T12:37:58.969290Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bpj.2026.05.021",
     "title": "Telomeres in Lamin-A Depleted Cells Exhibit Directed Motion and Dynamic Coherence.",
     "sent_at": "2026-05-20T12:37:58.969290Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/genes17050521",
     "title": "Dynamic Histone Modification Patterns in Key Transcription Factor Genes During Porcine Adipogenesis.",
     "sent_at": "2026-05-27T16:20:10.142501Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.22.726988",
+    "title": "Spatially-Resolved Multiomic Atlas of Leiomyosarcoma Identifies Two Clinically Relevant Epigenetically-Driven Cell States",
+    "sent_at": "2026-05-27T18:43:02.667814Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00018-026-06255-5",
+    "title": "Regulation of lineage reprogramming by dynamic chromatin SUMOylation.",
+    "sent_at": "2026-05-27T18:43:02.667814Z",
     "tier": 3,
     "kind": "journal"
   }
