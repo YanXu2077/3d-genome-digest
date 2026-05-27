@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1039/d6md00286b",
-    "title": "From scaffold to selectivity-medicinal insights of PRMT1 and PRMT4 inhibitors for epigenetic cancer therapy.",
-    "sent_at": "2026-05-20T17:27:38.648575Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.18.725960",
-    "title": "HiCP2GAN: A Plug and Play Foundation Model-based GAN for Hi-C Enhancement",
-    "sent_at": "2026-05-20T20:33:50.999394Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.17.725716",
     "title": "Active field theory approach to explain size control of transcriptional condensates",
     "sent_at": "2026-05-20T23:29:10.170777Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/17501911.2026.2678924",
     "title": "Epigenetic regulation of non-coding DNA in placental development and disorders.",
     "sent_at": "2026-05-27T20:34:36.353593Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.23.727375",
+    "title": "A DNA-binding protein senses DNA superhelicity to switch between bridging and nucleoprotein filament formation",
+    "sent_at": "2026-05-27T22:20:56.036793Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12864-026-12963-w",
+    "title": "Toward a model of repeat-driven chromosomal fragility in Triticeae: an integrated structural omics perspective.",
+    "sent_at": "2026-05-27T22:20:56.036793Z",
     "tier": 3,
     "kind": "journal"
   }
