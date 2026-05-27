@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.17.725716",
-    "title": "Active field theory approach to explain size control of transcriptional condensates",
-    "sent_at": "2026-05-20T23:29:10.170777Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.18.725930",
-    "title": "Prediction of Transcription Factor DNA Binding Affinity with High-Throughput Kd Measurements and Deep Learning",
-    "sent_at": "2026-05-21T04:44:42.148174Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.17.725756",
     "title": "Systematic mapping of chromatin dysregulation driven by viral transcriptional regulators at scale",
     "sent_at": "2026-05-21T10:05:40.963943Z",
@@ -557,6 +543,20 @@
     "title": "Toward a model of repeat-driven chromosomal fragility in Triticeae: an integrated structural omics perspective.",
     "sent_at": "2026-05-27T22:20:56.036793Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.23.727391",
+    "title": "An autoinhibitory regulatory switch governs heterotypic phase separation and liquid-to-solid phase transition of TDP-43 and tau into cytotoxic amyloids",
+    "sent_at": "2026-05-27T23:47:52.774441Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17050547",
+    "title": "Integrated Evolutionary and Multi-Omic Analysis of STAT Family Activation Across Solid Tumors.",
+    "sent_at": "2026-05-27T23:47:52.774441Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
