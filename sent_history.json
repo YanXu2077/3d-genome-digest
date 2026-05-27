@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.18.722789",
-    "title": "The Prion-Like Properties of the INO80 Chromatin Remodeler Regulate Metabolic Gene Expression",
-    "sent_at": "2026-05-19T21:46:31.406586Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.16.724973",
-    "title": "Elongin B orchestrates chromatin and transcriptional programs in H3K27M-mutant diffuse midline glioma",
-    "sent_at": "2026-05-19T23:22:13.644283Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2601272123",
     "title": "The Greenland shark genome: Insights into lifespan extremes and population dynamics.",
     "sent_at": "2026-05-19T23:22:13.644283Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/advs.75839",
     "title": "A Non-Canonical Role of SMAD4 in Regulating 3D Genome Architecture to Inhibit Lung Squamous Cell Carcinoma Development.",
     "sent_at": "2026-05-26T22:10:41.377460Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.25.727721",
+    "title": "Embryo-scale Visual Cell Sorting reveals a conserved transcriptomic signature of nucleolar size linked to proteostasis",
+    "sent_at": "2026-05-27T04:48:34.529401Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-73049-5",
+    "title": "Loop extrusion by cohesin plays a role in enhancer-activated gene expression early in differentiation.",
+    "sent_at": "2026-05-27T04:48:34.529401Z",
     "tier": 1,
     "kind": "journal"
   }
