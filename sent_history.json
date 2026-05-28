@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.17.725756",
-    "title": "Systematic mapping of chromatin dysregulation driven by viral transcriptional regulators at scale",
-    "sent_at": "2026-05-21T10:05:40.963943Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1146/annurev-arplant-070725-083459",
-    "title": "A Multidimensional View of Biomolecular Condensates in Plant Biology.",
-    "sent_at": "2026-05-21T10:05:40.963943Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.18.725916",
     "title": "Two-dye-imager DNA-PAINT enables volumetric nanoscopy of expanded cells",
     "sent_at": "2026-05-21T13:01:35.169090Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/genes17050547",
     "title": "Integrated Evolutionary and Multi-Omic Analysis of STAT Family Activation Across Solid Tumors.",
     "sent_at": "2026-05-27T23:47:52.774441Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.24.727510",
+    "title": "ACLY integrates metabolism and chromatin accessibility to enable B Cell activation and humoral immunity",
+    "sent_at": "2026-05-28T04:27:48.169392Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/cells15100943",
+    "title": "Dual Roles of m6A Modification: Orchestrating Development and Abiotic Stress Resilience in Plants.",
+    "sent_at": "2026-05-28T04:27:48.169392Z",
     "tier": 4,
     "kind": "journal"
   }
