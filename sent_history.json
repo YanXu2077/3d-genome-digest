@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726340",
-    "title": "Computational screen of promoter configurations that robustly sense transcription factor dynamics",
-    "sent_at": "2026-05-21T20:11:20.505558Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.19.726329",
     "title": "In the Drosophila germline H2Av and Arp6 suppress transposons by driving piRNA pathway expression",
     "sent_at": "2026-05-21T21:59:29.059288Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.25.727571",
     "title": "Accelerated Aging Signatures in 3D Genome Organization and Transcriptome in Schizophrenia",
     "sent_at": "2026-05-28T20:39:43.456277Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.03.13.641826",
+    "title": "Chromatin-associated intronic RNAs from long genes form introsomes that shape nuclear architecture in neuronal cells",
+    "sent_at": "2026-05-28T23:43:11.418270Z",
     "tier": 1,
     "kind": "preprint"
   }
