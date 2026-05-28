@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726354",
-    "title": "Telomere Dysfunction in Human Astrocytes Drives Acrocentric Chromosome Instability and Nucleolar Reorganization",
-    "sent_at": "2026-05-21T16:49:49.365832Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/15476286.2026.2678068",
     "title": "Chromatin remodeling: a driving force in reverse mechanotransduction.",
     "sent_at": "2026-05-21T16:49:49.365832Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-28T10:25:27.034341Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.11.693713",
+    "title": "A multiscale chromatin collapse underlies vascular pathology in Hutchinson -Gilford progeria syndrome",
+    "sent_at": "2026-05-28T16:25:52.996660Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
