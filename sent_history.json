@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.10.01.679801",
-    "title": "SWING regions prime chromatin for nuclear speckle mediated gene regulation",
-    "sent_at": "2026-05-22T09:51:20.381247Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41568-026-00935-x",
     "title": "Beyond sex determination: the Y chromosome in male cancers.",
     "sent_at": "2026-05-22T09:51:20.381247Z",
@@ -557,6 +550,13 @@
     "title": "Rapid reduction in global chromatin loop size after acute STAG2 reconstitution in human cancer cells",
     "sent_at": "2026-05-29T13:45:43.510617Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.727807",
+    "title": "Molecular grammar of RNA m6A modification in ribonucleoprotein granules",
+    "sent_at": "2026-05-29T16:12:40.015237Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
