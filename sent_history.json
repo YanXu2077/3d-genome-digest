@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.725981",
-    "title": "BPabZIP, a new bZIP protein motif that promotes binding near, and displacement of, nucleosomes",
-    "sent_at": "2026-05-22T16:38:43.437832Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.75616",
-    "title": "Master Regulator SMC1A, Stabilized by N6-Methyladenosine Reader IGF2BP1, Promotes HCC Progression Through Facilitating Enhancer-Promoter Interaction of Nestin.",
-    "sent_at": "2026-05-22T16:38:43.437832Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.19.726322",
     "title": "Combinatorial pioneer transcription factor binding reinforces bivalent epigenetic states to preserve lineage fidelity",
     "sent_at": "2026-05-22T20:06:32.968347Z",
@@ -556,6 +542,20 @@
     "doi": "10.1073/pnas.2609796123",
     "title": "Theory of chromosome structural dynamics by processive loop extrusion.",
     "sent_at": "2026-05-29T20:39:55.212072Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.06.20.659510",
+    "title": "NKX2-5 congenital heart disease mutations show diverse loss and gain of epigenomic, biochemical and chromatin search functions underpinning pathogenicity",
+    "sent_at": "2026-05-29T23:29:14.841969Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/nph.71298",
+    "title": "EMF2 deficiency disrupts epigenetic and chromatin organization landscapes, blocking root regeneration competence in Arabidopsis.",
+    "sent_at": "2026-05-29T23:29:14.841969Z",
     "tier": 1,
     "kind": "journal"
   }
