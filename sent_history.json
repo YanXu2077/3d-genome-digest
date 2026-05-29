@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726329",
-    "title": "In the Drosophila germline H2Av and Arp6 suppress transposons by driving piRNA pathway expression",
-    "sent_at": "2026-05-21T21:59:29.059288Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.19.726263",
     "title": "Protein-DNA mesh assembly drives dsDNA-specific and duplex length-dependent activation of cGAS",
     "sent_at": "2026-05-21T23:41:25.584941Z",
@@ -557,6 +550,13 @@
     "title": "Chromatin-associated intronic RNAs from long genes form introsomes that shape nuclear architecture in neuronal cells",
     "sent_at": "2026-05-28T23:43:11.418270Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.25.727758",
+    "title": "IDRs lead the way: Cooperativity between intrinsically disordered regions and structured interaction domains drives enrichment in transcription condensates",
+    "sent_at": "2026-05-29T04:41:06.168735Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
