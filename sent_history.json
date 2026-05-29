@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726226",
-    "title": "A key role for chromosome compartment interactions in directing Xist RNA localisation",
-    "sent_at": "2026-05-22T04:28:00.076252Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.10.01.679801",
     "title": "SWING regions prime chromatin for nuclear speckle mediated gene regulation",
     "sent_at": "2026-05-22T09:51:20.381247Z",
@@ -557,6 +550,13 @@
     "title": "An image-based CRISPR screen reveals splicing-mediated control of HP1α condensates",
     "sent_at": "2026-05-29T10:16:53.055306Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.727913",
+    "title": "Rapid reduction in global chromatin loop size after acute STAG2 reconstitution in human cancer cells",
+    "sent_at": "2026-05-29T13:45:43.510617Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
