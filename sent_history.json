@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41568-026-00935-x",
-    "title": "Beyond sex determination: the Y chromosome in male cancers.",
-    "sent_at": "2026-05-22T09:51:20.381247Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.19.726041",
     "title": "Super-resolved spatial organization of the nucleolar transcriptome",
     "sent_at": "2026-05-22T12:37:03.197824Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.26.727807",
     "title": "Molecular grammar of RNA m6A modification in ribonucleoprotein granules",
     "sent_at": "2026-05-29T16:12:40.015237Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.728003",
+    "title": "ELOF1 is a core component of the promoter-proximal paused RNA polymerase II complex",
+    "sent_at": "2026-05-29T17:52:12.804937Z",
     "tier": 2,
     "kind": "preprint"
   }
