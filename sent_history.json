@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726041",
-    "title": "Super-resolved spatial organization of the nucleolar transcriptome",
-    "sent_at": "2026-05-22T12:37:03.197824Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/17501911.2026.2676129",
-    "title": "Interplay of the 3D genome and epigenome in androgen-driven prostate cancer.",
-    "sent_at": "2026-05-22T12:37:03.197824Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.20.725981",
     "title": "BPabZIP, a new bZIP protein motif that promotes binding near, and displacement of, nucleosomes",
     "sent_at": "2026-05-22T16:38:43.437832Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-05-29T17:52:12.804937Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.727825",
+    "title": "Molecular mechanism for the functional divergence between cohesin paralogs during meiosis",
+    "sent_at": "2026-05-29T20:39:55.212072Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2609796123",
+    "title": "Theory of chromosome structural dynamics by processive loop extrusion.",
+    "sent_at": "2026-05-29T20:39:55.212072Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
