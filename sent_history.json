@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726322",
-    "title": "Combinatorial pioneer transcription factor binding reinforces bivalent epigenetic states to preserve lineage fidelity",
-    "sent_at": "2026-05-22T20:06:32.968347Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.phymed.2026.158301",
-    "title": "6''-O-acetylsaikosaponin D targets STAT3-mediated transcriptional remodeling to induce ferroptosis and apoptosis.",
-    "sent_at": "2026-05-22T20:06:32.968347Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.20.726505",
     "title": "Combinatorial transcription factor interactions drive modular gene regulatory networks",
     "sent_at": "2026-05-22T21:28:09.752898Z",
@@ -557,6 +543,20 @@
     "title": "EMF2 deficiency disrupts epigenetic and chromatin organization landscapes, blocking root regeneration competence in Arabidopsis.",
     "sent_at": "2026-05-29T23:29:14.841969Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.29.728737",
+    "title": "RNA-binding proteins activate transcription through defined molecular grammars",
+    "sent_at": "2026-05-30T04:17:48.519365Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciimmunol.aec1740",
+    "title": "Transcriptional and chromatin dynamics in macrophage differentiation and activation.",
+    "sent_at": "2026-05-30T04:17:48.519365Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
