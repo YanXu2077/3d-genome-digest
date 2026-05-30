@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-73046-8",
-    "title": "A Rahman Syndrome mutation in histone H1.4 disrupts chromatin compaction and phase separation.",
-    "sent_at": "2026-05-23T10:15:47.406005Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.20.726379",
     "title": "Autoimmune non-coding variants perturb transcription factor-cofactor complex assembly linked to enhancer activity",
     "sent_at": "2026-05-23T11:44:49.197419Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.26.727851",
     "title": "Leveraging epigenetic vulnerabilities of the stem cell-related HOX-signature in glioblastoma",
     "sent_at": "2026-05-30T14:06:19.556853Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.728333",
+    "title": "Globular domain histone H3R131C mutation remodels chromatin accessibility to promote oncogenic transcriptional programs",
+    "sent_at": "2026-05-30T15:53:06.318069Z",
     "tier": 3,
     "kind": "preprint"
   }
