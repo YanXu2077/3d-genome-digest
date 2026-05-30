@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.727156",
-    "title": "Promiscuous RNA binding by WDR5 remodels the KMT2A (MLL1) histone methyltransferase complex to an inactive state",
-    "sent_at": "2026-05-23T04:06:39.809715Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/procel/pwag033",
-    "title": "Epigenetic Dynamics of Human Spermatogenesis and Their Dysregulation in Non-Obstructive Azoospermia.",
-    "sent_at": "2026-05-23T04:06:39.809715Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.20.726565",
     "title": "Lamin dosage in cardiomyocytes supports nuclear organization and chromatin gating for transcription",
     "sent_at": "2026-05-23T07:22:07.646412Z",
@@ -557,6 +543,20 @@
     "title": "Neddylation is indispensable for early meiotic progression in spermatocytes via destabilizing HORMAD1 by SCF ubiquitin E3 ligase during synapsis.",
     "sent_at": "2026-05-30T07:31:25.879753Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.26.728006",
+    "title": "Phosphoserine clusters as metal ion sensors for protein phase separation",
+    "sent_at": "2026-05-30T10:28:14.468119Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.prp.2026.156560",
+    "title": "Metabolic-epigenetic crosstalk in lung cancer: Glycolytic reprogramming and lactylation-driven macrophage polarization.",
+    "sent_at": "2026-05-30T10:28:14.468119Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
