@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.05.709895",
-    "title": "Transitory enhancement of GATA2 chromatin engagement during early erythroid differentiation",
-    "sent_at": "2026-05-23T10:15:47.406005Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-73046-8",
     "title": "A Rahman Syndrome mutation in histone H1.4 disrupts chromatin compaction and phase separation.",
     "sent_at": "2026-05-23T10:15:47.406005Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.04.14.718598",
     "title": "Histone lactylation H3K18la and acetylation H3K27ac encode two separable epigenomic features for enhancer regulation",
     "sent_at": "2026-05-30T11:55:26.350240Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.727851",
+    "title": "Leveraging epigenetic vulnerabilities of the stem cell-related HOX-signature in glioblastoma",
+    "sent_at": "2026-05-30T14:06:19.556853Z",
     "tier": 3,
     "kind": "preprint"
   }
