@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726565",
-    "title": "Lamin dosage in cardiomyocytes supports nuclear organization and chromatin gating for transcription",
-    "sent_at": "2026-05-23T07:22:07.646412Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.03.05.709895",
     "title": "Transitory enhancement of GATA2 chromatin engagement during early erythroid differentiation",
     "sent_at": "2026-05-23T10:15:47.406005Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-05-30T10:28:14.468119Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.14.718598",
+    "title": "Histone lactylation H3K18la and acetylation H3K27ac encode two separable epigenomic features for enhancer regulation",
+    "sent_at": "2026-05-30T11:55:26.350240Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
