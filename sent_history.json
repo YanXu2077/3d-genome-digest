@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726379",
-    "title": "Autoimmune non-coding variants perturb transcription factor-cofactor complex assembly linked to enhancer activity",
-    "sent_at": "2026-05-23T11:44:49.197419Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s44319-026-00786-5",
     "title": "Age-related decline in nuclear envelope LINC complex drives neuronal aging via axon initial segment dysfunction.",
     "sent_at": "2026-05-23T11:44:49.197419Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.27.728333",
     "title": "Globular domain histone H3R131C mutation remodels chromatin accessibility to promote oncogenic transcriptional programs",
     "sent_at": "2026-05-30T15:53:06.318069Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.26.727981",
+    "title": "Decoding causal genes and programs from regulatory variants in aortic valve disease",
+    "sent_at": "2026-05-30T17:30:04.708851Z",
     "tier": 3,
     "kind": "preprint"
   }
