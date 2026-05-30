@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s44319-026-00786-5",
-    "title": "Age-related decline in nuclear envelope LINC complex drives neuronal aging via axon initial segment dysfunction.",
-    "sent_at": "2026-05-23T11:44:49.197419Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.20.726634",
     "title": "Echo characterizes the desynchronization of gene expression and chromatin accessibility during cell-state transitions",
     "sent_at": "2026-05-23T14:04:41.514475Z",
@@ -557,6 +550,13 @@
     "title": "Decoding causal genes and programs from regulatory variants in aortic valve disease",
     "sent_at": "2026-05-30T17:30:04.708851Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.728252",
+    "title": "Cooperative FOXA1-HNF4A binding emerges from motif spacing and nucleosome architecture",
+    "sent_at": "2026-05-30T19:41:51.287889Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
