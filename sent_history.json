@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.727289",
-    "title": "A membrane-permeable small molecule biosensor accesses intractable cells and animals without genetic manipulation",
-    "sent_at": "2026-05-24T04:26:04.943614Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.21.726779",
     "title": "Analysis of multi-way chromatin interactions at sub-nucleosome resolution identifies synergistic nano-scale interactions within super-enhancers",
     "sent_at": "2026-05-24T08:45:10.801253Z",
@@ -557,6 +550,13 @@
     "title": "The piRNA pathway mediates transcriptional silencing of LTR retrotransposons in ovaries and somatic tissues of Aedes mosquitoes",
     "sent_at": "2026-05-31T14:10:51.766841Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.728076",
+    "title": "Bayesian optimisation and graph-based rheology enable sequence-dependent modelling of DNA materials",
+    "sent_at": "2026-05-31T15:54:19.916410Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
