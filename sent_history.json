@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726692",
-    "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of E. coli chromosome organization",
-    "sent_at": "2026-05-23T19:28:20.023356Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.20.726666",
     "title": "Developmental conversion of the nucleolus into an RNA Polymerase II transcriptional platform in Drosophila spermatocytes",
     "sent_at": "2026-05-23T21:10:08.785823Z",
@@ -557,6 +550,13 @@
     "title": "Mapping genetic risk mechanisms for immune-mediated diseases across human dendritic cell differentiation",
     "sent_at": "2026-05-31T04:51:06.468059Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.728302",
+    "title": "TEX15 safeguards neuronal diversity in the mouse olfactory system",
+    "sent_at": "2026-05-31T09:21:16.328225Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
