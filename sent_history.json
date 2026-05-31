@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726666",
-    "title": "Developmental conversion of the nucleolus into an RNA Polymerase II transcriptional platform in Drosophila spermatocytes",
-    "sent_at": "2026-05-23T21:10:08.785823Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.21.726589",
     "title": "Pervasive co-option of prokaryotic adenine methyltransferases by eukaryotic retrotransposons",
     "sent_at": "2026-05-23T23:08:55.990430Z",
@@ -557,6 +550,13 @@
     "title": "TEX15 safeguards neuronal diversity in the mouse olfactory system",
     "sent_at": "2026-05-31T09:21:16.328225Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.727961",
+    "title": "Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions",
+    "sent_at": "2026-05-31T11:49:10.820019Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
