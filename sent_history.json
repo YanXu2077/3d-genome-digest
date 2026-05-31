@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.727261",
-    "title": "Cohesin collisions maintain ordered nucleosome architecture at boundaries and promoters",
-    "sent_at": "2026-05-24T11:27:46.686142Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s42003-026-10279-9",
     "title": "RFX5 as a regulator of spatial chromatin contacts and gene expression.",
     "sent_at": "2026-05-24T11:27:46.686142Z",
@@ -557,6 +550,13 @@
     "title": "Vorinostat (SAHA) alters the skeletal muscle differentiation program",
     "sent_at": "2026-05-31T17:24:42.923545Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728566",
+    "title": "Amplicon/Protein Bead Display enables quantitative in vitro biochemistry at scale",
+    "sent_at": "2026-05-31T19:44:13.842514Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
