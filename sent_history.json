@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.06.18.660457",
-    "title": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma.",
-    "sent_at": "2026-05-23T17:21:40.692418Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.20.726692",
     "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of E. coli chromosome organization",
     "sent_at": "2026-05-23T19:28:20.023356Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.29.728759",
     "title": "Epigenetic Profiling of Human Insulinomas Reveals AP-1 Family as Critical Regulators of Beta Cell Maturation",
     "sent_at": "2026-05-30T23:17:18.571012Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728586",
+    "title": "Mapping genetic risk mechanisms for immune-mediated diseases across human dendritic cell differentiation",
+    "sent_at": "2026-05-31T04:51:06.468059Z",
     "tier": 3,
     "kind": "preprint"
   }
