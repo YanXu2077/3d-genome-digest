@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s00018-026-06250-w",
-    "title": "NR5A2 controls gene expression and chromatin contacts of essential circadian metabolic genes in the liver.",
-    "sent_at": "2026-05-24T13:58:50.126025Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.21.726761",
     "title": "TSC2 is a stress granule suppressor",
     "sent_at": "2026-05-24T15:21:06.036784Z",
@@ -557,6 +550,13 @@
     "title": "Rare RNA Polymerase II failure modes mark the cancer-driving genes most affected by epigenetic perturbation",
     "sent_at": "2026-05-31T23:17:58.813006Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.06.723282",
+    "title": "Quantitative analysis of fibroblast migration reveals migratory states characterized by force generation, cell shape and motion",
+    "sent_at": "2026-06-01T05:12:34.825153Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
