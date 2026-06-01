@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726702",
-    "title": "Pathway-resolved flux decomposition reveals hidden kinetic hierarchy in protein folding",
-    "sent_at": "2026-05-24T19:43:07.328631Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.11.10.687568",
     "title": "Optical tweezers combined with FRET tension sensor reveal force-dependent vinculin dynamics",
     "sent_at": "2026-05-24T21:13:31.930467Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.30.728992",
     "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyl transferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
     "sent_at": "2026-06-01T21:54:04.594440Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.08.06.668799",
+    "title": "ASCL1 primes medullary thymic epithelial cell programs required for central tolerance",
+    "sent_at": "2026-06-01T23:56:02.812080Z",
     "tier": 3,
     "kind": "preprint"
   }
