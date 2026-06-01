@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/bs.apcsb.2026.01.002",
-    "title": "Transcriptomic insights into epigenetic and immunomodulatory roles of nuclear histone genes in bladder cancer: A bioinformatics approach.",
-    "sent_at": "2026-05-24T15:21:06.036784Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.21.726797",
-    "title": "Decoding Immune Reconstitution Failure in People Living with HIV through Single-cell Genomics",
-    "sent_at": "2026-05-24T17:20:53.986096Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.canlet.2026.218582",
     "title": "Arginine restriction exploits DNMT3B-ASS1-driven arginine auxotrophy and mTORC1-suppressed autophagy to overcome niraparib resistance in ovarian cancer.",
     "sent_at": "2026-05-24T17:20:53.986096Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-01T11:57:02.731881Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.27.728108",
+    "title": "fourSynergy: Ensemble-based interaction calling on 4C-seq data using gradient-free optimization",
+    "sent_at": "2026-06-01T18:17:51.870578Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/tpj.70957",
+    "title": "Sequence-directed R-loop formation coupled with DNA methylation reprogramming during polyploidization of Brachypodium.",
+    "sent_at": "2026-06-01T18:17:51.870578Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
