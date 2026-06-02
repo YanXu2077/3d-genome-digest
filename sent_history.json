@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.727281",
-    "title": "Genome-wide mapping of Bicoid/DNA interactions reveals quantitative constraints on transcriptional regulation",
-    "sent_at": "2026-05-25T10:45:34.009587Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.03.22.711973",
-    "title": "Chromatin landscape and epigenetic heterogeneity of acute myeloid leukemia",
-    "sent_at": "2026-05-25T15:29:37.693347Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.24.727549",
     "title": "Transcription condensates are promoter hubs that enhance transcriptional bursts",
     "sent_at": "2026-05-25T17:54:18.866741Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-02T17:02:03.207313Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.31.729137",
+    "title": "Lamin A/C coordinates nuclear mechanics, chromatin architecture, and transcriptional homeostasis in skeletal muscle in vivo",
+    "sent_at": "2026-06-02T21:25:49.362550Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s13577-026-01399-9",
+    "title": "FUS modulates R-loops by functionally interacting with RNase H1.",
+    "sent_at": "2026-06-02T21:25:49.362550Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
