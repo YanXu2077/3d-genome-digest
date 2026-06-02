@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.10.687568",
-    "title": "Optical tweezers combined with FRET tension sensor reveal force-dependent vinculin dynamics",
-    "sent_at": "2026-05-24T21:13:31.930467Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.21.726207",
     "title": "Snhg26 long non-coding RNA regulates pluripotent cell states through a SINEB2-derived sequence",
     "sent_at": "2026-05-24T23:12:53.800576Z",
@@ -557,6 +550,13 @@
     "title": "ASCL1 primes medullary thymic epithelial cell programs required for central tolerance",
     "sent_at": "2026-06-01T23:56:02.812080Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728588",
+    "title": "Characterization of Human Ectocentromeric Sites.",
+    "sent_at": "2026-06-02T05:00:37.489556Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
