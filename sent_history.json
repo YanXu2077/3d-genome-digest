@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.21.726207",
-    "title": "Snhg26 long non-coding RNA regulates pluripotent cell states through a SINEB2-derived sequence",
-    "sent_at": "2026-05-24T23:12:53.800576Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.02.08.619913",
-    "title": "Multi-lineage transcriptional and cell communication signatures define evolving personalized mechanisms that initiate and perpetuate rheumatoid arthritis",
-    "sent_at": "2026-05-25T04:49:27.300310Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-3-032-20041-9_4",
     "title": "Modeling Therapeutic Targets: β-Globin Disorders and Beyond.",
     "sent_at": "2026-05-25T04:49:27.300310Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-02T05:00:37.489556Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728562",
+    "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing",
+    "sent_at": "2026-06-02T10:56:56.357864Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/19491034.2026.2675754",
+    "title": "High-resolution nuclear cell biology by cryo-electron tomography.",
+    "sent_at": "2026-06-02T10:56:56.357864Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
