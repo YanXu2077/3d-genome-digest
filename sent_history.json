@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.15.724335",
-    "title": "Determinants of centromeric nucleosome conformation.",
-    "sent_at": "2026-05-25T19:58:15.609153Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.21.726836",
-    "title": "Regulation of the histone H3K36 methyltransferase Set2 by the histone chaperone Spt6",
-    "sent_at": "2026-05-25T21:24:25.960357Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.48130/forres-0026-0011",
     "title": "Chromatin accessibility dynamics and a hierarchical transcriptional regulatory network for shoot apex cold stress in Eucalyptus grandis.",
     "sent_at": "2026-05-25T21:24:25.960357Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-03T05:08:41.643093Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.03.17.712366",
+    "title": "Deciphering context-dependent epigenetic program by network-based prediction of clustered open regulatory elements from single-cell chromatin accessibility",
+    "sent_at": "2026-06-03T11:26:30.948088Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12943-026-02703-9",
+    "title": "MiR-494-5p suppresses colorectal cancer metastasis by multi-level targeting of KAT2B, a novel mechanism disrupting KAT2B enhancer-promoter looping, and inhibiting c-JUN-driven pro-metastatic propertie",
+    "sent_at": "2026-06-03T11:26:30.948088Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
