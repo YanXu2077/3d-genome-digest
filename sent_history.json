@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.48130/forres-0026-0011",
-    "title": "Chromatin accessibility dynamics and a hierarchical transcriptional regulatory network for shoot apex cold stress in Eucalyptus grandis.",
-    "sent_at": "2026-05-25T21:24:25.960357Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.21.726529",
-    "title": "HiCPotts: An R/Bioconductor package to identify significant interactions in chromosome conformation capture data and model sources of biases.",
-    "sent_at": "2026-05-25T23:20:54.907247Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.21037/tcr-2025-1-2752",
     "title": "Lysine crotonylation-related long non-coding RNAs: a novel prognostic framework for gastric carcinoma.",
     "sent_at": "2026-05-25T23:20:54.907247Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s12943-026-02703-9",
     "title": "MiR-494-5p suppresses colorectal cancer metastasis by multi-level targeting of KAT2B, a novel mechanism disrupting KAT2B enhancer-promoter looping, and inhibiting c-JUN-driven pro-metastatic propertie",
     "sent_at": "2026-06-03T11:26:30.948088Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.03.09.710516",
+    "title": "Establishing MS2-MCP-based single-molecule RNA visualization in Schizosaccharomyces pombe",
+    "sent_at": "2026-06-03T17:13:30.045532Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-73901-8",
+    "title": "Cyanine-modified ssODNs enhance CRISPR-Cas9 HDR in stem cell embryo models via chromatin and chemical modulation.",
+    "sent_at": "2026-06-03T17:13:30.045532Z",
     "tier": 3,
     "kind": "journal"
   }
