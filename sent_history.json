@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.21037/tcr-2025-1-2752",
-    "title": "Lysine crotonylation-related long non-coding RNAs: a novel prognostic framework for gastric carcinoma.",
-    "sent_at": "2026-05-25T23:20:54.907247Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.25.727590",
-    "title": "Large RNA polymerase II condensates are promoter-centric assemblies associated with early stages of transcription at all expressed genes",
-    "sent_at": "2026-05-26T04:23:18.912186Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.08.26.609711",
     "title": "Ligand-dependent Enhancer Activation Indirectly Modulates Non-target Promoters in a Chromatin Domain",
     "sent_at": "2026-05-26T10:19:04.658126Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-73901-8",
     "title": "Cyanine-modified ssODNs enhance CRISPR-Cas9 HDR in stem cell embryo models via chromatin and chemical modulation.",
     "sent_at": "2026-06-03T17:13:30.045532Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.31.729151",
+    "title": "Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction",
+    "sent_at": "2026-06-03T21:35:07.441189Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s12539-026-00846-3",
+    "title": "MVFAN-Kcr: A Multi-View Feature Fusion and Attention-Based Network for Lysine Crotonylation Site Identification.",
+    "sent_at": "2026-06-03T21:35:07.441189Z",
     "tier": 3,
     "kind": "journal"
   }
