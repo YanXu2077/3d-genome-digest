@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag535",
-    "title": "Physics-based nucleosome-resolution modeling of epigenetic-driven chromatin domain dynamics.",
-    "sent_at": "2026-05-26T13:34:12.315903Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.08.04.668400",
-    "title": "Chromatin priming by transcription factor ELF3 confers transcriptional competence for amniotic differentiation on primed human embryonic stem cells",
-    "sent_at": "2026-05-26T16:08:48.406991Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.22.726336",
     "title": "cGAS bends unpaired DNA to form an unconventional structure that hyperactivates the innate immune response",
     "sent_at": "2026-05-26T18:40:23.915842Z",
@@ -557,6 +543,20 @@
     "title": "Reconstructing EBV reactivation and DNA damage response kinetics in morphologic pseudotime.",
     "sent_at": "2026-06-04T00:01:05.968731Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.12.17.628805",
+    "title": "Androgen stimulation rapidly reorganizes temporal 3D genome and epigenome states to trigger AR-mediated transcription in prostate cancer.",
+    "sent_at": "2026-06-04T05:03:45.808699Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.fsi.2026.111483",
+    "title": "Integrated ATAC-seq and RNA-seq analysis reveals dynamic changes in chromatin accessibility and gene expression in Acrossocheilus fasciatus after Streptococcus agalactiae infection.",
+    "sent_at": "2026-06-04T05:03:45.808699Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
