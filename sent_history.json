@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s00018-026-06255-5",
-    "title": "Regulation of lineage reprogramming by dynamic chromatin SUMOylation.",
-    "sent_at": "2026-05-27T18:43:02.667814Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.23.727275",
     "title": "Nitrosomes: protein language modeling and live-cell imaging reveal condensate-like nitrogenase organization in heterocysts",
     "sent_at": "2026-05-27T20:34:36.353593Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-04T20:36:46.214230Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729264",
+    "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation",
+    "sent_at": "2026-06-04T22:08:59.253801Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
