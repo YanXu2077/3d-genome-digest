@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.727067",
-    "title": "Dual histone methylation reader ZCWPW2 links histone methylation to initiation of meiotic recombination",
-    "sent_at": "2026-05-26T22:10:41.377460Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.75839",
-    "title": "A Non-Canonical Role of SMAD4 in Regulating 3D Genome Architecture to Inhibit Lung Squamous Cell Carcinoma Development.",
-    "sent_at": "2026-05-26T22:10:41.377460Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.25.727721",
     "title": "Embryo-scale Visual Cell Sorting reveals a conserved transcriptomic signature of nucleolar size linked to proteostasis",
     "sent_at": "2026-05-27T04:48:34.529401Z",
@@ -557,6 +543,20 @@
     "title": "From early defence priming to lasting memory: developmental and seasonal dynamics in trees.",
     "sent_at": "2026-06-04T10:15:39.051533Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729215",
+    "title": "Cell-specific regulatory circuits connect genetic variation to disease susceptibility",
+    "sent_at": "2026-06-04T13:44:15.324754Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12859-026-06504-1",
+    "title": "THC-net: an attention-based deep learning model for chromatin compartment prediction from histone modifications.",
+    "sent_at": "2026-06-04T13:44:15.324754Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
