@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.23.727275",
-    "title": "Nitrosomes: protein language modeling and live-cell imaging reveal condensate-like nitrogenase organization in heterocysts",
-    "sent_at": "2026-05-27T20:34:36.353593Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/17501911.2026.2678924",
     "title": "Epigenetic regulation of non-coding DNA in placental development and disorders.",
     "sent_at": "2026-05-27T20:34:36.353593Z",
@@ -557,6 +550,13 @@
     "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation",
     "sent_at": "2026-06-04T22:08:59.253801Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.10.03.680410",
+    "title": "Influence of cis-regulatory elements on expression divergence in human segmental duplications",
+    "sent_at": "2026-06-04T23:48:22.223536Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
