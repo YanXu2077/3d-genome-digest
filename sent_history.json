@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.08.26.609711",
-    "title": "Ligand-dependent Enhancer Activation Indirectly Modulates Non-target Promoters in a Chromatin Domain",
-    "sent_at": "2026-05-26T10:19:04.658126Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.24.727463",
-    "title": "Benchmarking normalisation methods for differential binding analysis in CUT&RUN",
-    "sent_at": "2026-05-26T13:34:12.315903Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag535",
     "title": "Physics-based nucleosome-resolution modeling of epigenetic-driven chromatin domain dynamics.",
     "sent_at": "2026-05-26T13:34:12.315903Z",
@@ -557,6 +543,20 @@
     "title": "MVFAN-Kcr: A Multi-View Feature Fusion and Attention-Based Network for Lysine Crotonylation Site Identification.",
     "sent_at": "2026-06-03T21:35:07.441189Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.29.728882",
+    "title": "Gigabase-scale deletion scanning of the human genome",
+    "sent_at": "2026-06-04T00:01:05.968731Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2609598123",
+    "title": "Reconstructing EBV reactivation and DNA damage response kinetics in morphologic pseudotime.",
+    "sent_at": "2026-06-04T00:01:05.968731Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
