@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.22.726336",
-    "title": "cGAS bends unpaired DNA to form an unconventional structure that hyperactivates the innate immune response",
-    "sent_at": "2026-05-26T18:40:23.915842Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.24.727475",
-    "title": "Activator-binding domains are required but insufficient for Med15 recruitment to UAS, revealing a critical role for its disordered C-terminus in directing genome targeting",
-    "sent_at": "2026-05-26T20:34:51.394726Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.22.727067",
     "title": "Dual histone methylation reader ZCWPW2 links histone methylation to initiation of meiotic recombination",
     "sent_at": "2026-05-26T22:10:41.377460Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.fsi.2026.111483",
     "title": "Integrated ATAC-seq and RNA-seq analysis reveals dynamic changes in chromatin accessibility and gene expression in Acrossocheilus fasciatus after Streptococcus agalactiae infection.",
     "sent_at": "2026-06-04T05:03:45.808699Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.11.13.688391",
+    "title": "Elevated MyoD1 levels expand genome-wide binding and the repertoire of regulated genes",
+    "sent_at": "2026-06-04T10:15:39.051533Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1042/EBC20250063",
+    "title": "From early defence priming to lasting memory: developmental and seasonal dynamics in trees.",
+    "sent_at": "2026-06-04T10:15:39.051533Z",
     "tier": 3,
     "kind": "journal"
   }
