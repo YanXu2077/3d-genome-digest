@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/genes17050521",
-    "title": "Dynamic Histone Modification Patterns in Key Transcription Factor Genes During Porcine Adipogenesis.",
-    "sent_at": "2026-05-27T16:20:10.142501Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.22.726988",
-    "title": "Spatially-Resolved Multiomic Atlas of Leiomyosarcoma Identifies Two Clinically Relevant Epigenetically-Driven Cell States",
-    "sent_at": "2026-05-27T18:43:02.667814Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s00018-026-06255-5",
     "title": "Regulation of lineage reprogramming by dynamic chromatin SUMOylation.",
     "sent_at": "2026-05-27T18:43:02.667814Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.05.21.726904",
     "title": "Cell-specific dedifferentiation in Arabidopsis thaliana.",
     "sent_at": "2026-06-04T17:31:52.770594Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.01.725017",
+    "title": "Single-nucleoid imaging in whole cells defines the dynamics of the mtDNA life cycle",
+    "sent_at": "2026-06-04T20:36:46.214230Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11033-026-11965-x",
+    "title": "Biological pathways related to mirna-125a-5p in behavioral variant of frontotemporal dementia.",
+    "sent_at": "2026-06-04T20:36:46.214230Z",
     "tier": 4,
     "kind": "journal"
   }
