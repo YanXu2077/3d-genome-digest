@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.25.727721",
-    "title": "Embryo-scale Visual Cell Sorting reveals a conserved transcriptomic signature of nucleolar size linked to proteostasis",
-    "sent_at": "2026-05-27T04:48:34.529401Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-73049-5",
-    "title": "Loop extrusion by cohesin plays a role in enhancer-activated gene expression early in differentiation.",
-    "sent_at": "2026-05-27T04:48:34.529401Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.22.727304",
     "title": "Atg8 orchestrates stress-responsive chromatin programs across immunity and metabolism",
     "sent_at": "2026-05-27T10:18:45.017201Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s12859-026-06504-1",
     "title": "THC-net: an attention-based deep learning model for chromatin compartment prediction from histone modifications.",
     "sent_at": "2026-06-04T13:44:15.324754Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729058",
+    "title": "Multiome Profiling Reveals Astrocyte and Neuroendocrine Targets of Prenatal Acoustic Programming in Zebra Finch Embryos",
+    "sent_at": "2026-06-04T15:42:21.469788Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.19.726354",
+    "title": "Telomere Dysfunction in Human Astrocytes Drives Acrocentric Chromosome Instability and Nucleolar Reorganization.",
+    "sent_at": "2026-06-04T15:42:21.469788Z",
     "tier": 1,
     "kind": "journal"
   }
