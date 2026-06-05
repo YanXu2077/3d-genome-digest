@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.23.727391",
-    "title": "An autoinhibitory regulatory switch governs heterotypic phase separation and liquid-to-solid phase transition of TDP-43 and tau into cytotoxic amyloids",
-    "sent_at": "2026-05-27T23:47:52.774441Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/genes17050547",
-    "title": "Integrated Evolutionary and Multi-Omic Analysis of STAT Family Activation Across Solid Tumors.",
-    "sent_at": "2026-05-27T23:47:52.774441Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.24.727510",
     "title": "ACLY integrates metabolism and chromatin accessibility to enable B Cell activation and humoral immunity",
     "sent_at": "2026-05-28T04:27:48.169392Z",
@@ -557,6 +543,20 @@
     "title": "Clonal lineage tracing of innate immune cells in human cancer.",
     "sent_at": "2026-06-05T10:13:40.458050Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.02.728184",
+    "title": "Multidomain Coupling Governs FoxP1 Assembly and Nuclear Compartmentalization",
+    "sent_at": "2026-06-05T13:40:30.281991Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44341-026-00038-6",
+    "title": "Polarization increases nuclear stiffness in macrophages despite reduction in lamin A/C levels.",
+    "sent_at": "2026-06-05T13:40:30.281991Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
