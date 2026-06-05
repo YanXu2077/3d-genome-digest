@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.25.727571",
-    "title": "Accelerated Aging Signatures in 3D Genome Organization and Transcriptome in Schizophrenia",
-    "sent_at": "2026-05-28T20:39:43.456277Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.03.13.641826",
-    "title": "Chromatin-associated intronic RNAs from long genes form introsomes that shape nuclear architecture in neuronal cells",
-    "sent_at": "2026-05-28T23:43:11.418270Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.25.727758",
     "title": "IDRs lead the way: Cooperativity between intrinsically disordered regions and structured interaction domains drives enrichment in transcription condensates",
     "sent_at": "2026-05-29T04:41:06.168735Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-05T21:58:24.958243Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729583",
+    "title": "The RNA helicase DDX21 cooperates with ETS1 and FLI1 in cell cycle, immune evasion, and snoRNA processing in activated B-cell-like diffuse large B-cell lymphoma cells",
+    "sent_at": "2026-06-05T23:27:48.232255Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.pgen.1011940",
+    "title": "Chromatin insulators homie and nhomie can interact with distant copies either together or separately, with distinct outcomes for enhancer-promoter interactions.",
+    "sent_at": "2026-06-05T23:27:48.232255Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
