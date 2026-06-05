@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.16.698179",
-    "title": "Menin maintains enhancer-promoter interactions in a leukemia-specific manner",
-    "sent_at": "2026-05-28T10:25:27.034341Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/genes17050553",
     "title": "Possible Involvement of Differential Ubiquitination as a Molecular Basis of Phenotypic Heterogeneity in Neurodevelopmental Disorders.",
     "sent_at": "2026-05-28T10:25:27.034341Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-05T15:33:45.872848Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.03.729976",
+    "title": "Architectural fragility of gene regulatory networks underlies hematopoietic stem cell aging",
+    "sent_at": "2026-06-05T17:05:31.663806Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
