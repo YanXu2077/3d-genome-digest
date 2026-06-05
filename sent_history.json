@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1080/17501911.2026.2678924",
-    "title": "Epigenetic regulation of non-coding DNA in placental development and disorders.",
-    "sent_at": "2026-05-27T20:34:36.353593Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.23.727375",
     "title": "A DNA-binding protein senses DNA superhelicity to switch between bridging and nucleoprotein filament formation",
     "sent_at": "2026-05-27T22:20:56.036793Z",
@@ -557,6 +550,13 @@
     "title": "Influence of cis-regulatory elements on expression divergence in human segmental duplications",
     "sent_at": "2026-06-04T23:48:22.223536Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729033",
+    "title": "Single-molecule nucleosome spacing coordinates chromatin fiber interactions",
+    "sent_at": "2026-06-05T04:46:49.975829Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
