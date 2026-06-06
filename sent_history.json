@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciimmunol.aec1740",
-    "title": "Transcriptional and chromatin dynamics in macrophage differentiation and activation.",
-    "sent_at": "2026-05-30T04:17:48.519365Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.27.727946",
     "title": "DeepDiffusion: a Physics-Informed Neural Network for Heterogeneous Facilitated 1D Diffusion",
     "sent_at": "2026-05-30T07:31:25.879753Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.03.729912",
     "title": "Multi-Domain Interplay Controls Full-Length TDP-43 Phase Separation and Condensate Dynamics",
     "sent_at": "2026-06-06T19:49:20.648153Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.728745",
+    "title": "An enhancer-centric approach applied to human immune system epigenomes revealed the association of macrophage enhancers with cardiovascular disease",
+    "sent_at": "2026-06-06T21:19:49.902465Z",
     "tier": 3,
     "kind": "preprint"
   }
