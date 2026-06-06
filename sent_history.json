@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.26.727913",
-    "title": "Rapid reduction in global chromatin loop size after acute STAG2 reconstitution in human cancer cells",
-    "sent_at": "2026-05-29T13:45:43.510617Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.26.727807",
-    "title": "Molecular grammar of RNA m6A modification in ribonucleoprotein granules",
-    "sent_at": "2026-05-29T16:12:40.015237Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.26.728003",
     "title": "ELOF1 is a core component of the promoter-proximal paused RNA polymerase II complex",
     "sent_at": "2026-05-29T17:52:12.804937Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciimmunol.aed1544",
     "title": "Efferocytosis induces proangiogenic function and chromatin remodeling in tumor-associated macrophages.",
     "sent_at": "2026-06-06T04:18:21.389997Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.04.730248",
+    "title": "Structural Dynamics of RNA Polymerase II During Nucleotide Addition Cycle",
+    "sent_at": "2026-06-06T08:48:58.844184Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-74000-4",
+    "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories.",
+    "sent_at": "2026-06-06T08:48:58.844184Z",
     "tier": 3,
     "kind": "journal"
   }
