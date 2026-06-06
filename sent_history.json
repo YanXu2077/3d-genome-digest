@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.06.20.659510",
-    "title": "NKX2-5 congenital heart disease mutations show diverse loss and gain of epigenomic, biochemical and chromatin search functions underpinning pathogenicity",
-    "sent_at": "2026-05-29T23:29:14.841969Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1111/nph.71298",
     "title": "EMF2 deficiency disrupts epigenetic and chromatin organization landscapes, blocking root regeneration competence in Arabidopsis.",
     "sent_at": "2026-05-29T23:29:14.841969Z",
@@ -557,6 +550,13 @@
     "title": "Simulation of transcription factor clustering in nuclei from molecular kinetics",
     "sent_at": "2026-06-06T14:08:50.498938Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729627",
+    "title": "Loss of the Y chromosome drives epigenetic and transcriptomic plasticity in lung adenocarcinoma",
+    "sent_at": "2026-06-06T15:56:07.942806Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
