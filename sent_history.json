@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.25.727758",
-    "title": "IDRs lead the way: Cooperativity between intrinsically disordered regions and structured interaction domains drives enrichment in transcription condensates",
-    "sent_at": "2026-05-29T04:41:06.168735Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.09.21.676939",
-    "title": "An image-based CRISPR screen reveals splicing-mediated control of HP1α condensates",
-    "sent_at": "2026-05-29T10:16:53.055306Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.26.727913",
     "title": "Rapid reduction in global chromatin loop size after acute STAG2 reconstitution in human cancer cells",
     "sent_at": "2026-05-29T13:45:43.510617Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin insulators homie and nhomie can interact with distant copies either together or separately, with distinct outcomes for enhancer-promoter interactions.",
     "sent_at": "2026-06-05T23:27:48.232255Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.03.19.712829",
+    "title": "A latent interaction landscape inferred from Micro-C encodes chromatin regulatory identity and conformational diversity beyond contact frequency",
+    "sent_at": "2026-06-06T04:18:21.389997Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciimmunol.aed1544",
+    "title": "Efferocytosis induces proangiogenic function and chromatin remodeling in tumor-associated macrophages.",
+    "sent_at": "2026-06-06T04:18:21.389997Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
