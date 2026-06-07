@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.26.727981",
-    "title": "Decoding causal genes and programs from regulatory variants in aortic valve disease",
-    "sent_at": "2026-05-30T17:30:04.708851Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.27.728252",
     "title": "Cooperative FOXA1-HNF4A binding emerges from motif spacing and nucleosome architecture",
     "sent_at": "2026-05-30T19:41:51.287889Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-07T12:02:34.402482Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.03.729890",
+    "title": "Population-scale Y chromosome assemblies reveal recurrent remodeling within constrained architectures",
+    "sent_at": "2026-06-07T14:21:41.557845Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
