@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.728586",
-    "title": "Mapping genetic risk mechanisms for immune-mediated diseases across human dendritic cell differentiation",
-    "sent_at": "2026-05-31T04:51:06.468059Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.27.728302",
     "title": "TEX15 safeguards neuronal diversity in the mouse olfactory system",
     "sent_at": "2026-05-31T09:21:16.328225Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.05.730321",
     "title": "Magnetic Tweezers Experiments Reveal Increased Mechanical Sensitivity of the F2561Y Mutant in Von Willebrand Factor",
     "sent_at": "2026-06-07T19:48:44.762201Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729456",
+    "title": "The widely used eGFP sequence produces an unintended protein product",
+    "sent_at": "2026-06-07T21:26:56.581449Z",
     "tier": 4,
     "kind": "preprint"
   }
