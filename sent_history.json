@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.728442",
-    "title": "Fragmentation Patterns of Human Telomeric Chromatin in Plasma cfDNA",
-    "sent_at": "2026-05-30T21:19:27.415047Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.29.728759",
     "title": "Epigenetic Profiling of Human Insulinomas Reveals AP-1 Family as Critical Regulators of Beta Cell Maturation",
     "sent_at": "2026-05-30T23:17:18.571012Z",
@@ -557,6 +550,13 @@
     "title": "Topology-dependent FRET efficiency in living cells via N-C swapping of fluorescent protein fusions",
     "sent_at": "2026-06-07T15:56:12.172886Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729736",
+    "title": "Chromap Suite: an open-source single-binary platform for agentic multiomic RNA + ATAC profiling",
+    "sent_at": "2026-06-07T17:41:20.568020Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
