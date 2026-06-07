@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.728302",
-    "title": "TEX15 safeguards neuronal diversity in the mouse olfactory system",
-    "sent_at": "2026-05-31T09:21:16.328225Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.27.727961",
     "title": "Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions",
     "sent_at": "2026-05-31T11:49:10.820019Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.02.729456",
     "title": "The widely used eGFP sequence produces an unintended protein product",
     "sent_at": "2026-06-07T21:26:56.581449Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729673",
+    "title": "The hypertrophic cardiomyopathy mutation G768R makes cardiac myosin a high duty ratio motor",
+    "sent_at": "2026-06-07T23:21:22.338165Z",
     "tier": 4,
     "kind": "preprint"
   }
