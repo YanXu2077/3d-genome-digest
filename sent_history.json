@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.29.728759",
-    "title": "Epigenetic Profiling of Human Insulinomas Reveals AP-1 Family as Critical Regulators of Beta Cell Maturation",
-    "sent_at": "2026-05-30T23:17:18.571012Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.28.728586",
     "title": "Mapping genetic risk mechanisms for immune-mediated diseases across human dendritic cell differentiation",
     "sent_at": "2026-05-31T04:51:06.468059Z",
@@ -557,6 +550,13 @@
     "title": "Chromap Suite: an open-source single-binary platform for agentic multiomic RNA + ATAC profiling",
     "sent_at": "2026-06-07T17:41:20.568020Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730321",
+    "title": "Magnetic Tweezers Experiments Reveal Increased Mechanical Sensitivity of the F2561Y Mutant in Von Willebrand Factor",
+    "sent_at": "2026-06-07T19:48:44.762201Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
