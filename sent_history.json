@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.26.727851",
-    "title": "Leveraging epigenetic vulnerabilities of the stem cell-related HOX-signature in glioblastoma",
-    "sent_at": "2026-05-30T14:06:19.556853Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.27.728333",
-    "title": "Globular domain histone H3R131C mutation remodels chromatin accessibility to promote oncogenic transcriptional programs",
-    "sent_at": "2026-05-30T15:53:06.318069Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.26.727981",
     "title": "Decoding causal genes and programs from regulatory variants in aortic valve disease",
     "sent_at": "2026-05-30T17:30:04.708851Z",
@@ -557,6 +543,20 @@
     "title": "RAD21 regulation of the enhancer-promoter chromatin loop of RAD51 promotes PARPi resistance in ovarian cancer.",
     "sent_at": "2026-06-07T09:34:02.304707Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730303",
+    "title": "Learning quality scores for chromatin accessibility bigWig tracks using Machine Learning",
+    "sent_at": "2026-06-07T12:02:34.402482Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.tibs.2026.05.004",
+    "title": "Phosphorylation-controlled nuclear speckle dynamics regulate splicing.",
+    "sent_at": "2026-06-07T12:02:34.402482Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
