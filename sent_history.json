@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.727961",
-    "title": "Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions",
-    "sent_at": "2026-05-31T11:49:10.820019Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.11.28.623418",
     "title": "The piRNA pathway mediates transcriptional silencing of LTR retrotransposons in ovaries and somatic tissues of Aedes mosquitoes",
     "sent_at": "2026-05-31T14:10:51.766841Z",
@@ -557,6 +550,13 @@
     "title": "The hypertrophic cardiomyopathy mutation G768R makes cardiac myosin a high duty ratio motor",
     "sent_at": "2026-06-07T23:21:22.338165Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.03.729812",
+    "title": "Heterochromatin organization and liquid-liquid phase separation: it is not about if but about when",
+    "sent_at": "2026-06-08T05:00:25.776491Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
