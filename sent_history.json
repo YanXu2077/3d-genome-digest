@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.728076",
-    "title": "Bayesian optimisation and graph-based rheology enable sequence-dependent modelling of DNA materials",
-    "sent_at": "2026-05-31T15:54:19.916410Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.27.727835",
     "title": "Vorinostat (SAHA) alters the skeletal muscle differentiation program",
     "sent_at": "2026-05-31T17:24:42.923545Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.03.728223",
     "title": "Macrocycle screening against the C-terminal region of CHD4 uncovers its role as an interaction hub in the formation of the nucleosome remodeling and deacetylase complex",
     "sent_at": "2026-06-08T11:21:41.003767Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729723",
+    "title": "Epigenetic conditioning improves sequence-based modeling of gene regulation across cell types and alleles",
+    "sent_at": "2026-06-08T16:19:45.936208Z",
     "tier": 3,
     "kind": "preprint"
   }
