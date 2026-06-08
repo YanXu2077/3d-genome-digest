@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.727835",
-    "title": "Vorinostat (SAHA) alters the skeletal muscle differentiation program",
-    "sent_at": "2026-05-31T17:24:42.923545Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.28.728566",
-    "title": "Amplicon/Protein Bead Display enables quantitative in vitro biochemistry at scale",
-    "sent_at": "2026-05-31T19:44:13.842514Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.28.727987",
     "title": "Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries",
     "sent_at": "2026-05-31T21:15:25.949652Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-08T16:19:45.936208Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.03.729916",
+    "title": "MLL3 adaptor function, not methyltransferase catalytic activity, is essential for breast tumor suppression",
+    "sent_at": "2026-06-08T20:34:51.249658Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11427-025-3394-8",
+    "title": "Histone chaperone HIRA restrains ferroptosis susceptibility through epigenetic control of iron metabolism in prostate cancer.",
+    "sent_at": "2026-06-08T20:34:51.249658Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
