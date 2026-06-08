@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.727987",
-    "title": "Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries",
-    "sent_at": "2026-05-31T21:15:25.949652Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.28.728581",
-    "title": "Rare RNA Polymerase II failure modes mark the cancer-driving genes most affected by epigenetic perturbation",
-    "sent_at": "2026-05-31T23:17:58.813006Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.06.723282",
     "title": "Quantitative analysis of fibroblast migration reveals migratory states characterized by force generation, cell shape and motion",
     "sent_at": "2026-06-01T05:12:34.825153Z",
@@ -556,6 +542,20 @@
     "doi": "10.1007/s11427-025-3394-8",
     "title": "Histone chaperone HIRA restrains ferroptosis susceptibility through epigenetic control of iron metabolism in prostate cancer.",
     "sent_at": "2026-06-08T20:34:51.249658Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.04.729043",
+    "title": "BRD4, Mediator, and Pol II form heterogeneous condensates with distinct transcriptional and acetylation-dependent states",
+    "sent_at": "2026-06-08T23:24:42.794694Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11427-025-3342-9",
+    "title": "The nucleosome assembly protein Nap1 regulates chromatin stability and nuclear division in Tetrahymena thermophila.",
+    "sent_at": "2026-06-08T23:24:42.794694Z",
     "tier": 3,
     "kind": "journal"
   }
