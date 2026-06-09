@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.30.729014",
-    "title": "Extracting anomalous diffusion parameters from multi-state ensembles of short single molecule trajectories.",
-    "sent_at": "2026-06-02T17:02:03.207313Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.31.729137",
     "title": "Lamin A/C coordinates nuclear mechanics, chromatin architecture, and transcriptional homeostasis in skeletal muscle in vivo",
     "sent_at": "2026-06-02T21:25:49.362550Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-09T20:26:19.157250Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730086",
+    "title": "Enhancer-gene regulatory interactions in colorectal cancer revealed through genome-wide CRISPRi perturbations",
+    "sent_at": "2026-06-09T22:08:36.423462Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
