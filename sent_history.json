@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.31.729137",
-    "title": "Lamin A/C coordinates nuclear mechanics, chromatin architecture, and transcriptional homeostasis in skeletal muscle in vivo",
-    "sent_at": "2026-06-02T21:25:49.362550Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s13577-026-01399-9",
     "title": "FUS modulates R-loops by functionally interacting with RNase H1.",
     "sent_at": "2026-06-02T21:25:49.362550Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.05.730086",
     "title": "Enhancer-gene regulatory interactions in colorectal cancer revealed through genome-wide CRISPRi perturbations",
     "sent_at": "2026-06-09T22:08:36.423462Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730311",
+    "title": "Translocation-driven chr19-der(14) interaction is associated with disease-specific transcriptional programs in mantle cell lymphoma",
+    "sent_at": "2026-06-09T23:31:08.386664Z",
     "tier": 1,
     "kind": "preprint"
   }
