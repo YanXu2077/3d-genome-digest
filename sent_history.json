@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.728562",
-    "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing",
-    "sent_at": "2026-06-02T10:56:56.357864Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/19491034.2026.2675754",
-    "title": "High-resolution nuclear cell biology by cryo-electron tomography.",
-    "sent_at": "2026-06-02T10:56:56.357864Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.30.729014",
     "title": "Extracting anomalous diffusion parameters from multi-state ensembles of short single molecule trajectories.",
     "sent_at": "2026-06-02T17:02:03.207313Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-09T16:41:11.566814Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.06.722969",
+    "title": "A U1-U3 snRNA-snoRNA interaction couples SF3B1 mutation to chromatin-state rewiring and genome instability",
+    "sent_at": "2026-06-09T20:26:19.157250Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11033-026-12112-2",
+    "title": "CENP-A in cancer: from centromere identity to genome instability.",
+    "sent_at": "2026-06-09T20:26:19.157250Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
