@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.30.728992",
-    "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyl transferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
-    "sent_at": "2026-06-01T21:54:04.594440Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.08.06.668799",
-    "title": "ASCL1 primes medullary thymic epithelial cell programs required for central tolerance",
-    "sent_at": "2026-06-01T23:56:02.812080Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.28.728588",
     "title": "Characterization of Human Ectocentromeric Sites.",
     "sent_at": "2026-06-02T05:00:37.489556Z",
@@ -557,6 +543,20 @@
     "title": "ZBTB18-mediated STAT1 transcriptional repression contributes to bovine myogenesis, implying an association with oxidative myofiber formation and beef eating quality.",
     "sent_at": "2026-06-09T10:08:04.274809Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.05.02.651986",
+    "title": "Accurate tracking of lytic granules via simultaneous particle tracking, phase retrieval and point spread function reconstruction",
+    "sent_at": "2026-06-09T12:54:03.025676Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11427-025-3276-4",
+    "title": "The DNA-binding protein PfAP2-V regulates erythrocyte invasion and pathogenesis of the human malaria parasite Plasmodium falciparum.",
+    "sent_at": "2026-06-09T12:54:03.025676Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
