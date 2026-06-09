@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.728108",
-    "title": "fourSynergy: Ensemble-based interaction calling on 4C-seq data using gradient-free optimization",
-    "sent_at": "2026-06-01T18:17:51.870578Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1111/tpj.70957",
-    "title": "Sequence-directed R-loop formation coupled with DNA methylation reprogramming during polyploidization of Brachypodium.",
-    "sent_at": "2026-06-01T18:17:51.870578Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.30.728992",
     "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyl transferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
     "sent_at": "2026-06-01T21:54:04.594440Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/mco2.70774",
     "title": "Epigenetic Regulation in Cardiovascular Diseases: Mechanisms and Therapeutic Targets.",
     "sent_at": "2026-06-09T04:25:07.186492Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.08.730829",
+    "title": "Chromosomal requirements for formation of multivalent human nucleoli",
+    "sent_at": "2026-06-09T10:08:04.274809Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.fochms.2026.100423",
+    "title": "ZBTB18-mediated STAT1 transcriptional repression contributes to bovine myogenesis, implying an association with oxidative myofiber formation and beef eating quality.",
+    "sent_at": "2026-06-09T10:08:04.274809Z",
     "tier": 3,
     "kind": "journal"
   }
