@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.728588",
-    "title": "Characterization of Human Ectocentromeric Sites.",
-    "sent_at": "2026-06-02T05:00:37.489556Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.28.728562",
     "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing",
     "sent_at": "2026-06-02T10:56:56.357864Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-09T12:54:03.025676Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.03.729923",
+    "title": "Inference of enhancer-specific transcription factor interactions from gene expression data using a biophysical model",
+    "sent_at": "2026-06-09T16:41:11.566814Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
