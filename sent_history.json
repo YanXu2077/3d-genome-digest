@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s13577-026-01399-9",
-    "title": "FUS modulates R-loops by functionally interacting with RNase H1.",
-    "sent_at": "2026-06-02T21:25:49.362550Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.29.728584",
     "title": "Genome Organizer SATB1 selectively activates a defined subset of EMT genes driving metastatic breast cancer",
     "sent_at": "2026-06-03T00:06:32.346454Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.05.730311",
     "title": "Translocation-driven chr19-der(14) interaction is associated with disease-specific transcriptional programs in mantle cell lymphoma",
     "sent_at": "2026-06-09T23:31:08.386664Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730377",
+    "title": "Visualization of the architecture of flexible chromatin and the binding of chromatin regulators",
+    "sent_at": "2026-06-10T04:44:19.676742Z",
     "tier": 1,
     "kind": "preprint"
   }
