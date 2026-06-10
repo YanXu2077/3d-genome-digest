@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.31.729151",
-    "title": "Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction",
-    "sent_at": "2026-06-03T21:35:07.441189Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s12539-026-00846-3",
     "title": "MVFAN-Kcr: A Multi-View Feature Fusion and Attention-Based Network for Lysine Crotonylation Site Identification.",
     "sent_at": "2026-06-03T21:35:07.441189Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-10T22:24:39.669763Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.08.730890",
+    "title": "Cohesin activity accelerates the homology search",
+    "sent_at": "2026-06-10T23:58:48.968884Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
