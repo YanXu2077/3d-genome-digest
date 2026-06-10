@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.09.710516",
-    "title": "Establishing MS2-MCP-based single-molecule RNA visualization in Schizosaccharomyces pombe",
-    "sent_at": "2026-06-03T17:13:30.045532Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-73901-8",
-    "title": "Cyanine-modified ssODNs enhance CRISPR-Cas9 HDR in stem cell embryo models via chromatin and chemical modulation.",
-    "sent_at": "2026-06-03T17:13:30.045532Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.31.729151",
     "title": "Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction",
     "sent_at": "2026-06-03T21:35:07.441189Z",
@@ -557,6 +543,20 @@
     "title": "Ezh2 Control of Bivalent Genes Fine-Tunes Developmental Competence During Retinogenesis.",
     "sent_at": "2026-06-10T18:42:50.911515Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.09.24.676871",
+    "title": "The nascent transcriptome delineates the regulatory landscape in human health and disease",
+    "sent_at": "2026-06-10T22:24:39.669763Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.24272/j.issn.2095-8137.2025.380",
+    "title": "A miR-305-5p/Nerfin-1/Cyp18a1 cascade fine-tunes 20-hydroxyecdysone degradation to time pupariation in Drosophila.",
+    "sent_at": "2026-06-10T22:24:39.669763Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
