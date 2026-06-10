@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.29.728584",
-    "title": "Genome Organizer SATB1 selectively activates a defined subset of EMT genes driving metastatic breast cancer",
-    "sent_at": "2026-06-03T00:06:32.346454Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1146/annurev-genom-020525-015843",
     "title": "Beyond TADs and Compartments: Mesoscale Chromatin Folding and Its Dynamics in Transcriptional Regulation.",
     "sent_at": "2026-06-03T00:06:32.346454Z",
@@ -557,6 +550,13 @@
     "title": "Visualization of the architecture of flexible chromatin and the binding of chromatin regulators",
     "sent_at": "2026-06-10T04:44:19.676742Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.05.730430",
+    "title": "Pair correlation function analysis revealed different nuclear translocation mechanisms for glucocorticoid receptor's monomeric and dimeric forms",
+    "sent_at": "2026-06-10T10:22:30.708874Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
