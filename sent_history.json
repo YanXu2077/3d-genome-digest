@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.12.17.628805",
-    "title": "Androgen stimulation rapidly reorganizes temporal 3D genome and epigenome states to trigger AR-mediated transcription in prostate cancer.",
-    "sent_at": "2026-06-04T05:03:45.808699Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.fsi.2026.111483",
-    "title": "Integrated ATAC-seq and RNA-seq analysis reveals dynamic changes in chromatin accessibility and gene expression in Acrossocheilus fasciatus after Streptococcus agalactiae infection.",
-    "sent_at": "2026-06-04T05:03:45.808699Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.11.13.688391",
     "title": "Elevated MyoD1 levels expand genome-wide binding and the repertoire of regulated genes",
     "sent_at": "2026-06-04T10:15:39.051533Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciadv.adz7842",
     "title": "Rpd3L regulates transcription-replication conflict via H3K4 methylation-dependent and -independent chromatin mechanisms.",
     "sent_at": "2026-06-11T10:59:20.093974Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.09.731076",
+    "title": "NANOG assembles into self-limiting aging micelles that drive a sol-gel transition and modulate DNA dynamics",
+    "sent_at": "2026-06-11T16:25:30.006821Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2528450123",
+    "title": "Differential Wnt/β-catenin signaling via TCF7L2/LEF1 binding specificity shapes cellular and tumor phenotypes.",
+    "sent_at": "2026-06-11T16:25:30.006821Z",
     "tier": 3,
     "kind": "journal"
   }
