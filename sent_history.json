@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.29.728882",
-    "title": "Gigabase-scale deletion scanning of the human genome",
-    "sent_at": "2026-06-04T00:01:05.968731Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2609598123",
-    "title": "Reconstructing EBV reactivation and DNA damage response kinetics in morphologic pseudotime.",
-    "sent_at": "2026-06-04T00:01:05.968731Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2024.12.17.628805",
     "title": "Androgen stimulation rapidly reorganizes temporal 3D genome and epigenome states to trigger AR-mediated transcription in prostate cancer.",
     "sent_at": "2026-06-04T05:03:45.808699Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-11T04:56:09.355955Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.09.18.613689",
+    "title": "Single-allele chromatin folding is organized by recurrent motifs that are reweighted across cell types and states",
+    "sent_at": "2026-06-11T10:59:20.093974Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.adz7842",
+    "title": "Rpd3L regulates transcription-replication conflict via H3K4 methylation-dependent and -independent chromatin mechanisms.",
+    "sent_at": "2026-06-11T10:59:20.093974Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
