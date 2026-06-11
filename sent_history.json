@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.13.688391",
-    "title": "Elevated MyoD1 levels expand genome-wide binding and the repertoire of regulated genes",
-    "sent_at": "2026-06-04T10:15:39.051533Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1042/EBC20250063",
     "title": "From early defence priming to lasting memory: developmental and seasonal dynamics in trees.",
     "sent_at": "2026-06-04T10:15:39.051533Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-11T16:25:30.006821Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.09.730992",
+    "title": "Hyper3D-lite: count-preserving representation auditing for long-read multi-contact genome data",
+    "sent_at": "2026-06-11T20:36:32.325678Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
