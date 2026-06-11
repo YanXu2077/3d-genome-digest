@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1042/EBC20250063",
-    "title": "From early defence priming to lasting memory: developmental and seasonal dynamics in trees.",
-    "sent_at": "2026-06-04T10:15:39.051533Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.01.729215",
-    "title": "Cell-specific regulatory circuits connect genetic variation to disease susceptibility",
-    "sent_at": "2026-06-04T13:44:15.324754Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s12859-026-06504-1",
     "title": "THC-net: an attention-based deep learning model for chromatin compartment prediction from histone modifications.",
     "sent_at": "2026-06-04T13:44:15.324754Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-11T20:36:32.325678Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.08.731013",
+    "title": "A scalable MNase-seq framework for reproducible nucleosome profiling across pluripotent stem cell and cardiomyocyte models",
+    "sent_at": "2026-06-11T23:52:25.511253Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1158/2326-6066.CIR-25-1420",
+    "title": "DNA hypomethylating agents preserve T cell stemness and potentiate the efficacy of CD3-bispecific antibodies.",
+    "sent_at": "2026-06-11T23:52:25.511253Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
