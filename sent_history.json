@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s11033-026-11965-x",
-    "title": "Biological pathways related to mirna-125a-5p in behavioral variant of frontotemporal dementia.",
-    "sent_at": "2026-06-04T20:36:46.214230Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.01.729264",
-    "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation",
-    "sent_at": "2026-06-04T22:08:59.253801Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.10.03.680410",
     "title": "Influence of cis-regulatory elements on expression divergence in human segmental duplications",
     "sent_at": "2026-06-04T23:48:22.223536Z",
@@ -557,6 +543,20 @@
     "title": "Non-coding Regulatory Variants in ASD (Autism Spectrum Disorders) Disrupt CTCF Domains and Shape Cell-Type-Specific Neurodevelopmental Landscapes Revealed by Single-Cell Analyses and Cortical Organoid",
     "sent_at": "2026-06-12T15:40:25.161877Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.08.730880",
+    "title": "TMO: ASYMMETRIC CROSS-MODAL ATTENTION FOR LEARNINGCELL-STATE-DEPENDENT REGULATORY LAGS FROM SINGLE-CELL MULTIOMIC DATA",
+    "sent_at": "2026-06-12T18:23:38.635906Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27114680",
+    "title": "Resolving Sub-Nuclear Architecture from Compartments to Functional Domains.",
+    "sent_at": "2026-06-12T18:23:38.635906Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
