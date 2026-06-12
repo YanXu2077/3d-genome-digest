@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s12859-026-06504-1",
-    "title": "THC-net: an attention-based deep learning model for chromatin compartment prediction from histone modifications.",
-    "sent_at": "2026-06-04T13:44:15.324754Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.01.729058",
-    "title": "Multiome Profiling Reveals Astrocyte and Neuroendocrine Targets of Prenatal Acoustic Programming in Zebra Finch Embryos",
-    "sent_at": "2026-06-04T15:42:21.469788Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.19.726354",
     "title": "Telomere Dysfunction in Human Astrocytes Drives Acrocentric Chromosome Instability and Nucleolar Reorganization.",
     "sent_at": "2026-06-04T15:42:21.469788Z",
@@ -557,6 +543,20 @@
     "title": "DNA hypomethylating agents preserve T cell stemness and potentiate the efficacy of CD3-bispecific antibodies.",
     "sent_at": "2026-06-11T23:52:25.511253Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.10.20.683555",
+    "title": "Seeing the chemistry of biomolecular condensates: in situ mapping of composition and water content",
+    "sent_at": "2026-06-12T05:02:37.297060Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.gde.2026.102501",
+    "title": "Decoding and engineering 3D chromatin interactions governing pluripotent and totipotent cell states.",
+    "sent_at": "2026-06-12T05:02:37.297060Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
