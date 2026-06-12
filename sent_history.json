@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.21.726904",
-    "title": "Cell-specific dedifferentiation in Arabidopsis thaliana.",
-    "sent_at": "2026-06-04T17:31:52.770594Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.01.725017",
-    "title": "Single-nucleoid imaging in whole cells defines the dynamics of the mtDNA life cycle",
-    "sent_at": "2026-06-04T20:36:46.214230Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s11033-026-11965-x",
     "title": "Biological pathways related to mirna-125a-5p in behavioral variant of frontotemporal dementia.",
     "sent_at": "2026-06-04T20:36:46.214230Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.ijbiomac.2026.153008",
     "title": "CNVs, chromatin accessibility, and 3D chromatin structure in preadipocytes provide mechanistic insight into sheep fat-tailed formation.",
     "sent_at": "2026-06-12T10:42:57.349965Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.03.05.709844",
+    "title": "The physical origin of ageing at biomolecular condensate interfaces",
+    "sent_at": "2026-06-12T15:40:25.161877Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-9650619/v1",
+    "title": "Non-coding Regulatory Variants in ASD (Autism Spectrum Disorders) Disrupt CTCF Domains and Shape Cell-Type-Specific Neurodevelopmental Landscapes Revealed by Single-Cell Analyses and Cortical Organoid",
+    "sent_at": "2026-06-12T15:40:25.161877Z",
     "tier": 1,
     "kind": "journal"
   }
