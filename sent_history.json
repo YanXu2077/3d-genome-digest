@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.01.729143",
-    "title": "CLASH (Chromatin Loop Across-sample Score Harmonizer) quantifies the relative contributions of genetic variation, methylation, and CTCF occupancy on chromatin loop strength across individuals",
-    "sent_at": "2026-06-05T10:13:40.458050Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.ccell.2026.05.006",
-    "title": "Clonal lineage tracing of innate immune cells in human cancer.",
-    "sent_at": "2026-06-05T10:13:40.458050Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.02.728184",
     "title": "Multidomain Coupling Governs FoxP1 Assembly and Nuclear Compartmentalization",
     "sent_at": "2026-06-05T13:40:30.281991Z",
@@ -557,6 +543,20 @@
     "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
     "sent_at": "2026-06-12T20:38:22.427917Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731581",
+    "title": "Interactions between single actin and vimentin filaments",
+    "sent_at": "2026-06-12T22:06:05.940217Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.02.729033",
+    "title": "Single-molecule nucleosome spacing coordinates chromatin fiber interactions.",
+    "sent_at": "2026-06-12T22:06:05.940217Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
