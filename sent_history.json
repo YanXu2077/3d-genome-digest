@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.728184",
-    "title": "Multidomain Coupling Governs FoxP1 Assembly and Nuclear Compartmentalization",
-    "sent_at": "2026-06-05T13:40:30.281991Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s44341-026-00038-6",
-    "title": "Polarization increases nuclear stiffness in macrophages despite reduction in lamin A/C levels.",
-    "sent_at": "2026-06-05T13:40:30.281991Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.02.729447",
     "title": "Nanoscale visualization of ribonucleoprotein condensates with ultrastructure RNA expansion microscopy",
     "sent_at": "2026-06-05T15:33:45.872848Z",
@@ -557,6 +543,20 @@
     "title": "Single-molecule nucleosome spacing coordinates chromatin fiber interactions.",
     "sent_at": "2026-06-12T22:06:05.940217Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.10.731186",
+    "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
+    "sent_at": "2026-06-12T23:46:36.425092Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728562",
+    "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing.",
+    "sent_at": "2026-06-12T23:46:36.425092Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
