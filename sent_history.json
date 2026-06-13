@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.03.729976",
-    "title": "Architectural fragility of gene regulatory networks underlies hematopoietic stem cell aging",
-    "sent_at": "2026-06-05T17:05:31.663806Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.02.729594",
-    "title": "The molecular asynchrony of single cells",
-    "sent_at": "2026-06-05T20:32:38.491696Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.11.05.686888",
     "title": "Random crosslinks generate anomalous scaling of dynamic moduli of biomolecular condensates",
     "sent_at": "2026-06-05T21:58:24.958243Z",
@@ -557,6 +543,20 @@
     "title": "Multiome Profiling Reveals Astrocyte and Neuroendocrine Targets of Prenatal Acoustic Programming in Zebra Finch Embryos.",
     "sent_at": "2026-06-13T04:48:19.796297Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731851",
+    "title": "Enhancer pioneering activity of Wnt/β-catenin signaling",
+    "sent_at": "2026-06-13T09:34:31.747136Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.28.728507",
+    "title": "Integrated multi-omics reveals adaptive anti-oxidant remodeling in early alcohol-associated liver disease.",
+    "sent_at": "2026-06-13T09:34:31.747136Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
