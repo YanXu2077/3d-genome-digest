@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1371/journal.pgen.1011940",
-    "title": "Chromatin insulators homie and nhomie can interact with distant copies either together or separately, with distinct outcomes for enhancer-promoter interactions.",
-    "sent_at": "2026-06-05T23:27:48.232255Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.03.19.712829",
-    "title": "A latent interaction landscape inferred from Micro-C encodes chromatin regulatory identity and conformational diversity beyond contact frequency",
-    "sent_at": "2026-06-06T04:18:21.389997Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciimmunol.aed1544",
     "title": "Efferocytosis induces proangiogenic function and chromatin remodeling in tumor-associated macrophages.",
     "sent_at": "2026-06-06T04:18:21.389997Z",
@@ -557,6 +543,20 @@
     "title": "Enhancers integrate microenvironmental signals in muscle stem cells during regeneration in health, disease, and aging.",
     "sent_at": "2026-06-13T12:03:59.648098Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731680",
+    "title": "Antigen Stimulation Reactivates HIV-1 Proviruses Despite Integration in Repressive Chromatin",
+    "sent_at": "2026-06-13T14:26:53.420749Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s13059-026-04129-4",
+    "title": "Premeiotic chromatin states orchestrate gene expression during male gametogenesis in rice.",
+    "sent_at": "2026-06-13T14:26:53.420749Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
