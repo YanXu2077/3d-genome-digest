@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciimmunol.aed1544",
-    "title": "Efferocytosis induces proangiogenic function and chromatin remodeling in tumor-associated macrophages.",
-    "sent_at": "2026-06-06T04:18:21.389997Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.04.730248",
     "title": "Structural Dynamics of RNA Polymerase II During Nucleotide Addition Cycle",
     "sent_at": "2026-06-06T08:48:58.844184Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-13T14:26:53.420749Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.09.730286",
+    "title": "Deciphering cross-omics complexity of tissues via diagonal integration of unpaired spatial multi-omics data",
+    "sent_at": "2026-06-13T17:45:37.453085Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
