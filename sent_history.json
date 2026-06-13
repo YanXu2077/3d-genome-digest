@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.05.686888",
-    "title": "Random crosslinks generate anomalous scaling of dynamic moduli of biomolecular condensates",
-    "sent_at": "2026-06-05T21:58:24.958243Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.02.729583",
-    "title": "The RNA helicase DDX21 cooperates with ETS1 and FLI1 in cell cycle, immune evasion, and snoRNA processing in activated B-cell-like diffuse large B-cell lymphoma cells",
-    "sent_at": "2026-06-05T23:27:48.232255Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1371/journal.pgen.1011940",
     "title": "Chromatin insulators homie and nhomie can interact with distant copies either together or separately, with distinct outcomes for enhancer-promoter interactions.",
     "sent_at": "2026-06-05T23:27:48.232255Z",
@@ -557,6 +543,20 @@
     "title": "Integrated multi-omics reveals adaptive anti-oxidant remodeling in early alcohol-associated liver disease.",
     "sent_at": "2026-06-13T09:34:31.747136Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729390",
+    "title": "POCKET-seq enables genome-wide profiling of on- and off-target transcriptional regulation events by dCas9-KRAB during CRISPR interference experiments",
+    "sent_at": "2026-06-13T12:03:59.648098Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s13395-026-00434-5",
+    "title": "Enhancers integrate microenvironmental signals in muscle stem cells during regeneration in health, disease, and aging.",
+    "sent_at": "2026-06-13T12:03:59.648098Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
