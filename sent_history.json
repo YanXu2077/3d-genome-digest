@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729447",
-    "title": "Nanoscale visualization of ribonucleoprotein condensates with ultrastructure RNA expansion microscopy",
-    "sent_at": "2026-06-05T15:33:45.872848Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fmicb.2026.1838029",
-    "title": "A transformer based deep learning framework for accurate single nucleotide variant correction in heterogeneous samples.",
-    "sent_at": "2026-06-05T15:33:45.872848Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.03.729976",
     "title": "Architectural fragility of gene regulatory networks underlies hematopoietic stem cell aging",
     "sent_at": "2026-06-05T17:05:31.663806Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.05.28.728562",
     "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing.",
     "sent_at": "2026-06-12T23:46:36.425092Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.10.731283",
+    "title": "HORoSCOPE: Decoding human centromere architecture from short reads using k-mer signatures",
+    "sent_at": "2026-06-13T04:48:19.796297Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729058",
+    "title": "Multiome Profiling Reveals Astrocyte and Neuroendocrine Targets of Prenatal Acoustic Programming in Zebra Finch Embryos.",
+    "sent_at": "2026-06-13T04:48:19.796297Z",
     "tier": 3,
     "kind": "journal"
   }
