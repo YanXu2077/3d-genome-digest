@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.04.730248",
-    "title": "Structural Dynamics of RNA Polymerase II During Nucleotide Addition Cycle",
-    "sent_at": "2026-06-06T08:48:58.844184Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-74000-4",
     "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories.",
     "sent_at": "2026-06-06T08:48:58.844184Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.09.730286",
     "title": "Deciphering cross-omics complexity of tissues via diagonal integration of unpaired spatial multi-omics data",
     "sent_at": "2026-06-13T17:45:37.453085Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.10.731316",
+    "title": "DNA Compression with Genomic Language Models: Tokenization, Benchmarking, and an Information-Content Map",
+    "sent_at": "2026-06-13T19:55:36.832020Z",
     "tier": 4,
     "kind": "preprint"
   }
