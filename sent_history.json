@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729627",
-    "title": "Loss of the Y chromosome drives epigenetic and transcriptomic plasticity in lung adenocarcinoma",
-    "sent_at": "2026-06-06T15:56:07.942806Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.05.21.655105",
     "title": "Quantifying the contribution of DNA conformational flexibility to transcription factor binding on nucleosomal DNA uncovers indirect readout across diverse TF families",
     "sent_at": "2026-06-06T17:26:16.549408Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.12.731963",
     "title": "Coupled nucleoplasmic flows and envelope expansion govern the mechanical resistance of the nucleus",
     "sent_at": "2026-06-14T09:55:16.570940Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.732001",
+    "title": "DNA 6mA marks transcriptionally active chromatin in malaria parasites",
+    "sent_at": "2026-06-14T12:10:14.917943Z",
     "tier": 3,
     "kind": "preprint"
   }
