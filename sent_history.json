@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.05.21.655105",
-    "title": "Quantifying the contribution of DNA conformational flexibility to transcription factor binding on nucleosomal DNA uncovers indirect readout across diverse TF families",
-    "sent_at": "2026-06-06T17:26:16.549408Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.03.729912",
     "title": "Multi-Domain Interplay Controls Full-Length TDP-43 Phase Separation and Condensate Dynamics",
     "sent_at": "2026-06-06T19:49:20.648153Z",
@@ -557,6 +550,13 @@
     "title": "DNA 6mA marks transcriptionally active chromatin in malaria parasites",
     "sent_at": "2026-06-14T12:10:14.917943Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731983",
+    "title": "Saturation Genome Editing reveals the functional impact of RAD51D and XRCC2 variants",
+    "sent_at": "2026-06-14T14:40:41.698324Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
