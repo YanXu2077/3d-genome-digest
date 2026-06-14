@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.04.730171",
-    "title": "Simulation of transcription factor clustering in nuclei from molecular kinetics",
-    "sent_at": "2026-06-06T14:08:50.498938Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.02.729627",
     "title": "Loss of the Y chromosome drives epigenetic and transcriptomic plasticity in lung adenocarcinoma",
     "sent_at": "2026-06-06T15:56:07.942806Z",
@@ -557,6 +550,13 @@
     "title": "Tightly Knotted Enzymes Inhibit Protein-Protein Aggregation",
     "sent_at": "2026-06-14T05:03:09.449272Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731963",
+    "title": "Coupled nucleoplasmic flows and envelope expansion govern the mechanical resistance of the nucleus",
+    "sent_at": "2026-06-14T09:55:16.570940Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
