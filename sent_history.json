@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.728745",
-    "title": "An enhancer-centric approach applied to human immune system epigenomes revealed the association of macrophage enhancers with cardiovascular disease",
-    "sent_at": "2026-06-06T21:19:49.902465Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.03.01.640953",
     "title": "E3 ubiquitin ligase WWP2 regulates stability and tumor suppressive properties of the chromatin remodeler ARID1B",
     "sent_at": "2026-06-06T23:19:07.074311Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.13.732013",
     "title": "PertDiffBench: Benchmarking Diffusion Models for Single-Cell Perturbation Response Prediction",
     "sent_at": "2026-06-14T17:42:41.194743Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.10.731246",
+    "title": "Robust integration of weakly anchored spatial multi-omics",
+    "sent_at": "2026-06-14T19:53:43.373655Z",
     "tier": 4,
     "kind": "preprint"
   }
