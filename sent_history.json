@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2023.09.26.559432",
-    "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome",
-    "sent_at": "2026-06-07T04:54:48.612694Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103299",
     "title": "Transcription factors as drivers of 3D enhancer-promoter interactions.",
     "sent_at": "2026-06-07T04:54:48.612694Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.10.731451",
     "title": "Somatic variant detection in normal tissues from single-cell sequencing data",
     "sent_at": "2026-06-14T21:26:55.471304Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731867",
+    "title": "Transposable elements as evolutionary substrates of proteindisorder in the human proteome",
+    "sent_at": "2026-06-14T23:24:25.483190Z",
     "tier": 4,
     "kind": "preprint"
   }
