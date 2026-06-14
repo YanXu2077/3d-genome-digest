@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bioorg.2026.110048",
-    "title": "Beyond PARP-HDAC inhibition: mechanistic rationale and medicinal chemistry insights from single to shared-target strategies.",
-    "sent_at": "2026-06-06T11:45:34.785541Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.04.730171",
     "title": "Simulation of transcription factor clustering in nuclei from molecular kinetics",
     "sent_at": "2026-06-06T14:08:50.498938Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.10.731353",
     "title": "Mechanics and fate stochasticity shape stem cell distribution in tissues",
     "sent_at": "2026-06-13T23:22:15.292255Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731949",
+    "title": "Tightly Knotted Enzymes Inhibit Protein-Protein Aggregation",
+    "sent_at": "2026-06-14T05:03:09.449272Z",
     "tier": 4,
     "kind": "preprint"
   }
