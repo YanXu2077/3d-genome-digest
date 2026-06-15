@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.sbi.2026.103299",
-    "title": "Transcription factors as drivers of 3D enhancer-promoter interactions.",
-    "sent_at": "2026-06-07T04:54:48.612694Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.05.730309",
     "title": "CREP: Cis-Regulatory Element Predictor Based on Fine-Tuned Enformer",
     "sent_at": "2026-06-07T09:34:02.304707Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.12.731867",
     "title": "Transposable elements as evolutionary substrates of proteindisorder in the human proteome",
     "sent_at": "2026-06-14T23:24:25.483190Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731905",
+    "title": "Improving All-Atom Molecular Dynamics Models for Quantitative Prediction of Nanopore Blockade Current",
+    "sent_at": "2026-06-15T05:23:12.459348Z",
     "tier": 4,
     "kind": "preprint"
   }
