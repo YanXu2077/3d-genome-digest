@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.05.730309",
-    "title": "CREP: Cis-Regulatory Element Predictor Based on Fine-Tuned Enformer",
-    "sent_at": "2026-06-07T09:34:02.304707Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s12967-026-08367-9",
     "title": "RAD21 regulation of the enhancer-promoter chromatin loop of RAD51 promotes PARPi resistance in ovarian cancer.",
     "sent_at": "2026-06-07T09:34:02.304707Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.12.731905",
     "title": "Improving All-Atom Molecular Dynamics Models for Quantitative Prediction of Nanopore Blockade Current",
     "sent_at": "2026-06-15T05:23:12.459348Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731199",
+    "title": "A Forward Genetic Screen in Caenorhabditis elegans for Genes that Modulate α-synuclein-Induced Neurodegeneration through the Mitochondrial UPR",
+    "sent_at": "2026-06-15T12:39:56.812639Z",
     "tier": 4,
     "kind": "preprint"
   }
