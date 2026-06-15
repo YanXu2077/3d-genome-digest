@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s12967-026-08367-9",
-    "title": "RAD21 regulation of the enhancer-promoter chromatin loop of RAD51 promotes PARPi resistance in ovarian cancer.",
-    "sent_at": "2026-06-07T09:34:02.304707Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.05.730303",
-    "title": "Learning quality scores for chromatin accessibility bigWig tracks using Machine Learning",
-    "sent_at": "2026-06-07T12:02:34.402482Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.tibs.2026.05.004",
     "title": "Phosphorylation-controlled nuclear speckle dynamics regulate splicing.",
     "sent_at": "2026-06-07T12:02:34.402482Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-15T12:39:56.812639Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.07.16.665081",
+    "title": "3D confinement physically regulates cell cycle progression in budding yeast",
+    "sent_at": "2026-06-15T18:48:02.349124Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/finsc.2026.1858332",
+    "title": "Chromatin condensation dynamics during spermatogenesis and variation in detectability and spatial distribution of satellite DNAs outside constitutive heterochromatin in Tenebrio molitor.",
+    "sent_at": "2026-06-15T18:48:02.349124Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
