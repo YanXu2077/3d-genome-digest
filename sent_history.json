@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.tibs.2026.05.004",
-    "title": "Phosphorylation-controlled nuclear speckle dynamics regulate splicing.",
-    "sent_at": "2026-06-07T12:02:34.402482Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.03.729890",
-    "title": "Population-scale Y chromosome assemblies reveal recurrent remodeling within constrained architectures",
-    "sent_at": "2026-06-07T14:21:41.557845Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.03.729767",
     "title": "Topology-dependent FRET efficiency in living cells via N-C swapping of fluorescent protein fusions",
     "sent_at": "2026-06-07T15:56:12.172886Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin condensation dynamics during spermatogenesis and variation in detectability and spatial distribution of satellite DNAs outside constitutive heterochromatin in Tenebrio molitor.",
     "sent_at": "2026-06-15T18:48:02.349124Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.11.730447",
+    "title": "A pleiotropic EPAS1 enhancer mediating Tibetan adaptation to hypoxia is active in adipocytes",
+    "sent_at": "2026-06-15T22:28:50.218420Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fimmu.2026.1638314",
+    "title": "Neutrophil extracellular traps in tumor microenvironment for radiotherapy: friend or foe?",
+    "sent_at": "2026-06-15T22:28:50.218420Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
