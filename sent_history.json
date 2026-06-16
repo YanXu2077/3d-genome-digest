@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729456",
-    "title": "The widely used eGFP sequence produces an unintended protein product",
-    "sent_at": "2026-06-07T21:26:56.581449Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.02.729673",
     "title": "The hypertrophic cardiomyopathy mutation G768R makes cardiac myosin a high duty ratio motor",
     "sent_at": "2026-06-07T23:21:22.338165Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-16T05:28:45.976078Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.15.694070",
+    "title": "Regulatory network hubs guide dynamic human lineage specification",
+    "sent_at": "2026-06-16T11:34:50.584835Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
