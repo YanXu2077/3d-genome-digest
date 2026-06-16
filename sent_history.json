@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729736",
-    "title": "Chromap Suite: an open-source single-binary platform for agentic multiomic RNA + ATAC profiling",
-    "sent_at": "2026-06-07T17:41:20.568020Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.05.730321",
-    "title": "Magnetic Tweezers Experiments Reveal Increased Mechanical Sensitivity of the F2561Y Mutant in Von Willebrand Factor",
-    "sent_at": "2026-06-07T19:48:44.762201Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.02.729456",
     "title": "The widely used eGFP sequence produces an unintended protein product",
     "sent_at": "2026-06-07T21:26:56.581449Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-16T00:16:29.410586Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731719",
+    "title": "Xist expression in male Peromyscus leucopus is associated with restricted chromatin repression and incomplete X-to-autosome dosage compensation",
+    "sent_at": "2026-06-16T05:28:45.976078Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.canlet.2026.218679",
+    "title": "Cellular Plasticity and Epigenetic Instability in Cancer: Mechanistic Insights and Functional Dissection with CRISPR-Based Epigenome Editing.",
+    "sent_at": "2026-06-16T05:28:45.976078Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
