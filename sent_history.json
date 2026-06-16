@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.03.729812",
-    "title": "Heterochromatin organization and liquid-liquid phase separation: it is not about if but about when",
-    "sent_at": "2026-06-08T05:00:25.776491Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.03.728223",
-    "title": "Macrocycle screening against the C-terminal region of CHD4 uncovers its role as an interaction hub in the formation of the nucleosome remodeling and deacetylase complex",
-    "sent_at": "2026-06-08T11:21:41.003767Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.02.729723",
     "title": "Epigenetic conditioning improves sequence-based modeling of gene regulation across cell types and alleles",
     "sent_at": "2026-06-08T16:19:45.936208Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-16T17:21:01.544508Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731563",
+    "title": "Hypermutability of ultraconserved histone genes and its contribution to human disease",
+    "sent_at": "2026-06-16T21:19:02.197530Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.108135",
+    "title": "Genome reorganization and its functional impact during breast cancer progression.",
+    "sent_at": "2026-06-16T21:19:02.197530Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
