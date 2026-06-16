@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729673",
-    "title": "The hypertrophic cardiomyopathy mutation G768R makes cardiac myosin a high duty ratio motor",
-    "sent_at": "2026-06-07T23:21:22.338165Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.03.729812",
     "title": "Heterochromatin organization and liquid-liquid phase separation: it is not about if but about when",
     "sent_at": "2026-06-08T05:00:25.776491Z",
@@ -557,6 +550,13 @@
     "title": "Regulatory network hubs guide dynamic human lineage specification",
     "sent_at": "2026-06-16T11:34:50.584835Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.21.707146",
+    "title": "A Unifying Thermodynamic Model for Phase Separation and Aging of Biopolymers",
+    "sent_at": "2026-06-16T17:21:01.544508Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
