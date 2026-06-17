@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/mco2.70774",
-    "title": "Epigenetic Regulation in Cardiovascular Diseases: Mechanisms and Therapeutic Targets.",
-    "sent_at": "2026-06-09T04:25:07.186492Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.08.730829",
     "title": "Chromosomal requirements for formation of multivalent human nucleoli",
     "sent_at": "2026-06-09T10:08:04.274809Z",
@@ -557,6 +550,13 @@
     "title": "The role of long-range transcriptional regulation in interpretation of non-coding variants associated with human disease",
     "sent_at": "2026-06-17T16:02:01.166759Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731829",
+    "title": "A minimal thermodynamic theory for re-entrant liquid-liquid phase separation regulated by small molecules",
+    "sent_at": "2026-06-17T18:32:38.850279Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
