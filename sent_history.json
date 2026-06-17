@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.03.729916",
-    "title": "MLL3 adaptor function, not methyltransferase catalytic activity, is essential for breast tumor suppression",
-    "sent_at": "2026-06-08T20:34:51.249658Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/s11427-025-3394-8",
-    "title": "Histone chaperone HIRA restrains ferroptosis susceptibility through epigenetic control of iron metabolism in prostate cancer.",
-    "sent_at": "2026-06-08T20:34:51.249658Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.04.729043",
     "title": "BRD4, Mediator, and Pol II form heterogeneous condensates with distinct transcriptional and acetylation-dependent states",
     "sent_at": "2026-06-08T23:24:42.794694Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-16T23:48:51.054828Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731976",
+    "title": "Chromatin Assembly Factor 1 is required for normal structure and function of facultative heterochromatin in Neurospora crassa",
+    "sent_at": "2026-06-17T05:08:57.502210Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.mcpro.2026.101602",
+    "title": "Proteome-wide ubiquitinome profiling reveals substrate-specific dynamics within the USP7 network.",
+    "sent_at": "2026-06-17T05:08:57.502210Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
