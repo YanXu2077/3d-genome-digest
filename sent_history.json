@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.04.729043",
-    "title": "BRD4, Mediator, and Pol II form heterogeneous condensates with distinct transcriptional and acetylation-dependent states",
-    "sent_at": "2026-06-08T23:24:42.794694Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/s11427-025-3342-9",
-    "title": "The nucleosome assembly protein Nap1 regulates chromatin stability and nuclear division in Tetrahymena thermophila.",
-    "sent_at": "2026-06-08T23:24:42.794694Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.03.729997",
     "title": "The Metaphase Chromatin Unit: A Novel Unit of Higher-Order Chromosome Organization in Human Mitotic Cells",
     "sent_at": "2026-06-09T04:25:07.186492Z",
@@ -557,6 +543,20 @@
     "title": "Proteome-wide ubiquitinome profiling reveals substrate-specific dynamics within the USP7 network.",
     "sent_at": "2026-06-17T05:08:57.502210Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731975",
+    "title": "Wolbachia-induced cytoplasmic incompatibility produces heritable chromatin modifications that suppress position-effect variegation",
+    "sent_at": "2026-06-17T11:18:28.813948Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21037/jtd-2026-1-0037",
+    "title": "Progress on the mechanism of Piezo1 in mechanical ventilation-induced lung injury.",
+    "sent_at": "2026-06-17T11:18:28.813948Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
