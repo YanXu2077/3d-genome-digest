@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.05.730311",
-    "title": "Translocation-driven chr19-der(14) interaction is associated with disease-specific transcriptional programs in mantle cell lymphoma",
-    "sent_at": "2026-06-09T23:31:08.386664Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.05.730377",
     "title": "Visualization of the architecture of flexible chromatin and the binding of chromatin regulators",
     "sent_at": "2026-06-10T04:44:19.676742Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.16.732527",
     "title": "Large-scale prediction of transcription factor binding across human cell types informs regulatory genomics and reveals promiscuous occupancy associated with chromatin contacts",
     "sent_at": "2026-06-18T18:36:06.854430Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.14.732162",
+    "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors",
+    "sent_at": "2026-06-18T22:28:05.092756Z",
     "tier": 3,
     "kind": "preprint"
   }
