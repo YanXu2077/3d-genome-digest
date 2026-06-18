@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s11033-026-12112-2",
-    "title": "CENP-A in cancer: from centromere identity to genome instability.",
-    "sent_at": "2026-06-09T20:26:19.157250Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.05.730086",
     "title": "Enhancer-gene regulatory interactions in colorectal cancer revealed through genome-wide CRISPRi perturbations",
     "sent_at": "2026-06-09T22:08:36.423462Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-18T10:46:18.295289Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.16.732681",
+    "title": "Haplotype-resolved genome architecture mapping uncovers pervasive structural heterogeneity between human homologous chromosomes",
+    "sent_at": "2026-06-18T15:50:55.760007Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
