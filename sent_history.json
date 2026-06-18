@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.05.02.651986",
-    "title": "Accurate tracking of lytic granules via simultaneous particle tracking, phase retrieval and point spread function reconstruction",
-    "sent_at": "2026-06-09T12:54:03.025676Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/s11427-025-3276-4",
-    "title": "The DNA-binding protein PfAP2-V regulates erythrocyte invasion and pathogenesis of the human malaria parasite Plasmodium falciparum.",
-    "sent_at": "2026-06-09T12:54:03.025676Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.03.729923",
     "title": "Inference of enhancer-specific transcription factor interactions from gene expression data using a biophysical model",
     "sent_at": "2026-06-09T16:41:11.566814Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-18T00:02:48.705618Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.19.700311",
+    "title": "UnionLoops: a workflow for calling chromatin loops across related Hi-C datasets with improved specificity, precision, and sensitivity",
+    "sent_at": "2026-06-18T04:57:44.016180Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41559-026-03107-0",
+    "title": "Rewiring of two conserved signalling hubs into one axis underlies convergent female-specific wing regression in insects.",
+    "sent_at": "2026-06-18T04:57:44.016180Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
