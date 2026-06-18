@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.03.729923",
-    "title": "Inference of enhancer-specific transcription factor interactions from gene expression data using a biophysical model",
-    "sent_at": "2026-06-09T16:41:11.566814Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.06.722969",
-    "title": "A U1-U3 snRNA-snoRNA interaction couples SF3B1 mutation to chromatin-state rewiring and genome instability",
-    "sent_at": "2026-06-09T20:26:19.157250Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s11033-026-12112-2",
     "title": "CENP-A in cancer: from centromere identity to genome instability.",
     "sent_at": "2026-06-09T20:26:19.157250Z",
@@ -557,6 +543,20 @@
     "title": "Rewiring of two conserved signalling hubs into one axis underlies convergent female-specific wing regression in insects.",
     "sent_at": "2026-06-18T04:57:44.016180Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.09.12.612694",
+    "title": "A DNA tension-dependent tug-of-war between dimeric SMC motors governs loop extrusion directionality",
+    "sent_at": "2026-06-18T10:46:18.295289Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s13353-026-01086-3",
+    "title": "Maize chromatin introgression's effect in oat × maize addition lines.",
+    "sent_at": "2026-06-18T10:46:18.295289Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
