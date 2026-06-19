@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.biochi.2026.06.004",
-    "title": "The Context-Dependent Bidirectional Regulation of Lactylation in Hypoxia-Driven Pathologies: A Tripartite Framework.",
-    "sent_at": "2026-06-10T16:05:49.607098Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.07.729032",
-    "title": "In situ molecular architecture of PML bodies reveals open-state columnar trinucleosome assemblies within a porous, chromatin-permissive interior",
-    "sent_at": "2026-06-10T18:42:50.911515Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1167/iovs.67.6.18",
     "title": "Ezh2 Control of Bivalent Genes Fine-Tunes Developmental Competence During Retinogenesis.",
     "sent_at": "2026-06-10T18:42:50.911515Z",
@@ -557,6 +543,20 @@
     "title": "Active processes shape and move the genome and nucleoplasm.",
     "sent_at": "2026-06-19T05:21:51.754503Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.15.732425",
+    "title": "DNA Sequence and Histone Variant H2A.Z Jointly Govern Nucleosome Unwrapping Pathways",
+    "sent_at": "2026-06-19T10:59:34.652091Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bpj.2026.06.020",
+    "title": "Modeling chromatin fractal structure and dynamics: Crosslinked single chain under active forces.",
+    "sent_at": "2026-06-19T10:59:34.652091Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
