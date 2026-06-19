@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.05.730377",
-    "title": "Visualization of the architecture of flexible chromatin and the binding of chromatin regulators",
-    "sent_at": "2026-06-10T04:44:19.676742Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.05.730430",
     "title": "Pair correlation function analysis revealed different nuclear translocation mechanisms for glucocorticoid receptor's monomeric and dimeric forms",
     "sent_at": "2026-06-10T10:22:30.708874Z",
@@ -557,6 +550,13 @@
     "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors",
     "sent_at": "2026-06-18T22:28:05.092756Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.08.03.667702",
+    "title": "Fetal signatures in the 3D genome of iPSC-derived neurons and their implications for disease modeling",
+    "sent_at": "2026-06-19T00:10:40.597726Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
