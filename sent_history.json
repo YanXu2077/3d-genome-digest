@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.05.730430",
-    "title": "Pair correlation function analysis revealed different nuclear translocation mechanisms for glucocorticoid receptor's monomeric and dimeric forms",
-    "sent_at": "2026-06-10T10:22:30.708874Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.09.731072",
-    "title": "Double-strand break end configuration and 3D genome architecture are crucial for chromosomal translocation",
-    "sent_at": "2026-06-10T16:05:49.607098Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.biochi.2026.06.004",
     "title": "The Context-Dependent Bidirectional Regulation of Lactylation in Hypoxia-Driven Pathologies: A Tripartite Framework.",
     "sent_at": "2026-06-10T16:05:49.607098Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-19T00:10:40.597726Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.14.732207",
+    "title": "Hi-C data from the filamentous fungus Podospora anserina and associated 3D models to visualize the spatial organization of its chromosomes",
+    "sent_at": "2026-06-19T05:21:51.754503Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.gde.2026.102489",
+    "title": "Active processes shape and move the genome and nucleoplasm.",
+    "sent_at": "2026-06-19T05:21:51.754503Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
