@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1167/iovs.67.6.18",
-    "title": "Ezh2 Control of Bivalent Genes Fine-Tunes Developmental Competence During Retinogenesis.",
-    "sent_at": "2026-06-10T18:42:50.911515Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.09.24.676871",
-    "title": "The nascent transcriptome delineates the regulatory landscape in human health and disease",
-    "sent_at": "2026-06-10T22:24:39.669763Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.24272/j.issn.2095-8137.2025.380",
     "title": "A miR-305-5p/Nerfin-1/Cyp18a1 cascade fine-tunes 20-hydroxyecdysone degradation to time pupariation in Drosophila.",
     "sent_at": "2026-06-10T22:24:39.669763Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.bpj.2026.06.020",
     "title": "Modeling chromatin fractal structure and dynamics: Crosslinked single chain under active forces.",
     "sent_at": "2026-06-19T10:59:34.652091Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.17.732994",
+    "title": "Fine-mapping candidate neuropsychiatric regulatory variants using cell type-aware comparative genomics",
+    "sent_at": "2026-06-19T15:41:39.216338Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1103/g6k5-nkbd",
+    "title": "Emergent domain segregation in self-interacting polymers explains chromosome 3D conformations in single human cells.",
+    "sent_at": "2026-06-19T15:41:39.216338Z",
     "tier": 1,
     "kind": "journal"
   }
