@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.08.730904",
-    "title": "Symmetry and force response of cohesin loop extrusion are determined by diffusion of its motor and anchor domains",
-    "sent_at": "2026-06-11T04:56:09.355955Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.09.18.613689",
     "title": "Single-allele chromatin folding is organized by recurrent motifs that are reweighted across cell types and states",
     "sent_at": "2026-06-11T10:59:20.093974Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-19T18:08:45.538533Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.14.732163",
+    "title": "ScriptManager: a platform for scalable and reproducible high-resolution analysis of genomics datasets",
+    "sent_at": "2026-06-19T20:17:44.629295Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
