@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.adz7842",
-    "title": "Rpd3L regulates transcription-replication conflict via H3K4 methylation-dependent and -independent chromatin mechanisms.",
-    "sent_at": "2026-06-11T10:59:20.093974Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.09.731076",
-    "title": "NANOG assembles into self-limiting aging micelles that drive a sol-gel transition and modulate DNA dynamics",
-    "sent_at": "2026-06-11T16:25:30.006821Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2528450123",
     "title": "Differential Wnt/β-catenin signaling via TCF7L2/LEF1 binding specificity shapes cellular and tumor phenotypes.",
     "sent_at": "2026-06-11T16:25:30.006821Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-19T21:46:52.781861Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.18.732892",
+    "title": "Intersegmental transfers drive target search in an RNA-targeting CRISPR system",
+    "sent_at": "2026-06-19T23:14:52.655058Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeb2915",
+    "title": "SIRT2 antagonizes MOF function during mitotic entry.",
+    "sent_at": "2026-06-19T23:14:52.655058Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
