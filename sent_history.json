@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.09.18.613689",
-    "title": "Single-allele chromatin folding is organized by recurrent motifs that are reweighted across cell types and states",
-    "sent_at": "2026-06-11T10:59:20.093974Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.adz7842",
     "title": "Rpd3L regulates transcription-replication conflict via H3K4 methylation-dependent and -independent chromatin mechanisms.",
     "sent_at": "2026-06-11T10:59:20.093974Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.14.732163",
     "title": "ScriptManager: a platform for scalable and reproducible high-resolution analysis of genomics datasets",
     "sent_at": "2026-06-19T20:17:44.629295Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.15.732472",
+    "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
+    "sent_at": "2026-06-19T21:46:52.781861Z",
     "tier": 3,
     "kind": "preprint"
   }
