@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.24272/j.issn.2095-8137.2025.380",
-    "title": "A miR-305-5p/Nerfin-1/Cyp18a1 cascade fine-tunes 20-hydroxyecdysone degradation to time pupariation in Drosophila.",
-    "sent_at": "2026-06-10T22:24:39.669763Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.08.730890",
-    "title": "Cohesin activity accelerates the homology search",
-    "sent_at": "2026-06-10T23:58:48.968884Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.08.730904",
     "title": "Symmetry and force response of cohesin loop extrusion are determined by diffusion of its motor and anchor domains",
     "sent_at": "2026-06-11T04:56:09.355955Z",
@@ -557,6 +543,20 @@
     "title": "Emergent domain segregation in self-interacting polymers explains chromosome 3D conformations in single human cells.",
     "sent_at": "2026-06-19T15:41:39.216338Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.01.06.698059",
+    "title": "damidBind: an R/Bioconductor package for differential DamID analysis and data exploration",
+    "sent_at": "2026-06-19T18:08:45.538533Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/imm.70161",
+    "title": "Epigenetic Gene Networks Governing Immune State Transitions Across the Lifespan.",
+    "sent_at": "2026-06-19T18:08:45.538533Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
