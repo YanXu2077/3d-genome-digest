@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.21203/rs.3.rs-9650619/v1",
-    "title": "Non-coding Regulatory Variants in ASD (Autism Spectrum Disorders) Disrupt CTCF Domains and Shape Cell-Type-Specific Neurodevelopmental Landscapes Revealed by Single-Cell Analyses and Cortical Organoid",
-    "sent_at": "2026-06-12T15:40:25.161877Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.08.730880",
     "title": "TMO: ASYMMETRIC CROSS-MODAL ATTENTION FOR LEARNINGCELL-STATE-DEPENDENT REGULATORY LAGS FROM SINGLE-CELL MULTIOMIC DATA",
     "sent_at": "2026-06-12T18:23:38.635906Z",
@@ -557,6 +550,13 @@
     "title": "DNA methylation regulates a key sex differentiation gene in Pogona vitticeps, a dragon lizard with sex reversal",
     "sent_at": "2026-06-20T21:30:43.631175Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.09.730863",
+    "title": "A Phosphorylation-Induced Micellization switch in the low complexity domain of TDP-43",
+    "sent_at": "2026-06-20T23:25:34.498128Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
