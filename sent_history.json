@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.09.731088",
-    "title": "Explainable AI identifies H3K18ac as a new marker of active enhancers",
-    "sent_at": "2026-06-12T10:42:57.349965Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.ijbiomac.2026.153008",
     "title": "CNVs, chromatin accessibility, and 3D chromatin structure in preadipocytes provide mechanistic insight into sheep fat-tailed formation.",
     "sent_at": "2026-06-12T10:42:57.349965Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.15.732353",
     "title": "Sequential and coordinated control of human plasma cell differentiation by IRF4 and BLIMP1 utilizing a discriminating ISRE/EICE motif lexicon",
     "sent_at": "2026-06-20T14:43:13.389416Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.10.31.620483",
+    "title": "Genomic codes governing enhancer RNA fate",
+    "sent_at": "2026-06-20T17:46:53.759564Z",
     "tier": 3,
     "kind": "preprint"
   }
