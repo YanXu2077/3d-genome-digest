@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2528450123",
-    "title": "Differential Wnt/β-catenin signaling via TCF7L2/LEF1 binding specificity shapes cellular and tumor phenotypes.",
-    "sent_at": "2026-06-11T16:25:30.006821Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.09.730992",
-    "title": "Hyper3D-lite: count-preserving representation auditing for long-read multi-contact genome data",
-    "sent_at": "2026-06-11T20:36:32.325678Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.08.731013",
     "title": "A scalable MNase-seq framework for reproducible nucleosome profiling across pluripotent stem cell and cardiomyocyte models",
     "sent_at": "2026-06-11T23:52:25.511253Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciadv.aeb2915",
     "title": "SIRT2 antagonizes MOF function during mitotic entry.",
     "sent_at": "2026-06-19T23:14:52.655058Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.15.732488",
+    "title": "Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation",
+    "sent_at": "2026-06-20T04:39:30.632623Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acs.analchem.6c01147",
+    "title": "Rapid Histone Post-Translational Modification Analysis Using Alternative Proteases and Tandem Mass Tags.",
+    "sent_at": "2026-06-20T04:39:30.632623Z",
     "tier": 3,
     "kind": "journal"
   }
