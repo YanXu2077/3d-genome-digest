@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.05.709844",
-    "title": "The physical origin of ageing at biomolecular condensate interfaces",
-    "sent_at": "2026-06-12T15:40:25.161877Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.21203/rs.3.rs-9650619/v1",
     "title": "Non-coding Regulatory Variants in ASD (Autism Spectrum Disorders) Disrupt CTCF Domains and Shape Cell-Type-Specific Neurodevelopmental Landscapes Revealed by Single-Cell Analyses and Cortical Organoid",
     "sent_at": "2026-06-12T15:40:25.161877Z",
@@ -557,6 +550,13 @@
     "title": "The Critical Role of the 2'-OH group in Phase Separation and Percolation Transitions of RNA",
     "sent_at": "2026-06-20T19:55:34.090996Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.15.731764",
+    "title": "DNA methylation regulates a key sex differentiation gene in Pogona vitticeps, a dragon lizard with sex reversal",
+    "sent_at": "2026-06-20T21:30:43.631175Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
