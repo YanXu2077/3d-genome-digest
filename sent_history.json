@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.ijbiomac.2026.153008",
-    "title": "CNVs, chromatin accessibility, and 3D chromatin structure in preadipocytes provide mechanistic insight into sheep fat-tailed formation.",
-    "sent_at": "2026-06-12T10:42:57.349965Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.03.05.709844",
     "title": "The physical origin of ageing at biomolecular condensate interfaces",
     "sent_at": "2026-06-12T15:40:25.161877Z",
@@ -557,6 +550,13 @@
     "title": "Genomic codes governing enhancer RNA fate",
     "sent_at": "2026-06-20T17:46:53.759564Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.02.26.638501",
+    "title": "The Critical Role of the 2'-OH group in Phase Separation and Percolation Transitions of RNA",
+    "sent_at": "2026-06-20T19:55:34.090996Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
