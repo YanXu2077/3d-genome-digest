@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.06.730580",
-    "title": "Resolving Sub-Microsecond Conformational Dynamics of Vertical Nucleic Acids on Graphene",
-    "sent_at": "2026-06-12T20:38:22.427917Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.01.729264",
     "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
     "sent_at": "2026-06-12T20:38:22.427917Z",
@@ -557,6 +550,13 @@
     "title": "ARID1B damaging variants from more than one million genomes, cause human diseases by impairing protein-protein interactions, stability, and regulation",
     "sent_at": "2026-06-21T10:04:44.088287Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.16.731580",
+    "title": "Non-contact direct sensing of material properties of biomolecular condensate using Scanning Ionic Conductance Microscopy",
+    "sent_at": "2026-06-21T12:22:26.095995Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
