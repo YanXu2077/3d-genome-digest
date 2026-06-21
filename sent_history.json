@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.02.729033",
-    "title": "Single-molecule nucleosome spacing coordinates chromatin fiber interactions.",
-    "sent_at": "2026-06-12T22:06:05.940217Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.10.731186",
     "title": "The HUSH Complex Dictates EBV-transformed B cell Sensitivity to NK Cell Surveillance Through Repression of NKG2A Ligand γ-Proto-cadherin",
     "sent_at": "2026-06-12T23:46:36.425092Z",
@@ -557,6 +550,13 @@
     "title": "A novel preclinical mouse model recapitulates progressive phenotypes of Bryant-Li-Bhoj Syndrome",
     "sent_at": "2026-06-21T16:07:24.136858Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.03.10.642463",
+    "title": "Interactions Underlying Stress Granule Structure and Therapeutic Dissolution",
+    "sent_at": "2026-06-21T18:05:47.499344Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
