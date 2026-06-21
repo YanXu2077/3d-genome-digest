@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/ijms27114680",
-    "title": "Resolving Sub-Nuclear Architecture from Compartments to Functional Domains.",
-    "sent_at": "2026-06-12T18:23:38.635906Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.06.730580",
     "title": "Resolving Sub-Microsecond Conformational Dynamics of Vertical Nucleic Acids on Graphene",
     "sent_at": "2026-06-12T20:38:22.427917Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.18.733157",
     "title": "Defining reversible binding rates in 1D systems dependent on diffusion, density, and excluded volume",
     "sent_at": "2026-06-21T05:12:29.258522Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.19.733400",
+    "title": "ARID1B damaging variants from more than one million genomes, cause human diseases by impairing protein-protein interactions, stability, and regulation",
+    "sent_at": "2026-06-21T10:04:44.088287Z",
     "tier": 3,
     "kind": "preprint"
   }
