@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.728562",
-    "title": "Digital Chromosome Banding Reveals Distinct Spatiotemporal Dynamics and Sexual Dimorphism in Meiotic Silencing.",
-    "sent_at": "2026-06-12T23:46:36.425092Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.10.731283",
     "title": "HORoSCOPE: Decoding human centromere architecture from short reads using k-mer signatures",
     "sent_at": "2026-06-13T04:48:19.796297Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.16.732530",
     "title": "Vesicle Internalization Proceeds via a Morphological Phase Transition",
     "sent_at": "2026-06-21T20:00:24.880676Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.03.12.711388",
+    "title": "Physical Confinement Modulates the Rate-Limiting Transition in the Release of Phosphate from Actin Filaments",
+    "sent_at": "2026-06-21T21:30:08.097764Z",
     "tier": 4,
     "kind": "preprint"
   }
