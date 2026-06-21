@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.11.731581",
-    "title": "Interactions between single actin and vimentin filaments",
-    "sent_at": "2026-06-12T22:06:05.940217Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.02.729033",
     "title": "Single-molecule nucleosome spacing coordinates chromatin fiber interactions.",
     "sent_at": "2026-06-12T22:06:05.940217Z",
@@ -557,6 +550,13 @@
     "title": "Capillary bundling of microtubules by condensates",
     "sent_at": "2026-06-21T14:42:32.398712Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.16.732665",
+    "title": "A novel preclinical mouse model recapitulates progressive phenotypes of Bryant-Li-Bhoj Syndrome",
+    "sent_at": "2026-06-21T16:07:24.136858Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
