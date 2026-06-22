@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s13395-026-00434-5",
-    "title": "Enhancers integrate microenvironmental signals in muscle stem cells during regeneration in health, disease, and aging.",
-    "sent_at": "2026-06-13T12:03:59.648098Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.11.731680",
-    "title": "Antigen Stimulation Reactivates HIV-1 Proviruses Despite Integration in Repressive Chromatin",
-    "sent_at": "2026-06-13T14:26:53.420749Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s13059-026-04129-4",
     "title": "Premeiotic chromatin states orchestrate gene expression during male gametogenesis in rice.",
     "sent_at": "2026-06-13T14:26:53.420749Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-22T17:18:08.380043Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.17.732700",
+    "title": "BioBrain: A Multi-Agent Framework for Natural Language Driven Quantitative Microscopy Data Analysis",
+    "sent_at": "2026-06-22T21:23:45.920535Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag618",
+    "title": "RepliSage: a stochastic graph-based framework for 3D chromatin modeling across the cell cycle.",
+    "sent_at": "2026-06-22T21:23:45.920535Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
