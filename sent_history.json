@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.01.729058",
-    "title": "Multiome Profiling Reveals Astrocyte and Neuroendocrine Targets of Prenatal Acoustic Programming in Zebra Finch Embryos.",
-    "sent_at": "2026-06-13T04:48:19.796297Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.12.731851",
     "title": "Enhancer pioneering activity of Wnt/β-catenin signaling",
     "sent_at": "2026-06-13T09:34:31.747136Z",
@@ -557,6 +550,13 @@
     "title": "Predicting Human mRNA Isoform Levels from Site-Specific Splicing Kinetics in silico",
     "sent_at": "2026-06-21T23:41:31.751855Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.15.718726",
+    "title": "Droplet-compatible single-cell DNA methylation sequencing with PreTIC",
+    "sent_at": "2026-06-22T05:26:01.853272Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
