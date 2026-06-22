@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.01.729390",
-    "title": "POCKET-seq enables genome-wide profiling of on- and off-target transcriptional regulation events by dCas9-KRAB during CRISPR interference experiments",
-    "sent_at": "2026-06-13T12:03:59.648098Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s13395-026-00434-5",
     "title": "Enhancers integrate microenvironmental signals in muscle stem cells during regeneration in health, disease, and aging.",
     "sent_at": "2026-06-13T12:03:59.648098Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-22T12:24:36.658004Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.16.732382",
+    "title": "SPA-C: an hybrid tool to accurately scaffold genomes using Hi-C and Deep-Learning",
+    "sent_at": "2026-06-22T17:18:08.380043Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
