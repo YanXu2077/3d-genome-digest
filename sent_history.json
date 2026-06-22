@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s13059-026-04129-4",
-    "title": "Premeiotic chromatin states orchestrate gene expression during male gametogenesis in rice.",
-    "sent_at": "2026-06-13T14:26:53.420749Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.09.730286",
-    "title": "Deciphering cross-omics complexity of tissues via diagonal integration of unpaired spatial multi-omics data",
-    "sent_at": "2026-06-13T17:45:37.453085Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.10.731316",
     "title": "DNA Compression with Genomic Language Models: Tokenization, Benchmarking, and an Information-Content Map",
     "sent_at": "2026-06-13T19:55:36.832020Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag618",
     "title": "RepliSage: a stochastic graph-based framework for 3D chromatin modeling across the cell cycle.",
     "sent_at": "2026-06-22T21:23:45.920535Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.17.732986",
+    "title": "Mechanical tension expands the microtubule lattice stepwise and modulates kinesin-1 binding in an isoform-dependent manner",
+    "sent_at": "2026-06-22T23:52:16.464885Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.08.730890",
+    "title": "Cohesin activity accelerates the homology search.",
+    "sent_at": "2026-06-22T23:52:16.464885Z",
     "tier": 1,
     "kind": "journal"
   }
