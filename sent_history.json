@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731851",
-    "title": "Enhancer pioneering activity of Wnt/β-catenin signaling",
-    "sent_at": "2026-06-13T09:34:31.747136Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.28.728507",
-    "title": "Integrated multi-omics reveals adaptive anti-oxidant remodeling in early alcohol-associated liver disease.",
-    "sent_at": "2026-06-13T09:34:31.747136Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.01.729390",
     "title": "POCKET-seq enables genome-wide profiling of on- and off-target transcriptional regulation events by dCas9-KRAB during CRISPR interference experiments",
     "sent_at": "2026-06-13T12:03:59.648098Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-22T05:26:01.853272Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.21.733446",
+    "title": "Live-cell imaging of enhancer-promoter dynamics reveals transient contact-driven gene activation",
+    "sent_at": "2026-06-22T12:24:36.658004Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acsnano.6c06884",
+    "title": "A Nanopore-Gated Subattoliter Silicon Nanocavity for Single-Molecule Trapping and Analysis without Applying an External Force.",
+    "sent_at": "2026-06-22T12:24:36.658004Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
