@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.10.731353",
-    "title": "Mechanics and fate stochasticity shape stem cell distribution in tissues",
-    "sent_at": "2026-06-13T23:22:15.292255Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.12.731949",
-    "title": "Tightly Knotted Enzymes Inhibit Protein-Protein Aggregation",
-    "sent_at": "2026-06-14T05:03:09.449272Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.12.731963",
     "title": "Coupled nucleoplasmic flows and envelope expansion govern the mechanical resistance of the nucleus",
     "sent_at": "2026-06-14T09:55:16.570940Z",
@@ -556,6 +542,20 @@
     "doi": "10.3389/fcell.2026.1823110",
     "title": "Live monitoring uncovers divergent epigenetic remodeling during osteogenic and adipogenic differentiation of mesenchymal stem cells.",
     "sent_at": "2026-06-23T04:20:16.621070Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.21.733238",
+    "title": "Single-molecule insights into DNA gyrase in live bacteria",
+    "sent_at": "2026-06-23T10:03:53.241329Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-74693-7",
+    "title": "Hierarchical interplay between H3K27ac and H3K4me3 in transcriptional regulation.",
+    "sent_at": "2026-06-23T10:03:53.241329Z",
     "tier": 3,
     "kind": "journal"
   }
