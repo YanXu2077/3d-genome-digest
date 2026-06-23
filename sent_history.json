@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.10.731316",
-    "title": "DNA Compression with Genomic Language Models: Tokenization, Benchmarking, and an Information-Content Map",
-    "sent_at": "2026-06-13T19:55:36.832020Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.11.731790",
-    "title": "ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts",
-    "sent_at": "2026-06-13T21:27:14.303078Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.10.731353",
     "title": "Mechanics and fate stochasticity shape stem cell distribution in tissues",
     "sent_at": "2026-06-13T23:22:15.292255Z",
@@ -557,6 +543,20 @@
     "title": "Cohesin activity accelerates the homology search.",
     "sent_at": "2026-06-22T23:52:16.464885Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.23.727175",
+    "title": "ATLAS: a scverse-compatible package for multi-omic single-cell trajectory inference integration",
+    "sent_at": "2026-06-23T04:20:16.621070Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fcell.2026.1823110",
+    "title": "Live monitoring uncovers divergent epigenetic remodeling during osteogenic and adipogenic differentiation of mesenchymal stem cells.",
+    "sent_at": "2026-06-23T04:20:16.621070Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
