@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.10.731246",
-    "title": "Robust integration of weakly anchored spatial multi-omics",
-    "sent_at": "2026-06-14T19:53:43.373655Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.10.731451",
-    "title": "Somatic variant detection in normal tissues from single-cell sequencing data",
-    "sent_at": "2026-06-14T21:26:55.471304Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.12.731867",
     "title": "Transposable elements as evolutionary substrates of proteindisorder in the human proteome",
     "sent_at": "2026-06-14T23:24:25.483190Z",
@@ -557,6 +543,20 @@
     "title": "Decoding the Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling.",
     "sent_at": "2026-06-23T16:38:28.319161Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.18.733261",
+    "title": "Variation and selection at predicted G-quadruplexes across the human pangenome",
+    "sent_at": "2026-06-23T20:22:59.261995Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag641",
+    "title": "ATF4 and CHOP coordinate endoplasmic reticulum stress-responsive gene programs through enhancer activation and chromatin looping.",
+    "sent_at": "2026-06-23T20:22:59.261995Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
