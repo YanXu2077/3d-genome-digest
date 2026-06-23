@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731983",
-    "title": "Saturation Genome Editing reveals the functional impact of RAD51D and XRCC2 variants",
-    "sent_at": "2026-06-14T14:40:41.698324Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.13.732013",
-    "title": "PertDiffBench: Benchmarking Diffusion Models for Single-Cell Perturbation Response Prediction",
-    "sent_at": "2026-06-14T17:42:41.194743Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.10.731246",
     "title": "Robust integration of weakly anchored spatial multi-omics",
     "sent_at": "2026-06-14T19:53:43.373655Z",
@@ -556,6 +542,20 @@
     "doi": "10.3791/71307",
     "title": "Quantitative Live Cell Imaging of Nuclear Shape and Chromatin Dynamics During Development and Environmental Stress in Arabidopsis thaliana Root.",
     "sent_at": "2026-06-23T12:47:59.348976Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.17.732357",
+    "title": "nanoASM: Long-Read Allele-Specific DNA Methylation Profiling Enables Functional Annotation of Regulatory Noncoding Variants in Human Prostate Tissues",
+    "sent_at": "2026-06-23T16:38:28.319161Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.03.730013",
+    "title": "Decoding the Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling.",
+    "sent_at": "2026-06-23T16:38:28.319161Z",
     "tier": 3,
     "kind": "journal"
   }
