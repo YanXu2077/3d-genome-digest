@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731867",
-    "title": "Transposable elements as evolutionary substrates of proteindisorder in the human proteome",
-    "sent_at": "2026-06-14T23:24:25.483190Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.12.731905",
-    "title": "Improving All-Atom Molecular Dynamics Models for Quantitative Prediction of Nanopore Blockade Current",
-    "sent_at": "2026-06-15T05:23:12.459348Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.11.731199",
     "title": "A Forward Genetic Screen in Caenorhabditis elegans for Genes that Modulate α-synuclein-Induced Neurodegeneration through the Mitochondrial UPR",
     "sent_at": "2026-06-15T12:39:56.812639Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag641",
     "title": "ATF4 and CHOP coordinate endoplasmic reticulum stress-responsive gene programs through enhancer activation and chromatin looping.",
     "sent_at": "2026-06-23T20:22:59.261995Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.29.696957",
+    "title": "Single-molecule behavior and cell-growth regulation in human RTKs",
+    "sent_at": "2026-06-23T22:01:20.849312Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/procel/pwaf082",
+    "title": "3D chromatin dynamics in cellular neuroendocrine transformation.",
+    "sent_at": "2026-06-23T22:01:20.849312Z",
     "tier": 1,
     "kind": "journal"
   }
