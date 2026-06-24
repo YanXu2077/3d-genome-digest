@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.108135",
-    "title": "Genome reorganization and its functional impact during breast cancer progression.",
-    "sent_at": "2026-06-16T21:19:02.197530Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.30.728992",
     "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyltransferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
     "sent_at": "2026-06-16T23:48:51.054828Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.19.726095",
     "title": "Cryo-EM Structure of a 95-Basepair Double-Stranded DNA Minicircle at 5.3 A Resolution",
     "sent_at": "2026-06-24T20:04:07.523968Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.10.731283",
+    "title": "HOROSCOPE: Decoding human centromere architecture from short reads using k-mer signatures",
+    "sent_at": "2026-06-24T21:45:34.692944Z",
     "tier": 4,
     "kind": "preprint"
   }
