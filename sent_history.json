@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.11.731424",
-    "title": "SMLMFlow: Improving Structural Resolution in Single Molecule Localization Microscopy with Flow Matching",
-    "sent_at": "2026-06-16T00:16:29.410586Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.11.731719",
-    "title": "Xist expression in male Peromyscus leucopus is associated with restricted chromatin repression and incomplete X-to-autosome dosage compensation",
-    "sent_at": "2026-06-16T05:28:45.976078Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.canlet.2026.218679",
     "title": "Cellular Plasticity and Epigenetic Instability in Cancer: Mechanistic Insights and Functional Dissection with CRISPR-Based Epigenome Editing.",
     "sent_at": "2026-06-16T05:28:45.976078Z",
@@ -557,6 +543,20 @@
     "title": "Context-dependent regulation of IgH V(D)J recombination by cohesin-STAG1 and cohesin-STAG2.",
     "sent_at": "2026-06-24T09:50:52.193002Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.11.724207",
+    "title": "Mapping active cis-regulatory elements from transcription initiation events",
+    "sent_at": "2026-06-24T12:28:55.667634Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jprot.2026.105699",
+    "title": "Proteomic and phosphoproteomic profiles of time-dependent dynamic changes in LPS-induced macrophage polarization.",
+    "sent_at": "2026-06-24T12:28:55.667634Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
