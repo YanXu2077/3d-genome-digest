@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.11.730447",
-    "title": "A pleiotropic EPAS1 enhancer mediating Tibetan adaptation to hypoxia is active in adipocytes",
-    "sent_at": "2026-06-15T22:28:50.218420Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fimmu.2026.1638314",
-    "title": "Neutrophil extracellular traps in tumor microenvironment for radiotherapy: friend or foe?",
-    "sent_at": "2026-06-15T22:28:50.218420Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.11.731424",
     "title": "SMLMFlow: Improving Structural Resolution in Single Molecule Localization Microscopy with Flow Matching",
     "sent_at": "2026-06-16T00:16:29.410586Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-24T04:24:23.346011Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2023.10.07.561364",
+    "title": "Transcription machinery clustering by Integrator synchronizes histone gene expression",
+    "sent_at": "2026-06-24T09:50:52.193002Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-74012-0",
+    "title": "Context-dependent regulation of IgH V(D)J recombination by cohesin-STAG1 and cohesin-STAG2.",
+    "sent_at": "2026-06-24T09:50:52.193002Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
