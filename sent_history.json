@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.30.728992",
-    "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyltransferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
-    "sent_at": "2026-06-16T23:48:51.054828Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.12.731976",
-    "title": "Chromatin Assembly Factor 1 is required for normal structure and function of facultative heterochromatin in Neurospora crassa",
-    "sent_at": "2026-06-17T05:08:57.502210Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.mcpro.2026.101602",
     "title": "Proteome-wide ubiquitinome profiling reveals substrate-specific dynamics within the USP7 network.",
     "sent_at": "2026-06-17T05:08:57.502210Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-24T21:45:34.692944Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.07.698246",
+    "title": "Electrostatic interactions compensate energetic frustration in the coupled folding and binding of intrinsically disordered proteins",
+    "sent_at": "2026-06-24T23:20:06.394425Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2604716123",
+    "title": "Adaptive mechanochemical mechanisms of the nucleus during confined cell migration.",
+    "sent_at": "2026-06-24T23:20:06.394425Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
