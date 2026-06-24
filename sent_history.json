@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.canlet.2026.218679",
-    "title": "Cellular Plasticity and Epigenetic Instability in Cancer: Mechanistic Insights and Functional Dissection with CRISPR-Based Epigenome Editing.",
-    "sent_at": "2026-06-16T05:28:45.976078Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2025.12.15.694070",
     "title": "Regulatory network hubs guide dynamic human lineage specification",
     "sent_at": "2026-06-16T11:34:50.584835Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-24T12:28:55.667634Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.07.730684",
+    "title": "HoloCell: A Generative Foundation Model for Holistic Cellular Modeling",
+    "sent_at": "2026-06-24T15:23:12.077879Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
