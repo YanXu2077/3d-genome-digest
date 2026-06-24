@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3389/finsc.2026.1858332",
-    "title": "Chromatin condensation dynamics during spermatogenesis and variation in detectability and spatial distribution of satellite DNAs outside constitutive heterochromatin in Tenebrio molitor.",
-    "sent_at": "2026-06-15T18:48:02.349124Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.11.730447",
     "title": "A pleiotropic EPAS1 enhancer mediating Tibetan adaptation to hypoxia is active in adipocytes",
     "sent_at": "2026-06-15T22:28:50.218420Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-23T23:21:24.709731Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.11.731680",
+    "title": "Antigen Stimulation Reactivates HIV-1 Proviruses Despite Integration in Repressive Chromatin",
+    "sent_at": "2026-06-24T04:24:23.346011Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
