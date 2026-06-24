@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.15.694070",
-    "title": "Regulatory network hubs guide dynamic human lineage specification",
-    "sent_at": "2026-06-16T11:34:50.584835Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.02.21.707146",
-    "title": "A Unifying Thermodynamic Model for Phase Separation and Aging of Biopolymers",
-    "sent_at": "2026-06-16T17:21:01.544508Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.11.731563",
     "title": "Hypermutability of ultraconserved histone genes and its contribution to human disease",
     "sent_at": "2026-06-16T21:19:02.197530Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-24T15:23:12.077879Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.21.733607",
+    "title": "Dynamic redistribution of eIF4F controls cap-dependent translation initiation",
+    "sent_at": "2026-06-24T18:20:12.550743Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1155/genr/8137770",
+    "title": "Biological Context-Informed and Population-Stratified Strategies Improve Genetic Diagnosis of CCDC22-Related Disorder.",
+    "sent_at": "2026-06-24T18:20:12.550743Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
