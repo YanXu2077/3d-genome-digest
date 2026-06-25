@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.19.700311",
-    "title": "UnionLoops: a workflow for calling chromatin loops across related Hi-C datasets with improved specificity, precision, and sensitivity",
-    "sent_at": "2026-06-18T04:57:44.016180Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41559-026-03107-0",
     "title": "Rewiring of two conserved signalling hubs into one axis underlies convergent female-specific wing regression in insects.",
     "sent_at": "2026-06-18T04:57:44.016180Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.20.733419",
     "title": "High-speed volumetric single-molecule imaging using dual-wavelength light sheets and PSF-engineered enhanced biplane detection",
     "sent_at": "2026-06-25T22:05:39.701887Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.01.729284",
+    "title": "Index-agnostic oblique plane light sheet microscopy of centimetre-scale cleared tissues at subcellular resolution",
+    "sent_at": "2026-06-25T23:43:18.158282Z",
     "tier": 4,
     "kind": "preprint"
   }
