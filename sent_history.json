@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731975",
-    "title": "Wolbachia-induced cytoplasmic incompatibility produces heritable chromatin modifications that suppress position-effect variegation",
-    "sent_at": "2026-06-17T11:18:28.813948Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.21037/jtd-2026-1-0037",
-    "title": "Progress on the mechanism of Piezo1 in mechanical ventilation-induced lung injury.",
-    "sent_at": "2026-06-17T11:18:28.813948Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.15.731051",
     "title": "The role of long-range transcriptional regulation in interpretation of non-coding variants associated with human disease",
     "sent_at": "2026-06-17T16:02:01.166759Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-25T04:20:34.510433Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.19.732679",
+    "title": "Beyond statistical significance: ranking transcription factor binding motifs by effect size",
+    "sent_at": "2026-06-25T09:41:26.998277Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.mad.2026.112217",
+    "title": "HTZ-1/H2A.Z expression sustains transcriptional programs that regulate Caenorhabditis elegans lifespan.",
+    "sent_at": "2026-06-25T09:41:26.998277Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
