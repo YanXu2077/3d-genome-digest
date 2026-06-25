@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732671",
-    "title": "Single-nucleus multiomic analysis reveals modulation of the gene regulatory circuit landscape in pituitary cell types during mouse estrous cycle.",
-    "sent_at": "2026-06-18T00:02:48.705618Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.01.19.700311",
     "title": "UnionLoops: a workflow for calling chromatin loops across related Hi-C datasets with improved specificity, precision, and sensitivity",
     "sent_at": "2026-06-18T04:57:44.016180Z",
@@ -557,6 +550,13 @@
     "title": "Histone H4 lysine 20 monomethylation is not a mark of transcriptional silencers",
     "sent_at": "2026-06-25T20:23:31.478278Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.20.733419",
+    "title": "High-speed volumetric single-molecule imaging using dual-wavelength light sheets and PSF-engineered enhanced biplane detection",
+    "sent_at": "2026-06-25T22:05:39.701887Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
