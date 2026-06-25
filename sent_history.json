@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.731051",
-    "title": "The role of long-range transcriptional regulation in interpretation of non-coding variants associated with human disease",
-    "sent_at": "2026-06-17T16:02:01.166759Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.12.731829",
     "title": "A minimal thermodynamic theory for re-entrant liquid-liquid phase separation regulated by small molecules",
     "sent_at": "2026-06-17T18:32:38.850279Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-25T09:41:26.998277Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.03.11.710984",
+    "title": "ATAClone: Cancer Clone Identification and Copy Number Estimation from Single-cell ATAC-seq",
+    "sent_at": "2026-06-25T12:32:11.370110Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
