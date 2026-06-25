@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731829",
-    "title": "A minimal thermodynamic theory for re-entrant liquid-liquid phase separation regulated by small molecules",
-    "sent_at": "2026-06-17T18:32:38.850279Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.12.731741",
     "title": "Annotation-Based Gene-Peak Links Improve Regulatory Network Prediction of Gene Expression in Human Kidney Multi-Omics",
     "sent_at": "2026-06-17T22:13:55.564768Z",
@@ -557,6 +550,13 @@
     "title": "ATAClone: Cancer Clone Identification and Copy Number Estimation from Single-cell ATAC-seq",
     "sent_at": "2026-06-25T12:32:11.370110Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.26.708306",
+    "title": "Antibody background in ChIP-seq skews estimates of cohesin positioning by CTCF barriers",
+    "sent_at": "2026-06-25T16:34:56.565833Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
