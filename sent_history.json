@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.mcpro.2026.101602",
-    "title": "Proteome-wide ubiquitinome profiling reveals substrate-specific dynamics within the USP7 network.",
-    "sent_at": "2026-06-17T05:08:57.502210Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.12.731975",
     "title": "Wolbachia-induced cytoplasmic incompatibility produces heritable chromatin modifications that suppress position-effect variegation",
     "sent_at": "2026-06-17T11:18:28.813948Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-24T23:20:06.394425Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.19.733383",
+    "title": "A Spectrum of Free Energy Landscape Topologies Encodes Chromatin Polymorphism and Phase Separation",
+    "sent_at": "2026-06-25T04:20:34.510433Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
