@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731741",
-    "title": "Annotation-Based Gene-Peak Links Improve Regulatory Network Prediction of Gene Expression in Human Kidney Multi-Omics",
-    "sent_at": "2026-06-17T22:13:55.564768Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.16.732671",
     "title": "Single-nucleus multiomic analysis reveals modulation of the gene regulatory circuit landscape in pituitary cell types during mouse estrous cycle.",
     "sent_at": "2026-06-18T00:02:48.705618Z",
@@ -557,6 +550,13 @@
     "title": "Antibody background in ChIP-seq skews estimates of cohesin positioning by CTCF barriers",
     "sent_at": "2026-06-25T16:34:56.565833Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.01.09.632211",
+    "title": "Histone H4 lysine 20 monomethylation is not a mark of transcriptional silencers",
+    "sent_at": "2026-06-25T20:23:31.478278Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
