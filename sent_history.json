@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.09.12.612694",
-    "title": "A DNA tension-dependent tug-of-war between dimeric SMC motors governs loop extrusion directionality",
-    "sent_at": "2026-06-18T10:46:18.295289Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/s13353-026-01086-3",
-    "title": "Maize chromatin introgression's effect in oat × maize addition lines.",
-    "sent_at": "2026-06-18T10:46:18.295289Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.16.732681",
     "title": "Haplotype-resolved genome architecture mapping uncovers pervasive structural heterogeneity between human homologous chromosomes",
     "sent_at": "2026-06-18T15:50:55.760007Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-26T04:28:59.592864Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.25.734509",
+    "title": "Interplay Between Protein-RNA Binding and Phase Separation Drives Emergent Behavior in RNP Condensates",
+    "sent_at": "2026-06-26T09:50:28.225405Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41598-026-57337-0",
+    "title": "A flexible loop in the Smc3 head domain is required for stability and cohesin complex integrity.",
+    "sent_at": "2026-06-26T09:50:28.225405Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
