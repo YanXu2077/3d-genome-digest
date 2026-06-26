@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.14.732207",
-    "title": "Hi-C data from the filamentous fungus Podospora anserina and associated 3D models to visualize the spatial organization of its chromosomes",
-    "sent_at": "2026-06-19T05:21:51.754503Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.gde.2026.102489",
-    "title": "Active processes shape and move the genome and nucleoplasm.",
-    "sent_at": "2026-06-19T05:21:51.754503Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.15.732425",
     "title": "DNA Sequence and Histone Variant H2A.Z Jointly Govern Nucleosome Unwrapping Pathways",
     "sent_at": "2026-06-19T10:59:34.652091Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/ijms27125512",
     "title": "Alternative Splicing in Plant Development and Abiotic Stress Responses: A Multifunctional Regulatory Mechanism.",
     "sent_at": "2026-06-26T15:14:43.573197Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.23.734090",
+    "title": "RNAPII and NER stall loop extrusion at UV lesions, shaping the 3D genome during repair",
+    "sent_at": "2026-06-26T18:12:30.350626Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/plants15121870",
+    "title": "Anthocyanin-Driven Dark Phenotypes in Stress Adaptation.",
+    "sent_at": "2026-06-26T18:12:30.350626Z",
     "tier": 4,
     "kind": "journal"
   }
