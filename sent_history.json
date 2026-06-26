@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.732425",
-    "title": "DNA Sequence and Histone Variant H2A.Z Jointly Govern Nucleosome Unwrapping Pathways",
-    "sent_at": "2026-06-19T10:59:34.652091Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bpj.2026.06.020",
     "title": "Modeling chromatin fractal structure and dynamics: Crosslinked single chain under active forces.",
     "sent_at": "2026-06-19T10:59:34.652091Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-26T18:12:30.350626Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.22.733832",
+    "title": "Novel Drosophila cis-regulatory elements can be uncovered by footprinting transcription factor binding sites in ATAC-seq data",
+    "sent_at": "2026-06-26T20:07:51.011598Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
