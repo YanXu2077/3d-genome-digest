@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732681",
-    "title": "Haplotype-resolved genome architecture mapping uncovers pervasive structural heterogeneity between human homologous chromosomes",
-    "sent_at": "2026-06-18T15:50:55.760007Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.16.732527",
-    "title": "Large-scale prediction of transcription factor binding across human cell types informs regulatory genomics and reveals promiscuous occupancy associated with chromatin contacts",
-    "sent_at": "2026-06-18T18:36:06.854430Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.14.732162",
     "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors",
     "sent_at": "2026-06-18T22:28:05.092756Z",
@@ -557,6 +543,20 @@
     "title": "A flexible loop in the Smc3 head domain is required for stability and cohesin complex integrity.",
     "sent_at": "2026-06-26T09:50:28.225405Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734159",
+    "title": "Computational reconstruction of hierarchical cis-regulatory networks reveals synergistic transcription control and disease-associated rewiring",
+    "sent_at": "2026-06-26T12:25:49.951448Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17060596",
+    "title": "A Chromosome-Level Genome Assembly and Annotation of the Chinese Porcupine (Hystrix hodgsoni) Reveals the Expansion of Olfactory-Related Gene Families.",
+    "sent_at": "2026-06-26T12:25:49.951448Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
