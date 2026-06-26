@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.17.732994",
-    "title": "Fine-mapping candidate neuropsychiatric regulatory variants using cell type-aware comparative genomics",
-    "sent_at": "2026-06-19T15:41:39.216338Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1103/g6k5-nkbd",
     "title": "Emergent domain segregation in self-interacting polymers explains chromosome 3D conformations in single human cells.",
     "sent_at": "2026-06-19T15:41:39.216338Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.21.732899",
     "title": "CREPAS: a reproducible nascent chromatin sequencing analysis pipeline for epigenome replication studies",
     "sent_at": "2026-06-26T21:50:21.668874Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.22.733817",
+    "title": "MYC and RNA Polymerase II Binding Near Transcriptional End Sites Regulate the Expression of Functionally-Related Genes",
+    "sent_at": "2026-06-26T23:22:21.226327Z",
     "tier": 3,
     "kind": "preprint"
   }
