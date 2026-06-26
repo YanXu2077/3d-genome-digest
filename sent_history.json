@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bpj.2026.06.020",
-    "title": "Modeling chromatin fractal structure and dynamics: Crosslinked single chain under active forces.",
-    "sent_at": "2026-06-19T10:59:34.652091Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.17.732994",
     "title": "Fine-mapping candidate neuropsychiatric regulatory variants using cell type-aware comparative genomics",
     "sent_at": "2026-06-19T15:41:39.216338Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.22.733832",
     "title": "Novel Drosophila cis-regulatory elements can be uncovered by footprinting transcription factor binding sites in ATAC-seq data",
     "sent_at": "2026-06-26T20:07:51.011598Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.21.732899",
+    "title": "CREPAS: a reproducible nascent chromatin sequencing analysis pipeline for epigenome replication studies",
+    "sent_at": "2026-06-26T21:50:21.668874Z",
     "tier": 3,
     "kind": "preprint"
   }
