@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.732488",
-    "title": "Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation",
-    "sent_at": "2026-06-20T04:39:30.632623Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1021/acs.analchem.6c01147",
     "title": "Rapid Histone Post-Translational Modification Analysis Using Alternative Proteases and Tandem Mass Tags.",
     "sent_at": "2026-06-20T04:39:30.632623Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.26.734680",
     "title": "A Chromatin Biology Assessment of AlphaFold3",
     "sent_at": "2026-06-27T15:39:27.822640Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.22.729579",
+    "title": "EpiATLAS - a reference for human epigenomic research",
+    "sent_at": "2026-06-27T17:22:53.165026Z",
     "tier": 3,
     "kind": "preprint"
   }
