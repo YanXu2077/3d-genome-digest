@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.732472",
-    "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
-    "sent_at": "2026-06-19T21:46:52.781861Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.18.732892",
     "title": "Intersegmental transfers drive target search in an RNA-targeting CRISPR system",
     "sent_at": "2026-06-19T23:14:52.655058Z",
@@ -557,6 +550,13 @@
     "title": "The Vertebrate Genomes Project Phase I: A global reference genome resource",
     "sent_at": "2026-06-27T10:34:25.857827Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.25.734173",
+    "title": "Intrinsic promoter responsiveness dictates sensitivity to transcriptional activation by enhancers",
+    "sent_at": "2026-06-27T11:59:43.502625Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
