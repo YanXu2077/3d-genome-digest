@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.14.732163",
-    "title": "ScriptManager: a platform for scalable and reproducible high-resolution analysis of genomics datasets",
-    "sent_at": "2026-06-19T20:17:44.629295Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.15.732472",
     "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
     "sent_at": "2026-06-19T21:46:52.781861Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-27T07:39:15.484372Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.732306",
+    "title": "The Vertebrate Genomes Project Phase I: A global reference genome resource",
+    "sent_at": "2026-06-27T10:34:25.857827Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
