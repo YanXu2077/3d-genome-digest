@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1021/acs.analchem.6c01147",
-    "title": "Rapid Histone Post-Translational Modification Analysis Using Alternative Proteases and Tandem Mass Tags.",
-    "sent_at": "2026-06-20T04:39:30.632623Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.16.732438",
     "title": "Cross-species chromatin accessibility pinpoints HIVEP3 as a driver of thymic epithelial maturation and self-antigen expression, preventing chronic inflammation",
     "sent_at": "2026-06-20T09:36:20.879460Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.22.729579",
     "title": "EpiATLAS - a reference for human epigenomic research",
     "sent_at": "2026-06-27T17:22:53.165026Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.22.732952",
+    "title": "Defining Pseudo-Haplotype Analysis Reveals Multi-Gene Genetic Pattern Across BAF Chromatin Remodeling Complexes",
+    "sent_at": "2026-06-27T19:45:07.634577Z",
     "tier": 3,
     "kind": "preprint"
   }
