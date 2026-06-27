@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.18.732892",
-    "title": "Intersegmental transfers drive target search in an RNA-targeting CRISPR system",
-    "sent_at": "2026-06-19T23:14:52.655058Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aeb2915",
     "title": "SIRT2 antagonizes MOF function during mitotic entry.",
     "sent_at": "2026-06-19T23:14:52.655058Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.25.734173",
     "title": "Intrinsic promoter responsiveness dictates sensitivity to transcriptional activation by enhancers",
     "sent_at": "2026-06-27T11:59:43.502625Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734404",
+    "title": "Interplay of Structural Heterogeneity and Active Remodeling Controls Chromatin Condensate Organization and Dynamics",
+    "sent_at": "2026-06-27T14:06:26.741920Z",
     "tier": 2,
     "kind": "preprint"
   }
