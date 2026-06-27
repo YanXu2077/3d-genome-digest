@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732438",
-    "title": "Cross-species chromatin accessibility pinpoints HIVEP3 as a driver of thymic epithelial maturation and self-antigen expression, preventing chronic inflammation",
-    "sent_at": "2026-06-20T09:36:20.879460Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/g3journal/jkag159",
     "title": "Enhancer RNA Transcription Near Segmentation Gene Enhancers Can Be Analyzed In Situ Using FISH.",
     "sent_at": "2026-06-20T09:36:20.879460Z",
@@ -557,6 +550,13 @@
     "title": "Defining Pseudo-Haplotype Analysis Reveals Multi-Gene Genetic Pattern Across BAF Chromatin Remodeling Complexes",
     "sent_at": "2026-06-27T19:45:07.634577Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.03.692248",
+    "title": "Prediction of biomolecule kinetics using physics-based Brownian dynamics to data driven machine learning methods",
+    "sent_at": "2026-06-27T21:19:15.428248Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
