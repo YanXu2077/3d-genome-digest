@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/g3journal/jkag159",
-    "title": "Enhancer RNA Transcription Near Segmentation Gene Enhancers Can Be Analyzed In Situ Using FISH.",
-    "sent_at": "2026-06-20T09:36:20.879460Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.17.732811",
     "title": "Organisational principles of long non-coding RNAs revealed by exon deletion",
     "sent_at": "2026-06-20T12:09:15.804271Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-27T21:19:15.428248Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103318",
+    "title": "Metabolic disruptions through a three-dimensional genomic lens.",
+    "sent_at": "2026-06-27T23:13:56.392558Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
