@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.06.698059",
-    "title": "damidBind: an R/Bioconductor package for differential DamID analysis and data exploration",
-    "sent_at": "2026-06-19T18:08:45.538533Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1111/imm.70161",
-    "title": "Epigenetic Gene Networks Governing Immune State Transitions Across the Lifespan.",
-    "sent_at": "2026-06-19T18:08:45.538533Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.14.732163",
     "title": "ScriptManager: a platform for scalable and reproducible high-resolution analysis of genomics datasets",
     "sent_at": "2026-06-19T20:17:44.629295Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-27T04:13:47.590336Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.30.728992",
+    "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyltransferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
+    "sent_at": "2026-06-27T07:39:15.484372Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.actbio.2026.06.054",
+    "title": "Wavy Geometry Controls Nuclear Morphology, Migration, and YAP Signaling Independent of Myosin II Contractility.",
+    "sent_at": "2026-06-27T07:39:15.484372Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
