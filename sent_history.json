@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1103/g6k5-nkbd",
-    "title": "Emergent domain segregation in self-interacting polymers explains chromosome 3D conformations in single human cells.",
-    "sent_at": "2026-06-19T15:41:39.216338Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.01.06.698059",
     "title": "damidBind: an R/Bioconductor package for differential DamID analysis and data exploration",
     "sent_at": "2026-06-19T18:08:45.538533Z",
@@ -557,6 +550,13 @@
     "title": "MYC and RNA Polymerase II Binding Near Transcriptional End Sites Regulate the Expression of Functionally-Related Genes",
     "sent_at": "2026-06-26T23:22:21.226327Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.29.702487",
+    "title": "Visualizing Interchromosomal Interactions at Sub-Megabase Resolution Using Network Clustering Coefficients",
+    "sent_at": "2026-06-27T04:13:47.590336Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
