@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.18.733157",
-    "title": "Defining reversible binding rates in 1D systems dependent on diffusion, density, and excluded volume",
-    "sent_at": "2026-06-21T05:12:29.258522Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.19.733400",
     "title": "ARID1B damaging variants from more than one million genomes, cause human diseases by impairing protein-protein interactions, stability, and regulation",
     "sent_at": "2026-06-21T10:04:44.088287Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.23.734061",
     "title": "Promoter Structural Variants are Drivers of Genome-Wide Differential Expression in Maize",
     "sent_at": "2026-06-28T17:26:04.461650Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.25.734628",
+    "title": "Lineage-aware stochastic modeling reveals gene-expression dynamics in development and disease",
+    "sent_at": "2026-06-28T19:44:47.490061Z",
     "tier": 4,
     "kind": "preprint"
   }
