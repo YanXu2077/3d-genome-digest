@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.10.31.620483",
-    "title": "Genomic codes governing enhancer RNA fate",
-    "sent_at": "2026-06-20T17:46:53.759564Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.02.26.638501",
     "title": "The Critical Role of the 2'-OH group in Phase Separation and Percolation Transitions of RNA",
     "sent_at": "2026-06-20T19:55:34.090996Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.24.734403",
     "title": "eRNAformer enables genome-wide de novo mapping of enhancer-derived RNA loci",
     "sent_at": "2026-06-28T09:29:14.629079Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.27.734664",
+    "title": "Targeted epigenetic repression of oncogenic transcription factors via CRISPR/dCas9 locus-specific silencing",
+    "sent_at": "2026-06-28T11:58:20.745727Z",
     "tier": 3,
     "kind": "preprint"
   }
