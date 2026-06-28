@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.732353",
-    "title": "Sequential and coordinated control of human plasma cell differentiation by IRF4 and BLIMP1 utilizing a discriminating ISRE/EICE motif lexicon",
-    "sent_at": "2026-06-20T14:43:13.389416Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.10.31.620483",
     "title": "Genomic codes governing enhancer RNA fate",
     "sent_at": "2026-06-20T17:46:53.759564Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-28T04:59:39.310502Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734403",
+    "title": "eRNAformer enables genome-wide de novo mapping of enhancer-derived RNA loci",
+    "sent_at": "2026-06-28T09:29:14.629079Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
