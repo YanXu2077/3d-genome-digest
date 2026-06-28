@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.731580",
-    "title": "Non-contact direct sensing of material properties of biomolecular condensate using Scanning Ionic Conductance Microscopy",
-    "sent_at": "2026-06-21T12:22:26.095995Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.19.733462",
     "title": "Capillary bundling of microtubules by condensates",
     "sent_at": "2026-06-21T14:42:32.398712Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.22.733860",
     "title": "Spatial co-expression and cell-cell communication inference from spatially resolved transcriptomics with CONCISE",
     "sent_at": "2026-06-28T21:16:42.592272Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.14.725078",
+    "title": "IntegrateRigor: annotation-free integration optimization for cell identity recovery reveals cancer-immune interface niches",
+    "sent_at": "2026-06-28T23:19:52.258223Z",
     "tier": 4,
     "kind": "preprint"
   }
