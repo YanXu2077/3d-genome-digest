@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.09.730863",
-    "title": "A Phosphorylation-Induced Micellization switch in the low complexity domain of TDP-43",
-    "sent_at": "2026-06-20T23:25:34.498128Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.18.733157",
     "title": "Defining reversible binding rates in 1D systems dependent on diffusion, density, and excluded volume",
     "sent_at": "2026-06-21T05:12:29.258522Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.24.734333",
     "title": "Short-Read Sequencing Benchmarking with Donor-Specific Assemblies",
     "sent_at": "2026-06-28T15:50:37.253118Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.23.734061",
+    "title": "Promoter Structural Variants are Drivers of Genome-Wide Differential Expression in Maize",
+    "sent_at": "2026-06-28T17:26:04.461650Z",
     "tier": 4,
     "kind": "preprint"
   }
