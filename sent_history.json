@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.731764",
-    "title": "DNA methylation regulates a key sex differentiation gene in Pogona vitticeps, a dragon lizard with sex reversal",
-    "sent_at": "2026-06-20T21:30:43.631175Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.09.730863",
     "title": "A Phosphorylation-Induced Micellization switch in the low complexity domain of TDP-43",
     "sent_at": "2026-06-20T23:25:34.498128Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.24.734262",
     "title": "PARROT: Phase-Altering Regulatory Rewiring Over Time",
     "sent_at": "2026-06-28T14:11:03.520525Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734333",
+    "title": "Short-Read Sequencing Benchmarking with Donor-Specific Assemblies",
+    "sent_at": "2026-06-28T15:50:37.253118Z",
     "tier": 4,
     "kind": "preprint"
   }
