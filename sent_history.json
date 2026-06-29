@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732530",
-    "title": "Vesicle Internalization Proceeds via a Morphological Phase Transition",
-    "sent_at": "2026-06-21T20:00:24.880676Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.03.12.711388",
-    "title": "Physical Confinement Modulates the Rate-Limiting Transition in the Release of Phosphate from Actin Filaments",
-    "sent_at": "2026-06-21T21:30:08.097764Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.16.732643",
     "title": "Predicting Human mRNA Isoform Levels from Site-Specific Splicing Kinetics in silico",
     "sent_at": "2026-06-21T23:41:31.751855Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-29T16:08:29.830123Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734375",
+    "title": "High-fidelity rare structural variant detection with HiFiRE3 reduced representation via restriction enzyme ends",
+    "sent_at": "2026-06-29T18:33:42.666018Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.16.732780",
+    "title": "Systemic degradation of repressive transcription factors gates gene expression and cell fate specification.",
+    "sent_at": "2026-06-29T18:33:42.666018Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
