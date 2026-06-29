@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732643",
-    "title": "Predicting Human mRNA Isoform Levels from Site-Specific Splicing Kinetics in silico",
-    "sent_at": "2026-06-21T23:41:31.751855Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.04.15.718726",
-    "title": "Droplet-compatible single-cell DNA methylation sequencing with PreTIC",
-    "sent_at": "2026-06-22T05:26:01.853272Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.21.733446",
     "title": "Live-cell imaging of enhancer-promoter dynamics reveals transient contact-driven gene activation",
     "sent_at": "2026-06-22T12:24:36.658004Z",
@@ -557,6 +543,20 @@
     "title": "Systemic degradation of repressive transcription factors gates gene expression and cell fate specification.",
     "sent_at": "2026-06-29T18:33:42.666018Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734157",
+    "title": "Paralogous lncRNAs CYTOR and MORRBID share a conserved trans acting function in MEK ERK signaling",
+    "sent_at": "2026-06-29T20:18:19.113468Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15476286.2026.2695549",
+    "title": "RNA polymerase II phosphorylation dynamics: from molecular mechanisms to human disease.",
+    "sent_at": "2026-06-29T20:18:19.113468Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
