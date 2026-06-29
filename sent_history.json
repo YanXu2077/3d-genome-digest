@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.03.10.642463",
-    "title": "Interactions Underlying Stress Granule Structure and Therapeutic Dissolution",
-    "sent_at": "2026-06-21T18:05:47.499344Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.16.732530",
     "title": "Vesicle Internalization Proceeds via a Morphological Phase Transition",
     "sent_at": "2026-06-21T20:00:24.880676Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.02.12.705656",
     "title": "ATP-driven conformational dynamics reveal hidden intermediates in a heterodimeric ABC transporter",
     "sent_at": "2026-06-29T11:23:41.795486Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.22.720181",
+    "title": "State-dependent energy conversion produces degenerate dissipation in active actomyosin networks",
+    "sent_at": "2026-06-29T16:08:29.830123Z",
     "tier": 4,
     "kind": "preprint"
   }
