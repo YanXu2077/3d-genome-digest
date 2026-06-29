@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.19.733462",
-    "title": "Capillary bundling of microtubules by condensates",
-    "sent_at": "2026-06-21T14:42:32.398712Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.16.732665",
     "title": "A novel preclinical mouse model recapitulates progressive phenotypes of Bryant-Li-Bhoj Syndrome",
     "sent_at": "2026-06-21T16:07:24.136858Z",
@@ -557,6 +550,13 @@
     "title": "IntegrateRigor: annotation-free integration optimization for cell identity recovery reveals cancer-immune interface niches",
     "sent_at": "2026-06-28T23:19:52.258223Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.26.734832",
+    "title": "Fiber-TEnCATS reveals haplotype-specific chromatin accessibility and DNA methylation at human L1HS loci",
+    "sent_at": "2026-06-29T04:56:36.583722Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
