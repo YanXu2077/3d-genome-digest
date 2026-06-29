@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732382",
-    "title": "SPA-C: an hybrid tool to accurately scaffold genomes using Hi-C and Deep-Learning",
-    "sent_at": "2026-06-22T17:18:08.380043Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.17.732700",
-    "title": "BioBrain: A Multi-Agent Framework for Natural Language Driven Quantitative Microscopy Data Analysis",
-    "sent_at": "2026-06-22T21:23:45.920535Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag618",
     "title": "RepliSage: a stochastic graph-based framework for 3D chromatin modeling across the cell cycle.",
     "sent_at": "2026-06-22T21:23:45.920535Z",
@@ -557,6 +543,20 @@
     "title": "Cognitive function depends upon Satb2 gene dosage in cortical projection neurons.",
     "sent_at": "2026-06-29T21:54:37.865887Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734243",
+    "title": "Critical Scaling Laws and Universality Classes in Biomolecular Condensates",
+    "sent_at": "2026-06-29T23:14:53.572348Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.14.732162",
+    "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors.",
+    "sent_at": "2026-06-29T23:14:53.572348Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
