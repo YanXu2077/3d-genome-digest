@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3791/71307",
-    "title": "Quantitative Live Cell Imaging of Nuclear Shape and Chromatin Dynamics During Development and Environmental Stress in Arabidopsis thaliana Root.",
-    "sent_at": "2026-06-23T12:47:59.348976Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.17.732357",
-    "title": "nanoASM: Long-Read Allele-Specific DNA Methylation Profiling Enables Functional Annotation of Regulatory Noncoding Variants in Human Prostate Tissues",
-    "sent_at": "2026-06-23T16:38:28.319161Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.03.730013",
     "title": "Decoding the Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling.",
     "sent_at": "2026-06-23T16:38:28.319161Z",
@@ -557,6 +543,20 @@
     "title": "Integrative transcriptional regulatory networks governing cereal root responses to heavy metals and drought.",
     "sent_at": "2026-06-30T15:13:24.541573Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.29.735326",
+    "title": "A Simple, Cost-Effective, High-Throughput Method for Measuring Chromatin Accessibility and Gene Expression in Single Nuclei",
+    "sent_at": "2026-06-30T18:21:59.020593Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00239-026-10330-7",
+    "title": "Synonymous Codons as Potential Contributors to Chromatin Stability and Gene Body Methylation in Plants.",
+    "sent_at": "2026-06-30T18:21:59.020593Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
