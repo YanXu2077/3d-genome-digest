@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.03.730013",
-    "title": "Decoding the Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling.",
-    "sent_at": "2026-06-23T16:38:28.319161Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.18.733261",
     "title": "Variation and selection at predicted G-quadruplexes across the human pangenome",
     "sent_at": "2026-06-23T20:22:59.261995Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-06-30T18:21:59.020593Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.734378",
+    "title": "Long-term single-particle tracking by NIR imaging using Au42 (gold) quantum needles",
+    "sent_at": "2026-06-30T20:17:39.205393Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
