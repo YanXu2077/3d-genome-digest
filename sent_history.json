@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag618",
-    "title": "RepliSage: a stochastic graph-based framework for 3D chromatin modeling across the cell cycle.",
-    "sent_at": "2026-06-22T21:23:45.920535Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.17.732986",
-    "title": "Mechanical tension expands the microtubule lattice stepwise and modulates kinesin-1 binding in an isoform-dependent manner",
-    "sent_at": "2026-06-22T23:52:16.464885Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.08.730890",
     "title": "Cohesin activity accelerates the homology search.",
     "sent_at": "2026-06-22T23:52:16.464885Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.06.14.732162",
     "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors.",
     "sent_at": "2026-06-29T23:14:53.572348Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.26.734659",
+    "title": "Causally measuring aging and rejuvenation through transcriptomic damage",
+    "sent_at": "2026-06-30T04:24:25.180018Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.12.731741",
+    "title": "Annotation-Based Gene-Peak Links Improve Regulatory Network Prediction of Gene Expression in Human Kidney Multi-Omics.",
+    "sent_at": "2026-06-30T04:24:25.180018Z",
     "tier": 3,
     "kind": "journal"
   }
