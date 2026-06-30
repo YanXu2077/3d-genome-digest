@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3389/fcell.2026.1823110",
-    "title": "Live monitoring uncovers divergent epigenetic remodeling during osteogenic and adipogenic differentiation of mesenchymal stem cells.",
-    "sent_at": "2026-06-23T04:20:16.621070Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.21.733238",
-    "title": "Single-molecule insights into DNA gyrase in live bacteria",
-    "sent_at": "2026-06-23T10:03:53.241329Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-74693-7",
     "title": "Hierarchical interplay between H3K27ac and H3K4me3 in transcriptional regulation.",
     "sent_at": "2026-06-23T10:03:53.241329Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/nep3.70037",
     "title": "Depletion of microglial compensation in glial network: Disease-associated response dynamics in the revised amyloid hypothesis.",
     "sent_at": "2026-06-30T10:04:22.432443Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.07.09.602755",
+    "title": "Dynamic neuro-immune regulation of psychiatric risk loci in human neurons",
+    "sent_at": "2026-06-30T12:26:02.862163Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.prp.2026.156603",
+    "title": "Taraxerol targets the HIF1A-NEK6 axis to block TDE-mediated M2 macrophage polarization and inhibits NSCLC progression.",
+    "sent_at": "2026-06-30T12:26:02.862163Z",
     "tier": 4,
     "kind": "journal"
   }
