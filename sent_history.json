@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag641",
-    "title": "ATF4 and CHOP coordinate endoplasmic reticulum stress-responsive gene programs through enhancer activation and chromatin looping.",
-    "sent_at": "2026-06-23T20:22:59.261995Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2025.12.29.696957",
     "title": "Single-molecule behavior and cell-growth regulation in human RTKs",
     "sent_at": "2026-06-23T22:01:20.849312Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.25.734423",
     "title": "Time-resolved inference of gene regulatory networks underlying human cranial neural crest development suggests novel risk genes for orofacial clefting.",
     "sent_at": "2026-06-30T22:01:58.826946Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.09.11.675606",
+    "title": "Improved cryo-EM reconstruction of sub-50 kDa complexes using 2D template matching",
+    "sent_at": "2026-06-30T23:30:08.098271Z",
     "tier": 4,
     "kind": "preprint"
   }
