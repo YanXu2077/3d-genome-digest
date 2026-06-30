@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.18.733261",
-    "title": "Variation and selection at predicted G-quadruplexes across the human pangenome",
-    "sent_at": "2026-06-23T20:22:59.261995Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag641",
     "title": "ATF4 and CHOP coordinate endoplasmic reticulum stress-responsive gene programs through enhancer activation and chromatin looping.",
     "sent_at": "2026-06-23T20:22:59.261995Z",
@@ -557,6 +550,13 @@
     "title": "Long-term single-particle tracking by NIR imaging using Au42 (gold) quantum needles",
     "sent_at": "2026-06-30T20:17:39.205393Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.25.734423",
+    "title": "Time-resolved inference of gene regulatory networks underlying human cranial neural crest development suggests novel risk genes for orofacial clefting.",
+    "sent_at": "2026-06-30T22:01:58.826946Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
