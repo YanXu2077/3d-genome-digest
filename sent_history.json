@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.08.730890",
-    "title": "Cohesin activity accelerates the homology search.",
-    "sent_at": "2026-06-22T23:52:16.464885Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.23.727175",
-    "title": "ATLAS: a scverse-compatible package for multi-omic single-cell trajectory inference integration",
-    "sent_at": "2026-06-23T04:20:16.621070Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/fcell.2026.1823110",
     "title": "Live monitoring uncovers divergent epigenetic remodeling during osteogenic and adipogenic differentiation of mesenchymal stem cells.",
     "sent_at": "2026-06-23T04:20:16.621070Z",
@@ -557,6 +543,20 @@
     "title": "Annotation-Based Gene-Peak Links Improve Regulatory Network Prediction of Gene Expression in Human Kidney Multi-Omics.",
     "sent_at": "2026-06-30T04:24:25.180018Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.11.693723",
+    "title": "Identification of genomic features that uniquely impact estrogen receptor alpha binding and its effects on gene expression in endometrial cancer",
+    "sent_at": "2026-06-30T10:04:22.432443Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/nep3.70037",
+    "title": "Depletion of microglial compensation in glial network: Disease-associated response dynamics in the revised amyloid hypothesis.",
+    "sent_at": "2026-06-30T10:04:22.432443Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
