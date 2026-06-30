@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-74693-7",
-    "title": "Hierarchical interplay between H3K27ac and H3K4me3 in transcriptional regulation.",
-    "sent_at": "2026-06-23T10:03:53.241329Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2025.12.28.696482",
-    "title": "GenoME: a MoE-based generative model for individualized, multimodal prediction and perturbation of genomic profiles",
-    "sent_at": "2026-06-23T12:47:59.348976Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3791/71307",
     "title": "Quantitative Live Cell Imaging of Nuclear Shape and Chromatin Dynamics During Development and Environmental Stress in Arabidopsis thaliana Root.",
     "sent_at": "2026-06-23T12:47:59.348976Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.prp.2026.156603",
     "title": "Taraxerol targets the HIF1A-NEK6 axis to block TDE-mediated M2 macrophage polarization and inhibits NSCLC progression.",
     "sent_at": "2026-06-30T12:26:02.862163Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.24.733005",
+    "title": "Maintenance DNA methylation is necessary for age-related alterations in regulatory T cell transcriptional and DNA methylation signatures",
+    "sent_at": "2026-06-30T15:13:24.541573Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00299-026-03894-7",
+    "title": "Integrative transcriptional regulatory networks governing cereal root responses to heavy metals and drought.",
+    "sent_at": "2026-06-30T15:13:24.541573Z",
     "tier": 4,
     "kind": "journal"
   }
