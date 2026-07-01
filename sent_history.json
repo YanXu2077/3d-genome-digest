@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.07.698246",
-    "title": "Electrostatic interactions compensate energetic frustration in the coupled folding and binding of intrinsically disordered proteins",
-    "sent_at": "2026-06-24T23:20:06.394425Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2604716123",
-    "title": "Adaptive mechanochemical mechanisms of the nucleus during confined cell migration.",
-    "sent_at": "2026-06-24T23:20:06.394425Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.19.733383",
     "title": "A Spectrum of Free Energy Landscape Topologies Encodes Chromatin Polymorphism and Phase Separation",
     "sent_at": "2026-06-25T04:20:34.510433Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-01T21:50:59.114709Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.09.693282",
+    "title": "Age-related erosion of X chromosome inactivation in human tissues",
+    "sent_at": "2026-07-01T23:32:11.896989Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2530341123",
+    "title": "Nitrogen-TOR targets a bivalent chromatin reader to modulate floral transition.",
+    "sent_at": "2026-07-01T23:32:11.896989Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
