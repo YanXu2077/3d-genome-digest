@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.21.733607",
-    "title": "Dynamic redistribution of eIF4F controls cap-dependent translation initiation",
-    "sent_at": "2026-06-24T18:20:12.550743Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1155/genr/8137770",
-    "title": "Biological Context-Informed and Population-Stratified Strategies Improve Genetic Diagnosis of CCDC22-Related Disorder.",
-    "sent_at": "2026-06-24T18:20:12.550743Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.19.726095",
     "title": "Cryo-EM Structure of a 95-Basepair Double-Stranded DNA Minicircle at 5.3 A Resolution",
     "sent_at": "2026-06-24T20:04:07.523968Z",
@@ -557,6 +543,20 @@
     "title": "Cross-Scale Bioanalytical Integration for Decoding Tumour Regulatory Plasticity in Oncology.",
     "sent_at": "2026-07-01T16:47:27.212184Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.26.734851",
+    "title": "Genome architecture shapes the evolutionary origins of redundant enhancers in fly and mouse",
+    "sent_at": "2026-07-01T18:12:07.822981Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/jb/mvag051",
+    "title": "Chromatin dynamics and cellular energy homeostasis.",
+    "sent_at": "2026-07-01T18:12:07.822981Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
