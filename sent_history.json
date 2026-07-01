@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-74012-0",
-    "title": "Context-dependent regulation of IgH V(D)J recombination by cohesin-STAG1 and cohesin-STAG2.",
-    "sent_at": "2026-06-24T09:50:52.193002Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.05.11.724207",
-    "title": "Mapping active cis-regulatory elements from transcription initiation events",
-    "sent_at": "2026-06-24T12:28:55.667634Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jprot.2026.105699",
     "title": "Proteomic and phosphoproteomic profiles of time-dependent dynamic changes in LPS-induced macrophage polarization.",
     "sent_at": "2026-06-24T12:28:55.667634Z",
@@ -557,6 +543,20 @@
     "title": "Decoding DNA metabolism and its clinical relevance through the lens of high-throughput sequencing assays.",
     "sent_at": "2026-07-01T13:21:52.137008Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735528",
+    "title": "Single molecule footprinting measures low nucleosome occupancy in mature spermatozoa of mice and men",
+    "sent_at": "2026-07-01T14:58:12.092066Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fonc.2026.1759160",
+    "title": "HDAC1-mediated CDK1 decrotonylation inhibits colorectal cancer proliferation by regulating cell cycle and apoptosis.",
+    "sent_at": "2026-07-01T14:58:12.092066Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
