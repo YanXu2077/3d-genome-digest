@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.29.696957",
-    "title": "Single-molecule behavior and cell-growth regulation in human RTKs",
-    "sent_at": "2026-06-23T22:01:20.849312Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/procel/pwaf082",
-    "title": "3D chromatin dynamics in cellular neuroendocrine transformation.",
-    "sent_at": "2026-06-23T22:01:20.849312Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.18.733084",
     "title": "Robust thermometry-imaging at sub-micrometer and millisecond-resolution by fluorescence lifetime microscopy allows for additional acquisition of multiple imaging channels",
     "sent_at": "2026-06-23T23:21:24.709731Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-06-30T23:30:08.098271Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.03.12.642895",
+    "title": "Re-annotating the EPICv2 manifest with genes, intragenic features, and regulatory elements",
+    "sent_at": "2026-07-01T04:52:17.557269Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-74870-8",
+    "title": "Distinct and compensatory roles of STAG1 and STAG2 in post-mitotic genome refolding.",
+    "sent_at": "2026-07-01T04:52:17.557269Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
