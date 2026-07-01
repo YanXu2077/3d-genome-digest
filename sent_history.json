@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.18.733084",
-    "title": "Robust thermometry-imaging at sub-micrometer and millisecond-resolution by fluorescence lifetime microscopy allows for additional acquisition of multiple imaging channels",
-    "sent_at": "2026-06-23T23:21:24.709731Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fgene.2026.1838613",
-    "title": "LAIOR: a hyperbolic neural ODE variational framework for interpretable single-cell manifold learning and trajectory inference.",
-    "sent_at": "2026-06-23T23:21:24.709731Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.11.731680",
     "title": "Antigen Stimulation Reactivates HIV-1 Proviruses Despite Integration in Repressive Chromatin",
     "sent_at": "2026-06-24T04:24:23.346011Z",
@@ -557,6 +543,20 @@
     "title": "Distinct and compensatory roles of STAG1 and STAG2 in post-mitotic genome refolding.",
     "sent_at": "2026-07-01T04:52:17.557269Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735501",
+    "title": "Near-complete genomes for nine haplochromine cichlid fishes reveal a novel centromeric satellite structure organised around a pair of inverted elements",
+    "sent_at": "2026-07-01T10:11:22.856002Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.devcel.2026.06.002",
+    "title": "ARID1A terminates gastric regeneration to prevent cancer.",
+    "sent_at": "2026-07-01T10:11:22.856002Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
