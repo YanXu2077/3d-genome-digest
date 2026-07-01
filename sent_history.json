@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726095",
-    "title": "Cryo-EM Structure of a 95-Basepair Double-Stranded DNA Minicircle at 5.3 A Resolution",
-    "sent_at": "2026-06-24T20:04:07.523968Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.10.731283",
     "title": "HOROSCOPE: Decoding human centromere architecture from short reads using k-mer signatures",
     "sent_at": "2026-06-24T21:45:34.692944Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-01T18:12:07.822981Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.27.734011",
+    "title": "Complex coacervation reshapes the aggregation landscape of tau",
+    "sent_at": "2026-07-01T20:26:05.781965Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
