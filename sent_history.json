@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jprot.2026.105699",
-    "title": "Proteomic and phosphoproteomic profiles of time-dependent dynamic changes in LPS-induced macrophage polarization.",
-    "sent_at": "2026-06-24T12:28:55.667634Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.07.730684",
-    "title": "HoloCell: A Generative Foundation Model for Holistic Cellular Modeling",
-    "sent_at": "2026-06-24T15:23:12.077879Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.21.733607",
     "title": "Dynamic redistribution of eIF4F controls cap-dependent translation initiation",
     "sent_at": "2026-06-24T18:20:12.550743Z",
@@ -556,6 +542,20 @@
     "doi": "10.3389/fonc.2026.1759160",
     "title": "HDAC1-mediated CDK1 decrotonylation inhibits colorectal cancer proliferation by regulating cell cycle and apoptosis.",
     "sent_at": "2026-07-01T14:58:12.092066Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.25.734596",
+    "title": "TGM2-mediated histone serotonylation is an epigenetic cardioprotective mechanism in HFpEF",
+    "sent_at": "2026-07-01T16:47:27.212184Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.critrevonc.2026.105466",
+    "title": "Cross-Scale Bioanalytical Integration for Decoding Tumour Regulatory Plasticity in Oncology.",
+    "sent_at": "2026-07-01T16:47:27.212184Z",
     "tier": 4,
     "kind": "journal"
   }
