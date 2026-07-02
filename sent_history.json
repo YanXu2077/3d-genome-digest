@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.01.729284",
-    "title": "Index-agnostic oblique plane light sheet microscopy of centimetre-scale cleared tissues at subcellular resolution",
-    "sent_at": "2026-06-25T23:43:18.158282Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2025.12.06.692780",
     "title": "Structural Basis of Human Kinetochore-Microtubule Coupling by the Ndc80 and Ska Complexes",
     "sent_at": "2026-06-26T04:28:59.592864Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.08.723928",
     "title": "AI-discovered protein fragments as generalizable regulators of biomolecular condensates",
     "sent_at": "2026-07-02T18:16:32.211552Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.08.23.609473",
+    "title": "Robustness and reliability of single-cell regulatory multi-omics with deep mitochondrial mutation profiling",
+    "sent_at": "2026-07-02T19:50:50.036869Z",
     "tier": 4,
     "kind": "preprint"
   }
