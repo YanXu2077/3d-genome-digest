@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.01.09.632211",
-    "title": "Histone H4 lysine 20 monomethylation is not a mark of transcriptional silencers",
-    "sent_at": "2026-06-25T20:23:31.478278Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.20.733419",
     "title": "High-speed volumetric single-molecule imaging using dual-wavelength light sheets and PSF-engineered enhanced biplane detection",
     "sent_at": "2026-06-25T22:05:39.701887Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.02.05.703842",
     "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
     "sent_at": "2026-07-02T14:42:35.596971Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.03.13.711572",
+    "title": "Hepatocyte Embryonic Ectoderm Development (Eed) Deficiency Causes Liver Injury, Fibrosis and Impacts Liver Regeneration",
+    "sent_at": "2026-07-02T16:17:23.436299Z",
     "tier": 3,
     "kind": "preprint"
   }
