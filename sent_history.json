@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.25.734509",
-    "title": "Interplay Between Protein-RNA Binding and Phase Separation Drives Emergent Behavior in RNP Condensates",
-    "sent_at": "2026-06-26T09:50:28.225405Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41598-026-57337-0",
     "title": "A flexible loop in the Smc3 head domain is required for stability and cohesin complex integrity.",
     "sent_at": "2026-06-26T09:50:28.225405Z",
@@ -557,6 +550,13 @@
     "title": "CryoGO enables high-resolution structural profiling of endogenous cellular macromolecules",
     "sent_at": "2026-07-02T21:26:53.128550Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.28.735129",
+    "title": "B cell-intrinsic IRF8 transcriptionally reprograms antigen presentation to sustain CD8⁺ T cell antitumor immunity",
+    "sent_at": "2026-07-02T23:25:12.032790Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
