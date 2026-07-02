@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.19.733383",
-    "title": "A Spectrum of Free Energy Landscape Topologies Encodes Chromatin Polymorphism and Phase Separation",
-    "sent_at": "2026-06-25T04:20:34.510433Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.19.732679",
     "title": "Beyond statistical significance: ranking transcription factor binding motifs by effect size",
     "sent_at": "2026-06-25T09:41:26.998277Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-01T23:32:11.896989Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.28.735082",
+    "title": "Quantitative Motion-Corrected PALM Links Endosome Structure and Dynamics in Live Cells",
+    "sent_at": "2026-07-02T04:18:53.969769Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
