@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.02.26.708306",
-    "title": "Antibody background in ChIP-seq skews estimates of cohesin positioning by CTCF barriers",
-    "sent_at": "2026-06-25T16:34:56.565833Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.01.09.632211",
     "title": "Histone H4 lysine 20 monomethylation is not a mark of transcriptional silencers",
     "sent_at": "2026-06-25T20:23:31.478278Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-02T12:21:56.752447Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.02.05.703842",
+    "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
+    "sent_at": "2026-07-02T14:42:35.596971Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
