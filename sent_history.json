@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.20.733419",
-    "title": "High-speed volumetric single-molecule imaging using dual-wavelength light sheets and PSF-engineered enhanced biplane detection",
-    "sent_at": "2026-06-25T22:05:39.701887Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.01.729284",
     "title": "Index-agnostic oblique plane light sheet microscopy of centimetre-scale cleared tissues at subcellular resolution",
     "sent_at": "2026-06-25T23:43:18.158282Z",
@@ -557,6 +550,13 @@
     "title": "Hepatocyte Embryonic Ectoderm Development (Eed) Deficiency Causes Liver Injury, Fibrosis and Impacts Liver Regeneration",
     "sent_at": "2026-07-02T16:17:23.436299Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.08.723928",
+    "title": "AI-discovered protein fragments as generalizable regulators of biomolecular condensates",
+    "sent_at": "2026-07-02T18:16:32.211552Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
