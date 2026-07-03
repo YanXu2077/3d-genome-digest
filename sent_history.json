@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41598-026-57337-0",
-    "title": "A flexible loop in the Smc3 head domain is required for stability and cohesin complex integrity.",
-    "sent_at": "2026-06-26T09:50:28.225405Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.24.734159",
     "title": "Computational reconstruction of hierarchical cis-regulatory networks reveals synergistic transcription control and disease-associated rewiring",
     "sent_at": "2026-06-26T12:25:49.951448Z",
@@ -557,6 +550,13 @@
     "title": "B cell-intrinsic IRF8 transcriptionally reprograms antigen presentation to sustain CD8⁺ T cell antitumor immunity",
     "sent_at": "2026-07-02T23:25:12.032790Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.09.14.676067",
+    "title": "SpatialFuser: a unified framework for integrative analysis of unpaired spatial multi-omics data",
+    "sent_at": "2026-07-03T04:04:20.650522Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
