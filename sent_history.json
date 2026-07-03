@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.30.728992",
-    "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyltransferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
-    "sent_at": "2026-06-27T07:39:15.484372Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.actbio.2026.06.054",
     "title": "Wavy Geometry Controls Nuclear Morphology, Migration, and YAP Signaling Independent of Myosin II Contractility.",
     "sent_at": "2026-06-27T07:39:15.484372Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-03T19:49:59.425747Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.29.735381",
+    "title": "Replication fork directionality reveals how structural variants arise under replication stress",
+    "sent_at": "2026-07-03T21:25:10.438977Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
