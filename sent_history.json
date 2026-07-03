@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.23.734090",
-    "title": "RNAPII and NER stall loop extrusion at UV lesions, shaping the 3D genome during repair",
-    "sent_at": "2026-06-26T18:12:30.350626Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/plants15121870",
-    "title": "Anthocyanin-Driven Dark Phenotypes in Stress Adaptation.",
-    "sent_at": "2026-06-26T18:12:30.350626Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.22.733832",
     "title": "Novel Drosophila cis-regulatory elements can be uncovered by footprinting transcription factor binding sites in ATAC-seq data",
     "sent_at": "2026-06-26T20:07:51.011598Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/2025.04.24.650458",
     "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells.",
     "sent_at": "2026-07-03T10:50:57.954579Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.10.13.682073",
+    "title": "Thermodynamic principles of enzymatic regulation in biomolecular condensates from reaction-coupled molecular modeling",
+    "sent_at": "2026-07-03T14:34:27.492500Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ejcb.2026.151552",
+    "title": "Epigenetic regulation of non-apoptotic regulated cell death.",
+    "sent_at": "2026-07-03T14:34:27.492500Z",
     "tier": 3,
     "kind": "journal"
   }
