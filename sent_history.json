@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.22.733832",
-    "title": "Novel Drosophila cis-regulatory elements can be uncovered by footprinting transcription factor binding sites in ATAC-seq data",
-    "sent_at": "2026-06-26T20:07:51.011598Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.21.732899",
-    "title": "CREPAS: a reproducible nascent chromatin sequencing analysis pipeline for epigenome replication studies",
-    "sent_at": "2026-06-26T21:50:21.668874Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.22.733817",
     "title": "MYC and RNA Polymerase II Binding Near Transcriptional End Sites Regulate the Expression of Functionally-Related Genes",
     "sent_at": "2026-06-26T23:22:21.226327Z",
@@ -557,6 +543,20 @@
     "title": "Epigenetic regulation of non-apoptotic regulated cell death.",
     "sent_at": "2026-07-03T14:34:27.492500Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.02.736164",
+    "title": "Crowding on DNA modulates SSB protein binding mode kinetics",
+    "sent_at": "2026-07-03T17:48:34.722267Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bidere.2026.100073",
+    "title": "Prime editing: Emerging mechanisms, engineering innovations, and next-generation applications.",
+    "sent_at": "2026-07-03T17:48:34.722267Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
