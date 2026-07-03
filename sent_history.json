@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.actbio.2026.06.054",
-    "title": "Wavy Geometry Controls Nuclear Morphology, Migration, and YAP Signaling Independent of Myosin II Contractility.",
-    "sent_at": "2026-06-27T07:39:15.484372Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.24.732306",
-    "title": "The Vertebrate Genomes Project Phase I: A global reference genome resource",
-    "sent_at": "2026-06-27T10:34:25.857827Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.25.734173",
     "title": "Intrinsic promoter responsiveness dictates sensitivity to transcriptional activation by enhancers",
     "sent_at": "2026-06-27T11:59:43.502625Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-03T21:25:10.438977Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.04.11.717967",
+    "title": "Scalable genotyping in fixed transcriptomes resolves clonal heterogeneity via single-cell sequencing",
+    "sent_at": "2026-07-03T23:21:46.532011Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117639",
+    "title": "H4K16ac contributes to chromatin compartment reorganization during mitotic and meiotic transitions.",
+    "sent_at": "2026-07-03T23:21:46.532011Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
