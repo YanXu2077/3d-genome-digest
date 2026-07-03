@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.03.23.644824",
-    "title": "The Cistrome Response to Hypoxia in Human Umbilical Vein Endothelial Cells",
-    "sent_at": "2026-06-26T15:14:43.573197Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/ijms27125512",
-    "title": "Alternative Splicing in Plant Development and Abiotic Stress Responses: A Multifunctional Regulatory Mechanism.",
-    "sent_at": "2026-06-26T15:14:43.573197Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.23.734090",
     "title": "RNAPII and NER stall loop extrusion at UV lesions, shaping the 3D genome during repair",
     "sent_at": "2026-06-26T18:12:30.350626Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.tins.2026.06.001",
     "title": "From chromatin dynamics to brain disease: Polycomb-Trithorax mechanisms in neurodevelopment.",
     "sent_at": "2026-07-03T07:36:03.023769Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.29.735243",
+    "title": "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics",
+    "sent_at": "2026-07-03T10:50:57.954579Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.04.24.650458",
+    "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells.",
+    "sent_at": "2026-07-03T10:50:57.954579Z",
     "tier": 3,
     "kind": "journal"
   }
