@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734159",
-    "title": "Computational reconstruction of hierarchical cis-regulatory networks reveals synergistic transcription control and disease-associated rewiring",
-    "sent_at": "2026-06-26T12:25:49.951448Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/genes17060596",
-    "title": "A Chromosome-Level Genome Assembly and Annotation of the Chinese Porcupine (Hystrix hodgsoni) Reveals the Expansion of Olfactory-Related Gene Families.",
-    "sent_at": "2026-06-26T12:25:49.951448Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.03.23.644824",
     "title": "The Cistrome Response to Hypoxia in Human Umbilical Vein Endothelial Cells",
     "sent_at": "2026-06-26T15:14:43.573197Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-03T04:04:20.650522Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.28.735120",
+    "title": "CATaN maps gene regulatory programs that shape genetic risk across complex diseases",
+    "sent_at": "2026-07-03T07:36:03.023769Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.tins.2026.06.001",
+    "title": "From chromatin dynamics to brain disease: Polycomb-Trithorax mechanisms in neurodevelopment.",
+    "sent_at": "2026-07-03T07:36:03.023769Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
