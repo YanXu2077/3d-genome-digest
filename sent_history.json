@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.22.733817",
-    "title": "MYC and RNA Polymerase II Binding Near Transcriptional End Sites Regulate the Expression of Functionally-Related Genes",
-    "sent_at": "2026-06-26T23:22:21.226327Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.01.29.702487",
-    "title": "Visualizing Interchromosomal Interactions at Sub-Megabase Resolution Using Network Clustering Coefficients",
-    "sent_at": "2026-06-27T04:13:47.590336Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.30.728992",
     "title": "Overexpression of Eaf1, a subunit of the NuA4 lysine acetyltransferase complex, rescues growth defects in the budding yeast H3K36M oncohistone model via histone H4 tail acetylation",
     "sent_at": "2026-06-27T07:39:15.484372Z",
@@ -557,6 +543,20 @@
     "title": "Prime editing: Emerging mechanisms, engineering innovations, and next-generation applications.",
     "sent_at": "2026-07-03T17:48:34.722267Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.01.735806",
+    "title": "GenPerturb: sequence-grounded interpretation of perturbation transcriptomes using pretrained genomic models",
+    "sent_at": "2026-07-03T19:49:59.425747Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.22.733862",
+    "title": "The genetic signature of memory encoding along the human hippocampal axis.",
+    "sent_at": "2026-07-03T19:49:59.425747Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
