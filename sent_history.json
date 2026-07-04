@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734404",
-    "title": "Interplay of Structural Heterogeneity and Active Remodeling Controls Chromatin Condensate Organization and Dynamics",
-    "sent_at": "2026-06-27T14:06:26.741920Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.26.734680",
     "title": "A Chromatin Biology Assessment of AlphaFold3",
     "sent_at": "2026-06-27T15:39:27.822640Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735653",
     "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells",
     "sent_at": "2026-07-04T03:59:30.164098Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.29.735418",
+    "title": "Single-Molecule Dwell Times in Biomolecular Condensates",
+    "sent_at": "2026-07-04T06:58:53.566463Z",
     "tier": 2,
     "kind": "preprint"
   }
