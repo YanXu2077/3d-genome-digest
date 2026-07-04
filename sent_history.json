@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.25.734173",
-    "title": "Intrinsic promoter responsiveness dictates sensitivity to transcriptional activation by enhancers",
-    "sent_at": "2026-06-27T11:59:43.502625Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.24.734404",
     "title": "Interplay of Structural Heterogeneity and Active Remodeling Controls Chromatin Condensate Organization and Dynamics",
     "sent_at": "2026-06-27T14:06:26.741920Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-03T23:21:46.532011Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735653",
+    "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells",
+    "sent_at": "2026-07-04T03:59:30.164098Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
