@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734403",
-    "title": "eRNAformer enables genome-wide de novo mapping of enhancer-derived RNA loci",
-    "sent_at": "2026-06-28T09:29:14.629079Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.27.734664",
     "title": "Targeted epigenetic repression of oncogenic transcription factors via CRISPR/dCas9 locus-specific silencing",
     "sent_at": "2026-06-28T11:58:20.745727Z",
@@ -557,6 +550,13 @@
     "title": "Cohesin residence time gates 3D genome response to histone hyperacetylation",
     "sent_at": "2026-07-04T19:36:49.885962Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.01.733993",
+    "title": "A High-Confidence Atlas of Protein Methylation Enables AI-Driven Detection of Methylated Peptides",
+    "sent_at": "2026-07-04T21:17:45.817055Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
