@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.03.692248",
-    "title": "Prediction of biomolecule kinetics using physics-based Brownian dynamics to data driven machine learning methods",
-    "sent_at": "2026-06-27T21:19:15.428248Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103318",
     "title": "Metabolic disruptions through a three-dimensional genomic lens.",
     "sent_at": "2026-06-27T23:13:56.392558Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735537",
     "title": "Phosphorylation-dependent Remodeling of the CLOCK/BMAL1/nucleosome Complex",
     "sent_at": "2026-07-04T13:59:25.104006Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735534",
+    "title": "Direct visualization of Na,K-ATPase clustering by 3D DNA-PAINT MINFLUX nanoscopy",
+    "sent_at": "2026-07-04T15:20:54.830727Z",
     "tier": 3,
     "kind": "preprint"
   }
