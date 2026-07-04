@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.22.729579",
-    "title": "EpiATLAS - a reference for human epigenomic research",
-    "sent_at": "2026-06-27T17:22:53.165026Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.22.732952",
     "title": "Defining Pseudo-Haplotype Analysis Reveals Multi-Gene Genetic Pattern Across BAF Chromatin Remodeling Complexes",
     "sent_at": "2026-06-27T19:45:07.634577Z",
@@ -557,6 +550,13 @@
     "title": "A Goldilocks zone of DNA flexibility defines stable yet plastic nucleosomes, tuned by histone chemistry",
     "sent_at": "2026-07-04T10:27:14.107227Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735535",
+    "title": "Modulating Nucleosomal H3 Tail Dynamics with Lysine and Serine Modifications",
+    "sent_at": "2026-07-04T11:57:25.987444Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
