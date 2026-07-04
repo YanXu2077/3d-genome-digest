@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.sbi.2026.103318",
-    "title": "Metabolic disruptions through a three-dimensional genomic lens.",
-    "sent_at": "2026-06-27T23:13:56.392558Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s41467-026-74864-6",
     "title": "Multilayered control of mRNA delivery to cell protrusions drives localized mini-cytoplasm establishment for stress-induced cell activation.",
     "sent_at": "2026-06-28T04:59:39.310502Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735534",
     "title": "Direct visualization of Na,K-ATPase clustering by 3D DNA-PAINT MINFLUX nanoscopy",
     "sent_at": "2026-07-04T15:20:54.830727Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.12.699059",
+    "title": "Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabetes: A Molecular Dynamics Study",
+    "sent_at": "2026-07-04T17:20:31.889964Z",
     "tier": 3,
     "kind": "preprint"
   }
