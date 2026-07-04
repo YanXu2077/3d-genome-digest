@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.26.734680",
-    "title": "A Chromatin Biology Assessment of AlphaFold3",
-    "sent_at": "2026-06-27T15:39:27.822640Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.22.729579",
     "title": "EpiATLAS - a reference for human epigenomic research",
     "sent_at": "2026-06-27T17:22:53.165026Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.29.735418",
     "title": "Single-Molecule Dwell Times in Biomolecular Condensates",
     "sent_at": "2026-07-04T06:58:53.566463Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.16.706184",
+    "title": "A Goldilocks zone of DNA flexibility defines stable yet plastic nucleosomes, tuned by histone chemistry",
+    "sent_at": "2026-07-04T10:27:14.107227Z",
     "tier": 2,
     "kind": "preprint"
   }
