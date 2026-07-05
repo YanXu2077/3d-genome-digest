@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.22.720181",
-    "title": "State-dependent energy conversion produces degenerate dissipation in active actomyosin networks",
-    "sent_at": "2026-06-29T16:08:29.830123Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.24.734375",
     "title": "High-fidelity rare structural variant detection with HiFiRE3 reduced representation via restriction enzyme ends",
     "sent_at": "2026-06-29T18:33:42.666018Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2025.12.15.694356",
     "title": "GTcomplex: Spatial indexing-powered search and alignment of macromolecular complexes",
     "sent_at": "2026-07-05T19:41:11.226513Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.02.736113",
+    "title": "A High Throughput SPR-Based Array for Quantitative Profiling of Glycosaminoglycan Protein Interactions",
+    "sent_at": "2026-07-05T21:17:27.350361Z",
     "tier": 4,
     "kind": "preprint"
   }
