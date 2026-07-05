@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.14.725078",
-    "title": "IntegrateRigor: annotation-free integration optimization for cell identity recovery reveals cancer-immune interface niches",
-    "sent_at": "2026-06-28T23:19:52.258223Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.26.734832",
     "title": "Fiber-TEnCATS reveals haplotype-specific chromatin accessibility and DNA methylation at human L1HS loci",
     "sent_at": "2026-06-29T04:56:36.583722Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.04.736454",
     "title": "CryoROLE: describing large inter-domain rotation in single particle cryo-EM",
     "sent_at": "2026-07-05T14:04:12.467752Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735631",
+    "title": "Saturation-seq integrates single-cell saturation genome editing and RNA-seq to quantify NFE2L2 (NRF2) variant effects",
+    "sent_at": "2026-07-05T15:35:30.376681Z",
     "tier": 4,
     "kind": "preprint"
   }
