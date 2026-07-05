@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734262",
-    "title": "PARROT: Phase-Altering Regulatory Rewiring Over Time",
-    "sent_at": "2026-06-28T14:11:03.520525Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.24.734333",
     "title": "Short-Read Sequencing Benchmarking with Donor-Specific Assemblies",
     "sent_at": "2026-06-28T15:50:37.253118Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735216",
     "title": "dSTORMQuant: A Python Package for Post-Processing and Quantitative Analysis of SMLM datasets",
     "sent_at": "2026-07-04T23:15:24.210360Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.02.736016",
+    "title": "A Bottom-Up Platform for Quantitative Single-Molecule Tracking Through Bacterial Biofilm Mimics",
+    "sent_at": "2026-07-05T04:17:01.631681Z",
     "tier": 4,
     "kind": "preprint"
   }
