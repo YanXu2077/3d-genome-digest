@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734333",
-    "title": "Short-Read Sequencing Benchmarking with Donor-Specific Assemblies",
-    "sent_at": "2026-06-28T15:50:37.253118Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.23.734061",
-    "title": "Promoter Structural Variants are Drivers of Genome-Wide Differential Expression in Maize",
-    "sent_at": "2026-06-28T17:26:04.461650Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.25.734628",
     "title": "Lineage-aware stochastic modeling reveals gene-expression dynamics in development and disease",
     "sent_at": "2026-06-28T19:44:47.490061Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-05T04:17:01.631681Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.04.736492",
+    "title": "Direct comparison of CRISPR knockout and interference with Perturb-seq",
+    "sent_at": "2026-07-05T09:24:04.830265Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s13059-026-04149-0",
+    "title": "Somatic mobility of transposons is explosive and shaped by distinct integration biases in Arabidopsis thaliana.",
+    "sent_at": "2026-07-05T09:24:04.830265Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
