@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734375",
-    "title": "High-fidelity rare structural variant detection with HiFiRE3 reduced representation via restriction enzyme ends",
-    "sent_at": "2026-06-29T18:33:42.666018Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.16.732780",
     "title": "Systemic degradation of repressive transcription factors gates gene expression and cell fate specification.",
     "sent_at": "2026-06-29T18:33:42.666018Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.02.736113",
     "title": "A High Throughput SPR-Based Array for Quantitative Profiling of Glycosaminoglycan Protein Interactions",
     "sent_at": "2026-07-05T21:17:27.350361Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735536",
+    "title": "Accurate, comprehensive gene annotation and ortholog identification across thousands of vertebrate genomes with TOGA2",
+    "sent_at": "2026-07-05T23:16:04.222046Z",
     "tier": 4,
     "kind": "preprint"
   }
