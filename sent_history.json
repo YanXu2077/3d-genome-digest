@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.25.734628",
-    "title": "Lineage-aware stochastic modeling reveals gene-expression dynamics in development and disease",
-    "sent_at": "2026-06-28T19:44:47.490061Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.22.733860",
     "title": "Spatial co-expression and cell-cell communication inference from spatially resolved transcriptomics with CONCISE",
     "sent_at": "2026-06-28T21:16:42.592272Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-05T09:24:04.830265Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.03.736445",
+    "title": "A detailed molecular picture of protein folding during active translation",
+    "sent_at": "2026-07-05T11:46:24.733156Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
