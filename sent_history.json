@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.26.734832",
-    "title": "Fiber-TEnCATS reveals haplotype-specific chromatin accessibility and DNA methylation at human L1HS loci",
-    "sent_at": "2026-06-29T04:56:36.583722Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.02.12.705656",
     "title": "ATP-driven conformational dynamics reveal hidden intermediates in a heterodimeric ABC transporter",
     "sent_at": "2026-06-29T11:23:41.795486Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735631",
     "title": "Saturation-seq integrates single-cell saturation genome editing and RNA-seq to quantify NFE2L2 (NRF2) variant effects",
     "sent_at": "2026-07-05T15:35:30.376681Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.02.736100",
+    "title": "A structural trade-off balances mechanical resilience and supramolecular adaptability in type IV pili",
+    "sent_at": "2026-07-05T17:25:21.982255Z",
     "tier": 4,
     "kind": "preprint"
   }
