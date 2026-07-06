@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734157",
-    "title": "Paralogous lncRNAs CYTOR and MORRBID share a conserved trans acting function in MEK ERK signaling",
-    "sent_at": "2026-06-29T20:18:19.113468Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/15476286.2026.2695549",
-    "title": "RNA polymerase II phosphorylation dynamics: from molecular mechanisms to human disease.",
-    "sent_at": "2026-06-29T20:18:19.113468Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.26.734760",
     "title": "H3K4me3 exhibits length-dependent deposition patterns at transcription initiation regions in Trypanosoma cruzi and correlates with transcriptional activity",
     "sent_at": "2026-06-29T21:54:37.865887Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-06T04:25:21.484966Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.05.736590",
+    "title": "Conformational changes induced in ubiquitin by circular protein-DNA chimeras",
+    "sent_at": "2026-07-06T10:59:54.963014Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15592294.2026.2695477",
+    "title": "Epigenetic regulation of vertebrate limb development: from field specification to tissue morphogenesis.",
+    "sent_at": "2026-07-06T10:59:54.963014Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
