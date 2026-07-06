@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.12.731741",
-    "title": "Annotation-Based Gene-Peak Links Improve Regulatory Network Prediction of Gene Expression in Human Kidney Multi-Omics.",
-    "sent_at": "2026-06-30T04:24:25.180018Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2025.12.11.693723",
-    "title": "Identification of genomic features that uniquely impact estrogen receptor alpha binding and its effects on gene expression in endometrial cancer",
-    "sent_at": "2026-06-30T10:04:22.432443Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/nep3.70037",
     "title": "Depletion of microglial compensation in glial network: Disease-associated response dynamics in the revised amyloid hypothesis.",
     "sent_at": "2026-06-30T10:04:22.432443Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-06T21:46:52.345892Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.01.735834",
+    "title": "A Conserved Chromatin-Driven Checkpoint Defines Late Macrophage Maturation Independent of Tissue Specialization",
+    "sent_at": "2026-07-06T23:21:22.733792Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/plcell/koag211",
+    "title": "Dynamic epigenetic and transcriptional regulatory network in pepper fruit development and ripening.",
+    "sent_at": "2026-07-06T23:21:22.733792Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
