@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732780",
-    "title": "Systemic degradation of repressive transcription factors gates gene expression and cell fate specification.",
-    "sent_at": "2026-06-29T18:33:42.666018Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.24.734157",
     "title": "Paralogous lncRNAs CYTOR and MORRBID share a conserved trans acting function in MEK ERK signaling",
     "sent_at": "2026-06-29T20:18:19.113468Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.30.735536",
     "title": "Accurate, comprehensive gene annotation and ortholog identification across thousands of vertebrate genomes with TOGA2",
     "sent_at": "2026-07-05T23:16:04.222046Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735561",
+    "title": "Rheostatic Network Consolidation Drives Physical Aging in Biomolecular Condensates",
+    "sent_at": "2026-07-06T04:25:21.484966Z",
     "tier": 4,
     "kind": "preprint"
   }
