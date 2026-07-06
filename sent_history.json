@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734243",
-    "title": "Critical Scaling Laws and Universality Classes in Biomolecular Condensates",
-    "sent_at": "2026-06-29T23:14:53.572348Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.14.732162",
     "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors.",
     "sent_at": "2026-06-29T23:14:53.572348Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-06T15:54:56.784838Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.05.736592",
+    "title": "Trinucleotide Distribution, Symmetry Elements and Formulation of Mirror Symmetry Index for G4 Motifs",
+    "sent_at": "2026-07-06T18:21:13.971219Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
