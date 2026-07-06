@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.14.732162",
-    "title": "Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors.",
-    "sent_at": "2026-06-29T23:14:53.572348Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.26.734659",
     "title": "Causally measuring aging and rejuvenation through transcriptomic damage",
     "sent_at": "2026-06-30T04:24:25.180018Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.05.736592",
     "title": "Trinucleotide Distribution, Symmetry Elements and Formulation of Mirror Symmetry Index for G4 Motifs",
     "sent_at": "2026-07-06T18:21:13.971219Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.03.736431",
+    "title": "The membrane distal domain of CD16a allosterically regulates NK cell ADCC",
+    "sent_at": "2026-07-06T20:24:40.774140Z",
     "tier": 4,
     "kind": "preprint"
   }
