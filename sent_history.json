@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.26.734760",
-    "title": "H3K4me3 exhibits length-dependent deposition patterns at transcription initiation regions in Trypanosoma cruzi and correlates with transcriptional activity",
-    "sent_at": "2026-06-29T21:54:37.865887Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.13.731750",
-    "title": "Cognitive function depends upon Satb2 gene dosage in cortical projection neurons.",
-    "sent_at": "2026-06-29T21:54:37.865887Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.24.734243",
     "title": "Critical Scaling Laws and Universality Classes in Biomolecular Condensates",
     "sent_at": "2026-06-29T23:14:53.572348Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/15592294.2026.2695477",
     "title": "Epigenetic regulation of vertebrate limb development: from field specification to tissue morphogenesis.",
     "sent_at": "2026-07-06T10:59:54.963014Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.09.11.675610",
+    "title": "Imaging and mechanism of DNA-DNA recognition mediated by divalent ions",
+    "sent_at": "2026-07-06T15:54:56.784838Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fneur.2026.1848929",
+    "title": "Epigenetic equilibrium in chromatinopathies: network instability in neurodevelopment.",
+    "sent_at": "2026-07-06T15:54:56.784838Z",
     "tier": 3,
     "kind": "journal"
   }
