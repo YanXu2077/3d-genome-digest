@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s00239-026-10330-7",
-    "title": "Synonymous Codons as Potential Contributors to Chromatin Stability and Gene Body Methylation in Plants.",
-    "sent_at": "2026-06-30T18:21:59.020593Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.24.734378",
     "title": "Long-term single-particle tracking by NIR imaging using Au42 (gold) quantum needles",
     "sent_at": "2026-06-30T20:17:39.205393Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-07T11:26:40.983346Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.04.24.590818",
+    "title": "Regulation of stereotypic chromatin conformations at enhancers by CLOCK:BMAL1",
+    "sent_at": "2026-07-07T15:27:18.250394Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
