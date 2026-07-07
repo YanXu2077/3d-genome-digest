@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/nep3.70037",
-    "title": "Depletion of microglial compensation in glial network: Disease-associated response dynamics in the revised amyloid hypothesis.",
-    "sent_at": "2026-06-30T10:04:22.432443Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2024.07.09.602755",
     "title": "Dynamic neuro-immune regulation of psychiatric risk loci in human neurons",
     "sent_at": "2026-06-30T12:26:02.862163Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-06T23:21:22.733792Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.03.736412",
+    "title": "Targeting DNMT1 augments anti-tumor CD8⁺ T cell function",
+    "sent_at": "2026-07-07T04:14:35.458410Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
