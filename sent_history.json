@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.733005",
-    "title": "Maintenance DNA methylation is necessary for age-related alterations in regulatory T cell transcriptional and DNA methylation signatures",
-    "sent_at": "2026-06-30T15:13:24.541573Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s00299-026-03894-7",
     "title": "Integrative transcriptional regulatory networks governing cereal root responses to heavy metals and drought.",
     "sent_at": "2026-06-30T15:13:24.541573Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-07T08:01:57.312690Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.05.736650",
+    "title": "Solvent-buffer effects in molecular dynamics simulations of nucleic acids",
+    "sent_at": "2026-07-07T10:01:28.607049Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
