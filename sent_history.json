@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-74870-8",
-    "title": "Distinct and compensatory roles of STAG1 and STAG2 in post-mitotic genome refolding.",
-    "sent_at": "2026-07-01T04:52:17.557269Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735501",
-    "title": "Near-complete genomes for nine haplochromine cichlid fishes reveal a novel centromeric satellite structure organised around a pair of inverted elements",
-    "sent_at": "2026-07-01T10:11:22.856002Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.devcel.2026.06.002",
     "title": "ARID1A terminates gastric regeneration to prevent cancer.",
     "sent_at": "2026-07-01T10:11:22.856002Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-07T21:56:54.326227Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736733",
+    "title": "Nuclear adenosine metabolism defines a metabolic vulnerability unmasked by TP53 loss",
+    "sent_at": "2026-07-07T23:33:32.591140Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.102417",
+    "title": "Ligand-dependent enhancer activation indirectly modulates non-target promoters in a chromatin domain.",
+    "sent_at": "2026-07-07T23:33:32.591140Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
