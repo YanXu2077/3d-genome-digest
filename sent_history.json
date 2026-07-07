@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.24.734378",
-    "title": "Long-term single-particle tracking by NIR imaging using Au42 (gold) quantum needles",
-    "sent_at": "2026-06-30T20:17:39.205393Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.25.734423",
-    "title": "Time-resolved inference of gene regulatory networks underlying human cranial neural crest development suggests novel risk genes for orofacial clefting.",
-    "sent_at": "2026-06-30T22:01:58.826946Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.09.11.675606",
     "title": "Improved cryo-EM reconstruction of sub-50 kDa complexes using 2D template matching",
     "sent_at": "2026-06-30T23:30:08.098271Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-07T15:27:18.250394Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2024.01.06.573815",
+    "title": "miniODP: a reusable framework for building multi-omics resources in understudied organisms",
+    "sent_at": "2026-07-07T18:33:09.214592Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/molbev/msag167",
+    "title": "Evolution of CTCF binding sites in the human genome.",
+    "sent_at": "2026-07-07T18:33:09.214592Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
