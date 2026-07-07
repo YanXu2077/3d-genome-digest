@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.09.11.675606",
-    "title": "Improved cryo-EM reconstruction of sub-50 kDa complexes using 2D template matching",
-    "sent_at": "2026-06-30T23:30:08.098271Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.03.12.642895",
     "title": "Re-annotating the EPICv2 manifest with genes, intragenic features, and regulatory elements",
     "sent_at": "2026-07-01T04:52:17.557269Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-07T18:33:09.214592Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736754",
+    "title": "The genome organizer SMC1A mediates the gene expression response in inflammation by dissociating from nuclear-speckles and redistributing to the nuclear periphery",
+    "sent_at": "2026-07-07T20:12:52.936595Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
