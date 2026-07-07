@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s00299-026-03894-7",
-    "title": "Integrative transcriptional regulatory networks governing cereal root responses to heavy metals and drought.",
-    "sent_at": "2026-06-30T15:13:24.541573Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.29.735326",
-    "title": "A Simple, Cost-Effective, High-Throughput Method for Measuring Chromatin Accessibility and Gene Expression in Single Nuclei",
-    "sent_at": "2026-06-30T18:21:59.020593Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s00239-026-10330-7",
     "title": "Synonymous Codons as Potential Contributors to Chromatin Stability and Gene Body Methylation in Plants.",
     "sent_at": "2026-06-30T18:21:59.020593Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-07T10:01:28.607049Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.16.694670",
+    "title": "Cellular modifiers of TDP-43 phase transition and cytoplasmic aggregation",
+    "sent_at": "2026-07-07T11:26:40.983346Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/1873-3468.70405",
+    "title": "Investigating transcription factor dynamics in health and disease using FRAP.",
+    "sent_at": "2026-07-07T11:26:40.983346Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
