@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.critrevonc.2026.105466",
-    "title": "Cross-Scale Bioanalytical Integration for Decoding Tumour Regulatory Plasticity in Oncology.",
-    "sent_at": "2026-07-01T16:47:27.212184Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.26.734851",
     "title": "Genome architecture shapes the evolutionary origins of redundant enhancers in fly and mouse",
     "sent_at": "2026-07-01T18:12:07.822981Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-08T14:37:03.996767Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.03.736430",
+    "title": "Cohesin-axis interaction via a conserved Red1 motif promotes domain-specific DSB formation and Mek1 activation",
+    "sent_at": "2026-07-08T17:52:14.456070Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
