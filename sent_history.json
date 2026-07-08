@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.26.734851",
-    "title": "Genome architecture shapes the evolutionary origins of redundant enhancers in fly and mouse",
-    "sent_at": "2026-07-01T18:12:07.822981Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/jb/mvag051",
     "title": "Chromatin dynamics and cellular energy homeostasis.",
     "sent_at": "2026-07-01T18:12:07.822981Z",
@@ -557,6 +550,13 @@
     "title": "Cohesin-axis interaction via a conserved Red1 motif promotes domain-specific DSB formation and Mek1 activation",
     "sent_at": "2026-07-08T17:52:14.456070Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.06.692720",
+    "title": "Cell-cycle-resolved Hi-C reveals unexpected plasticity of A/B compartments across interphase",
+    "sent_at": "2026-07-08T19:52:04.671688Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
