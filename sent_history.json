@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735607",
-    "title": "A conserved architectural domain shapes centromere evolution in Drosophila",
-    "sent_at": "2026-07-01T13:21:52.137008Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1515/mr-2025-0082",
     "title": "Decoding DNA metabolism and its clinical relevance through the lens of high-throughput sequencing assays.",
     "sent_at": "2026-07-01T13:21:52.137008Z",
@@ -557,6 +550,13 @@
     "title": "Unbranched SPIN90-Arp2/3 actin promotes stress fiber speed and focal adhesion maturation",
     "sent_at": "2026-07-08T03:41:14.773770Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.03.05.709876",
+    "title": "A Translocation within the Ogataea Species Complex Alters Local Subtelomeric Chromatin while Maintaining Overall Genome Organization",
+    "sent_at": "2026-07-08T06:41:49.448005Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
