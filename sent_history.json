@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.devcel.2026.06.002",
-    "title": "ARID1A terminates gastric regeneration to prevent cancer.",
-    "sent_at": "2026-07-01T10:11:22.856002Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.30.735607",
     "title": "A conserved architectural domain shapes centromere evolution in Drosophila",
     "sent_at": "2026-07-01T13:21:52.137008Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-07T23:33:32.591140Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736769",
+    "title": "Unbranched SPIN90-Arp2/3 actin promotes stress fiber speed and focal adhesion maturation",
+    "sent_at": "2026-07-08T03:41:14.773770Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
