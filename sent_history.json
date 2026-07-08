@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1515/mr-2025-0082",
-    "title": "Decoding DNA metabolism and its clinical relevance through the lens of high-throughput sequencing assays.",
-    "sent_at": "2026-07-01T13:21:52.137008Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735528",
-    "title": "Single molecule footprinting measures low nucleosome occupancy in mature spermatozoa of mice and men",
-    "sent_at": "2026-07-01T14:58:12.092066Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/fonc.2026.1759160",
     "title": "HDAC1-mediated CDK1 decrotonylation inhibits colorectal cancer proliferation by regulating cell cycle and apoptosis.",
     "sent_at": "2026-07-01T14:58:12.092066Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-08T06:41:49.448005Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.737026",
+    "title": "A large-scale analysis of the R2TP chaperone network reveals its contribution to the assembly of INO80, SRCAP and TIP60",
+    "sent_at": "2026-07-08T10:33:25.242267Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s42003-026-10614-0",
+    "title": "A barrier to human embryogenesis involves dysregulated 3D genome reprogramming and ZGA collapse.",
+    "sent_at": "2026-07-08T10:33:25.242267Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
