@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2530341123",
-    "title": "Nitrogen-TOR targets a bivalent chromatin reader to modulate floral transition.",
-    "sent_at": "2026-07-01T23:32:11.896989Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.28.735082",
-    "title": "Quantitative Motion-Corrected PALM Links Endosome Structure and Dynamics in Live Cells",
-    "sent_at": "2026-07-02T04:18:53.969769Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.01.21.700934",
     "title": "Divergent chromatin remodeling in post-sepsis MDSCs underlies MHC class II repression in CCI",
     "sent_at": "2026-07-02T09:33:05.487810Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-09T04:09:15.101806Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737321",
+    "title": "Re-establishment of TAD boundary organization during DNA replication",
+    "sent_at": "2026-07-09T12:58:48.159181Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41588-026-02660-5",
+    "title": "Metabolically and epigenetically reprogrammed splenic TRNP1hiCD8+ T cells exacerbate liver fibrosis.",
+    "sent_at": "2026-07-09T12:58:48.159181Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
