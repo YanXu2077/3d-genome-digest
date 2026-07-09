@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.13.711572",
-    "title": "Hepatocyte Embryonic Ectoderm Development (Eed) Deficiency Causes Liver Injury, Fibrosis and Impacts Liver Regeneration",
-    "sent_at": "2026-07-02T16:17:23.436299Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.08.723928",
-    "title": "AI-discovered protein fragments as generalizable regulators of biomolecular condensates",
-    "sent_at": "2026-07-02T18:16:32.211552Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2024.08.23.609473",
     "title": "Robustness and reliability of single-cell regulatory multi-omics with deep mitochondrial mutation profiling",
     "sent_at": "2026-07-02T19:50:50.036869Z",
@@ -556,6 +542,20 @@
     "doi": "10.1042/BST20250104",
     "title": "Escape from X-chromosome inactivation: from gene discovery to regulatory mechanisms.",
     "sent_at": "2026-07-09T18:24:15.857454Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.09.29.615660",
+    "title": "HPL-2/HP1 and MET-2/SETDB1 bind distinct co-factors that promote heterochromatic foci, gene repression and organogenesis independently of H3K9 methylation",
+    "sent_at": "2026-07-09T20:05:36.682206Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/febs.70649",
+    "title": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes mitochondrial R-loop dynamics.",
+    "sent_at": "2026-07-09T20:05:36.682206Z",
     "tier": 3,
     "kind": "journal"
   }
