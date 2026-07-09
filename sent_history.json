@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xplc.2026.101986",
-    "title": "Three-dimensional genome reorganization enables cytokinin activation of NODULE INCEPTION during symbiotic nodulation.",
-    "sent_at": "2026-07-02T12:21:56.752447Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.02.05.703842",
-    "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
-    "sent_at": "2026-07-02T14:42:35.596971Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.03.13.711572",
     "title": "Hepatocyte Embryonic Ectoderm Development (Eed) Deficiency Causes Liver Injury, Fibrosis and Impacts Liver Regeneration",
     "sent_at": "2026-07-02T16:17:23.436299Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.dnarep.2026.103951",
     "title": "Molecular mechanisms of DNA damage recognition and chromatin dynamics regulating mammalian nucleotide excision repair.",
     "sent_at": "2026-07-09T15:45:17.325662Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.06.731365",
+    "title": "The Encyclopedia of DNA Elements",
+    "sent_at": "2026-07-09T18:24:15.857454Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1042/BST20250104",
+    "title": "Escape from X-chromosome inactivation: from gene discovery to regulatory mechanisms.",
+    "sent_at": "2026-07-09T18:24:15.857454Z",
     "tier": 3,
     "kind": "journal"
   }
