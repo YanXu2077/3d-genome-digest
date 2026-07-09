@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.08.23.609473",
-    "title": "Robustness and reliability of single-cell regulatory multi-omics with deep mitochondrial mutation profiling",
-    "sent_at": "2026-07-02T19:50:50.036869Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.26.734647",
-    "title": "CryoGO enables high-resolution structural profiling of endogenous cellular macromolecules",
-    "sent_at": "2026-07-02T21:26:53.128550Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.28.735129",
     "title": "B cell-intrinsic IRF8 transcriptionally reprograms antigen presentation to sustain CD8⁺ T cell antitumor immunity",
     "sent_at": "2026-07-02T23:25:12.032790Z",
@@ -557,6 +543,20 @@
     "title": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes mitochondrial R-loop dynamics.",
     "sent_at": "2026-07-09T20:05:36.682206Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735463",
+    "title": "Dynamic interaction between tentacle-tethered microdomains in Integrator and NELF regulates the promoter-proximal pause checkpoint",
+    "sent_at": "2026-07-09T22:03:08.108777Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-3-032-22285-5_4",
+    "title": "Vascular Mechanobiology: From Membrane to Nucleus.",
+    "sent_at": "2026-07-09T22:03:08.108777Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
