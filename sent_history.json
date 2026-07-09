@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.09.693282",
-    "title": "Age-related erosion of X chromosome inactivation in human tissues",
-    "sent_at": "2026-07-01T23:32:11.896989Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2530341123",
     "title": "Nitrogen-TOR targets a bivalent chromatin reader to modulate floral transition.",
     "sent_at": "2026-07-01T23:32:11.896989Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-08T23:23:43.761030Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.07.736920",
+    "title": "Obstacle bypassing and intrinsically asymmetric loop extrusion in the segment-capture model of Structural Maintenance of Chromosomes complexes",
+    "sent_at": "2026-07-09T04:09:15.101806Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
