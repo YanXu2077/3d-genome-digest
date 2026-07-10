@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735653",
-    "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells",
-    "sent_at": "2026-07-04T03:59:30.164098Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.29.735418",
-    "title": "Single-Molecule Dwell Times in Biomolecular Condensates",
-    "sent_at": "2026-07-04T06:58:53.566463Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.02.16.706184",
     "title": "A Goldilocks zone of DNA flexibility defines stable yet plastic nucleosomes, tuned by histone chemistry",
     "sent_at": "2026-07-04T10:27:14.107227Z",
@@ -557,6 +543,20 @@
     "title": "Multimodal Human Scalp Atlas Defines Cell Landscape and Lineage Architecture In Situ.",
     "sent_at": "2026-07-10T21:19:59.861463Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.07.731387",
+    "title": "Deconvolving the spatiotemporal chromatin landscape through the cell cycle",
+    "sent_at": "2026-07-10T23:14:53.481255Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.adx4982",
+    "title": "H2BE113K mutation promotes breast cancer metastasis through modulating chromatin dynamics.",
+    "sent_at": "2026-07-10T23:14:53.481255Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
