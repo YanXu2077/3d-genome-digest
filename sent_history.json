@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bidere.2026.100073",
-    "title": "Prime editing: Emerging mechanisms, engineering innovations, and next-generation applications.",
-    "sent_at": "2026-07-03T17:48:34.722267Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.01.735806",
-    "title": "GenPerturb: sequence-grounded interpretation of perturbation transcriptomes using pretrained genomic models",
-    "sent_at": "2026-07-03T19:49:59.425747Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.22.733862",
     "title": "The genetic signature of memory encoding along the human hippocampal axis.",
     "sent_at": "2026-07-03T19:49:59.425747Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.06.26.734868",
     "title": "Small Structural Variations, Large Functional Consequences: Comparative Analysis Reveals Structural Control of Ubiquitylation Site Selection by BRCA1/BARD1.",
     "sent_at": "2026-07-10T15:20:07.880587Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.05.736477",
+    "title": "Machine learning-assisted Repli-Histo labeling reveals distinct transcription-dependent constraints on chromatin motion in living cells",
+    "sent_at": "2026-07-10T18:11:58.764447Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.03.27.645673",
+    "title": "BAF chromatin remodeling complexes inhibit immediate-early and early, but not late, transcription of herpes simplex virus 1.",
+    "sent_at": "2026-07-10T18:11:58.764447Z",
     "tier": 3,
     "kind": "journal"
   }
