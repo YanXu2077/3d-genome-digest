@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.22.733862",
-    "title": "The genetic signature of memory encoding along the human hippocampal axis.",
-    "sent_at": "2026-07-03T19:49:59.425747Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.06.29.735381",
-    "title": "Replication fork directionality reveals how structural variants arise under replication stress",
-    "sent_at": "2026-07-03T21:25:10.438977Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.04.11.717967",
     "title": "Scalable genotyping in fixed transcriptomes resolves clonal heterogeneity via single-cell sequencing",
     "sent_at": "2026-07-03T23:21:46.532011Z",
@@ -557,6 +543,20 @@
     "title": "BAF chromatin remodeling complexes inhibit immediate-early and early, but not late, transcription of herpes simplex virus 1.",
     "sent_at": "2026-07-10T18:11:58.764447Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.07.02.662854",
+    "title": "Nucleation-dependent propagation of Polycomb modifications emerges during the Drosophila maternal to zygotic transition",
+    "sent_at": "2026-07-10T19:54:01.846078Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "pmid:42428023",
+    "title": "scMTNI: Leveraging cellular trajectory and context to infer dynamic GRNs from single-cell multi-omics data.",
+    "sent_at": "2026-07-10T19:54:01.846078Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
