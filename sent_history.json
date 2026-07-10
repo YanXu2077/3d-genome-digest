@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.ejcb.2026.151552",
-    "title": "Epigenetic regulation of non-apoptotic regulated cell death.",
-    "sent_at": "2026-07-03T14:34:27.492500Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.02.736164",
-    "title": "Crowding on DNA modulates SSB protein binding mode kinetics",
-    "sent_at": "2026-07-03T17:48:34.722267Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bidere.2026.100073",
     "title": "Prime editing: Emerging mechanisms, engineering innovations, and next-generation applications.",
     "sent_at": "2026-07-03T17:48:34.722267Z",
@@ -557,6 +543,20 @@
     "title": "CRISPR-PITA: An Imaging-Based CRISPR/dCas9 Assay to Determine Recruitment Directionality of Nuclear Proteins.",
     "sent_at": "2026-07-10T11:28:15.862793Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.02.735786",
+    "title": "Regulation of Human Erythroferrone Expression",
+    "sent_at": "2026-07-10T15:20:07.880587Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.26.734868",
+    "title": "Small Structural Variations, Large Functional Consequences: Comparative Analysis Reveals Structural Control of Ubiquitylation Site Selection by BRCA1/BARD1.",
+    "sent_at": "2026-07-10T15:20:07.880587Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
