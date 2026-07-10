@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.11.717967",
-    "title": "Scalable genotyping in fixed transcriptomes resolves clonal heterogeneity via single-cell sequencing",
-    "sent_at": "2026-07-03T23:21:46.532011Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.117639",
-    "title": "H4K16ac contributes to chromatin compartment reorganization during mitotic and meiotic transitions.",
-    "sent_at": "2026-07-03T23:21:46.532011Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.30.735653",
     "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells",
     "sent_at": "2026-07-04T03:59:30.164098Z",
@@ -556,6 +542,20 @@
     "doi": "pmid:42428023",
     "title": "scMTNI: Leveraging cellular trajectory and context to infer dynamic GRNs from single-cell multi-omics data.",
     "sent_at": "2026-07-10T19:54:01.846078Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2025.12.22.695891",
+    "title": "CAD-C: An engineered nuclease enables repair-free in situ proximity ligation and nucleosome-resolution chromosome walks in human cells",
+    "sent_at": "2026-07-10T21:19:59.861463Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.29.735239",
+    "title": "Multimodal Human Scalp Atlas Defines Cell Landscape and Lineage Architecture In Situ.",
+    "sent_at": "2026-07-10T21:19:59.861463Z",
     "tier": 4,
     "kind": "journal"
   }
