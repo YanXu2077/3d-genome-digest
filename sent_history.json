@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.29.735243",
-    "title": "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics",
-    "sent_at": "2026-07-03T10:50:57.954579Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.04.24.650458",
     "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells.",
     "sent_at": "2026-07-03T10:50:57.954579Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-10T08:05:27.944301Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.06.05.658111",
+    "title": "Wolbachia infection induces host cell state changes in vitro and determines symbiotic fate in Drosophila",
+    "sent_at": "2026-07-10T09:59:01.876361Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
