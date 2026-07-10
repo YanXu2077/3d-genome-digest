@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.28.735129",
-    "title": "B cell-intrinsic IRF8 transcriptionally reprograms antigen presentation to sustain CD8⁺ T cell antitumor immunity",
-    "sent_at": "2026-07-02T23:25:12.032790Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.09.14.676067",
-    "title": "SpatialFuser: a unified framework for integrative analysis of unpaired spatial multi-omics data",
-    "sent_at": "2026-07-03T04:04:20.650522Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.28.735120",
     "title": "CATaN maps gene regulatory programs that shape genetic risk across complex diseases",
     "sent_at": "2026-07-03T07:36:03.023769Z",
@@ -556,6 +542,20 @@
     "doi": "10.1007/978-3-032-22285-5_4",
     "title": "Vascular Mechanobiology: From Membrane to Nucleus.",
     "sent_at": "2026-07-09T22:03:08.108777Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.08.08.669316",
+    "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation",
+    "sent_at": "2026-07-10T04:11:19.207362Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acsnano.6c06876",
+    "title": "Nanowrinkled Interface-Coupled Metaphase Chromosome Spreading and Nanoscale Conformability.",
+    "sent_at": "2026-07-10T04:11:19.207362Z",
     "tier": 4,
     "kind": "journal"
   }
