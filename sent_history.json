@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.28.735120",
-    "title": "CATaN maps gene regulatory programs that shape genetic risk across complex diseases",
-    "sent_at": "2026-07-03T07:36:03.023769Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.tins.2026.06.001",
-    "title": "From chromatin dynamics to brain disease: Polycomb-Trithorax mechanisms in neurodevelopment.",
-    "sent_at": "2026-07-03T07:36:03.023769Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.29.735243",
     "title": "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics",
     "sent_at": "2026-07-03T10:50:57.954579Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acsnano.6c06876",
     "title": "Nanowrinkled Interface-Coupled Metaphase Chromosome Spreading and Nanoscale Conformability.",
     "sent_at": "2026-07-10T04:11:19.207362Z",
+    "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.03.736284",
+    "title": "Telomerase RNA regulates the epigenome primed for human lineage commitment",
+    "sent_at": "2026-07-10T08:05:27.944301Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fphys.2026.1844142",
+    "title": "CRISPR/Cas9-mediated PHOX2B functional knock-out in IMR32 neuroblastoma cells impairs neuronal excitability through dysregulation of ion channels genes.",
+    "sent_at": "2026-07-10T08:05:27.944301Z",
     "tier": 4,
     "kind": "journal"
   }
