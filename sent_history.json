@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.02.16.706184",
-    "title": "A Goldilocks zone of DNA flexibility defines stable yet plastic nucleosomes, tuned by histone chemistry",
-    "sent_at": "2026-07-04T10:27:14.107227Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735535",
-    "title": "Modulating Nucleosomal H3 Tail Dynamics with Lysine and Serine Modifications",
-    "sent_at": "2026-07-04T11:57:25.987444Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.30.735537",
     "title": "Phosphorylation-dependent Remodeling of the CLOCK/BMAL1/nucleosome Complex",
     "sent_at": "2026-07-04T13:59:25.104006Z",
@@ -557,6 +543,20 @@
     "title": "H2BE113K mutation promotes breast cancer metastasis through modulating chromatin dynamics.",
     "sent_at": "2026-07-10T23:14:53.481255Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736877",
+    "title": "The exchange dynamics of client molecules in biomolecular condensates",
+    "sent_at": "2026-07-11T03:40:34.926901Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735653",
+    "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells.",
+    "sent_at": "2026-07-11T03:40:34.926901Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
