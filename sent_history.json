@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.01.735920",
-    "title": "Cohesin residence time gates 3D genome response to histone hyperacetylation",
-    "sent_at": "2026-07-04T19:36:49.885962Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.01.733993",
     "title": "A High-Confidence Atlas of Protein Methylation Enables AI-Driven Detection of Methylated Peptides",
     "sent_at": "2026-07-04T21:17:45.817055Z",
@@ -557,6 +550,13 @@
     "title": "An engineered chromatin protein with enhanced preferential binding of H3K27me3 over H3K9me3",
     "sent_at": "2026-07-11T08:29:14.254432Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.09.737442",
+    "title": "Interdependent androgen and glucocorticoid receptor signalling shapes prostate epithelial homeostasis",
+    "sent_at": "2026-07-11T09:51:14.079787Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
