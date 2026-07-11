@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.02.736016",
-    "title": "A Bottom-Up Platform for Quantitative Single-Molecule Tracking Through Bacterial Biofilm Mimics",
-    "sent_at": "2026-07-05T04:17:01.631681Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.04.736492",
-    "title": "Direct comparison of CRISPR knockout and interference with Perturb-seq",
-    "sent_at": "2026-07-05T09:24:04.830265Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s13059-026-04149-0",
     "title": "Somatic mobility of transposons is explosive and shaped by distinct integration biases in Arabidopsis thaliana.",
     "sent_at": "2026-07-05T09:24:04.830265Z",
@@ -557,6 +543,20 @@
     "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
     "sent_at": "2026-07-11T11:21:35.841197Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737727",
+    "title": "Non-coding DNA dictates cell size and impairs fitness by sequestering RNA polymerase",
+    "sent_at": "2026-07-11T14:03:12.176221Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.compbiolchem.2026.109244",
+    "title": "Integrative network pharmacology and genomic analysis of esculin targeting PARP1 in cervical cancer: Insights from ADME profiling, molecular docking, and biomarker discovery.",
+    "sent_at": "2026-07-11T14:03:12.176221Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
