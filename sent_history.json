@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.02.736100",
-    "title": "A structural trade-off balances mechanical resilience and supramolecular adaptability in type IV pili",
-    "sent_at": "2026-07-05T17:25:21.982255Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2025.12.15.694356",
     "title": "GTcomplex: Spatial indexing-powered search and alignment of macromolecular complexes",
     "sent_at": "2026-07-05T19:41:11.226513Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.10.737660",
     "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
     "sent_at": "2026-07-11T21:18:54.451461Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736845",
+    "title": "The Drosophila FET orthologue Cabeza is an essential cofactor for ETV4-mediated activation of GGAA microsatellite neoenhancers",
+    "sent_at": "2026-07-11T23:32:21.841355Z",
     "tier": 3,
     "kind": "preprint"
   }
