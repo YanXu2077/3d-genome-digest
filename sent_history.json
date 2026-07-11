@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.12.699059",
-    "title": "Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabetes: A Molecular Dynamics Study",
-    "sent_at": "2026-07-04T17:20:31.889964Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.01.735920",
     "title": "Cohesin residence time gates 3D genome response to histone hyperacetylation",
     "sent_at": "2026-07-04T19:36:49.885962Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-11T06:28:39.108644Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2024.10.02.616304",
+    "title": "An engineered chromatin protein with enhanced preferential binding of H3K27me3 over H3K9me3",
+    "sent_at": "2026-07-11T08:29:14.254432Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
