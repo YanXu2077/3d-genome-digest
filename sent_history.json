@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735537",
-    "title": "Phosphorylation-dependent Remodeling of the CLOCK/BMAL1/nucleosome Complex",
-    "sent_at": "2026-07-04T13:59:25.104006Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735534",
-    "title": "Direct visualization of Na,K-ATPase clustering by 3D DNA-PAINT MINFLUX nanoscopy",
-    "sent_at": "2026-07-04T15:20:54.830727Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.01.12.699059",
     "title": "Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabetes: A Molecular Dynamics Study",
     "sent_at": "2026-07-04T17:20:31.889964Z",
@@ -557,6 +543,20 @@
     "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells.",
     "sent_at": "2026-07-11T03:40:34.926901Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.09.737589",
+    "title": "On the state of chromatin in mammalian sperm",
+    "sent_at": "2026-07-11T06:28:39.108644Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.30.735535",
+    "title": "Modulating Nucleosomal H3 Tail Dynamics with Lysine and Serine Modifications.",
+    "sent_at": "2026-07-11T06:28:39.108644Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
