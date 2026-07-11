@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.04.736454",
-    "title": "CryoROLE: describing large inter-domain rotation in single particle cryo-EM",
-    "sent_at": "2026-07-05T14:04:12.467752Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.30.735631",
     "title": "Saturation-seq integrates single-cell saturation genome editing and RNA-seq to quantify NFE2L2 (NRF2) variant effects",
     "sent_at": "2026-07-05T15:35:30.376681Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.05.24.727280",
     "title": "Pre-existing chromatin accessibility primes δ-cells for injury-induced endocrine plasticity",
     "sent_at": "2026-07-11T17:16:51.020869Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.06.20.660786",
+    "title": "Transient histone deacetylase inhibition reveals cell type invariant and specific effects of chromatin decondensation on irradiation response",
+    "sent_at": "2026-07-11T19:38:49.936508Z",
     "tier": 3,
     "kind": "preprint"
   }
