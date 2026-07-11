@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.01.733993",
-    "title": "A High-Confidence Atlas of Protein Methylation Enables AI-Driven Detection of Methylated Peptides",
-    "sent_at": "2026-07-04T21:17:45.817055Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735216",
-    "title": "dSTORMQuant: A Python Package for Post-Processing and Quantitative Analysis of SMLM datasets",
-    "sent_at": "2026-07-04T23:15:24.210360Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.02.736016",
     "title": "A Bottom-Up Platform for Quantitative Single-Molecule Tracking Through Bacterial Biofilm Mimics",
     "sent_at": "2026-07-05T04:17:01.631681Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-11T09:51:14.079787Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737375",
+    "title": "Programmable CRISPRtune dissects the transcriptional repressive activity of MeCP2",
+    "sent_at": "2026-07-11T11:21:35.841197Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41380-026-03744-8",
+    "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
+    "sent_at": "2026-07-11T11:21:35.841197Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
