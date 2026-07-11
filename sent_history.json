@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1186/s13059-026-04149-0",
-    "title": "Somatic mobility of transposons is explosive and shaped by distinct integration biases in Arabidopsis thaliana.",
-    "sent_at": "2026-07-05T09:24:04.830265Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.03.736445",
     "title": "A detailed molecular picture of protein folding during active translation",
     "sent_at": "2026-07-05T11:46:24.733156Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-11T14:03:12.176221Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737659",
+    "title": "SALL2 constrains TEAD4 by maintaining repressive chromatin to restrict trophectoderm identity",
+    "sent_at": "2026-07-11T15:35:33.028159Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
