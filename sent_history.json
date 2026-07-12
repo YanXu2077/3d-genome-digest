@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735561",
-    "title": "Rheostatic Network Consolidation Drives Physical Aging in Biomolecular Condensates",
-    "sent_at": "2026-07-06T04:25:21.484966Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.05.736590",
     "title": "Conformational changes induced in ubiquitin by circular protein-DNA chimeras",
     "sent_at": "2026-07-06T10:59:54.963014Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.07.737069",
     "title": "A genetically buffered helicase network promotes tolerance of G-quadruplex stabilization in Saccharomyces cerevisiae",
     "sent_at": "2026-07-12T10:02:06.151466Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736765",
+    "title": "A near-complete genome assembly of the Fusarium oxysporum keratitis isolate MRL8996",
+    "sent_at": "2026-07-12T11:23:05.876814Z",
     "tier": 4,
     "kind": "preprint"
   }
