@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.05.736592",
-    "title": "Trinucleotide Distribution, Symmetry Elements and Formulation of Mirror Symmetry Index for G4 Motifs",
-    "sent_at": "2026-07-06T18:21:13.971219Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.03.736431",
     "title": "The membrane distal domain of CD16a allosterically regulates NK cell ADCC",
     "sent_at": "2026-07-06T20:24:40.774140Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.07.736241",
     "title": "First-Trimester Non-Invasive Prediction of Preterm Birth Using Cell-Free DNA Fragmentomics",
     "sent_at": "2026-07-12T19:23:26.065699Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.737103",
+    "title": "Lipid chlorination mobilizes Neutrophil Elastase to initiate NETosis",
+    "sent_at": "2026-07-12T21:05:52.029533Z",
     "tier": 4,
     "kind": "preprint"
   }
