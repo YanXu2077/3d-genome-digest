@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735536",
-    "title": "Accurate, comprehensive gene annotation and ortholog identification across thousands of vertebrate genomes with TOGA2",
-    "sent_at": "2026-07-05T23:16:04.222046Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.30.735561",
     "title": "Rheostatic Network Consolidation Drives Physical Aging in Biomolecular Condensates",
     "sent_at": "2026-07-06T04:25:21.484966Z",
@@ -557,6 +550,13 @@
     "title": "Locus-Level Transposable Element Profiling Resolves Division-Coupled Transcriptional Dynamics During Human Endoderm Specification",
     "sent_at": "2026-07-12T06:45:26.719655Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.737069",
+    "title": "A genetically buffered helicase network promotes tolerance of G-quadruplex stabilization in Saccharomyces cerevisiae",
+    "sent_at": "2026-07-12T10:02:06.151466Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
