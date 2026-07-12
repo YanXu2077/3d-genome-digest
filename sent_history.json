@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.09.11.675610",
-    "title": "Imaging and mechanism of DNA-DNA recognition mediated by divalent ions",
-    "sent_at": "2026-07-06T15:54:56.784838Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/fneur.2026.1848929",
     "title": "Epigenetic equilibrium in chromatinopathies: network instability in neurodevelopment.",
     "sent_at": "2026-07-06T15:54:56.784838Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.07.734602",
     "title": "Bioelectrical phase transitions",
     "sent_at": "2026-07-12T15:10:32.352547Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737203",
+    "title": "Interactome Specialization Predicts Genome-Wide Binding-Site Degeneracy in Drosophila melanogaster Transcription Factors",
+    "sent_at": "2026-07-12T17:14:43.961308Z",
     "tier": 4,
     "kind": "preprint"
   }
