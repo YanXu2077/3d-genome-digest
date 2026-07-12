@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.02.736113",
-    "title": "A High Throughput SPR-Based Array for Quantitative Profiling of Glycosaminoglycan Protein Interactions",
-    "sent_at": "2026-07-05T21:17:27.350361Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.30.735536",
     "title": "Accurate, comprehensive gene annotation and ortholog identification across thousands of vertebrate genomes with TOGA2",
     "sent_at": "2026-07-05T23:16:04.222046Z",
@@ -557,6 +550,13 @@
     "title": "A multi-species toolkit of TOP2 hypercleavage mutants for studying topoisomerase II-mediated DNA damage",
     "sent_at": "2026-07-12T03:49:52.137450Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.737093",
+    "title": "Locus-Level Transposable Element Profiling Resolves Division-Coupled Transcriptional Dynamics During Human Endoderm Specification",
+    "sent_at": "2026-07-12T06:45:26.719655Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
