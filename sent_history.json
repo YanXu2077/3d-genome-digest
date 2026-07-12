@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.03.736431",
-    "title": "The membrane distal domain of CD16a allosterically regulates NK cell ADCC",
-    "sent_at": "2026-07-06T20:24:40.774140Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.04.722750",
     "title": "Z-DNA is an Intrinsic Structural Component of Neutrophil Extracellular Traps",
     "sent_at": "2026-07-06T21:46:52.345892Z",
@@ -557,6 +550,13 @@
     "title": "Lipid chlorination mobilizes Neutrophil Elastase to initiate NETosis",
     "sent_at": "2026-07-12T21:05:52.029533Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.05.703637",
+    "title": "ARSENAL: Learning Transferable Regulatory DNA Representations with Targeted Short-Context Language Models",
+    "sent_at": "2026-07-12T23:04:57.471950Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
