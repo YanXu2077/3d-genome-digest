@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1080/15592294.2026.2695477",
-    "title": "Epigenetic regulation of vertebrate limb development: from field specification to tissue morphogenesis.",
-    "sent_at": "2026-07-06T10:59:54.963014Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.09.11.675610",
     "title": "Imaging and mechanism of DNA-DNA recognition mediated by divalent ions",
     "sent_at": "2026-07-06T15:54:56.784838Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.03.10.710607",
     "title": "Zasp52s differentially expressed intrinsically disordered region confers thin filament stability at the Z-disc",
     "sent_at": "2026-07-12T13:50:39.608386Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.734602",
+    "title": "Bioelectrical phase transitions",
+    "sent_at": "2026-07-12T15:10:32.352547Z",
     "tier": 4,
     "kind": "preprint"
   }
