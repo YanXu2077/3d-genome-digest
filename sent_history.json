@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.15.694356",
-    "title": "GTcomplex: Spatial indexing-powered search and alignment of macromolecular complexes",
-    "sent_at": "2026-07-05T19:41:11.226513Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.02.736113",
     "title": "A High Throughput SPR-Based Array for Quantitative Profiling of Glycosaminoglycan Protein Interactions",
     "sent_at": "2026-07-05T21:17:27.350361Z",
@@ -557,6 +550,13 @@
     "title": "The Drosophila FET orthologue Cabeza is an essential cofactor for ETV4-mediated activation of GGAA microsatellite neoenhancers",
     "sent_at": "2026-07-11T23:32:21.841355Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.05.09.723998",
+    "title": "A multi-species toolkit of TOP2 hypercleavage mutants for studying topoisomerase II-mediated DNA damage",
+    "sent_at": "2026-07-12T03:49:52.137450Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
