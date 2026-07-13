@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.01.735834",
-    "title": "A Conserved Chromatin-Driven Checkpoint Defines Late Macrophage Maturation Independent of Tissue Specialization",
-    "sent_at": "2026-07-06T23:21:22.733792Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/plcell/koag211",
     "title": "Dynamic epigenetic and transcriptional regulatory network in pepper fruit development and ripening.",
     "sent_at": "2026-07-06T23:21:22.733792Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.08.737283",
     "title": "A practical framework for measuring protein oligomerization equilibria by fluorescence correlation spectroscopy",
     "sent_at": "2026-07-13T03:52:43.073689Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737312",
+    "title": "The YTHDC1 glutamate-rich domain docks to the ADAR1 Zα Domain, linking the N6-methyladenosine modification of pre-mRNAs to dsRNA editing",
+    "sent_at": "2026-07-13T07:34:12.490983Z",
     "tier": 4,
     "kind": "preprint"
   }
