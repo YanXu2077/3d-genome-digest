@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bbi.2026.106895",
-    "title": "Maternal immune activation induces sex-dependent metabolic, epigenetic and GABAergic trajectories in the hippocampus.",
-    "sent_at": "2026-07-07T08:01:57.312690Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.05.736650",
     "title": "Solvent-buffer effects in molecular dynamics simulations of nucleic acids",
     "sent_at": "2026-07-07T10:01:28.607049Z",
@@ -557,6 +550,13 @@
     "title": "Fertility Gene Introns Harbor Transposable Elements that Shape Y-Loop Architecture",
     "sent_at": "2026-07-13T14:58:17.349074Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737861",
+    "title": "Asymmetric condensin loop extrusion is regulated by RPA-coated single-stranded DNA in quiescent cells",
+    "sent_at": "2026-07-13T18:20:18.607586Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
