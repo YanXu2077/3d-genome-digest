@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.16.694670",
-    "title": "Cellular modifiers of TDP-43 phase transition and cytoplasmic aggregation",
-    "sent_at": "2026-07-07T11:26:40.983346Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/1873-3468.70405",
     "title": "Investigating transcription factor dynamics in health and disease using FRAP.",
     "sent_at": "2026-07-07T11:26:40.983346Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.07.737140",
     "title": "Proximity labeling at H3K9me3 reveals VRK-1 regulate global chromatin distribution in C. elegans",
     "sent_at": "2026-07-13T19:48:57.224663Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737838",
+    "title": "Visualizing the Epigenetic Landscape of Aging and Cellular Reprogramming: Optimized ATAC-see for Cells and Tissues",
+    "sent_at": "2026-07-13T21:12:59.634471Z",
     "tier": 3,
     "kind": "preprint"
   }
