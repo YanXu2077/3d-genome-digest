@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.05.736662",
-    "title": "Integrated analysis of ribosomal DNA copy number and methylation using nanopore long-read sequencing",
-    "sent_at": "2026-07-07T08:01:57.312690Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bbi.2026.106895",
     "title": "Maternal immune activation induces sex-dependent metabolic, epigenetic and GABAergic trajectories in the hippocampus.",
     "sent_at": "2026-07-07T08:01:57.312690Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-13T11:28:04.162703Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737335",
+    "title": "Fertility Gene Introns Harbor Transposable Elements that Shape Y-Loop Architecture",
+    "sent_at": "2026-07-13T14:58:17.349074Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
