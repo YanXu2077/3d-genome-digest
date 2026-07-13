@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/1873-3468.70405",
-    "title": "Investigating transcription factor dynamics in health and disease using FRAP.",
-    "sent_at": "2026-07-07T11:26:40.983346Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2024.04.24.590818",
     "title": "Regulation of stereotypic chromatin conformations at enhancers by CLOCK:BMAL1",
     "sent_at": "2026-07-07T15:27:18.250394Z",
@@ -557,6 +550,13 @@
     "title": "Visualizing the Epigenetic Landscape of Aging and Cellular Reprogramming: Optimized ATAC-see for Cells and Tissues",
     "sent_at": "2026-07-13T21:12:59.634471Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737367",
+    "title": "Charge Imbalance Drives Salt-Optimized Nucleosome Phase Separation under Physiological Conditions",
+    "sent_at": "2026-07-13T23:10:03.765158Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
