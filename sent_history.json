@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.05.736650",
-    "title": "Solvent-buffer effects in molecular dynamics simulations of nucleic acids",
-    "sent_at": "2026-07-07T10:01:28.607049Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2025.12.16.694670",
     "title": "Cellular modifiers of TDP-43 phase transition and cytoplasmic aggregation",
     "sent_at": "2026-07-07T11:26:40.983346Z",
@@ -557,6 +550,13 @@
     "title": "Asymmetric condensin loop extrusion is regulated by RPA-coated single-stranded DNA in quiescent cells",
     "sent_at": "2026-07-13T18:20:18.607586Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.737140",
+    "title": "Proximity labeling at H3K9me3 reveals VRK-1 regulate global chromatin distribution in C. elegans",
+    "sent_at": "2026-07-13T19:48:57.224663Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
