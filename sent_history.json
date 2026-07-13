@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.04.722750",
-    "title": "Z-DNA is an Intrinsic Structural Component of Neutrophil Extracellular Traps",
-    "sent_at": "2026-07-06T21:46:52.345892Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.01.735834",
     "title": "A Conserved Chromatin-Driven Checkpoint Defines Late Macrophage Maturation Independent of Tissue Specialization",
     "sent_at": "2026-07-06T23:21:22.733792Z",
@@ -557,6 +550,13 @@
     "title": "ARSENAL: Learning Transferable Regulatory DNA Representations with Targeted Short-Context Language Models",
     "sent_at": "2026-07-12T23:04:57.471950Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.737283",
+    "title": "A practical framework for measuring protein oligomerization equilibria by fluorescence correlation spectroscopy",
+    "sent_at": "2026-07-13T03:52:43.073689Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
