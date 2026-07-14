@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/jcc.70460",
-    "title": "OpenCafeMol With 3SPN.2 DNA Model: GPU Acceleration for Long-Time Coarse-Grained Chromatin Simulations.",
-    "sent_at": "2026-07-08T14:37:03.996767Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.03.736430",
     "title": "Cohesin-axis interaction via a conserved Red1 motif promotes domain-specific DSB formation and Mek1 activation",
     "sent_at": "2026-07-08T17:52:14.456070Z",
@@ -557,6 +550,13 @@
     "title": "Biophysical Characterization of ParBS Condensates suggests a physical mechanism for segregation",
     "sent_at": "2026-07-14T19:44:22.144826Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.12.738071",
+    "title": "Disruption of Histone H4C genes impairs skeletal development and cortical neurogenesis, modeling rare neurodevelopmental syndromes",
+    "sent_at": "2026-07-14T21:17:01.199709Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
