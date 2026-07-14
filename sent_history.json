@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.05.709876",
-    "title": "A Translocation within the Ogataea Species Complex Alters Local Subtelomeric Chromatin while Maintaining Overall Genome Organization",
-    "sent_at": "2026-07-08T06:41:49.448005Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.07.737026",
     "title": "A large-scale analysis of the R2TP chaperone network reveals its contribution to the assembly of INO80, SRCAP and TIP60",
     "sent_at": "2026-07-08T10:33:25.242267Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-14T11:55:53.418909Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.737885",
+    "title": "Disrupting a Convergent Acetylation Circuit Collapses Leukemic Identity Across AML Subtypes",
+    "sent_at": "2026-07-14T14:13:11.225319Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
