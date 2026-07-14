@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/molbev/msag167",
-    "title": "Evolution of CTCF binding sites in the human genome.",
-    "sent_at": "2026-07-07T18:33:09.214592Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.06.736754",
-    "title": "The genome organizer SMC1A mediates the gene expression response in inflammation by dissociating from nuclear-speckles and redistributing to the nuclear periphery",
-    "sent_at": "2026-07-07T20:12:52.936595Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.01.735830",
     "title": "Genome editing of marsupial RSX reveals conserved and divergent principles in mammalian X-inactivation",
     "sent_at": "2026-07-07T21:56:54.326227Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acs.jpcb.6c03095",
     "title": "Cooperative Contributions of Nucleosome Components on the Higher-Order Structure of Six-Nucleosome Arrays.",
     "sent_at": "2026-07-14T03:27:36.222623Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737850",
+    "title": "An overlooked distal regulatory signal on a shared haplotype drives the neuroinflammatory cascade underlying GBA1-associated Parkinson's disease",
+    "sent_at": "2026-07-14T06:27:21.364851Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gr.281419.125",
+    "title": "An RNA polymerase III tissue and tumor atlas uncovers context-specific activities linked to 3D epigenome regulatory mechanisms.",
+    "sent_at": "2026-07-14T06:27:21.364851Z",
     "tier": 2,
     "kind": "journal"
   }
