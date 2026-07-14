@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.07.737026",
-    "title": "A large-scale analysis of the R2TP chaperone network reveals its contribution to the assembly of INO80, SRCAP and TIP60",
-    "sent_at": "2026-07-08T10:33:25.242267Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s42003-026-10614-0",
     "title": "A barrier to human embryogenesis involves dysregulated 3D genome reprogramming and ZGA collapse.",
     "sent_at": "2026-07-08T10:33:25.242267Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.13.737885",
     "title": "Disrupting a Convergent Acetylation Circuit Collapses Leukemic Identity Across AML Subtypes",
     "sent_at": "2026-07-14T14:13:11.225319Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738233",
+    "title": "Tissue-specific chromatin accessibility and co-factor availability together define ASCL1-dependent neural reprogrammability across germ layers during embryogenesis",
+    "sent_at": "2026-07-14T16:03:55.293837Z",
     "tier": 3,
     "kind": "preprint"
   }
