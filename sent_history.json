@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s42003-026-10614-0",
-    "title": "A barrier to human embryogenesis involves dysregulated 3D genome reprogramming and ZGA collapse.",
-    "sent_at": "2026-07-08T10:33:25.242267Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.07.736975",
     "title": "Nuclear-BRITE: an enhanced MS2 system for live-cell imaging of nuclear RNAs",
     "sent_at": "2026-07-08T14:37:03.996767Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.13.738233",
     "title": "Tissue-specific chromatin accessibility and co-factor availability together define ASCL1-dependent neural reprogrammability across germ layers during embryogenesis",
     "sent_at": "2026-07-14T16:03:55.293837Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738224",
+    "title": "VPS4 and CHMP7 release centromeres from the nuclear envelope for post-mitotic positioning in daughter nuclei",
+    "sent_at": "2026-07-14T17:31:47.873344Z",
     "tier": 3,
     "kind": "preprint"
   }
