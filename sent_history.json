@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.01.735830",
-    "title": "Genome editing of marsupial RSX reveals conserved and divergent principles in mammalian X-inactivation",
-    "sent_at": "2026-07-07T21:56:54.326227Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.06.736733",
-    "title": "Nuclear adenosine metabolism defines a metabolic vulnerability unmasked by TP53 loss",
-    "sent_at": "2026-07-07T23:33:32.591140Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.7554/eLife.102417",
     "title": "Ligand-dependent enhancer activation indirectly modulates non-target promoters in a chromatin domain.",
     "sent_at": "2026-07-07T23:33:32.591140Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gr.281419.125",
     "title": "An RNA polymerase III tissue and tumor atlas uncovers context-specific activities linked to 3D epigenome regulatory mechanisms.",
     "sent_at": "2026-07-14T06:27:21.364851Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.735668",
+    "title": "Conserved Transcriptomic Signatures of Sirt6 Activity: A Cross-Species RNA-seq Meta-analysis",
+    "sent_at": "2026-07-14T10:15:03.358875Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ijbiomac.2026.153508",
+    "title": "The lncRNA CTD-2566 J3.1 orchestrates oncogenic gene regulation via chromatin interactions in luminal breast cancer.",
+    "sent_at": "2026-07-14T10:15:03.358875Z",
     "tier": 2,
     "kind": "journal"
   }
