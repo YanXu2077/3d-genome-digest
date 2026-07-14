@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.102417",
-    "title": "Ligand-dependent enhancer activation indirectly modulates non-target promoters in a chromatin domain.",
-    "sent_at": "2026-07-07T23:33:32.591140Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.06.736769",
-    "title": "Unbranched SPIN90-Arp2/3 actin promotes stress fiber speed and focal adhesion maturation",
-    "sent_at": "2026-07-08T03:41:14.773770Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.03.05.709876",
     "title": "A Translocation within the Ogataea Species Complex Alters Local Subtelomeric Chromatin while Maintaining Overall Genome Organization",
     "sent_at": "2026-07-08T06:41:49.448005Z",
@@ -557,6 +543,20 @@
     "title": "The lncRNA CTD-2566 J3.1 orchestrates oncogenic gene regulation via chromatin interactions in luminal breast cancer.",
     "sent_at": "2026-07-14T10:15:03.358875Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738302",
+    "title": "Targeted ATAC-see (tATAC-see): A Visual Assay for Target-Specific Chromatin Profiling",
+    "sent_at": "2026-07-14T11:55:53.418909Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/pce.70750",
+    "title": "Emerging Roles of Biomolecular Condensates and Phase Separation in Plant Stress Adaptation and Gene Regulation.",
+    "sent_at": "2026-07-14T11:55:53.418909Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
