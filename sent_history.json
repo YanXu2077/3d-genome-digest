@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.07.736975",
-    "title": "Nuclear-BRITE: an enhanced MS2 system for live-cell imaging of nuclear RNAs",
-    "sent_at": "2026-07-08T14:37:03.996767Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/jcc.70460",
     "title": "OpenCafeMol With 3SPN.2 DNA Model: GPU Acceleration for Long-Time Coarse-Grained Chromatin Simulations.",
     "sent_at": "2026-07-08T14:37:03.996767Z",
@@ -557,6 +550,13 @@
     "title": "VPS4 and CHMP7 release centromeres from the nuclear envelope for post-mitotic positioning in daughter nuclei",
     "sent_at": "2026-07-14T17:31:47.873344Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.09.737391",
+    "title": "Biophysical Characterization of ParBS Condensates suggests a physical mechanism for segregation",
+    "sent_at": "2026-07-14T19:44:22.144826Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
