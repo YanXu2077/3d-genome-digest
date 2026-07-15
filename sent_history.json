@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735463",
-    "title": "Dynamic interaction between tentacle-tethered microdomains in Integrator and NELF regulates the promoter-proximal pause checkpoint",
-    "sent_at": "2026-07-09T22:03:08.108777Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/978-3-032-22285-5_4",
-    "title": "Vascular Mechanobiology: From Membrane to Nucleus.",
-    "sent_at": "2026-07-09T22:03:08.108777Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.08.08.669316",
     "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation",
     "sent_at": "2026-07-10T04:11:19.207362Z",
@@ -557,6 +543,20 @@
     "title": "Chromosome Architecture Defined by the Meiosis-Specific Cohesin in Mammalian Germ Cells.",
     "sent_at": "2026-07-15T17:50:38.586808Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738426",
+    "title": "ZATT/ZNF451 promotes release of stalled TOP2 cleavage complexes",
+    "sent_at": "2026-07-15T19:35:39.970692Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-981-92-1439-6_11",
+    "title": "Nuclear Dynamics and Its Timing Regulation Revealed by Live-Cell Imaging.",
+    "sent_at": "2026-07-15T19:35:39.970692Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
