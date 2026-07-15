@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.07.736920",
-    "title": "Obstacle bypassing and intrinsically asymmetric loop extrusion in the segment-capture model of Structural Maintenance of Chromosomes complexes",
-    "sent_at": "2026-07-09T04:09:15.101806Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.08.737321",
     "title": "Re-establishment of TAD boundary organization during DNA replication",
     "sent_at": "2026-07-09T12:58:48.159181Z",
@@ -557,6 +550,13 @@
     "title": "Live-cell co-translational folding tracking reveals bidirectional coupling between translation and folding",
     "sent_at": "2026-07-15T06:30:25.773905Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.14.737342",
+    "title": "SF3B3 / SF3B5 form a metazoan specific transcription module of the U2 snRNP that coordinates Pol II elongation in a splicing independent manner",
+    "sent_at": "2026-07-15T10:16:26.127414Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
