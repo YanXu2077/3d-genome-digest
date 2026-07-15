@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.03.736284",
-    "title": "Telomerase RNA regulates the epigenome primed for human lineage commitment",
-    "sent_at": "2026-07-10T08:05:27.944301Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fphys.2026.1844142",
-    "title": "CRISPR/Cas9-mediated PHOX2B functional knock-out in IMR32 neuroblastoma cells impairs neuronal excitability through dysregulation of ion channels genes.",
-    "sent_at": "2026-07-10T08:05:27.944301Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.06.05.658111",
     "title": "Wolbachia infection induces host cell state changes in vitro and determines symbiotic fate in Drosophila",
     "sent_at": "2026-07-10T09:59:01.876361Z",
@@ -556,6 +542,20 @@
     "doi": "10.1007/978-981-92-1439-6_12",
     "title": "Nucleoskeletal Proteins in Early Embryogenesis.",
     "sent_at": "2026-07-15T21:16:24.953487Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.07.25.666754",
+    "title": "Learning causal regulatory motifs and grammars using deep learning models and massively parallel reporter assays",
+    "sent_at": "2026-07-15T23:17:37.224031Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1146/annurev-genet-012826-084425",
+    "title": "Dynamic Centromeres Under Epigenetic Constraint.",
+    "sent_at": "2026-07-15T23:17:37.224031Z",
     "tier": 3,
     "kind": "journal"
   }
