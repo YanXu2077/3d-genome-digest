@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.08.737321",
-    "title": "Re-establishment of TAD boundary organization during DNA replication",
-    "sent_at": "2026-07-09T12:58:48.159181Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41588-026-02660-5",
-    "title": "Metabolically and epigenetically reprogrammed splenic TRNP1hiCD8+ T cells exacerbate liver fibrosis.",
-    "sent_at": "2026-07-09T12:58:48.159181Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.06.736852",
     "title": "The role of electrostatic interactions in the phase separation of HP1α and its protein binding partners",
     "sent_at": "2026-07-09T15:45:17.325662Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-15T10:16:26.127414Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738566",
+    "title": "Hierarchical Gene Cluster Regulation Across Vertebrate Skins: Developmental Control of Keratin Gene Expression",
+    "sent_at": "2026-07-15T12:05:15.473201Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.17912/micropub.biology.002228",
+    "title": "Caenorhabditis elegans H1 histone variant HIL-2 is positively regulated by nutrient availability and insulin/IGF signaling but does not affect development.",
+    "sent_at": "2026-07-15T12:05:15.473201Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
