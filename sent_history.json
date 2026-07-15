@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/scitranslmed.aec4386",
-    "title": "Developmental genetic determinants of the human cerebrospinal fluid-ventricular system.",
-    "sent_at": "2026-07-08T23:23:43.761030Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.07.736920",
     "title": "Obstacle bypassing and intrinsically asymmetric loop extrusion in the segment-capture model of Structural Maintenance of Chromosomes complexes",
     "sent_at": "2026-07-09T04:09:15.101806Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-15T03:27:44.541101Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.12.738044",
+    "title": "Live-cell co-translational folding tracking reveals bidirectional coupling between translation and folding",
+    "sent_at": "2026-07-15T06:30:25.773905Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
