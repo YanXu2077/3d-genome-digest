@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.08.08.669316",
-    "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation",
-    "sent_at": "2026-07-10T04:11:19.207362Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1021/acsnano.6c06876",
-    "title": "Nanowrinkled Interface-Coupled Metaphase Chromosome Spreading and Nanoscale Conformability.",
-    "sent_at": "2026-07-10T04:11:19.207362Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.03.736284",
     "title": "Telomerase RNA regulates the epigenome primed for human lineage commitment",
     "sent_at": "2026-07-10T08:05:27.944301Z",
@@ -557,6 +543,20 @@
     "title": "Nuclear Dynamics and Its Timing Regulation Revealed by Live-Cell Imaging.",
     "sent_at": "2026-07-15T19:35:39.970692Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738595",
+    "title": "Homeostatic control of stem cell activity during intestinal regeneration.",
+    "sent_at": "2026-07-15T21:16:24.953487Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-981-92-1439-6_12",
+    "title": "Nucleoskeletal Proteins in Early Embryogenesis.",
+    "sent_at": "2026-07-15T21:16:24.953487Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
