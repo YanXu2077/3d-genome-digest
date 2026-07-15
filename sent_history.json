@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.06.731365",
-    "title": "The Encyclopedia of DNA Elements",
-    "sent_at": "2026-07-09T18:24:15.857454Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1042/BST20250104",
-    "title": "Escape from X-chromosome inactivation: from gene discovery to regulatory mechanisms.",
-    "sent_at": "2026-07-09T18:24:15.857454Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2024.09.29.615660",
     "title": "HPL-2/HP1 and MET-2/SETDB1 bind distinct co-factors that promote heterochromatic foci, gene repression and organogenesis independently of H3K9 methylation",
     "sent_at": "2026-07-09T20:05:36.682206Z",
@@ -557,6 +543,20 @@
     "title": "ADNP Functions During Early Brain Development and Their Relevance to ASD and ADNP Syndrome.",
     "sent_at": "2026-07-15T14:08:59.899780Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738346",
+    "title": "Promoter-associated RNA polymerase III shapes RNA polymerase II-dependent inflammatory gene expression during viral infection",
+    "sent_at": "2026-07-15T15:51:29.694669Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27135956",
+    "title": "Natural Products in Prostate Cancer: Crosstalk Among the Gut Microbiome, Androgen Receptor Signaling, and Epigenetic Regulation.",
+    "sent_at": "2026-07-15T15:51:29.694669Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
