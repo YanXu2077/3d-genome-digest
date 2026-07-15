@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2024.09.29.615660",
-    "title": "HPL-2/HP1 and MET-2/SETDB1 bind distinct co-factors that promote heterochromatic foci, gene repression and organogenesis independently of H3K9 methylation",
-    "sent_at": "2026-07-09T20:05:36.682206Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1111/febs.70649",
-    "title": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes mitochondrial R-loop dynamics.",
-    "sent_at": "2026-07-09T20:05:36.682206Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.06.30.735463",
     "title": "Dynamic interaction between tentacle-tethered microdomains in Integrator and NELF regulates the promoter-proximal pause checkpoint",
     "sent_at": "2026-07-09T22:03:08.108777Z",
@@ -557,6 +543,20 @@
     "title": "Natural Products in Prostate Cancer: Crosstalk Among the Gut Microbiome, Androgen Receptor Signaling, and Epigenetic Regulation.",
     "sent_at": "2026-07-15T15:51:29.694669Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738357",
+    "title": "Axolotl regeneration reveals a dormant cis-regulatory grammar conserved across vertebrate genomes",
+    "sent_at": "2026-07-15T17:50:38.586808Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-981-92-1439-6_5",
+    "title": "Chromosome Architecture Defined by the Meiosis-Specific Cohesin in Mammalian Germ Cells.",
+    "sent_at": "2026-07-15T17:50:38.586808Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
