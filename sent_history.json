@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.20.726565",
-    "title": "Lamins gate nuclear and chromatin structures for cardiomyocyte maturation genes",
-    "sent_at": "2026-07-08T21:22:59.465613Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2025.05.14.654140",
-    "title": "Rainbow Nucleus Charts Dynamic Interactome of Membrane-less Organelles",
-    "sent_at": "2026-07-08T23:23:43.761030Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/scitranslmed.aec4386",
     "title": "Developmental genetic determinants of the human cerebrospinal fluid-ventricular system.",
     "sent_at": "2026-07-08T23:23:43.761030Z",
@@ -556,6 +542,20 @@
     "doi": "10.1158/2159-8290.CD-25-1336",
     "title": "CDK8 inhibition induces Mediator trapping and impairment of the EWSR1::FLI1 transcriptional program in Ewing sarcoma.",
     "sent_at": "2026-07-14T23:11:49.962887Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.11.737985",
+    "title": "The paraspeckle protein NONO potentiates the antiviral innate immune response through chromatin regulation",
+    "sent_at": "2026-07-15T03:27:44.541101Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2602208123",
+    "title": "Revealing ancient macroH2A features through in vivo analysis in the cricket Gryllus bimaculatus.",
+    "sent_at": "2026-07-15T03:27:44.541101Z",
     "tier": 3,
     "kind": "journal"
   }
