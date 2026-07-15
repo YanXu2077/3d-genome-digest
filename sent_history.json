@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.06.736852",
-    "title": "The role of electrostatic interactions in the phase separation of HP1α and its protein binding partners",
-    "sent_at": "2026-07-09T15:45:17.325662Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.dnarep.2026.103951",
-    "title": "Molecular mechanisms of DNA damage recognition and chromatin dynamics regulating mammalian nucleotide excision repair.",
-    "sent_at": "2026-07-09T15:45:17.325662Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.06.731365",
     "title": "The Encyclopedia of DNA Elements",
     "sent_at": "2026-07-09T18:24:15.857454Z",
@@ -556,6 +542,20 @@
     "doi": "10.17912/micropub.biology.002228",
     "title": "Caenorhabditis elegans H1 histone variant HIL-2 is positively regulated by nutrient availability and insulin/IGF signaling but does not affect development.",
     "sent_at": "2026-07-15T12:05:15.473201Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738400",
+    "title": "Transcription controls chromatin-nuclear lamina contacts through distinct Lamin A and LBR tethering mechanisms",
+    "sent_at": "2026-07-15T14:08:59.899780Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27136085",
+    "title": "ADNP Functions During Early Brain Development and Their Relevance to ASD and ADNP Syndrome.",
+    "sent_at": "2026-07-15T14:08:59.899780Z",
     "tier": 3,
     "kind": "journal"
   }
