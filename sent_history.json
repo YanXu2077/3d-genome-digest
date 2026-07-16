@@ -1,19 +1,5 @@
 [
   {
-    "doi": "pmid:42428023",
-    "title": "scMTNI: Leveraging cellular trajectory and context to infer dynamic GRNs from single-cell multi-omics data.",
-    "sent_at": "2026-07-10T19:54:01.846078Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2025.12.22.695891",
-    "title": "CAD-C: An engineered nuclease enables repair-free in situ proximity ligation and nucleosome-resolution chromosome walks in human cells",
-    "sent_at": "2026-07-10T21:19:59.861463Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.29.735239",
     "title": "Multimodal Human Scalp Atlas Defines Cell Landscape and Lineage Architecture In Situ.",
     "sent_at": "2026-07-10T21:19:59.861463Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.canlet.2026.218735",
     "title": "Single-cell mapping of extrachromosomal circular DNA architecture and evolution in cutaneous squamous cell carcinoma.",
     "sent_at": "2026-07-16T12:05:41.952407Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.12.738087",
+    "title": "A hierarchy of spatial confinements governs chromatin dynamics and genomic encounters",
+    "sent_at": "2026-07-16T14:21:44.409292Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12964-026-03042-4",
+    "title": "Trophoblast cells rewire the epigenetic landscape of vascular smooth muscle cells to modulate plasticity: a regulatory axis disrupted in intrauterine growth restriction.",
+    "sent_at": "2026-07-16T14:21:44.409292Z",
     "tier": 3,
     "kind": "journal"
   }
