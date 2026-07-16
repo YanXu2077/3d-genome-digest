@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.26.734868",
-    "title": "Small Structural Variations, Large Functional Consequences: Comparative Analysis Reveals Structural Control of Ubiquitylation Site Selection by BRCA1/BARD1.",
-    "sent_at": "2026-07-10T15:20:07.880587Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.05.736477",
-    "title": "Machine learning-assisted Repli-Histo labeling reveals distinct transcription-dependent constraints on chromatin motion in living cells",
-    "sent_at": "2026-07-10T18:11:58.764447Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.03.27.645673",
     "title": "BAF chromatin remodeling complexes inhibit immediate-early and early, but not late, transcription of herpes simplex virus 1.",
     "sent_at": "2026-07-10T18:11:58.764447Z",
@@ -557,6 +543,20 @@
     "title": "Three-dimensional genome architecture: from contacts to mechanisms.",
     "sent_at": "2026-07-16T06:31:09.746984Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738372",
+    "title": "High glucose confers senescence resistance via GLUT1 epigenetic rewiring to blunt immunotherapy responses in esophageal squamous cell carcinoma",
+    "sent_at": "2026-07-16T10:27:26.558774Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41586-026-10781-4",
+    "title": "An encyclopedia of human enhancer-gene regulatory interactions.",
+    "sent_at": "2026-07-16T10:27:26.558774Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
