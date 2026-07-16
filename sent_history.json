@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.29.735239",
-    "title": "Multimodal Human Scalp Atlas Defines Cell Landscape and Lineage Architecture In Situ.",
-    "sent_at": "2026-07-10T21:19:59.861463Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.07.731387",
-    "title": "Deconvolving the spatiotemporal chromatin landscape through the cell cycle",
-    "sent_at": "2026-07-10T23:14:53.481255Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.adx4982",
     "title": "H2BE113K mutation promotes breast cancer metastasis through modulating chromatin dynamics.",
     "sent_at": "2026-07-10T23:14:53.481255Z",
@@ -557,6 +543,20 @@
     "title": "Trophoblast cells rewire the epigenetic landscape of vascular smooth muscle cells to modulate plasticity: a regulatory axis disrupted in intrauterine growth restriction.",
     "sent_at": "2026-07-16T14:21:44.409292Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738798",
+    "title": "The novel HP1a interactor Clump/CG30403 safeguards transposon silencing and reproductive resilience in the Drosophila ovary",
+    "sent_at": "2026-07-16T16:05:13.813591Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/prot.70154",
+    "title": "BET Bromodomain Targeting by NSAIDs: Structural, Biophysical, and Computational Insights.",
+    "sent_at": "2026-07-16T16:05:13.813591Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
