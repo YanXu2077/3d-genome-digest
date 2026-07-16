@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.21769/BioProtoc.5742",
-    "title": "CRISPR-PITA: An Imaging-Based CRISPR/dCas9 Assay to Determine Recruitment Directionality of Nuclear Proteins.",
-    "sent_at": "2026-07-10T11:28:15.862793Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.02.735786",
-    "title": "Regulation of Human Erythroferrone Expression",
-    "sent_at": "2026-07-10T15:20:07.880587Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.26.734868",
     "title": "Small Structural Variations, Large Functional Consequences: Comparative Analysis Reveals Structural Control of Ubiquitylation Site Selection by BRCA1/BARD1.",
     "sent_at": "2026-07-10T15:20:07.880587Z",
@@ -557,6 +543,20 @@
     "title": "Histone Modifications in Mammalian Early Embryos.",
     "sent_at": "2026-07-16T03:35:08.708809Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.28.727987",
+    "title": "Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries",
+    "sent_at": "2026-07-16T06:31:09.746984Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jbior.2026.101171",
+    "title": "Three-dimensional genome architecture: from contacts to mechanisms.",
+    "sent_at": "2026-07-16T06:31:09.746984Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
