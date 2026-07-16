@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.30.735653",
-    "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells.",
-    "sent_at": "2026-07-11T03:40:34.926901Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.09.737589",
     "title": "On the state of chromatin in mammalian sperm",
     "sent_at": "2026-07-11T06:28:39.108644Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-16T17:43:14.011586Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.14.737247",
+    "title": "FENNEC: photon-level deep learning for classifying bursts in diffusion-based single-molecule FRET",
+    "sent_at": "2026-07-16T19:30:09.293793Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
