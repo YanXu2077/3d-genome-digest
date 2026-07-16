@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.adx4982",
-    "title": "H2BE113K mutation promotes breast cancer metastasis through modulating chromatin dynamics.",
-    "sent_at": "2026-07-10T23:14:53.481255Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.06.736877",
-    "title": "The exchange dynamics of client molecules in biomolecular condensates",
-    "sent_at": "2026-07-11T03:40:34.926901Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.30.735653",
     "title": "Substrate recognition, not sequestration, drives the engagement of an H3K9 methyltransferase in living cells.",
     "sent_at": "2026-07-11T03:40:34.926901Z",
@@ -557,6 +543,20 @@
     "title": "BET Bromodomain Targeting by NSAIDs: Structural, Biophysical, and Computational Insights.",
     "sent_at": "2026-07-16T16:05:13.813591Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738587",
+    "title": "A superfolding sfPepper enables superresolution and single-molecule RNA imaging in live cells",
+    "sent_at": "2026-07-16T17:43:14.011586Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44319-026-00855-9",
+    "title": "IRAK4 constrains cellular plasticity during chemically-induced cell fate reprogramming into multiple lineages.",
+    "sent_at": "2026-07-16T17:43:14.011586Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
