@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.09.737589",
-    "title": "On the state of chromatin in mammalian sperm",
-    "sent_at": "2026-07-11T06:28:39.108644Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.06.30.735535",
-    "title": "Modulating Nucleosomal H3 Tail Dynamics with Lysine and Serine Modifications.",
-    "sent_at": "2026-07-11T06:28:39.108644Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2024.10.02.616304",
     "title": "An engineered chromatin protein with enhanced preferential binding of H3K27me3 over H3K9me3",
     "sent_at": "2026-07-11T08:29:14.254432Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-16T19:30:09.293793Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738736",
+    "title": "G4 DNA structures induced by UV radiation: a multi-omic approach",
+    "sent_at": "2026-07-16T21:20:07.595980Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.24272/j.issn.2095-8137.2025.328",
+    "title": "LivestockDev: A multi-omics resource for exploring cross-species comparison of livestock embryogenesis.",
+    "sent_at": "2026-07-16T21:20:07.595980Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
