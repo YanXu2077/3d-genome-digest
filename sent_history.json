@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737660",
-    "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
-    "sent_at": "2026-07-11T21:18:54.451461Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.06.736845",
     "title": "The Drosophila FET orthologue Cabeza is an essential cofactor for ETV4-mediated activation of GGAA microsatellite neoenhancers",
     "sent_at": "2026-07-11T23:32:21.841355Z",
@@ -557,6 +550,13 @@
     "title": "Reference Regulatory Element-Guided Gene Expression Analysis for Mechanistic Inference of Gene Regulatory Networks",
     "sent_at": "2026-07-17T11:58:11.694302Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.738924",
+    "title": "DNA catenation is essential for Sister Chromatid Cohesion",
+    "sent_at": "2026-07-17T14:02:06.574758Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
