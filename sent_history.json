@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737727",
-    "title": "Non-coding DNA dictates cell size and impairs fitness by sequestering RNA polymerase",
-    "sent_at": "2026-07-11T14:03:12.176221Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.compbiolchem.2026.109244",
-    "title": "Integrative network pharmacology and genomic analysis of esculin targeting PARP1 in cervical cancer: Insights from ADME profiling, molecular docking, and biomarker discovery.",
-    "sent_at": "2026-07-11T14:03:12.176221Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.10.737659",
     "title": "SALL2 constrains TEAD4 by maintaining repressive chromatin to restrict trophectoderm identity",
     "sent_at": "2026-07-11T15:35:33.028159Z",
@@ -557,6 +543,20 @@
     "title": "Trichomes in Plant Defence, Development and Metabolic Integration Under Environmental Stress.",
     "sent_at": "2026-07-17T03:35:12.792982Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738536",
+    "title": "Feedback between filament spacing, crosslinker binding, and self-organization in cytoskeletal bundles",
+    "sent_at": "2026-07-17T06:32:36.188768Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.scib.2026.07.025",
+    "title": "Hierarchical regulation and molecular functions of co-transcriptional splicing.",
+    "sent_at": "2026-07-17T06:32:36.188768Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
