@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.09.723998",
-    "title": "A multi-species toolkit of TOP2 hypercleavage mutants for studying topoisomerase II-mediated DNA damage",
-    "sent_at": "2026-07-12T03:49:52.137450Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.07.737093",
-    "title": "Locus-Level Transposable Element Profiling Resolves Division-Coupled Transcriptional Dynamics During Human Endoderm Specification",
-    "sent_at": "2026-07-12T06:45:26.719655Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.07.737069",
     "title": "A genetically buffered helicase network promotes tolerance of G-quadruplex stabilization in Saccharomyces cerevisiae",
     "sent_at": "2026-07-12T10:02:06.151466Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-17T15:27:43.489166Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738242",
+    "title": "A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation",
+    "sent_at": "2026-07-17T17:25:58.851611Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.07.731387",
+    "title": "Deconvolving the spatiotemporal chromatin landscape through the cell cycle.",
+    "sent_at": "2026-07-17T17:25:58.851611Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
