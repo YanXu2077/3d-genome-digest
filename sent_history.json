@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.03.10.710607",
-    "title": "Zasp52s differentially expressed intrinsically disordered region confers thin filament stability at the Z-disc",
-    "sent_at": "2026-07-12T13:50:39.608386Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.07.734602",
     "title": "Bioelectrical phase transitions",
     "sent_at": "2026-07-12T15:10:32.352547Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-17T19:27:34.306925Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.17.739104",
+    "title": "Mechanically induced pre-mitotic nuclear deformations promote nuclear rupture through lamin B1 depletion",
+    "sent_at": "2026-07-17T21:12:24.310673Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
