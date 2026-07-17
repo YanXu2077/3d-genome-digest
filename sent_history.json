@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.06.20.660786",
-    "title": "Transient histone deacetylase inhibition reveals cell type invariant and specific effects of chromatin decondensation on irradiation response",
-    "sent_at": "2026-07-11T19:38:49.936508Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.10.737660",
     "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
     "sent_at": "2026-07-11T21:18:54.451461Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-17T10:13:19.255879Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737848",
+    "title": "Reference Regulatory Element-Guided Gene Expression Analysis for Mechanistic Inference of Gene Regulatory Networks",
+    "sent_at": "2026-07-17T11:58:11.694302Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
