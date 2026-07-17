@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.08.737375",
-    "title": "Programmable CRISPRtune dissects the transcriptional repressive activity of MeCP2",
-    "sent_at": "2026-07-11T11:21:35.841197Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41380-026-03744-8",
-    "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
-    "sent_at": "2026-07-11T11:21:35.841197Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.10.737727",
     "title": "Non-coding DNA dictates cell size and impairs fitness by sequestering RNA polymerase",
     "sent_at": "2026-07-11T14:03:12.176221Z",
@@ -557,6 +543,20 @@
     "title": "Replication-uncoupled MET1/DNMT1 activity shapes inheritance of DNA methylation.",
     "sent_at": "2026-07-16T23:25:39.030369Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.04.27.721182",
+    "title": "TFIIIC regulates SMC complex binding and 3D DNA contacts between tRNA genes",
+    "sent_at": "2026-07-17T03:35:12.792982Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/pce.70752",
+    "title": "Trichomes in Plant Defence, Development and Metabolic Integration Under Environmental Stress.",
+    "sent_at": "2026-07-17T03:35:12.792982Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
