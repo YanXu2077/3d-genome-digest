@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.06.736845",
-    "title": "The Drosophila FET orthologue Cabeza is an essential cofactor for ETV4-mediated activation of GGAA microsatellite neoenhancers",
-    "sent_at": "2026-07-11T23:32:21.841355Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.09.723998",
     "title": "A multi-species toolkit of TOP2 hypercleavage mutants for studying topoisomerase II-mediated DNA damage",
     "sent_at": "2026-07-12T03:49:52.137450Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.16.738924",
     "title": "DNA catenation is essential for Sister Chromatid Cohesion",
     "sent_at": "2026-07-17T14:02:06.574758Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.738981",
+    "title": "Protein-based, live-cell PAINT microscopy with fluorogenic exchangeable HaloTag ligands",
+    "sent_at": "2026-07-17T15:27:43.489166Z",
     "tier": 3,
     "kind": "preprint"
   }
