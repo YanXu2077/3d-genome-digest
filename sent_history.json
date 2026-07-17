@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737659",
-    "title": "SALL2 constrains TEAD4 by maintaining repressive chromatin to restrict trophectoderm identity",
-    "sent_at": "2026-07-11T15:35:33.028159Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.05.24.727280",
-    "title": "Pre-existing chromatin accessibility primes δ-cells for injury-induced endocrine plasticity",
-    "sent_at": "2026-07-11T17:16:51.020869Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.06.20.660786",
     "title": "Transient histone deacetylase inhibition reveals cell type invariant and specific effects of chromatin decondensation on irradiation response",
     "sent_at": "2026-07-11T19:38:49.936508Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.scib.2026.07.025",
     "title": "Hierarchical regulation and molecular functions of co-transcriptional splicing.",
     "sent_at": "2026-07-17T06:32:36.188768Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.16.738891",
+    "title": "MEN1 deficiency establishes a selenite-dependent binary switch in ferroptosis",
+    "sent_at": "2026-07-17T10:13:19.255879Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bbamcr.2026.120192",
+    "title": "AKNA drives neuroblastoma cell fate transition through chromatin modifications of stemness factors and differentiation by cytosolic retention.",
+    "sent_at": "2026-07-17T10:13:19.255879Z",
     "tier": 3,
     "kind": "journal"
   }
