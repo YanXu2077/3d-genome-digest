@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.07.737140",
-    "title": "Proximity labeling at H3K9me3 reveals VRK-1 regulate global chromatin distribution in C. elegans",
-    "sent_at": "2026-07-13T19:48:57.224663Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.10.737838",
     "title": "Visualizing the Epigenetic Landscape of Aging and Cellular Reprogramming: Optimized ATAC-see for Cells and Tissues",
     "sent_at": "2026-07-13T21:12:59.634471Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-18T11:20:52.329276Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737719",
+    "title": "Reconstructing sequence-grammar trajectories enables interpretable and tunable cis-regulatory element design",
+    "sent_at": "2026-07-18T13:48:10.622786Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
