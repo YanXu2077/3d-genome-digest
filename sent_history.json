@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737757",
-    "title": "Ultra-low oxygen tension during in vitro fertilization improves embryonic and adult outcomes in mice",
-    "sent_at": "2026-07-13T11:28:04.162703Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.aninu.2026.01.015",
-    "title": "Chromatin accessibility of the jejunum in two high-yielding laying hen strains under divergent mineral phosphorus supply during the transition to egg laying.",
-    "sent_at": "2026-07-13T11:28:04.162703Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.08.737335",
     "title": "Fertility Gene Introns Harbor Transposable Elements that Shape Y-Loop Architecture",
     "sent_at": "2026-07-13T14:58:17.349074Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.devcel.2026.06.015",
     "title": "Live imaging captures the events immediately following fertilization.",
     "sent_at": "2026-07-18T08:22:55.368062Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.737346",
+    "title": "Truncating ASXL1 variants rewire cellular metabolism via mitochondrial pyruvate carrier repression",
+    "sent_at": "2026-07-18T09:48:20.569680Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s42003-026-10690-2",
+    "title": "Temporal transcriptomic and chromatin dynamics underlying class-level recognition in cleaner wrasse.",
+    "sent_at": "2026-07-18T09:48:20.569680Z",
     "tier": 3,
     "kind": "journal"
   }
