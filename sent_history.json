@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737838",
-    "title": "Visualizing the Epigenetic Landscape of Aging and Cellular Reprogramming: Optimized ATAC-see for Cells and Tissues",
-    "sent_at": "2026-07-13T21:12:59.634471Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.08.737367",
     "title": "Charge Imbalance Drives Salt-Optimized Nucleosome Phase Separation under Physiological Conditions",
     "sent_at": "2026-07-13T23:10:03.765158Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.10.737719",
     "title": "Reconstructing sequence-grammar trajectories enables interpretable and tunable cis-regulatory element design",
     "sent_at": "2026-07-18T13:48:10.622786Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.08.736699",
+    "title": "Beyond Bisulfite Sequencing: Resolving 5-hmC with Nanopore Sequencing Unmasks the True-5mC Methylation Entropy Landscape",
+    "sent_at": "2026-07-18T15:13:21.490251Z",
     "tier": 3,
     "kind": "preprint"
   }
