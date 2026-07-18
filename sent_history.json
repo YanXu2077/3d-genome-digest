@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737850",
-    "title": "An overlooked distal regulatory signal on a shared haplotype drives the neuroinflammatory cascade underlying GBA1-associated Parkinson's disease",
-    "sent_at": "2026-07-14T06:27:21.364851Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.281419.125",
     "title": "An RNA polymerase III tissue and tumor atlas uncovers context-specific activities linked to 3D epigenome regulatory mechanisms.",
     "sent_at": "2026-07-14T06:27:21.364851Z",
@@ -557,6 +550,13 @@
     "title": "Fluorescence cross-correlation spectroscopy quantifies affinity, cooperativity, and kinetic stability in ternary protein complexes",
     "sent_at": "2026-07-18T21:06:54.570158Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738089",
+    "title": "Hidden assumptions in nascent RNA sequencing pipelines define reproducibility states",
+    "sent_at": "2026-07-18T23:07:46.350198Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
