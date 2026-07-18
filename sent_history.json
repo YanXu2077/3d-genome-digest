@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.08.737203",
-    "title": "Interactome Specialization Predicts Genome-Wide Binding-Site Degeneracy in Drosophila melanogaster Transcription Factors",
-    "sent_at": "2026-07-12T17:14:43.961308Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.07.736241",
-    "title": "First-Trimester Non-Invasive Prediction of Preterm Birth Using Cell-Free DNA Fragmentomics",
-    "sent_at": "2026-07-12T19:23:26.065699Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.07.737103",
     "title": "Lipid chlorination mobilizes Neutrophil Elastase to initiate NETosis",
     "sent_at": "2026-07-12T21:05:52.029533Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-17T23:07:11.898783Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.738760",
+    "title": "Massively parallel characterization and predictive modelling of neuronal regulatory variation",
+    "sent_at": "2026-07-18T03:27:38.550084Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aed5708",
+    "title": "PUM1 and PUM2 promote translation of chromatin regulators to ensure mammalian spermatogenesis.",
+    "sent_at": "2026-07-18T03:27:38.550084Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
