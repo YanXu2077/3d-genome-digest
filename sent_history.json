@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1021/acs.jpcb.6c03095",
-    "title": "Cooperative Contributions of Nucleosome Components on the Higher-Order Structure of Six-Nucleosome Arrays.",
-    "sent_at": "2026-07-14T03:27:36.222623Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.10.737850",
     "title": "An overlooked distal regulatory signal on a shared haplotype drives the neuroinflammatory cascade underlying GBA1-associated Parkinson's disease",
     "sent_at": "2026-07-14T06:27:21.364851Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.17.739178",
     "title": "Mapping absolute membrane voltage using dynamic photocycle control",
     "sent_at": "2026-07-18T19:24:17.147447Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.738902",
+    "title": "Fluorescence cross-correlation spectroscopy quantifies affinity, cooperativity, and kinetic stability in ternary protein complexes",
+    "sent_at": "2026-07-18T21:06:54.570158Z",
     "tier": 4,
     "kind": "preprint"
   }
