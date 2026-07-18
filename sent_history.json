@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.08.737283",
-    "title": "A practical framework for measuring protein oligomerization equilibria by fluorescence correlation spectroscopy",
-    "sent_at": "2026-07-13T03:52:43.073689Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.08.737312",
-    "title": "The YTHDC1 glutamate-rich domain docks to the ADAR1 Zα Domain, linking the N6-methyladenosine modification of pre-mRNAs to dsRNA editing",
-    "sent_at": "2026-07-13T07:34:12.490983Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.10.737757",
     "title": "Ultra-low oxygen tension during in vitro fertilization improves embryonic and adult outcomes in mice",
     "sent_at": "2026-07-13T11:28:04.162703Z",
@@ -557,6 +543,20 @@
     "title": "The transcription factor BACH1 couples chromatin priming and repression to enable macrophage plasticity and adaptation.",
     "sent_at": "2026-07-18T06:19:40.798423Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738581",
+    "title": "Regulatory mode and enhancer architecture determine limits of blood DNA methylation as a molecular proxy",
+    "sent_at": "2026-07-18T08:22:55.368062Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.devcel.2026.06.015",
+    "title": "Live imaging captures the events immediately following fertilization.",
+    "sent_at": "2026-07-18T08:22:55.368062Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
