@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.735668",
-    "title": "Conserved Transcriptomic Signatures of Sirt6 Activity: A Cross-Species RNA-seq Meta-analysis",
-    "sent_at": "2026-07-14T10:15:03.358875Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.ijbiomac.2026.153508",
-    "title": "The lncRNA CTD-2566 J3.1 orchestrates oncogenic gene regulation via chromatin interactions in luminal breast cancer.",
-    "sent_at": "2026-07-14T10:15:03.358875Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.13.738302",
     "title": "Targeted ATAC-see (tATAC-see): A Visual Assay for Target-Specific Chromatin Profiling",
     "sent_at": "2026-07-14T11:55:53.418909Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-19T03:43:35.475520Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.10.29.685379",
+    "title": "DNA branch migration across intact membranes powers an inside-out GPCR analog for lysis-free detection of intracellular RNA with on-membrane amplification",
+    "sent_at": "2026-07-19T06:41:31.887897Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117713",
+    "title": "SUDS3 nuclear condensates decelerate DNA replication and safeguard genome stability.",
+    "sent_at": "2026-07-19T06:41:31.887897Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
