@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.737885",
-    "title": "Disrupting a Convergent Acetylation Circuit Collapses Leukemic Identity Across AML Subtypes",
-    "sent_at": "2026-07-14T14:13:11.225319Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.13.738233",
     "title": "Tissue-specific chromatin accessibility and co-factor availability together define ASCL1-dependent neural reprogrammability across germ layers during embryogenesis",
     "sent_at": "2026-07-14T16:03:55.293837Z",
@@ -557,6 +550,13 @@
     "title": "Lifestyles of Gypsy-family transposons shape their regulatory mechanisms",
     "sent_at": "2026-07-19T11:20:03.130561Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738265",
+    "title": "scWeave: A deep learning model that bidirectionally translates between gene expression and chromatin structure at single cell resolution",
+    "sent_at": "2026-07-19T13:46:46.624600Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
