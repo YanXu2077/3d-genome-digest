@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/gr.281419.125",
-    "title": "An RNA polymerase III tissue and tumor atlas uncovers context-specific activities linked to 3D epigenome regulatory mechanisms.",
-    "sent_at": "2026-07-14T06:27:21.364851Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.10.735668",
     "title": "Conserved Transcriptomic Signatures of Sirt6 Activity: A Cross-Species RNA-seq Meta-analysis",
     "sent_at": "2026-07-14T10:15:03.358875Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.13.738089",
     "title": "Hidden assumptions in nascent RNA sequencing pipelines define reproducibility states",
     "sent_at": "2026-07-18T23:07:46.350198Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.15.732472",
+    "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
+    "sent_at": "2026-07-19T03:43:35.475520Z",
     "tier": 3,
     "kind": "preprint"
   }
