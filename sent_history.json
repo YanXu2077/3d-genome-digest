@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.738224",
-    "title": "VPS4 and CHMP7 release centromeres from the nuclear envelope for post-mitotic positioning in daughter nuclei",
-    "sent_at": "2026-07-14T17:31:47.873344Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.09.737391",
     "title": "Biophysical Characterization of ParBS Condensates suggests a physical mechanism for segregation",
     "sent_at": "2026-07-14T19:44:22.144826Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.17.739277",
     "title": "Direct detection of alternative DNA conformations with long-read sequencing and machine learning approaches",
     "sent_at": "2026-07-19T15:08:49.935133Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.14.738159",
+    "title": "Genomic insights into the karyotypic radiation of a narrow endemic holocentric plant Carex helodes",
+    "sent_at": "2026-07-19T17:12:54.931185Z",
     "tier": 4,
     "kind": "preprint"
   }
