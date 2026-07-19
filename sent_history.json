@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.09.737391",
-    "title": "Biophysical Characterization of ParBS Condensates suggests a physical mechanism for segregation",
-    "sent_at": "2026-07-14T19:44:22.144826Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.12.738071",
     "title": "Disruption of Histone H4C genes impairs skeletal development and cortical neurogenesis, modeling rare neurodevelopmental syndromes",
     "sent_at": "2026-07-14T21:17:01.199709Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.14.738159",
     "title": "Genomic insights into the karyotypic radiation of a narrow endemic holocentric plant Carex helodes",
     "sent_at": "2026-07-19T17:12:54.931185Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.06.736651",
+    "title": "LeafRank: A phylodynamic framework for inferring relative fitness from single-cell phylogenies in chromosomally unstable tumors",
+    "sent_at": "2026-07-19T19:23:13.673843Z",
     "tier": 4,
     "kind": "preprint"
   }
