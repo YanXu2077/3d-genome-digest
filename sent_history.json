@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.12.738044",
-    "title": "Live-cell co-translational folding tracking reveals bidirectional coupling between translation and folding",
-    "sent_at": "2026-07-15T06:30:25.773905Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.14.737342",
     "title": "SF3B3 / SF3B5 form a metazoan specific transcription module of the U2 snRNP that coordinates Pol II elongation in a splicing independent manner",
     "sent_at": "2026-07-15T10:16:26.127414Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-20T07:24:22.523335Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.17.738698",
+    "title": "ORC binding to Heterochromatin Protein 1 through intrinsically disordered regions is required for heterochromatin structure and function",
+    "sent_at": "2026-07-20T11:12:29.268229Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
