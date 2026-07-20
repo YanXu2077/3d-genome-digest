@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.11.737985",
-    "title": "The paraspeckle protein NONO potentiates the antiviral innate immune response through chromatin regulation",
-    "sent_at": "2026-07-15T03:27:44.541101Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2602208123",
-    "title": "Revealing ancient macroH2A features through in vivo analysis in the cricket Gryllus bimaculatus.",
-    "sent_at": "2026-07-15T03:27:44.541101Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.12.738044",
     "title": "Live-cell co-translational folding tracking reveals bidirectional coupling between translation and folding",
     "sent_at": "2026-07-15T06:30:25.773905Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-20T03:57:29.653995Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.01.23.634550",
+    "title": "Combined effects of Ret coding and enhancer loss-of-function alleles cause progressive loss of inhibitory motor neurons in the enteric nervous system",
+    "sent_at": "2026-07-20T07:24:22.523335Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00709-026-02248-0",
+    "title": "Rapid chromosome movements persist within nuclear protrusions in Arabidopsis thaliana meiocytes.",
+    "sent_at": "2026-07-20T07:24:22.523335Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
