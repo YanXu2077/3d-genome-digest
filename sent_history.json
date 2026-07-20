@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.737342",
-    "title": "SF3B3 / SF3B5 form a metazoan specific transcription module of the U2 snRNP that coordinates Pol II elongation in a splicing independent manner",
-    "sent_at": "2026-07-15T10:16:26.127414Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.14.738566",
     "title": "Hierarchical Gene Cluster Regulation Across Vertebrate Skins: Developmental Control of Keratin Gene Expression",
     "sent_at": "2026-07-15T12:05:15.473201Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.17.738698",
     "title": "ORC binding to Heterochromatin Protein 1 through intrinsically disordered regions is required for heterochromatin structure and function",
     "sent_at": "2026-07-20T11:12:29.268229Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.17.739209",
+    "title": "Structure-guided targeting of the GATAD2A-CHD4 interaction within the MBD2-NuRD complex results in high levels of HbF in adult erythroid cells",
+    "sent_at": "2026-07-20T14:31:05.999711Z",
     "tier": 3,
     "kind": "preprint"
   }
