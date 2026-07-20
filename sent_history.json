@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1158/2159-8290.CD-25-1336",
-    "title": "CDK8 inhibition induces Mediator trapping and impairment of the EWSR1::FLI1 transcriptional program in Ewing sarcoma.",
-    "sent_at": "2026-07-14T23:11:49.962887Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.11.737985",
     "title": "The paraspeckle protein NONO potentiates the antiviral innate immune response through chromatin regulation",
     "sent_at": "2026-07-15T03:27:44.541101Z",
@@ -557,6 +550,13 @@
     "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
     "sent_at": "2026-07-19T23:04:47.419202Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.17.739177",
+    "title": "LiFT: Live foci tracking for quantitative analysis of DNA damage dynamics",
+    "sent_at": "2026-07-20T03:57:29.653995Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
