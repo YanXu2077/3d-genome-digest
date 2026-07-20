@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.738566",
-    "title": "Hierarchical Gene Cluster Regulation Across Vertebrate Skins: Developmental Control of Keratin Gene Expression",
-    "sent_at": "2026-07-15T12:05:15.473201Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.17912/micropub.biology.002228",
-    "title": "Caenorhabditis elegans H1 histone variant HIL-2 is positively regulated by nutrient availability and insulin/IGF signaling but does not affect development.",
-    "sent_at": "2026-07-15T12:05:15.473201Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.14.738400",
     "title": "Transcription controls chromatin-nuclear lamina contacts through distinct Lamin A and LBR tethering mechanisms",
     "sent_at": "2026-07-15T14:08:59.899780Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-20T14:31:05.999711Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.18.739350",
+    "title": "Single-cell analysis of chromatin accessibility and gene expression in Drosophila melanogaster embryos following hypoxia treatment",
+    "sent_at": "2026-07-20T18:15:59.849125Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.103955",
+    "title": "Cluster size determines internal structure of transcription factories in human cells.",
+    "sent_at": "2026-07-20T18:15:59.849125Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
