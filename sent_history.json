@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.738346",
-    "title": "Promoter-associated RNA polymerase III shapes RNA polymerase II-dependent inflammatory gene expression during viral infection",
-    "sent_at": "2026-07-15T15:51:29.694669Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/ijms27135956",
     "title": "Natural Products in Prostate Cancer: Crosstalk Among the Gut Microbiome, Androgen Receptor Signaling, and Epigenetic Regulation.",
     "sent_at": "2026-07-15T15:51:29.694669Z",
@@ -557,6 +550,13 @@
     "title": "CpGPT: a Foundation Model for DNA Methylation",
     "sent_at": "2026-07-20T21:44:31.414602Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738670",
+    "title": "Uhrf1 loss disrupts Ctcf-associated chromatin organization during early mouse embryogenesis",
+    "sent_at": "2026-07-20T23:13:34.472335Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
