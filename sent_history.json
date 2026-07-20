@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.738400",
-    "title": "Transcription controls chromatin-nuclear lamina contacts through distinct Lamin A and LBR tethering mechanisms",
-    "sent_at": "2026-07-15T14:08:59.899780Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/ijms27136085",
     "title": "ADNP Functions During Early Brain Development and Their Relevance to ASD and ADNP Syndrome.",
     "sent_at": "2026-07-15T14:08:59.899780Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-20T18:15:59.849125Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.18.739353",
+    "title": "FOXO/DAF-16 modulates the transcription factor ROR/NHR-23 and inhibits the let-7 microRNA to maintain multipotency during dauer",
+    "sent_at": "2026-07-20T20:09:47.665909Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
