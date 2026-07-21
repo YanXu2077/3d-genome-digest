@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.738426",
-    "title": "ZATT/ZNF451 promotes release of stalled TOP2 cleavage complexes",
-    "sent_at": "2026-07-15T19:35:39.970692Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-981-92-1439-6_11",
     "title": "Nuclear Dynamics and Its Timing Regulation Revealed by Live-Cell Imaging.",
     "sent_at": "2026-07-15T19:35:39.970692Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-21T06:44:02.304199Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.17.739237",
+    "title": "Architectural chromatin interactions provide a framework for context-dependent gene regulation",
+    "sent_at": "2026-07-21T10:37:44.842960Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
