@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.738357",
-    "title": "Axolotl regeneration reveals a dormant cis-regulatory grammar conserved across vertebrate genomes",
-    "sent_at": "2026-07-15T17:50:38.586808Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1007/978-981-92-1439-6_5",
-    "title": "Chromosome Architecture Defined by the Meiosis-Specific Cohesin in Mammalian Germ Cells.",
-    "sent_at": "2026-07-15T17:50:38.586808Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.14.738426",
     "title": "ZATT/ZNF451 promotes release of stalled TOP2 cleavage complexes",
     "sent_at": "2026-07-15T19:35:39.970692Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-21T03:38:30.447638Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739429",
+    "title": "Chromosome topology gates productive RecA homology search",
+    "sent_at": "2026-07-21T06:44:02.304199Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.arr.2026.103268",
+    "title": "Epigenetic Mechanisms Shaping Cytoskeleton Dynamics in Cardiovascular Diseases.",
+    "sent_at": "2026-07-21T06:44:02.304199Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
