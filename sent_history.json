@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/ijms27135956",
-    "title": "Natural Products in Prostate Cancer: Crosstalk Among the Gut Microbiome, Androgen Receptor Signaling, and Epigenetic Regulation.",
-    "sent_at": "2026-07-15T15:51:29.694669Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.13.738357",
     "title": "Axolotl regeneration reveals a dormant cis-regulatory grammar conserved across vertebrate genomes",
     "sent_at": "2026-07-15T17:50:38.586808Z",
@@ -557,6 +550,13 @@
     "title": "Uhrf1 loss disrupts Ctcf-associated chromatin organization during early mouse embryogenesis",
     "sent_at": "2026-07-20T23:13:34.472335Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.15.733834",
+    "title": "Allele-specific chromatin modifications of HPV-associated extrachromosomal DNAs in cervical cancer",
+    "sent_at": "2026-07-21T03:38:30.447638Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
