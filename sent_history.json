@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.15.738595",
-    "title": "Homeostatic control of stem cell activity during intestinal regeneration.",
-    "sent_at": "2026-07-15T21:16:24.953487Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-981-92-1439-6_12",
     "title": "Nucleoskeletal Proteins in Early Embryogenesis.",
     "sent_at": "2026-07-15T21:16:24.953487Z",
@@ -557,6 +550,13 @@
     "title": "Comprehensive landscape of potential CTCF-binding sites across the complete telomere-to-telomere human genome",
     "sent_at": "2026-07-21T14:18:06.597825Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.20.737372",
+    "title": "Termination dynamics set RNAPII elongation rate and gate the response to CDK12 inactivation",
+    "sent_at": "2026-07-21T16:09:29.727430Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
