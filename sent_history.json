@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/978-981-92-1439-6_10",
-    "title": "Histone Modifications in Mammalian Early Embryos.",
-    "sent_at": "2026-07-16T03:35:08.708809Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.05.28.727987",
     "title": "Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries",
     "sent_at": "2026-07-16T06:31:09.746984Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.15.738754",
     "title": "Easy-Multiome enables joint profiling of gene expression and chromatin accessibility in single cells",
     "sent_at": "2026-07-21T21:30:00.742116Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739476",
+    "title": "Characterization of Chromatin-Associated Circular RNAs (cacRNAs)",
+    "sent_at": "2026-07-21T23:15:36.645985Z",
     "tier": 3,
     "kind": "preprint"
   }
