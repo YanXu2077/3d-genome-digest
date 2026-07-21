@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/978-981-92-1439-6_12",
-    "title": "Nucleoskeletal Proteins in Early Embryogenesis.",
-    "sent_at": "2026-07-15T21:16:24.953487Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/2025.07.25.666754",
-    "title": "Learning causal regulatory motifs and grammars using deep learning models and massively parallel reporter assays",
-    "sent_at": "2026-07-15T23:17:37.224031Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1146/annurev-genet-012826-084425",
     "title": "Dynamic Centromeres Under Epigenetic Constraint.",
     "sent_at": "2026-07-15T23:17:37.224031Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-21T16:09:29.727430Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.02.07.704075",
+    "title": "An Integrative Single-Cell Epigenomic Atlas Annotates the Regulatory Genome of the Adult Mouse Brain",
+    "sent_at": "2026-07-21T17:45:04.775543Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/jnc.70524",
+    "title": "Early Hypo-Osmolar Stress Regulates Astrocyte Reactivity After Brain Injury: \"New Insights Into Glial Response to Edema\".",
+    "sent_at": "2026-07-21T17:45:04.775543Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
