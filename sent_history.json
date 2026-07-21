@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.09.693295",
-    "title": "Machine learning-based prediction of human structural variation and characterization of associated sequence determinants",
-    "sent_at": "2026-07-16T03:35:08.708809Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-981-92-1439-6_10",
     "title": "Histone Modifications in Mammalian Early Embryos.",
     "sent_at": "2026-07-16T03:35:08.708809Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.15.738623",
     "title": "High-resolution single-molecule replication profiling of the human genome",
     "sent_at": "2026-07-21T19:51:38.338069Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738754",
+    "title": "Easy-Multiome enables joint profiling of gene expression and chromatin accessibility in single cells",
+    "sent_at": "2026-07-21T21:30:00.742116Z",
     "tier": 3,
     "kind": "preprint"
   }
