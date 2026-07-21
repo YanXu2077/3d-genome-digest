@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1146/annurev-genet-012826-084425",
-    "title": "Dynamic Centromeres Under Epigenetic Constraint.",
-    "sent_at": "2026-07-15T23:17:37.224031Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2025.12.09.693295",
     "title": "Machine learning-based prediction of human structural variation and characterization of associated sequence determinants",
     "sent_at": "2026-07-16T03:35:08.708809Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-21T17:45:04.775543Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.15.738623",
+    "title": "High-resolution single-molecule replication profiling of the human genome",
+    "sent_at": "2026-07-21T19:51:38.338069Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
