@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.canlet.2026.218735",
-    "title": "Single-cell mapping of extrachromosomal circular DNA architecture and evolution in cutaneous squamous cell carcinoma.",
-    "sent_at": "2026-07-16T12:05:41.952407Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.12.738087",
-    "title": "A hierarchy of spatial confinements governs chromatin dynamics and genomic encounters",
-    "sent_at": "2026-07-16T14:21:44.409292Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s12964-026-03042-4",
     "title": "Trophoblast cells rewire the epigenetic landscape of vascular smooth muscle cells to modulate plasticity: a regulatory axis disrupted in intrauterine growth restriction.",
     "sent_at": "2026-07-16T14:21:44.409292Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-22T16:10:30.109632Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.739003",
+    "title": "Decoding the mystery of ultra-conservation in developmental enhancers: a role for nucleosome positioning, DNA structure and transcription factor binding.",
+    "sent_at": "2026-07-22T17:41:06.199511Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s00249-026-01859-y",
+    "title": "Protein arginine methyltransferases as regulators of phase separation: implications in cancer and neurodegenerative diseases.",
+    "sent_at": "2026-07-22T17:41:06.199511Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
