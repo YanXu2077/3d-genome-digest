@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jbior.2026.101171",
-    "title": "Three-dimensional genome architecture: from contacts to mechanisms.",
-    "sent_at": "2026-07-16T06:31:09.746984Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.15.738372",
     "title": "High glucose confers senescence resistance via GLUT1 epigenetic rewiring to blunt immunotherapy responses in esophageal squamous cell carcinoma",
     "sent_at": "2026-07-16T10:27:26.558774Z",
@@ -557,6 +550,13 @@
     "title": "Enhancer binding kinetics explain transcription factor hub formation",
     "sent_at": "2026-07-22T03:39:51.102534Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739714",
+    "title": "3D genome remodelling underlies PU.1-dependent granulocyte maturation",
+    "sent_at": "2026-07-22T06:42:46.311256Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
