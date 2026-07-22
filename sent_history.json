@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.15.738372",
-    "title": "High glucose confers senescence resistance via GLUT1 epigenetic rewiring to blunt immunotherapy responses in esophageal squamous cell carcinoma",
-    "sent_at": "2026-07-16T10:27:26.558774Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41586-026-10781-4",
     "title": "An encyclopedia of human enhancer-gene regulatory interactions.",
     "sent_at": "2026-07-16T10:27:26.558774Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.21.739714",
     "title": "3D genome remodelling underlies PU.1-dependent granulocyte maturation",
     "sent_at": "2026-07-22T06:42:46.311256Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.16.739007",
+    "title": "Reversing aging-like 3D genome disorganization in a Drosophila interphase model",
+    "sent_at": "2026-07-22T10:38:59.926843Z",
     "tier": 1,
     "kind": "preprint"
   }
