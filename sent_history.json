@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.28.727987",
-    "title": "Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries",
-    "sent_at": "2026-07-16T06:31:09.746984Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jbior.2026.101171",
     "title": "Three-dimensional genome architecture: from contacts to mechanisms.",
     "sent_at": "2026-07-16T06:31:09.746984Z",
@@ -557,6 +550,13 @@
     "title": "Characterization of Chromatin-Associated Circular RNAs (cacRNAs)",
     "sent_at": "2026-07-21T23:15:36.645985Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.04.07.647578",
+    "title": "Enhancer binding kinetics explain transcription factor hub formation",
+    "sent_at": "2026-07-22T03:39:51.102534Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
