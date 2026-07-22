@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s12964-026-03042-4",
-    "title": "Trophoblast cells rewire the epigenetic landscape of vascular smooth muscle cells to modulate plasticity: a regulatory axis disrupted in intrauterine growth restriction.",
-    "sent_at": "2026-07-16T14:21:44.409292Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.15.738798",
-    "title": "The novel HP1a interactor Clump/CG30403 safeguards transposon silencing and reproductive resilience in the Drosophila ovary",
-    "sent_at": "2026-07-16T16:05:13.813591Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/prot.70154",
     "title": "BET Bromodomain Targeting by NSAIDs: Structural, Biophysical, and Computational Insights.",
     "sent_at": "2026-07-16T16:05:13.813591Z",
@@ -557,6 +543,20 @@
     "title": "Protein arginine methyltransferases as regulators of phase separation: implications in cancer and neurodegenerative diseases.",
     "sent_at": "2026-07-22T17:41:06.199511Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739707",
+    "title": "Single-molecule nanopore-tweezers analysis of transcription elongation by intact and \"stalk-less\" yeast RNA polymerase II",
+    "sent_at": "2026-07-22T19:46:30.643680Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.devcel.2026.06.016",
+    "title": "Molecular dynamics driving phenotypic divergence among KRAS mutants in pancreatic tumorigenesis.",
+    "sent_at": "2026-07-22T19:46:30.643680Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
