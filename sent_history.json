@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/prot.70154",
-    "title": "BET Bromodomain Targeting by NSAIDs: Structural, Biophysical, and Computational Insights.",
-    "sent_at": "2026-07-16T16:05:13.813591Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.15.738587",
     "title": "A superfolding sfPepper enables superresolution and single-molecule RNA imaging in live cells",
     "sent_at": "2026-07-16T17:43:14.011586Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-22T19:46:30.643680Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739850",
+    "title": "A conserved mechanism for targeted cohesin loading organises specialised chromosomal domains",
+    "sent_at": "2026-07-22T21:21:06.088158Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
