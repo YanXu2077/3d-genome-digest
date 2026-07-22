@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41586-026-10781-4",
-    "title": "An encyclopedia of human enhancer-gene regulatory interactions.",
-    "sent_at": "2026-07-16T10:27:26.558774Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.15.736390",
     "title": "Organoids reveal niche-specific mechanotransduction-guided human cortical patterning and cell fate acquisition",
     "sent_at": "2026-07-16T12:05:41.952407Z",
@@ -557,6 +550,13 @@
     "title": "Reversing aging-like 3D genome disorganization in a Drosophila interphase model",
     "sent_at": "2026-07-22T10:38:59.926843Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.15.732425",
+    "title": "DNA Sequence and Histone Variant H2A.Z Jointly Govern Nucleosome Unwrapping Pathways",
+    "sent_at": "2026-07-22T14:21:36.217845Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
