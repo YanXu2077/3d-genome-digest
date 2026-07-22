@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.15.736390",
-    "title": "Organoids reveal niche-specific mechanotransduction-guided human cortical patterning and cell fate acquisition",
-    "sent_at": "2026-07-16T12:05:41.952407Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.canlet.2026.218735",
     "title": "Single-cell mapping of extrachromosomal circular DNA architecture and evolution in cutaneous squamous cell carcinoma.",
     "sent_at": "2026-07-16T12:05:41.952407Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.06.15.732425",
     "title": "DNA Sequence and Histone Variant H2A.Z Jointly Govern Nucleosome Unwrapping Pathways",
     "sent_at": "2026-07-22T14:21:36.217845Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739428",
+    "title": "Nuclear envelope-dependent heterochromatin positioning gates the timing of nucleolar assembly in the early embryo",
+    "sent_at": "2026-07-22T16:10:30.109632Z",
     "tier": 2,
     "kind": "preprint"
   }
