@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738622",
-    "title": "Netrin-1 Acts as a Guardian of Naive Pluripotency in Human Embryonic Stem Cells",
-    "sent_at": "2026-07-16T23:25:39.030369Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.117702",
-    "title": "Replication-uncoupled MET1/DNMT1 activity shapes inheritance of DNA methylation.",
-    "sent_at": "2026-07-16T23:25:39.030369Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.04.27.721182",
     "title": "TFIIIC regulates SMC complex binding and 3D DNA contacts between tRNA genes",
     "sent_at": "2026-07-17T03:35:12.792982Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s13059-026-04178-9",
     "title": "Decoding 3D chromatin architecture reveals distinct enhancer classes underlying hierarchical gene regulation in prostate cancer.",
     "sent_at": "2026-07-23T10:40:18.590527Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739918",
+    "title": "Nuclear size and physical properties of the nucleoplasm are determined by colloid osmotic pressure at the nuclear envelope",
+    "sent_at": "2026-07-23T14:30:34.145279Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/2211-5463.70316",
+    "title": "Dual native G-quadruplex folding is associated with chromatin looping at the MYC locus.",
+    "sent_at": "2026-07-23T14:30:34.145279Z",
     "tier": 1,
     "kind": "journal"
   }
