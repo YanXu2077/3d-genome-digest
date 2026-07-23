@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.04.27.721182",
-    "title": "TFIIIC regulates SMC complex binding and 3D DNA contacts between tRNA genes",
-    "sent_at": "2026-07-17T03:35:12.792982Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1111/pce.70752",
-    "title": "Trichomes in Plant Defence, Development and Metabolic Integration Under Environmental Stress.",
-    "sent_at": "2026-07-17T03:35:12.792982Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.14.738536",
     "title": "Feedback between filament spacing, crosslinker binding, and self-organization in cytoskeletal bundles",
     "sent_at": "2026-07-17T06:32:36.188768Z",
@@ -557,6 +543,20 @@
     "title": "Dual native G-quadruplex folding is associated with chromatin looping at the MYC locus.",
     "sent_at": "2026-07-23T14:30:34.145279Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740070",
+    "title": "Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar",
+    "sent_at": "2026-07-23T17:48:23.494170Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/pro.70726",
+    "title": "De novo design of proteinaceous binders targeting the LEDGF PWWP domain.",
+    "sent_at": "2026-07-23T17:48:23.494170Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
