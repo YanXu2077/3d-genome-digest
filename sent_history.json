@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s44319-026-00855-9",
-    "title": "IRAK4 constrains cellular plasticity during chemically-induced cell fate reprogramming into multiple lineages.",
-    "sent_at": "2026-07-16T17:43:14.011586Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.14.737247",
     "title": "FENNEC: photon-level deep learning for classifying bursts in diffusion-based single-molecule FRET",
     "sent_at": "2026-07-16T19:30:09.293793Z",
@@ -557,6 +550,13 @@
     "title": "Active histone modifications fine-tune DNA N-6 methyladenine deposition and maintain transcriptional stability",
     "sent_at": "2026-07-22T23:19:39.016522Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739632",
+    "title": "Human antibody heavy chain variable region exon interacts with 3' regulatory region to form a stable somatic hypermutation center",
+    "sent_at": "2026-07-23T03:41:23.472172Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
