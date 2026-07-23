@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.737247",
-    "title": "FENNEC: photon-level deep learning for classifying bursts in diffusion-based single-molecule FRET",
-    "sent_at": "2026-07-16T19:30:09.293793Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.15.738736",
     "title": "G4 DNA structures induced by UV radiation: a multi-omic approach",
     "sent_at": "2026-07-16T21:20:07.595980Z",
@@ -557,6 +550,13 @@
     "title": "Human antibody heavy chain variable region exon interacts with 3' regulatory region to form a stable somatic hypermutation center",
     "sent_at": "2026-07-23T03:41:23.472172Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739884",
+    "title": "Bacterial RNA polymerase exemplifies a general physical mechanism for accelerating protein-DNA association",
+    "sent_at": "2026-07-23T06:43:15.561443Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
