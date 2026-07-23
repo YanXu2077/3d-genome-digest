@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738891",
-    "title": "MEN1 deficiency establishes a selenite-dependent binary switch in ferroptosis",
-    "sent_at": "2026-07-17T10:13:19.255879Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bbamcr.2026.120192",
     "title": "AKNA drives neuroblastoma cell fate transition through chromatin modifications of stemness factors and differentiation by cytosolic retention.",
     "sent_at": "2026-07-17T10:13:19.255879Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-23T19:47:00.849687Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740058",
+    "title": "The chaperone Jjj2 regulates nucleoporin condensation in budding yeast",
+    "sent_at": "2026-07-23T21:24:50.189359Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
