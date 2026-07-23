@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bbamcr.2026.120192",
-    "title": "AKNA drives neuroblastoma cell fate transition through chromatin modifications of stemness factors and differentiation by cytosolic retention.",
-    "sent_at": "2026-07-17T10:13:19.255879Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.10.737848",
-    "title": "Reference Regulatory Element-Guided Gene Expression Analysis for Mechanistic Inference of Gene Regulatory Networks",
-    "sent_at": "2026-07-17T11:58:11.694302Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.16.738924",
     "title": "DNA catenation is essential for Sister Chromatid Cohesion",
     "sent_at": "2026-07-17T14:02:06.574758Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-23T21:24:50.189359Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.18.739304",
+    "title": "Using Deep Learning to predict replication timing reveals baseline control of genomic DNA sequence",
+    "sent_at": "2026-07-23T23:16:22.475342Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/science.adv5434",
+    "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease-linked transcription factor.",
+    "sent_at": "2026-07-23T23:16:22.475342Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
