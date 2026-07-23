@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.738536",
-    "title": "Feedback between filament spacing, crosslinker binding, and self-organization in cytoskeletal bundles",
-    "sent_at": "2026-07-17T06:32:36.188768Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.scib.2026.07.025",
-    "title": "Hierarchical regulation and molecular functions of co-transcriptional splicing.",
-    "sent_at": "2026-07-17T06:32:36.188768Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.16.738891",
     "title": "MEN1 deficiency establishes a selenite-dependent binary switch in ferroptosis",
     "sent_at": "2026-07-17T10:13:19.255879Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/pro.70726",
     "title": "De novo design of proteinaceous binders targeting the LEDGF PWWP domain.",
     "sent_at": "2026-07-23T17:48:23.494170Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.22.739830",
+    "title": "Weak interactions drive selective proteome demixing and tune the differential response to environmental perturbations",
+    "sent_at": "2026-07-23T19:47:00.849687Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fncel.2026.1854045",
+    "title": "Ethanol selectively disrupts neuronal microexon regulation and chromatin marks in PC12 cells.",
+    "sent_at": "2026-07-23T19:47:00.849687Z",
     "tier": 3,
     "kind": "journal"
   }
