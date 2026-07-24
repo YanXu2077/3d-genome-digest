@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738924",
-    "title": "DNA catenation is essential for Sister Chromatid Cohesion",
-    "sent_at": "2026-07-17T14:02:06.574758Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.16.738981",
-    "title": "Protein-based, live-cell PAINT microscopy with fluorogenic exchangeable HaloTag ligands",
-    "sent_at": "2026-07-17T15:27:43.489166Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.13.738242",
     "title": "A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation",
     "sent_at": "2026-07-17T17:25:58.851611Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/science.adv5434",
     "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease-linked transcription factor.",
     "sent_at": "2026-07-23T23:16:22.475342Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.02.10.637328",
+    "title": "Long-range genomic loci stochastically assemble into hierarchical chromosome structures",
+    "sent_at": "2026-07-24T03:39:41.832927Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/science.ady6893",
+    "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure.",
+    "sent_at": "2026-07-24T03:39:41.832927Z",
     "tier": 1,
     "kind": "journal"
   }
