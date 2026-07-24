@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.14.738581",
-    "title": "Regulatory mode and enhancer architecture determine limits of blood DNA methylation as a molecular proxy",
-    "sent_at": "2026-07-18T08:22:55.368062Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.devcel.2026.06.015",
-    "title": "Live imaging captures the events immediately following fertilization.",
-    "sent_at": "2026-07-18T08:22:55.368062Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.13.737346",
     "title": "Truncating ASXL1 variants rewire cellular metabolism via mitochondrial pyruvate carrier repression",
     "sent_at": "2026-07-18T09:48:20.569680Z",
@@ -557,6 +543,20 @@
     "title": "Metabolomic Insights into HCF-1-dependent Regulation of Liver Homeostasis.",
     "sent_at": "2026-07-24T15:59:45.232566Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.07.16.665231",
+    "title": "Human whole-epigenome modelling for clinical applications with Pleiades",
+    "sent_at": "2026-07-24T18:07:59.760144Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15476286.2026.2707734",
+    "title": "The Mediator complex: Co-transcriptional regulation and beyond.",
+    "sent_at": "2026-07-24T18:07:59.760144Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
