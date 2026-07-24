@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738963",
-    "title": "GW182 silencing domain engages the tristetraprolin-binding pocket of CNOT1 to recruit CNOT1 into multiprotein condensates",
-    "sent_at": "2026-07-18T06:19:40.798423Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.immuni.2026.06.022",
-    "title": "The transcription factor BACH1 couples chromatin priming and repression to enable macrophage plasticity and adaptation.",
-    "sent_at": "2026-07-18T06:19:40.798423Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.14.738581",
     "title": "Regulatory mode and enhancer architecture determine limits of blood DNA methylation as a molecular proxy",
     "sent_at": "2026-07-18T08:22:55.368062Z",
@@ -557,6 +543,20 @@
     "title": "Feeding the epigenome: EZH2 as a metabolic integrator of cell fate in development and cancer.",
     "sent_at": "2026-07-24T14:11:13.916108Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.08.735777",
+    "title": "Multi-omics profiling links epigenetic and lncRNA changes to early human endochondral ossification priming",
+    "sent_at": "2026-07-24T15:59:45.232566Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jceh.2026.103602",
+    "title": "Metabolomic Insights into HCF-1-dependent Regulation of Liver Homeostasis.",
+    "sent_at": "2026-07-24T15:59:45.232566Z",
+    "tier": 4,
     "kind": "journal"
   }
 ]
