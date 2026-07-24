@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.738242",
-    "title": "A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation",
-    "sent_at": "2026-07-17T17:25:58.851611Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.07.731387",
-    "title": "Deconvolving the spatiotemporal chromatin landscape through the cell cycle.",
-    "sent_at": "2026-07-17T17:25:58.851611Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.16.738943",
     "title": "Intranucleolar Invasion of Cajal Body Remnants Suppresses Ribosomal Biogenesis in cis and Telomerase Functions in trans",
     "sent_at": "2026-07-17T19:27:34.306925Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/science.ady6893",
     "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure.",
     "sent_at": "2026-07-24T03:39:41.832927Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.23.740373",
+    "title": "Integrating epigenomic features reveals principles of chromatin-state organization",
+    "sent_at": "2026-07-24T06:40:16.433734Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41569-026-01322-7",
+    "title": "The cardiac 4D nucleome: nuclear and chromatin dynamics across development, disease and ageing.",
+    "sent_at": "2026-07-24T06:40:16.433734Z",
     "tier": 1,
     "kind": "journal"
   }
