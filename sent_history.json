@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738923",
-    "title": "Nuclear acetyl-CoA production by acetyl-CoA synthetase enables dynamic histone acetylation and gene expression in Plasmodium falciparum",
-    "sent_at": "2026-07-18T11:20:52.329276Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.biochi.2026.07.006",
     "title": "Regulation of lipid metabolism by epigenetic mechanisms. Application to microalgae.",
     "sent_at": "2026-07-18T11:20:52.329276Z",
@@ -557,6 +550,13 @@
     "title": "Role of desolvation on biomolecular liquid-liquid phase separation",
     "sent_at": "2026-07-24T21:22:24.447991Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739817",
+    "title": "TRIM28 preserves ovarian identity by stabilising lineage-specific transcription factor hubs",
+    "sent_at": "2026-07-24T23:19:11.120165Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
