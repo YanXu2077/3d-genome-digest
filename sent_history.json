@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738760",
-    "title": "Massively parallel characterization and predictive modelling of neuronal regulatory variation",
-    "sent_at": "2026-07-18T03:27:38.550084Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1126/sciadv.aed5708",
-    "title": "PUM1 and PUM2 promote translation of chromatin regulators to ensure mammalian spermatogenesis.",
-    "sent_at": "2026-07-18T03:27:38.550084Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.16.738963",
     "title": "GW182 silencing domain engages the tristetraprolin-binding pocket of CNOT1 to recruit CNOT1 into multiprotein condensates",
     "sent_at": "2026-07-18T06:19:40.798423Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.molcel.2026.07.004",
     "title": "BRD4: From molecular understanding to therapeutics development.",
     "sent_at": "2026-07-24T12:12:05.921485Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740206",
+    "title": "Multidimensional variation and population stratification across 8000 complete human centromeres",
+    "sent_at": "2026-07-24T14:11:13.916108Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.mam.2026.101499",
+    "title": "Feeding the epigenome: EZH2 as a metabolic integrator of cell fate in development and cancer.",
+    "sent_at": "2026-07-24T14:11:13.916108Z",
     "tier": 3,
     "kind": "journal"
   }
