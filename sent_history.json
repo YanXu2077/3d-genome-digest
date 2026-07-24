@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739104",
-    "title": "Mechanically induced pre-mitotic nuclear deformations promote nuclear rupture through lamin B1 depletion",
-    "sent_at": "2026-07-17T21:12:24.310673Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2024.08.23.608811",
-    "title": "Oncometabolite-driven enhancer hypermethylation promotes a hyporesponsive microglial state in IDH-mutant gliomas",
-    "sent_at": "2026-07-17T23:07:11.898783Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.16.738760",
     "title": "Massively parallel characterization and predictive modelling of neuronal regulatory variation",
     "sent_at": "2026-07-18T03:27:38.550084Z",
@@ -557,6 +543,20 @@
     "title": "Single-cell chromatin state transitions during epigenetic memory formation.",
     "sent_at": "2026-07-24T10:33:01.483035Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.20.739560",
+    "title": "Programmed chromosome elimination correlates with the overexpression of cohesin and additional B chromosome-encoded genes in Aegilops speltoides",
+    "sent_at": "2026-07-24T12:12:05.921485Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.07.004",
+    "title": "BRD4: From molecular understanding to therapeutics development.",
+    "sent_at": "2026-07-24T12:12:05.921485Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
