@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.16.738943",
-    "title": "Intranucleolar Invasion of Cajal Body Remnants Suppresses Ribosomal Biogenesis in cis and Telomerase Functions in trans",
-    "sent_at": "2026-07-17T19:27:34.306925Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.04.736128",
-    "title": "TAOK3 inhibition constrains invasion, potentiates paclitaxel, and reprograms the tumor microenvironment toward anti-tumor immunity in cervical cancer.",
-    "sent_at": "2026-07-17T19:27:34.306925Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.17.739104",
     "title": "Mechanically induced pre-mitotic nuclear deformations promote nuclear rupture through lamin B1 depletion",
     "sent_at": "2026-07-17T21:12:24.310673Z",
@@ -557,6 +543,20 @@
     "title": "The cardiac 4D nucleome: nuclear and chromatin dynamics across development, disease and ageing.",
     "sent_at": "2026-07-24T06:40:16.433734Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.23.740258",
+    "title": "A fast 2C-induction method reveals a barrier role of SP2 for totipotency",
+    "sent_at": "2026-07-24T10:33:01.483035Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeb0060",
+    "title": "Single-cell chromatin state transitions during epigenetic memory formation.",
+    "sent_at": "2026-07-24T10:33:01.483035Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
