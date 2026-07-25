@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.15.732472",
-    "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
-    "sent_at": "2026-07-19T03:43:35.475520Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.10.29.685379",
     "title": "DNA branch migration across intact membranes powers an inside-out GPCR analog for lysis-free detection of intracellular RNA with on-membrane amplification",
     "sent_at": "2026-07-19T06:41:31.887897Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.24.740489",
     "title": "Identification of lipid specificity in membrane organizing protein complexes",
     "sent_at": "2026-07-25T17:17:05.960709Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.24.740048",
+    "title": "Efficient CRISPR/Cas9-mediated homology independent sequence replacement in vivo and non-dividing primary cells",
+    "sent_at": "2026-07-25T19:32:48.511503Z",
     "tier": 4,
     "kind": "preprint"
   }
