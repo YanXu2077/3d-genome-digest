@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.13.738089",
-    "title": "Hidden assumptions in nascent RNA sequencing pipelines define reproducibility states",
-    "sent_at": "2026-07-18T23:07:46.350198Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.06.15.732472",
     "title": "Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes",
     "sent_at": "2026-07-19T03:43:35.475520Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.21.739890",
     "title": "Optimized cryo-FIB milling strategy to generate thin, minimally damaged biological lamellae",
     "sent_at": "2026-07-25T15:43:40.077204Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.24.740489",
+    "title": "Identification of lipid specificity in membrane organizing protein complexes",
+    "sent_at": "2026-07-25T17:17:05.960709Z",
     "tier": 4,
     "kind": "preprint"
   }
