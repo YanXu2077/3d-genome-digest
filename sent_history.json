@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.08.736699",
-    "title": "Beyond Bisulfite Sequencing: Resolving 5-hmC with Nanopore Sequencing Unmasks the True-5mC Methylation Entropy Landscape",
-    "sent_at": "2026-07-18T15:13:21.490251Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.17.737701",
     "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
     "sent_at": "2026-07-18T17:13:05.088828Z",
@@ -557,6 +550,13 @@
     "title": "CRISPR-mediated centromere fission generates neo-chromosomes with distorted meiotic inheritance in Arabidopsis",
     "sent_at": "2026-07-25T06:32:35.160018Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.06.10.657924",
+    "title": "Biologically Informed Variational Inference Enables Interpretable Cell Phenotyping and Discovery",
+    "sent_at": "2026-07-25T10:02:33.306372Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
