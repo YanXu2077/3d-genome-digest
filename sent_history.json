@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.737701",
-    "title": "INTS6 loss of function disrupts transcriptional regulation in mild intellectual disability",
-    "sent_at": "2026-07-18T17:13:05.088828Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.17.739178",
     "title": "Mapping absolute membrane voltage using dynamic photocycle control",
     "sent_at": "2026-07-18T19:24:17.147447Z",
@@ -557,6 +550,13 @@
     "title": "Biologically Informed Variational Inference Enables Interpretable Cell Phenotyping and Discovery",
     "sent_at": "2026-07-25T10:02:33.306372Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.23.740352",
+    "title": "An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid",
+    "sent_at": "2026-07-25T11:26:52.160666Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
