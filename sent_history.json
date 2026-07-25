@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.10.737719",
-    "title": "Reconstructing sequence-grammar trajectories enables interpretable and tunable cis-regulatory element design",
-    "sent_at": "2026-07-18T13:48:10.622786Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.08.736699",
     "title": "Beyond Bisulfite Sequencing: Resolving 5-hmC with Nanopore Sequencing Unmasks the True-5mC Methylation Entropy Landscape",
     "sent_at": "2026-07-18T15:13:21.490251Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.22.739998",
     "title": "Lineage-specific regulation and RNA-associated functions of SATB1 in mature B-cells",
     "sent_at": "2026-07-25T03:36:10.297221Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.24.740321",
+    "title": "CRISPR-mediated centromere fission generates neo-chromosomes with distorted meiotic inheritance in Arabidopsis",
+    "sent_at": "2026-07-25T06:32:35.160018Z",
     "tier": 3,
     "kind": "preprint"
   }
