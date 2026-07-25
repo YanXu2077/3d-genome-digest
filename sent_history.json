@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739178",
-    "title": "Mapping absolute membrane voltage using dynamic photocycle control",
-    "sent_at": "2026-07-18T19:24:17.147447Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.16.738902",
     "title": "Fluorescence cross-correlation spectroscopy quantifies affinity, cooperativity, and kinetic stability in ternary protein complexes",
     "sent_at": "2026-07-18T21:06:54.570158Z",
@@ -557,6 +550,13 @@
     "title": "An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid",
     "sent_at": "2026-07-25T11:26:52.160666Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.23.739932",
+    "title": "FMRP prevents Me31B/DDX6-associated repression of long neurodevelopmental mRNAs",
+    "sent_at": "2026-07-25T14:02:50.983538Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
