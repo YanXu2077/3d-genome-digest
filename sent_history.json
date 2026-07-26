@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.19.726053",
-    "title": "Lifestyles of Gypsy-family transposons shape their regulatory mechanisms",
-    "sent_at": "2026-07-19T11:20:03.130561Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.13.738265",
-    "title": "scWeave: A deep learning model that bidirectionally translates between gene expression and chromatin structure at single cell resolution",
-    "sent_at": "2026-07-19T13:46:46.624600Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.17.739277",
     "title": "Direct detection of alternative DNA conformations with long-read sequencing and machine learning approaches",
     "sent_at": "2026-07-19T15:08:49.935133Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-26T03:50:07.875158Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.03.03.708097",
+    "title": "Endosome motility controls light-responsive reproductive development and secondary metabolite production in Aspergillus",
+    "sent_at": "2026-07-26T06:48:28.423953Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.phymed.2026.158630",
+    "title": "Bruceine A ameliorates hepatic steatosis and oxidative stress in alcoholic liver disease by activating Farnesoid X receptor to upregulate forkhead box A2 expression.",
+    "sent_at": "2026-07-26T06:48:28.423953Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
