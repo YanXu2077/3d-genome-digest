@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.06.736651",
-    "title": "LeafRank: A phylodynamic framework for inferring relative fitness from single-cell phylogenies in chromosomally unstable tumors",
-    "sent_at": "2026-07-19T19:23:13.673843Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.17.739187",
     "title": "Cooperativity and Conformational Rearrangements in Protein-Protein and Protein-Ligand Interactions",
     "sent_at": "2026-07-19T21:05:33.791737Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.21.739902",
     "title": "Intracellular pathogen targeting by IL32 elicits cell-autonomous immunity",
     "sent_at": "2026-07-26T11:47:10.089260Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740205",
+    "title": "Anti-Z-NA antibodies can distinguish accessible Z-form states across DNA, RNA, and DNA-RNA substrates",
+    "sent_at": "2026-07-26T13:50:27.245391Z",
     "tier": 4,
     "kind": "preprint"
   }
