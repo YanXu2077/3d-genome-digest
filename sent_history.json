@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/s00709-026-02248-0",
-    "title": "Rapid chromosome movements persist within nuclear protrusions in Arabidopsis thaliana meiocytes.",
-    "sent_at": "2026-07-20T07:24:22.523335Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.17.738698",
     "title": "ORC binding to Heterochromatin Protein 1 through intrinsically disordered regions is required for heterochromatin structure and function",
     "sent_at": "2026-07-20T11:12:29.268229Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2023.10.17.562748",
     "title": "Biomolecular Resolution as a Quantification of Structural Information Content",
     "sent_at": "2026-07-26T21:09:29.284261Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.28.702352",
+    "title": "PLCβs are recruited to the plasma membrane in macrophages by both Gβγ and Gαq",
+    "sent_at": "2026-07-26T23:09:41.660406Z",
     "tier": 4,
     "kind": "preprint"
   }
