@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739277",
-    "title": "Direct detection of alternative DNA conformations with long-read sequencing and machine learning approaches",
-    "sent_at": "2026-07-19T15:08:49.935133Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.14.738159",
     "title": "Genomic insights into the karyotypic radiation of a narrow endemic holocentric plant Carex helodes",
     "sent_at": "2026-07-19T17:12:54.931185Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-26T06:48:28.423953Z",
     "tier": 4,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740083",
+    "title": "A Germinal Center-Independent Innate-Like Memory B Cell Compartment of B1 Origin",
+    "sent_at": "2026-07-26T10:12:00.028953Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
