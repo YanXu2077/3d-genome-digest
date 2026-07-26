@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.08.05.668773",
-    "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
-    "sent_at": "2026-07-19T23:04:47.419202Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.17.739177",
     "title": "LiFT: Live foci tracking for quantitative analysis of DNA damage dynamics",
     "sent_at": "2026-07-20T03:57:29.653995Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2025.02.25.639997",
     "title": "deepthought: the microscopy acquisition stack as an object of study",
     "sent_at": "2026-07-26T15:16:10.289121Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.23.740440",
+    "title": "Identification of the Down syndrome critical region 3 gene as a mammalian cell size regulator",
+    "sent_at": "2026-07-26T17:14:48.275069Z",
     "tier": 4,
     "kind": "preprint"
   }
