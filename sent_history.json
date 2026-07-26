@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739187",
-    "title": "Cooperativity and Conformational Rearrangements in Protein-Protein and Protein-Ligand Interactions",
-    "sent_at": "2026-07-19T21:05:33.791737Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.08.05.668773",
     "title": "Genome-wide chromatin recording resolves dynamic cell state changes",
     "sent_at": "2026-07-19T23:04:47.419202Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.22.740205",
     "title": "Anti-Z-NA antibodies can distinguish accessible Z-form states across DNA, RNA, and DNA-RNA substrates",
     "sent_at": "2026-07-26T13:50:27.245391Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.02.25.639997",
+    "title": "deepthought: the microscopy acquisition stack as an object of study",
+    "sent_at": "2026-07-26T15:16:10.289121Z",
     "tier": 4,
     "kind": "preprint"
   }
