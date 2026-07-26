@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739177",
-    "title": "LiFT: Live foci tracking for quantitative analysis of DNA damage dynamics",
-    "sent_at": "2026-07-20T03:57:29.653995Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.01.23.634550",
     "title": "Combined effects of Ret coding and enhancer loss-of-function alleles cause progressive loss of inhibitory motor neurons in the enteric nervous system",
     "sent_at": "2026-07-20T07:24:22.523335Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.23.740440",
     "title": "Identification of the Down syndrome critical region 3 gene as a mammalian cell size regulator",
     "sent_at": "2026-07-26T17:14:48.275069Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.21.739736",
+    "title": "Phenotype-driven de novo molecular design from gene expression signatures",
+    "sent_at": "2026-07-26T19:27:22.121867Z",
     "tier": 4,
     "kind": "preprint"
   }
