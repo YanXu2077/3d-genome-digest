@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.15.738670",
-    "title": "Uhrf1 loss disrupts Ctcf-associated chromatin organization during early mouse embryogenesis",
-    "sent_at": "2026-07-20T23:13:34.472335Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.15.733834",
-    "title": "Allele-specific chromatin modifications of HPV-associated extrachromosomal DNAs in cervical cancer",
-    "sent_at": "2026-07-21T03:38:30.447638Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.20.739429",
     "title": "Chromosome topology gates productive RecA homology search",
     "sent_at": "2026-07-21T06:44:02.304199Z",
@@ -557,6 +543,20 @@
     "title": "Probing Centromere Plasticity and Chromatin Remodeling Using Single-Molecule Techniques.",
     "sent_at": "2026-07-27T17:55:25.615771Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.27.740934",
+    "title": "Genome-wide multi-layered epigenomic profiling across human aging",
+    "sent_at": "2026-07-27T19:52:27.980963Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.76753",
+    "title": "Integrated Single-Nucleus Multi-Omics Atlases Reveal Lineage Plasticity and Regulatory Networks of Luminal Epithelial Cells During Mammary Gland Lactation and Involution.",
+    "sent_at": "2026-07-27T19:52:27.980963Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
