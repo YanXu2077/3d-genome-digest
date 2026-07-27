@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.103955",
-    "title": "Cluster size determines internal structure of transcription factories in human cells.",
-    "sent_at": "2026-07-20T18:15:59.849125Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.18.739353",
     "title": "FOXO/DAF-16 modulates the transcription factor ROR/NHR-23 and inhibits the let-7 microRNA to maintain multipotency during dauer",
     "sent_at": "2026-07-20T20:09:47.665909Z",
@@ -557,6 +550,13 @@
     "title": "Rapid motility arrest of the Lyme disease spirochete, Borrelia burgdorferi, by vaccine-induced OspA antibodies",
     "sent_at": "2026-07-27T11:37:02.960699Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.24.740199",
+    "title": "Multi-channel high-density single-molecule localization",
+    "sent_at": "2026-07-27T15:12:43.114084Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
