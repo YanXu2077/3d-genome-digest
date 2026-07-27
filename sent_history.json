@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.17.739209",
-    "title": "Structure-guided targeting of the GATAD2A-CHD4 interaction within the MBD2-NuRD complex results in high levels of HbF in adult erythroid cells",
-    "sent_at": "2026-07-20T14:31:05.999711Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.18.739350",
     "title": "Single-cell analysis of chromatin accessibility and gene expression in Drosophila melanogaster embryos following hypoxia treatment",
     "sent_at": "2026-07-20T18:15:59.849125Z",
@@ -557,6 +550,13 @@
     "title": "Pansoma, a machine learning tool for identifying somatic variants using pangenome graphs",
     "sent_at": "2026-07-27T03:58:37.532629Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.22.737064",
+    "title": "Transcription-dependent heterochromatin at the Xist promoter shapes the random choice of the inactive X chromosome",
+    "sent_at": "2026-07-27T07:48:44.841490Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
