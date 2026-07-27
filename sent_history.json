@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.18.739353",
-    "title": "FOXO/DAF-16 modulates the transcription factor ROR/NHR-23 and inhibits the let-7 microRNA to maintain multipotency during dauer",
-    "sent_at": "2026-07-20T20:09:47.665909Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/2024.10.24.619766",
-    "title": "CpGPT: a Foundation Model for DNA Methylation",
-    "sent_at": "2026-07-20T21:44:31.414602Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.15.738670",
     "title": "Uhrf1 loss disrupts Ctcf-associated chromatin organization during early mouse embryogenesis",
     "sent_at": "2026-07-20T23:13:34.472335Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-27T15:12:43.114084Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.23.740410",
+    "title": "Divergent Pathogenic PR-DUB Complex Variants Converge Functionally Via PRC2 Displacement From Chromatin",
+    "sent_at": "2026-07-27T17:55:25.615771Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/cbin.70189",
+    "title": "Probing Centromere Plasticity and Chromatin Remodeling Using Single-Molecule Techniques.",
+    "sent_at": "2026-07-27T17:55:25.615771Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
