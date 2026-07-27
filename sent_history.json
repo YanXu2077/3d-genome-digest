@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.20.739429",
-    "title": "Chromosome topology gates productive RecA homology search",
-    "sent_at": "2026-07-21T06:44:02.304199Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.arr.2026.103268",
     "title": "Epigenetic Mechanisms Shaping Cytoskeleton Dynamics in Cardiovascular Diseases.",
     "sent_at": "2026-07-21T06:44:02.304199Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-27T19:52:27.980963Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.1101/2025.04.10.648303",
+    "title": "Cep57 is a cohesin-associated regulator of chromosome segregation, cell cycle progression and genome stability in early embryos",
+    "sent_at": "2026-07-27T21:24:54.122789Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
