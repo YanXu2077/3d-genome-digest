@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.arr.2026.103268",
-    "title": "Epigenetic Mechanisms Shaping Cytoskeleton Dynamics in Cardiovascular Diseases.",
-    "sent_at": "2026-07-21T06:44:02.304199Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.17.739237",
-    "title": "Architectural chromatin interactions provide a framework for context-dependent gene regulation",
-    "sent_at": "2026-07-21T10:37:44.842960Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.18.739380",
     "title": "Comprehensive landscape of potential CTCF-binding sites across the complete telomere-to-telomere human genome",
     "sent_at": "2026-07-21T14:18:06.597825Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-27T21:24:54.122789Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.22.740094",
+    "title": "Hierarchical Transcriptomic and Epigenetic Recovery and Remodeling in the Developing Hippocampus Following Early-life Environmental Insults: An Iron Deficiency Rat Model",
+    "sent_at": "2026-07-27T23:21:23.658141Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.pcbi.1014557",
+    "title": "Deciphering chromatin architecture and dynamics in Plasmodium falciparum using the nucDetective pipeline.",
+    "sent_at": "2026-07-27T23:21:23.658141Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
