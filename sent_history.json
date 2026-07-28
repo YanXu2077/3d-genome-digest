@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1111/jnc.70524",
-    "title": "Early Hypo-Osmolar Stress Regulates Astrocyte Reactivity After Brain Injury: \"New Insights Into Glial Response to Edema\".",
-    "sent_at": "2026-07-21T17:45:04.775543Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.15.738623",
-    "title": "High-resolution single-molecule replication profiling of the human genome",
-    "sent_at": "2026-07-21T19:51:38.338069Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.15.738754",
     "title": "Easy-Multiome enables joint profiling of gene expression and chromatin accessibility in single cells",
     "sent_at": "2026-07-21T21:30:00.742116Z",
@@ -557,6 +543,20 @@
     "title": "Cancer stem cells are hyper-responsive sensors of the tumour microenvironment and regulate metastasis dynamics through YAP/TAZ.",
     "sent_at": "2026-07-28T06:40:26.236710Z",
     "tier": 4,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.01.29.702647",
+    "title": "H4K20me3 and CTCF act reciprocally at TAD boundaries to regulate cell state transitions",
+    "sent_at": "2026-07-28T10:48:19.799150Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biom16070999",
+    "title": "8oxoG:A Is Structurally Accommodated in the Nucleosome Core Particle, Yet Inaccessible to MUTYH-Initiated DNA Repair.",
+    "sent_at": "2026-07-28T10:48:19.799150Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
