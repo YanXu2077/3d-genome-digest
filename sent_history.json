@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.04.07.647578",
-    "title": "Enhancer binding kinetics explain transcription factor hub formation",
-    "sent_at": "2026-07-22T03:39:51.102534Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.21.739714",
-    "title": "3D genome remodelling underlies PU.1-dependent granulocyte maturation",
-    "sent_at": "2026-07-22T06:42:46.311256Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.16.739007",
     "title": "Reversing aging-like 3D genome disorganization in a Drosophila interphase model",
     "sent_at": "2026-07-22T10:38:59.926843Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/biom16070980",
     "title": "HDAC3 as an Immunometabolic Rheostat: Molecular Mechanisms of Deacylation Plasticity, Lactylation Dynamics, and Spatiotemporal Regulation.",
     "sent_at": "2026-07-28T14:33:53.135148Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.13.738302",
+    "title": "Targeted ATAC-see (tATAC-see): A Visual Assay for Target-Specific Chromatin Profiling",
+    "sent_at": "2026-07-28T17:50:41.695558Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27146282",
+    "title": "Epigenetic Landscape of H3K27ac, H3K27me3, H3K4me1, and H3K4me3 Marks in Channel Catfish Following Βeta Glucan Exposure.",
+    "sent_at": "2026-07-28T17:50:41.695558Z",
     "tier": 3,
     "kind": "journal"
   }
