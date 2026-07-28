@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.18.739380",
-    "title": "Comprehensive landscape of potential CTCF-binding sites across the complete telomere-to-telomere human genome",
-    "sent_at": "2026-07-21T14:18:06.597825Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.20.737372",
     "title": "Termination dynamics set RNAPII elongation rate and gate the response to CDK12 inactivation",
     "sent_at": "2026-07-21T16:09:29.727430Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-27T23:21:23.658141Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.26.740636",
+    "title": "ZHP-2/HEI10 generates CO precursors and triggers procrossover factor coarsening and CO formation through Polo kinase recruitment",
+    "sent_at": "2026-07-28T03:33:25.109590Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
