@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.20.737372",
-    "title": "Termination dynamics set RNAPII elongation rate and gate the response to CDK12 inactivation",
-    "sent_at": "2026-07-21T16:09:29.727430Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.02.07.704075",
-    "title": "An Integrative Single-Cell Epigenomic Atlas Annotates the Regulatory Genome of the Adult Mouse Brain",
-    "sent_at": "2026-07-21T17:45:04.775543Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1111/jnc.70524",
     "title": "Early Hypo-Osmolar Stress Regulates Astrocyte Reactivity After Brain Injury: \"New Insights Into Glial Response to Edema\".",
     "sent_at": "2026-07-21T17:45:04.775543Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-07-28T03:33:25.109590Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.02.21.639010",
+    "title": "Non-catalytic role for MLL2 in controlling chromatin organisation and mobility during priming of pluripotent cells for differentiation",
+    "sent_at": "2026-07-28T06:40:26.236710Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41556-026-02013-8",
+    "title": "Cancer stem cells are hyper-responsive sensors of the tumour microenvironment and regulate metastasis dynamics through YAP/TAZ.",
+    "sent_at": "2026-07-28T06:40:26.236710Z",
+    "tier": 4,
+    "kind": "journal"
   }
 ]
