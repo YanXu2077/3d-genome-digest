@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.15.738754",
-    "title": "Easy-Multiome enables joint profiling of gene expression and chromatin accessibility in single cells",
-    "sent_at": "2026-07-21T21:30:00.742116Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.20.739476",
-    "title": "Characterization of Chromatin-Associated Circular RNAs (cacRNAs)",
-    "sent_at": "2026-07-21T23:15:36.645985Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.04.07.647578",
     "title": "Enhancer binding kinetics explain transcription factor hub formation",
     "sent_at": "2026-07-22T03:39:51.102534Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/biom16070999",
     "title": "8oxoG:A Is Structurally Accommodated in the Nucleosome Core Particle, Yet Inaccessible to MUTYH-Initiated DNA Repair.",
     "sent_at": "2026-07-28T10:48:19.799150Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.26.740821",
+    "title": "Drosophila co-insulator proteins Pzg and Chro but not CP190 interact with promoter-proximal insulator-binding protein BEAF from a distance",
+    "sent_at": "2026-07-28T14:33:53.135148Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biom16070980",
+    "title": "HDAC3 as an Immunometabolic Rheostat: Molecular Mechanisms of Deacylation Plasticity, Lactylation Dynamics, and Spatiotemporal Regulation.",
+    "sent_at": "2026-07-28T14:33:53.135148Z",
     "tier": 3,
     "kind": "journal"
   }
