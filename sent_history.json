@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.20.739632",
-    "title": "Human antibody heavy chain variable region exon interacts with 3' regulatory region to form a stable somatic hypermutation center",
-    "sent_at": "2026-07-23T03:41:23.472172Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.21.739884",
     "title": "Bacterial RNA polymerase exemplifies a general physical mechanism for accelerating protein-DNA association",
     "sent_at": "2026-07-23T06:43:15.561443Z",
@@ -557,6 +550,13 @@
     "title": "Enhancer buffering protects dosage-sensitive housekeeping genes during vulnerable developmental transitions",
     "sent_at": "2026-07-30T10:37:12.525750Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.01.31.702994",
+    "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
+    "sent_at": "2026-07-30T14:31:28.080645Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
