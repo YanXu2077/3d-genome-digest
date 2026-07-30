@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.21.739918",
-    "title": "Nuclear size and physical properties of the nucleoplasm are determined by colloid osmotic pressure at the nuclear envelope",
-    "sent_at": "2026-07-23T14:30:34.145279Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/2211-5463.70316",
     "title": "Dual native G-quadruplex folding is associated with chromatin looping at the MYC locus.",
     "sent_at": "2026-07-23T14:30:34.145279Z",
@@ -557,6 +550,13 @@
     "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions",
     "sent_at": "2026-07-30T21:23:18.188371Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.740154",
+    "title": "Chaperone condensates buffer the heat shock response against pleiotropic inputs",
+    "sent_at": "2026-07-30T23:21:27.810368Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
