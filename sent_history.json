@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.devcel.2026.06.016",
-    "title": "Molecular dynamics driving phenotypic divergence among KRAS mutants in pancreatic tumorigenesis.",
-    "sent_at": "2026-07-22T19:46:30.643680Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.21.739850",
     "title": "A conserved mechanism for targeted cohesin loading organises specialised chromosomal domains",
     "sent_at": "2026-07-22T21:21:06.088158Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-07-30T00:24:07.693778Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.01.735884",
+    "title": "Endogenous single-cell experiments and stochastic modeling reveal control mechanisms of glucocorticoid receptor dynamics and DUSP1 transcription",
+    "sent_at": "2026-07-30T03:21:36.224257Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
