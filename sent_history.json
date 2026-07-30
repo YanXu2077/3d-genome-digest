@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.21.739884",
-    "title": "Bacterial RNA polymerase exemplifies a general physical mechanism for accelerating protein-DNA association",
-    "sent_at": "2026-07-23T06:43:15.561443Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.04.16.648998",
     "title": "Cell type-specific epigenomic variation and its association with genotype in the human breast",
     "sent_at": "2026-07-23T10:40:18.590527Z",
@@ -557,6 +550,13 @@
     "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
     "sent_at": "2026-07-30T14:31:28.080645Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741533",
+    "title": "Developmental expression of the skeletal muscle determination gene, MyoD, is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region",
+    "sent_at": "2026-07-30T17:50:05.901643Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
