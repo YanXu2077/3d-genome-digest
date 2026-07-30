@@ -39,6 +39,11 @@ KEYWORDS = [
     '"transcription factor"[TIAB] AND "dynamics"[TIAB]',
     '"enhancer-promoter"[TIAB]',
     '"polymer model"[TIAB] AND "chromatin"[TIAB]',
+    # Paired accessibility + 3D genome. Requires BOTH sides, so pure-ATAC papers
+    # are not pulled in — only studies with matched assays in the same system.
+    '("ATAC-seq"[TIAB] OR "ATAC"[TIAB] OR "scATAC"[TIAB] OR "DNase-seq"[TIAB] OR "chromatin accessibility"[TIAB])'
+    ' AND ("Hi-C"[TIAB] OR "Micro-C"[TIAB] OR "HiChIP"[TIAB] OR "Capture-C"[TIAB]'
+    ' OR "chromosome conformation"[TIAB] OR "3D genome"[TIAB] OR "contact map"[TIAB])',
 ]
 
 
