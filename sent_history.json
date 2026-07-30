@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.04.16.648998",
-    "title": "Cell type-specific epigenomic variation and its association with genotype in the human breast",
-    "sent_at": "2026-07-23T10:40:18.590527Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s13059-026-04178-9",
     "title": "Decoding 3D chromatin architecture reveals distinct enhancer classes underlying hierarchical gene regulation in prostate cancer.",
     "sent_at": "2026-07-23T10:40:18.590527Z",
@@ -557,6 +550,13 @@
     "title": "Developmental expression of the skeletal muscle determination gene, MyoD, is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region",
     "sent_at": "2026-07-30T17:50:05.901643Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741030",
+    "title": "NFYA regulates spermatogenesis through multifaceted chromatin interactions",
+    "sent_at": "2026-07-30T19:53:11.586629Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
