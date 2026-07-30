@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.21.739850",
-    "title": "A conserved mechanism for targeted cohesin loading organises specialised chromosomal domains",
-    "sent_at": "2026-07-22T21:21:06.088158Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.21.739721",
     "title": "Active histone modifications fine-tune DNA N-6 methyladenine deposition and maintain transcriptional stability",
     "sent_at": "2026-07-22T23:19:39.016522Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.01.735884",
     "title": "Endogenous single-cell experiments and stochastic modeling reveal control mechanisms of glucocorticoid receptor dynamics and DUSP1 transcription",
     "sent_at": "2026-07-30T03:21:36.224257Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.26.740854",
+    "title": "Histone methyltransferase MET-2 differentially regulates autosome and X-chromosome structure and transcription during meiosis in C. elegans",
+    "sent_at": "2026-07-30T06:40:33.809296Z",
     "tier": 3,
     "kind": "preprint"
   }
