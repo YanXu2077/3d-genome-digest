@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1186/s13059-026-04178-9",
-    "title": "Decoding 3D chromatin architecture reveals distinct enhancer classes underlying hierarchical gene regulation in prostate cancer.",
-    "sent_at": "2026-07-23T10:40:18.590527Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.21.739918",
     "title": "Nuclear size and physical properties of the nucleoplasm are determined by colloid osmotic pressure at the nuclear envelope",
     "sent_at": "2026-07-23T14:30:34.145279Z",
@@ -557,6 +550,13 @@
     "title": "NFYA regulates spermatogenesis through multifaceted chromatin interactions",
     "sent_at": "2026-07-30T19:53:11.586629Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.19.695003",
+    "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions",
+    "sent_at": "2026-07-30T21:23:18.188371Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
