@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.21.739721",
-    "title": "Active histone modifications fine-tune DNA N-6 methyladenine deposition and maintain transcriptional stability",
-    "sent_at": "2026-07-22T23:19:39.016522Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.20.739632",
     "title": "Human antibody heavy chain variable region exon interacts with 3' regulatory region to form a stable somatic hypermutation center",
     "sent_at": "2026-07-23T03:41:23.472172Z",
@@ -557,6 +550,13 @@
     "title": "Histone methyltransferase MET-2 differentially regulates autosome and X-chromosome structure and transcription during meiosis in C. elegans",
     "sent_at": "2026-07-30T06:40:33.809296Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741571",
+    "title": "Enhancer buffering protects dosage-sensitive housekeeping genes during vulnerable developmental transitions",
+    "sent_at": "2026-07-30T10:37:12.525750Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
