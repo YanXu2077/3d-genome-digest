@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s00249-026-01859-y",
-    "title": "Protein arginine methyltransferases as regulators of phase separation: implications in cancer and neurodegenerative diseases.",
-    "sent_at": "2026-07-22T17:41:06.199511Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.20.739707",
-    "title": "Single-molecule nanopore-tweezers analysis of transcription elongation by intact and \"stalk-less\" yeast RNA polymerase II",
-    "sent_at": "2026-07-22T19:46:30.643680Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.devcel.2026.06.016",
     "title": "Molecular dynamics driving phenotypic divergence among KRAS mutants in pancreatic tumorigenesis.",
     "sent_at": "2026-07-22T19:46:30.643680Z",
@@ -557,6 +543,20 @@
     "title": "Context-dependent YEATS-domain inhibition enhances neuronal resilience and improves ALS phenotypes.",
     "sent_at": "2026-07-28T21:25:39.326997Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741367",
+    "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons",
+    "sent_at": "2026-07-30T00:24:07.693778Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.12.738087",
+    "title": "A hierarchy of spatial confinements governs chromatin dynamics and genomic encounters.",
+    "sent_at": "2026-07-30T00:24:07.693778Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
