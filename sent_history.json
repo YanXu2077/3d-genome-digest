@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/science.adv5434",
-    "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease-linked transcription factor.",
-    "sent_at": "2026-07-23T23:16:22.475342Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.02.10.637328",
     "title": "Long-range genomic loci stochastically assemble into hierarchical chromosome structures",
     "sent_at": "2026-07-24T03:39:41.832927Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.29.741448",
     "title": "Single-cell lineage tracing of human neuromesoderm organoids reveals TBX6-mediated posterior mesoderm fate diversification",
     "sent_at": "2026-07-31T21:23:48.397876Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.27.741006",
+    "title": "A comprehensive HA-tagged PRC1 toolkit enables standardized chromatin profiling and proteomic analysis in Drosophila melanogaster",
+    "sent_at": "2026-07-31T23:19:36.045744Z",
     "tier": 3,
     "kind": "preprint"
   }
