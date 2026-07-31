@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.18.739304",
-    "title": "Using Deep Learning to predict replication timing reveals baseline control of genomic DNA sequence",
-    "sent_at": "2026-07-23T23:16:22.475342Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/science.adv5434",
     "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease-linked transcription factor.",
     "sent_at": "2026-07-23T23:16:22.475342Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741638",
     "title": "Structural determination of human nucleosomes reconstituted by the ExACT platform",
     "sent_at": "2026-07-31T19:59:22.411997Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741448",
+    "title": "Single-cell lineage tracing of human neuromesoderm organoids reveals TBX6-mediated posterior mesoderm fate diversification",
+    "sent_at": "2026-07-31T21:23:48.397876Z",
     "tier": 3,
     "kind": "preprint"
   }
