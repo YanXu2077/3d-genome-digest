@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3389/fncel.2026.1854045",
-    "title": "Ethanol selectively disrupts neuronal microexon regulation and chromatin marks in PC12 cells.",
-    "sent_at": "2026-07-23T19:47:00.849687Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.22.740058",
     "title": "The chaperone Jjj2 regulates nucleoporin condensation in budding yeast",
     "sent_at": "2026-07-23T21:24:50.189359Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2025.11.25.690435",
     "title": "Chromatin priming and Hunchback recruitment integrate spatial and temporal cues in Drosophila neuroblasts",
     "sent_at": "2026-07-31T14:35:41.245096Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2025.12.08.693082",
+    "title": "HS-AFM Reveals Hierarchical RNA Folding Driving Condensate Assembly and Material States",
+    "sent_at": "2026-07-31T18:04:57.876640Z",
     "tier": 2,
     "kind": "preprint"
   }
