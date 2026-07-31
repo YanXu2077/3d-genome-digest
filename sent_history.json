@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/pro.70726",
-    "title": "De novo design of proteinaceous binders targeting the LEDGF PWWP domain.",
-    "sent_at": "2026-07-23T17:48:23.494170Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.22.739830",
     "title": "Weak interactions drive selective proteome demixing and tune the differential response to environmental perturbations",
     "sent_at": "2026-07-23T19:47:00.849687Z",
@@ -557,6 +550,13 @@
     "title": "Tunable kinetic destabilization governs RNA polymerase passage through a DNA-bound transcription factor",
     "sent_at": "2026-07-31T06:57:08.690968Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741242",
+    "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue",
+    "sent_at": "2026-07-31T10:52:47.474234Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
