@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.740058",
-    "title": "The chaperone Jjj2 regulates nucleoporin condensation in budding yeast",
-    "sent_at": "2026-07-23T21:24:50.189359Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.18.739304",
     "title": "Using Deep Learning to predict replication timing reveals baseline control of genomic DNA sequence",
     "sent_at": "2026-07-23T23:16:22.475342Z",
@@ -557,6 +550,13 @@
     "title": "HS-AFM Reveals Hierarchical RNA Folding Driving Condensate Assembly and Material States",
     "sent_at": "2026-07-31T18:04:57.876640Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741638",
+    "title": "Structural determination of human nucleosomes reconstituted by the ExACT platform",
+    "sent_at": "2026-07-31T19:59:22.411997Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
