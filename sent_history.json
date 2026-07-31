@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/2211-5463.70316",
-    "title": "Dual native G-quadruplex folding is associated with chromatin looping at the MYC locus.",
-    "sent_at": "2026-07-23T14:30:34.145279Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.22.740070",
     "title": "Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar",
     "sent_at": "2026-07-23T17:48:23.494170Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.740154",
     "title": "Chaperone condensates buffer the heat shock response against pleiotropic inputs",
     "sent_at": "2026-07-30T23:21:27.810368Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.11.17.686592",
+    "title": "Dynamics of TFIIH and Spt4/5 during the transition from transcription initiation to elongation",
+    "sent_at": "2026-07-31T03:48:08.510039Z",
     "tier": 2,
     "kind": "preprint"
   }
