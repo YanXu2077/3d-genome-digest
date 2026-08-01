@@ -69,7 +69,12 @@ def main():
     papers = [p for p in papers if p.get("date") in keep_dates]
 
     slim = []
+    skipped_revisions = 0
     for p in papers:
+        # v1 only — a revision landing in the window is not new work.
+        if str(p.get("version", "1")).strip() != "1":
+            skipped_revisions += 1
+            continue
         cat = (p.get("category") or "").lower()
         if cat and cat not in KEEP_CATEGORIES:
             continue
@@ -85,7 +90,8 @@ def main():
         })
 
     out = {"window_utc": [date_from, date_to], "count": len(slim), "papers": slim}
-    print(f"Fetched {len(papers)} in window, kept {len(slim)} after category filter", file=sys.stderr)
+    print(f"Fetched {len(papers)} in window, dropped {skipped_revisions} non-v1, "
+          f"kept {len(slim)} after category filter", file=sys.stderr)
     json.dump(out, sys.stdout, ensure_ascii=False, indent=2)
 
 
