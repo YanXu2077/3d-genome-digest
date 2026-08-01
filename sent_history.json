@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.02.10.637328",
-    "title": "Long-range genomic loci stochastically assemble into hierarchical chromosome structures",
-    "sent_at": "2026-07-24T03:39:41.832927Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/science.ady6893",
     "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure.",
     "sent_at": "2026-07-24T03:39:41.832927Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.27.741006",
     "title": "A comprehensive HA-tagged PRC1 toolkit enables standardized chromatin profiling and proteomic analysis in Drosophila melanogaster",
     "sent_at": "2026-07-31T23:19:36.045744Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741771",
+    "title": "Targeting the NuRD Component, CHD4, Impairs Foxp3+ Treg Cell Production and Function and Promotes Anti-Tumor Immunity",
+    "sent_at": "2026-08-01T03:48:51.094874Z",
     "tier": 3,
     "kind": "preprint"
   }
