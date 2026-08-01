@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740258",
-    "title": "A fast 2C-induction method reveals a barrier role of SP2 for totipotency",
-    "sent_at": "2026-07-24T10:33:01.483035Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aeb0060",
     "title": "Single-cell chromatin state transitions during epigenetic memory formation.",
     "sent_at": "2026-07-24T10:33:01.483035Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.31.741769",
     "title": "Competing Molecular Interactions Govern the Dynamical Arrest of G3BP1 Condensates",
     "sent_at": "2026-08-01T11:46:40.464910Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741182",
+    "title": "Circulating Cell-Free Chromatin Particles Trigger a Unique Biphasic STING Signaling Program that Drives DNA Damage and Inflammation",
+    "sent_at": "2026-08-01T13:50:24.970192Z",
     "tier": 4,
     "kind": "preprint"
   }
