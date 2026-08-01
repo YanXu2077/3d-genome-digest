@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.07.004",
-    "title": "BRD4: From molecular understanding to therapeutics development.",
-    "sent_at": "2026-07-24T12:12:05.921485Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.22.740206",
     "title": "Multidimensional variation and population stratification across 8000 complete human centromeres",
     "sent_at": "2026-07-24T14:11:13.916108Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741946",
     "title": "ATP-Free Fatty Aldehyde Biosynthesis Enables an Autonomous Lux-Based Bioluminescence System",
     "sent_at": "2026-08-01T17:16:42.515275Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741836",
+    "title": "Spindle Assembly Checkpoint Competency Determines Sensitivity to KIF18A Inhibition in Small-Cell Lung Cancer",
+    "sent_at": "2026-08-01T19:29:26.552565Z",
     "tier": 4,
     "kind": "preprint"
   }
