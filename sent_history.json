@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/science.ady6893",
-    "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure.",
-    "sent_at": "2026-07-24T03:39:41.832927Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.23.740373",
     "title": "Integrating epigenomic features reveals principles of chromatin-state organization",
     "sent_at": "2026-07-24T06:40:16.433734Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741771",
     "title": "Targeting the NuRD Component, CHD4, Impairs Foxp3+ Treg Cell Production and Function and Promotes Anti-Tumor Immunity",
     "sent_at": "2026-08-01T03:48:51.094874Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.10.737660",
+    "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
+    "sent_at": "2026-08-01T06:42:30.023224Z",
     "tier": 3,
     "kind": "preprint"
   }
