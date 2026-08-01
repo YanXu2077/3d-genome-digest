@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.20.739560",
-    "title": "Programmed chromosome elimination correlates with the overexpression of cohesin and additional B chromosome-encoded genes in Aegilops speltoides",
-    "sent_at": "2026-07-24T12:12:05.921485Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.07.004",
     "title": "BRD4: From molecular understanding to therapeutics development.",
     "sent_at": "2026-07-24T12:12:05.921485Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741939",
     "title": "Reconstructing whole-organism cell phylogenies with resolved ancestral transcriptional states",
     "sent_at": "2026-08-01T15:15:39.675668Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741946",
+    "title": "ATP-Free Fatty Aldehyde Biosynthesis Enables an Autonomous Lux-Based Bioluminescence System",
+    "sent_at": "2026-08-01T17:16:42.515275Z",
     "tier": 4,
     "kind": "preprint"
   }
