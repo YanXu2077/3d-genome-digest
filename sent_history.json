@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeb0060",
-    "title": "Single-cell chromatin state transitions during epigenetic memory formation.",
-    "sent_at": "2026-07-24T10:33:01.483035Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.20.739560",
     "title": "Programmed chromosome elimination correlates with the overexpression of cohesin and additional B chromosome-encoded genes in Aegilops speltoides",
     "sent_at": "2026-07-24T12:12:05.921485Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.28.741182",
     "title": "Circulating Cell-Free Chromatin Particles Trigger a Unique Biphasic STING Signaling Program that Drives DNA Damage and Inflammation",
     "sent_at": "2026-08-01T13:50:24.970192Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741939",
+    "title": "Reconstructing whole-organism cell phylogenies with resolved ancestral transcriptional states",
+    "sent_at": "2026-08-01T15:15:39.675668Z",
     "tier": 4,
     "kind": "preprint"
   }
