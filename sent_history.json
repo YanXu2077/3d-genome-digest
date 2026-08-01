@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.mam.2026.101499",
-    "title": "Feeding the epigenome: EZH2 as a metabolic integrator of cell fate in development and cancer.",
-    "sent_at": "2026-07-24T14:11:13.916108Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.08.735777",
     "title": "Multi-omics profiling links epigenetic and lncRNA changes to early human endochondral ossification priming",
     "sent_at": "2026-07-24T15:59:45.232566Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.739390",
     "title": "Multiplex genome engineering in yeast using the TIGR-Tas system",
     "sent_at": "2026-08-01T21:10:49.177069Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741833",
+    "title": "Mitochondrial RNA processing promotes translation by resolving structured precursor RNAs",
+    "sent_at": "2026-08-01T23:09:41.657067Z",
     "tier": 4,
     "kind": "preprint"
   }
