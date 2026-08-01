@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740373",
-    "title": "Integrating epigenomic features reveals principles of chromatin-state organization",
-    "sent_at": "2026-07-24T06:40:16.433734Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41569-026-01322-7",
     "title": "The cardiac 4D nucleome: nuclear and chromatin dynamics across development, disease and ageing.",
     "sent_at": "2026-07-24T06:40:16.433734Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.10.737660",
     "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
     "sent_at": "2026-08-01T06:42:30.023224Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.28.740948",
+    "title": "Multiomic Integration Reveals Transposable Element-Embedded Regulatory Variants Underlying Brain Aging",
+    "sent_at": "2026-08-01T10:13:27.526969Z",
     "tier": 3,
     "kind": "preprint"
   }
