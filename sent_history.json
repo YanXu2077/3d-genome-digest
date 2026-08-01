@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.740206",
-    "title": "Multidimensional variation and population stratification across 8000 complete human centromeres",
-    "sent_at": "2026-07-24T14:11:13.916108Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.mam.2026.101499",
     "title": "Feeding the epigenome: EZH2 as a metabolic integrator of cell fate in development and cancer.",
     "sent_at": "2026-07-24T14:11:13.916108Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741836",
     "title": "Spindle Assembly Checkpoint Competency Determines Sensitivity to KIF18A Inhibition in Small-Cell Lung Cancer",
     "sent_at": "2026-08-01T19:29:26.552565Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.739390",
+    "title": "Multiplex genome engineering in yeast using the TIGR-Tas system",
+    "sent_at": "2026-08-01T21:10:49.177069Z",
     "tier": 4,
     "kind": "preprint"
   }
