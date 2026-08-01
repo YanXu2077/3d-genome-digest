@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41569-026-01322-7",
-    "title": "The cardiac 4D nucleome: nuclear and chromatin dynamics across development, disease and ageing.",
-    "sent_at": "2026-07-24T06:40:16.433734Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.23.740258",
     "title": "A fast 2C-induction method reveals a barrier role of SP2 for totipotency",
     "sent_at": "2026-07-24T10:33:01.483035Z",
@@ -557,6 +550,13 @@
     "title": "Multiomic Integration Reveals Transposable Element-Embedded Regulatory Variants Underlying Brain Aging",
     "sent_at": "2026-08-01T10:13:27.526969Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.741769",
+    "title": "Competing Molecular Interactions Govern the Dynamical Arrest of G3BP1 Condensates",
+    "sent_at": "2026-08-01T11:46:40.464910Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
