@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.06.10.657924",
-    "title": "Biologically Informed Variational Inference Enables Interpretable Cell Phenotyping and Discovery",
-    "sent_at": "2026-07-25T10:02:33.306372Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.23.740352",
     "title": "An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid",
     "sent_at": "2026-07-25T11:26:52.160666Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.28.738702",
     "title": "Joint modeling of multi-timepoint spatial observations for time-resolved spatial-unit-specific gene regulatory network inference",
     "sent_at": "2026-08-02T21:07:34.486249Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742133",
+    "title": "SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble.",
+    "sent_at": "2026-08-02T23:05:44.428847Z",
     "tier": 4,
     "kind": "preprint"
   }
