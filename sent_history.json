@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740218",
-    "title": "Spatial control of mitochondrial retrograde signaling by nuclear pore-associated contact sites",
-    "sent_at": "2026-07-24T19:50:16.906765Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.03.09.710469",
     "title": "Role of desolvation on biomolecular liquid-liquid phase separation",
     "sent_at": "2026-07-24T21:22:24.447991Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.28.741304",
     "title": "FITdb, an Integrated Functional Immunogenomics and Transcriptomics Database",
     "sent_at": "2026-08-02T11:42:24.334834Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.741971",
+    "title": "Pangenome Graph Node-Phenotype Association shows GWAS-like quality results with only few individuals",
+    "sent_at": "2026-08-02T13:48:54.874598Z",
     "tier": 4,
     "kind": "preprint"
   }
