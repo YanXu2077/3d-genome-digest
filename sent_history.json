@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.21.739817",
-    "title": "TRIM28 preserves ovarian identity by stabilising lineage-specific transcription factor hubs",
-    "sent_at": "2026-07-24T23:19:11.120165Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.22.739998",
     "title": "Lineage-specific regulation and RNA-associated functions of SATB1 in mature B-cells",
     "sent_at": "2026-07-25T03:36:10.297221Z",
@@ -557,6 +550,13 @@
     "title": "How a single sperm protein recognizes highly divergent egg coat components",
     "sent_at": "2026-08-02T15:14:03.558017Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741297",
+    "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics",
+    "sent_at": "2026-08-02T17:12:33.712570Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
