@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.739998",
-    "title": "Lineage-specific regulation and RNA-associated functions of SATB1 in mature B-cells",
-    "sent_at": "2026-07-25T03:36:10.297221Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.24.740321",
     "title": "CRISPR-mediated centromere fission generates neo-chromosomes with distorted meiotic inheritance in Arabidopsis",
     "sent_at": "2026-07-25T06:32:35.160018Z",
@@ -557,6 +550,13 @@
     "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics",
     "sent_at": "2026-08-02T17:12:33.712570Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741462",
+    "title": "Reconstructing lineage-constrained gene-program dynamics with PhyloFM",
+    "sent_at": "2026-08-02T19:26:28.827604Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
