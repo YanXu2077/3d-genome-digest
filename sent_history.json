@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jceh.2026.103602",
-    "title": "Metabolomic Insights into HCF-1-dependent Regulation of Liver Homeostasis.",
-    "sent_at": "2026-07-24T15:59:45.232566Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.07.16.665231",
     "title": "Human whole-epigenome modelling for clinical applications with Pleiades",
     "sent_at": "2026-07-24T18:07:59.760144Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.01.742136",
     "title": "Integrative genomics of the siphonophore Physalia utriculus reveals the regulatory logic of colonial division of labour and the molecular basis of venom activity",
     "sent_at": "2026-08-02T03:46:14.917292Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742064",
+    "title": "Asynchronous structural rearrangements govern constriction of the human nuclear pore complex",
+    "sent_at": "2026-08-02T06:42:53.808615Z",
     "tier": 4,
     "kind": "preprint"
   }
