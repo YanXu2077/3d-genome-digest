@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.07.16.665231",
-    "title": "Human whole-epigenome modelling for clinical applications with Pleiades",
-    "sent_at": "2026-07-24T18:07:59.760144Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/15476286.2026.2707734",
     "title": "The Mediator complex: Co-transcriptional regulation and beyond.",
     "sent_at": "2026-07-24T18:07:59.760144Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.31.742064",
     "title": "Asynchronous structural rearrangements govern constriction of the human nuclear pore complex",
     "sent_at": "2026-08-02T06:42:53.808615Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.30.741847",
+    "title": "An Open-Source, Excitation-Resolved UV-NIR Imaging Platform for Bioluminescence, Luminescence-Decay, and Chemical Discrimination Measurements",
+    "sent_at": "2026-08-02T10:07:01.786295Z",
     "tier": 4,
     "kind": "preprint"
   }
