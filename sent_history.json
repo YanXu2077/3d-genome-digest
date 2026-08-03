@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740419",
-    "title": "Restoring Klf9 Expression with Pressure Overload Leads to Metabolic Maladaptation and Early Onset of Heart Failure",
-    "sent_at": "2026-07-25T23:13:08.052528Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.02.26.640428",
     "title": "Nanometer condensate organization in live cells derived from partitioning measurements",
     "sent_at": "2026-07-26T03:50:07.875158Z",
@@ -557,6 +550,13 @@
     "title": "Nucleolar endonuclease MBLAC2 orchestrates co-transcriptional ribosomal RNA processing and global transcriptional output",
     "sent_at": "2026-08-03T19:56:17.583957Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.741674",
+    "title": "An RPEL-based FRET sensor for G-actin",
+    "sent_at": "2026-08-03T21:18:15.484157Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
