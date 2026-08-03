@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.24.740489",
-    "title": "Identification of lipid specificity in membrane organizing protein complexes",
-    "sent_at": "2026-07-25T17:17:05.960709Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.24.740048",
     "title": "Efficient CRISPR/Cas9-mediated homology independent sequence replacement in vivo and non-dividing primary cells",
     "sent_at": "2026-07-25T19:32:48.511503Z",
@@ -557,6 +550,13 @@
     "title": "Compositional control of FUS condensate ageing through aggregation-prone interaction networks",
     "sent_at": "2026-08-03T11:39:56.475858Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742024",
+    "title": "BAF perturbation augments cancer cell dependence on CDK12-driven transcription elongation by RNA polymerase II",
+    "sent_at": "2026-08-03T15:14:04.448321Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
