@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740330",
-    "title": "5' Complementarity-Mediated End Joining (5'CMEJ) DNA repair",
-    "sent_at": "2026-07-25T21:11:49.149226Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.23.740419",
     "title": "Restoring Klf9 Expression with Pressure Overload Leads to Metabolic Maladaptation and Early Onset of Heart Failure",
     "sent_at": "2026-07-25T23:13:08.052528Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.01.742200",
     "title": "Coffee remodels the global histone acetylation landscape with reduced H3K27ac at the MYC promoter",
     "sent_at": "2026-08-03T18:05:01.085969Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742021",
+    "title": "Nucleolar endonuclease MBLAC2 orchestrates co-transcriptional ribosomal RNA processing and global transcriptional output",
+    "sent_at": "2026-08-03T19:56:17.583957Z",
     "tier": 3,
     "kind": "preprint"
   }
