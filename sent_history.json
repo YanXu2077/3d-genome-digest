@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740352",
-    "title": "An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid",
-    "sent_at": "2026-07-25T11:26:52.160666Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.23.739932",
     "title": "FMRP prevents Me31B/DDX6-associated repression of long neurodevelopmental mRNAs",
     "sent_at": "2026-07-25T14:02:50.983538Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.31.742133",
     "title": "SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble.",
     "sent_at": "2026-08-02T23:05:44.428847Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.02.742283",
+    "title": "Benchmarking Deep Learning Predictions of Mutation-Induced Fold Switching",
+    "sent_at": "2026-08-03T04:06:19.209354Z",
     "tier": 4,
     "kind": "preprint"
   }
