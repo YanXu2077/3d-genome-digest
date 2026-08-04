@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.phymed.2026.158630",
-    "title": "Bruceine A ameliorates hepatic steatosis and oxidative stress in alcoholic liver disease by activating Farnesoid X receptor to upregulate forkhead box A2 expression.",
-    "sent_at": "2026-07-26T06:48:28.423953Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.22.740083",
     "title": "A Germinal Center-Independent Innate-Like Memory B Cell Compartment of B1 Origin",
     "sent_at": "2026-07-26T10:12:00.028953Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.29.741419",
     "title": "Not all tumors age alike: Bidirectional epigenetic age shifts across 20 solid tumors",
     "sent_at": "2026-08-04T03:34:11.160478Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741472",
+    "title": "Spatial remodeling of the thymic stroma with age disrupts niches for T cell selection and tolerance",
+    "sent_at": "2026-08-04T06:40:12.368428Z",
     "tier": 3,
     "kind": "preprint"
   }
