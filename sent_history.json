@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.740205",
-    "title": "Anti-Z-NA antibodies can distinguish accessible Z-form states across DNA, RNA, and DNA-RNA substrates",
-    "sent_at": "2026-07-26T13:50:27.245391Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.02.25.639997",
     "title": "deepthought: the microscopy acquisition stack as an object of study",
     "sent_at": "2026-07-26T15:16:10.289121Z",
@@ -557,6 +550,13 @@
     "title": "Granule microenvironment regulates the dual functions of FMR1",
     "sent_at": "2026-08-04T14:40:20.786315Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742744",
+    "title": "DNA entry into the cohesin ring through the kleisin N-gate",
+    "sent_at": "2026-08-04T18:03:04.400017Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
