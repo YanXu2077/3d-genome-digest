@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.02.25.639997",
-    "title": "deepthought: the microscopy acquisition stack as an object of study",
-    "sent_at": "2026-07-26T15:16:10.289121Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.23.740440",
     "title": "Identification of the Down syndrome critical region 3 gene as a mammalian cell size regulator",
     "sent_at": "2026-07-26T17:14:48.275069Z",
@@ -557,6 +550,13 @@
     "title": "DNA entry into the cohesin ring through the kleisin N-gate",
     "sent_at": "2026-08-04T18:03:04.400017Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.01.741526",
+    "title": "Chromatin Landscape of Cancer Cell Lines Identifies Enhancer Subtypes",
+    "sent_at": "2026-08-04T19:57:00.788570Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
