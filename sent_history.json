@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740440",
-    "title": "Identification of the Down syndrome critical region 3 gene as a mammalian cell size regulator",
-    "sent_at": "2026-07-26T17:14:48.275069Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.21.739736",
     "title": "Phenotype-driven de novo molecular design from gene expression signatures",
     "sent_at": "2026-07-26T19:27:22.121867Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.01.741526",
     "title": "Chromatin Landscape of Cancer Cell Lines Identifies Enhancer Subtypes",
     "sent_at": "2026-08-04T19:57:00.788570Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742011",
+    "title": "Histone deacetylase activity limits the response to EZH2 inhibition-based therapy in epithelioid sarcoma and is targetable by epigenetic combination",
+    "sent_at": "2026-08-04T21:29:48.753331Z",
     "tier": 3,
     "kind": "preprint"
   }
