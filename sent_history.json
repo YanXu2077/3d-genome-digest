@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.28.702352",
-    "title": "PLCβs are recruited to the plasma membrane in macrophages by both Gβγ and Gαq",
-    "sent_at": "2026-07-26T23:09:41.660406Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.05.27.726245",
     "title": "Pansoma, a machine learning tool for identifying somatic variants using pangenome graphs",
     "sent_at": "2026-07-27T03:58:37.532629Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.03.742464",
     "title": "Transcriptomic view of key events during early embryogenesis in the duplicated Atlantic salmon genome",
     "sent_at": "2026-08-05T03:31:10.831235Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.02.742358",
+    "title": "Lysine methyltransferase SET7 links cardiometabolic risk to endothelial dysfunction by dysregulating mRNA splicing and eNOS-CaM interaction",
+    "sent_at": "2026-08-05T06:43:30.393864Z",
     "tier": 3,
     "kind": "preprint"
   }
