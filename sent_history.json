@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.737064",
-    "title": "Transcription-dependent heterochromatin at the Xist promoter shapes the random choice of the inactive X chromosome",
-    "sent_at": "2026-07-27T07:48:44.841490Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.24.740573",
     "title": "Rapid motility arrest of the Lyme disease spirochete, Borrelia burgdorferi, by vaccine-induced OspA antibodies",
     "sent_at": "2026-07-27T11:37:02.960699Z",
@@ -557,6 +550,13 @@
     "title": "A hotspot for conformational heterogeneity driven by proline isomerisation in the androgen receptor disordered N-terminal domain",
     "sent_at": "2026-08-05T10:52:01.762265Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742596",
+    "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization",
+    "sent_at": "2026-08-05T14:32:37.076963Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
