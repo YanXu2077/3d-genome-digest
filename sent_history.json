@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.726245",
-    "title": "Pansoma, a machine learning tool for identifying somatic variants using pangenome graphs",
-    "sent_at": "2026-07-27T03:58:37.532629Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.22.737064",
     "title": "Transcription-dependent heterochromatin at the Xist promoter shapes the random choice of the inactive X chromosome",
     "sent_at": "2026-07-27T07:48:44.841490Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.02.742358",
     "title": "Lysine methyltransferase SET7 links cardiometabolic risk to endothelial dysfunction by dysregulating mRNA splicing and eNOS-CaM interaction",
     "sent_at": "2026-08-05T06:43:30.393864Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741599",
+    "title": "A hotspot for conformational heterogeneity driven by proline isomerisation in the androgen receptor disordered N-terminal domain",
+    "sent_at": "2026-08-05T10:52:01.762265Z",
     "tier": 3,
     "kind": "preprint"
   }
