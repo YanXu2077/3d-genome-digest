@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.23.740410",
-    "title": "Divergent Pathogenic PR-DUB Complex Variants Converge Functionally Via PRC2 Displacement From Chromatin",
-    "sent_at": "2026-07-27T17:55:25.615771Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/cbin.70189",
     "title": "Probing Centromere Plasticity and Chromatin Remodeling Using Single-Molecule Techniques.",
     "sent_at": "2026-07-27T17:55:25.615771Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.03.742641",
     "title": "Introns encode a vast class of Kink-loop RNAs that autoregulate pre-mRNA splicing",
     "sent_at": "2026-08-05T20:14:30.104465Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742535",
+    "title": "Calcineurin B-mediated Ca2+ sensing translates stress signal intensity into the assembly of phase-separated condensates at PERK complexes.",
+    "sent_at": "2026-08-05T21:53:36.030250Z",
     "tier": 4,
     "kind": "preprint"
   }
