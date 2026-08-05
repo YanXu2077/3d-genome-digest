@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.24.740573",
-    "title": "Rapid motility arrest of the Lyme disease spirochete, Borrelia burgdorferi, by vaccine-induced OspA antibodies",
-    "sent_at": "2026-07-27T11:37:02.960699Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.24.740199",
     "title": "Multi-channel high-density single-molecule localization",
     "sent_at": "2026-07-27T15:12:43.114084Z",
@@ -557,6 +550,13 @@
     "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization",
     "sent_at": "2026-08-05T14:32:37.076963Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742839",
+    "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers",
+    "sent_at": "2026-08-05T17:55:43.626069Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
