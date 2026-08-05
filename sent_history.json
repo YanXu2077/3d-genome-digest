@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2023.10.17.562748",
-    "title": "Biomolecular Resolution as a Quantification of Structural Information Content",
-    "sent_at": "2026-07-26T21:09:29.284261Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.01.28.702352",
     "title": "PLCβs are recruited to the plasma membrane in macrophages by both Gβγ and Gαq",
     "sent_at": "2026-07-26T23:09:41.660406Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.29.741535",
     "title": "Epithelial-Intrinsic Alterations and Maladaptation to Luminal Metabolites Underlie Persistent Crohn's Disease Pathogenesis",
     "sent_at": "2026-08-04T23:20:50.773146Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742464",
+    "title": "Transcriptomic view of key events during early embryogenesis in the duplicated Atlantic salmon genome",
+    "sent_at": "2026-08-05T03:31:10.831235Z",
     "tier": 3,
     "kind": "preprint"
   }
