@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.24.740199",
-    "title": "Multi-channel high-density single-molecule localization",
-    "sent_at": "2026-07-27T15:12:43.114084Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.23.740410",
     "title": "Divergent Pathogenic PR-DUB Complex Variants Converge Functionally Via PRC2 Displacement From Chromatin",
     "sent_at": "2026-07-27T17:55:25.615771Z",
@@ -557,6 +550,13 @@
     "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers",
     "sent_at": "2026-08-05T17:55:43.626069Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742641",
+    "title": "Introns encode a vast class of Kink-loop RNAs that autoregulate pre-mRNA splicing",
+    "sent_at": "2026-08-05T20:14:30.104465Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
