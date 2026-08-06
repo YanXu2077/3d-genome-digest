@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.04.10.648303",
-    "title": "Cep57 is a cohesin-associated regulator of chromosome segregation, cell cycle progression and genome stability in early embryos",
-    "sent_at": "2026-07-27T21:24:54.122789Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.22.740094",
     "title": "Hierarchical Transcriptomic and Epigenetic Recovery and Remodeling in the Developing Hippocampus Following Early-life Environmental Insults: An Iron Deficiency Rat Model",
     "sent_at": "2026-07-27T23:21:23.658141Z",
@@ -557,6 +550,13 @@
     "title": "Cellular context restricts a promiscuous m6A reader IDR to a single functional effector interface for mRNA decay",
     "sent_at": "2026-08-06T06:44:51.604527Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.05.743047",
+    "title": "Massively parallel characterization of adolescent idiopathic scoliosis risk variants",
+    "sent_at": "2026-08-06T10:53:36.441452Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
