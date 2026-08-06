@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.22.740094",
-    "title": "Hierarchical Transcriptomic and Epigenetic Recovery and Remodeling in the Developing Hippocampus Following Early-life Environmental Insults: An Iron Deficiency Rat Model",
-    "sent_at": "2026-07-27T23:21:23.658141Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1371/journal.pcbi.1014557",
     "title": "Deciphering chromatin architecture and dynamics in Plasmodium falciparum using the nucDetective pipeline.",
     "sent_at": "2026-07-27T23:21:23.658141Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.05.743047",
     "title": "Massively parallel characterization of adolescent idiopathic scoliosis risk variants",
     "sent_at": "2026-08-06T10:53:36.441452Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.05.743022",
+    "title": "SWI/SNF Alterations Define a Chromatin-Dependent Subtype of Urothelial Carcinoma",
+    "sent_at": "2026-08-06T14:34:41.760594Z",
     "tier": 3,
     "kind": "preprint"
   }
