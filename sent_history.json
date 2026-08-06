@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/advs.76753",
-    "title": "Integrated Single-Nucleus Multi-Omics Atlases Reveal Lineage Plasticity and Regulatory Networks of Luminal Epithelial Cells During Mammary Gland Lactation and Involution.",
-    "sent_at": "2026-07-27T19:52:27.980963Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/2025.04.10.648303",
     "title": "Cep57 is a cohesin-associated regulator of chromosome segregation, cell cycle progression and genome stability in early embryos",
     "sent_at": "2026-07-27T21:24:54.122789Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.02.742309",
     "title": "Contrastive Regulatory Embeddings Attention Model for Differential Expression Prediction with Personalized Genomes: Insights and Challenges",
     "sent_at": "2026-08-06T03:32:37.694714Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742832",
+    "title": "Cellular context restricts a promiscuous m6A reader IDR to a single functional effector interface for mRNA decay",
+    "sent_at": "2026-08-06T06:44:51.604527Z",
     "tier": 4,
     "kind": "preprint"
   }
