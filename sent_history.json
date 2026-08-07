@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41556-026-02013-8",
-    "title": "Cancer stem cells are hyper-responsive sensors of the tumour microenvironment and regulate metastasis dynamics through YAP/TAZ.",
-    "sent_at": "2026-07-28T06:40:26.236710Z",
-    "tier": 4,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.01.29.702647",
     "title": "H4K20me3 and CTCF act reciprocally at TAD boundaries to regulate cell state transitions",
     "sent_at": "2026-07-28T10:48:19.799150Z",
@@ -557,6 +550,13 @@
     "title": "Mapping genome-wide RNA-RNA and RNA-DNA interactions in nuclear hubs of male and female Drosophila cells",
     "sent_at": "2026-08-07T06:02:27.841872Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.05.743040",
+    "title": "Structural cell biology by mega-expansion microscopy",
+    "sent_at": "2026-08-07T07:42:40.808747Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
