@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/ijms27146282",
-    "title": "Epigenetic Landscape of H3K27ac, H3K27me3, H3K4me1, and H3K4me3 Marks in Channel Catfish Following Βeta Glucan Exposure.",
-    "sent_at": "2026-07-28T17:50:41.695558Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.24.740649",
     "title": "Locus-Scale Massively Parallel Reporter Assays",
     "sent_at": "2026-07-28T19:52:51.731959Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.743308",
     "title": "Single-cell multiomic mapping of genetic predisposition to childhood B-cell acute lymphoblastic leukemia",
     "sent_at": "2026-08-07T17:09:41.160547Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742470",
+    "title": "A Temporal Atlas of the Nuclear Androgen Receptor Proximal Interactome",
+    "sent_at": "2026-08-07T19:16:15.526395Z",
     "tier": 3,
     "kind": "preprint"
   }
