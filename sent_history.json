@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1371/journal.pcbi.1014557",
-    "title": "Deciphering chromatin architecture and dynamics in Plasmodium falciparum using the nucDetective pipeline.",
-    "sent_at": "2026-07-27T23:21:23.658141Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.26.740636",
     "title": "ZHP-2/HEI10 generates CO precursors and triggers procrossover factor coarsening and CO formation through Polo kinase recruitment",
     "sent_at": "2026-07-28T03:33:25.109590Z",
@@ -557,6 +550,13 @@
     "title": "SWI/SNF Alterations Define a Chromatin-Dependent Subtype of Urothelial Carcinoma",
     "sent_at": "2026-08-06T14:34:41.760594Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.02.741886",
+    "title": "Cohesin loading at regulatory elements shapes 3D genome folding during erythropoiesis",
+    "sent_at": "2026-08-07T00:14:15.936000Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
