@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.26.740636",
-    "title": "ZHP-2/HEI10 generates CO precursors and triggers procrossover factor coarsening and CO formation through Polo kinase recruitment",
-    "sent_at": "2026-07-28T03:33:25.109590Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.02.21.639010",
     "title": "Non-catalytic role for MLL2 in controlling chromatin organisation and mobility during priming of pluripotent cells for differentiation",
     "sent_at": "2026-07-28T06:40:26.236710Z",
@@ -557,6 +550,13 @@
     "title": "Cohesin loading at regulatory elements shapes 3D genome folding during erythropoiesis",
     "sent_at": "2026-08-07T00:14:15.936000Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742155",
+    "title": "Cohesin promotes genomic stability by suppressing unequal sister chromatid exchange",
+    "sent_at": "2026-08-07T03:31:01.433545Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
