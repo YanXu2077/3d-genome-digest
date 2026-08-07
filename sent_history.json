@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.26.740821",
-    "title": "Drosophila co-insulator proteins Pzg and Chro but not CP190 interact with promoter-proximal insulator-binding protein BEAF from a distance",
-    "sent_at": "2026-07-28T14:33:53.135148Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/biom16070980",
     "title": "HDAC3 as an Immunometabolic Rheostat: Molecular Mechanisms of Deacylation Plasticity, Lactylation Dynamics, and Spatiotemporal Regulation.",
     "sent_at": "2026-07-28T14:33:53.135148Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.04.742834",
     "title": "Mutational consequences of perturbing DNA repair and chromatin state in Arabidopsis",
     "sent_at": "2026-08-07T11:09:03.453836Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.05.743116",
+    "title": "Oncogenic transformation proceeds through a transient state of cellular plasticity constrained by lineage-specific barriers.",
+    "sent_at": "2026-08-07T13:31:43.726805Z",
     "tier": 3,
     "kind": "preprint"
   }
