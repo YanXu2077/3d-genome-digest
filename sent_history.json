@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.01.31.702994",
-    "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
-    "sent_at": "2026-07-30T14:31:28.080645Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741533",
     "title": "Developmental expression of the skeletal muscle determination gene, MyoD, is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region",
     "sent_at": "2026-07-30T17:50:05.901643Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.07.743547",
     "title": "Two heads are better than one: Single stranded DNA translocation of UvrD-family dimers vs. monomers",
     "sent_at": "2026-08-08T13:16:27.400278Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742578",
+    "title": "BCL11B targeting in tumor CD8+ T cells amplifies anti-tumor response by blocking exhaustion while promoting stemness and cytotoxicity",
+    "sent_at": "2026-08-08T14:49:23.173498Z",
     "tier": 4,
     "kind": "preprint"
   }
