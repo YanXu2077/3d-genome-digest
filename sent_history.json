@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.741367",
-    "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons",
-    "sent_at": "2026-07-30T00:24:07.693778Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.12.738087",
     "title": "A hierarchy of spatial confinements governs chromatin dynamics and genomic encounters.",
     "sent_at": "2026-07-30T00:24:07.693778Z",
@@ -557,6 +550,13 @@
     "title": "eRREMS expands regulatory CpG coverage in reduced representation methylome sequencing",
     "sent_at": "2026-08-08T03:54:25.673694Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742525",
+    "title": "Sequence-dependent molecular asymmetry and architecture define electric potential profiles of biomolecular condensates",
+    "sent_at": "2026-08-08T05:19:32.059814Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
