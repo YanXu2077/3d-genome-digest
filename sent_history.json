@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741533",
-    "title": "Developmental expression of the skeletal muscle determination gene, MyoD, is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region",
-    "sent_at": "2026-07-30T17:50:05.901643Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741030",
     "title": "NFYA regulates spermatogenesis through multifaceted chromatin interactions",
     "sent_at": "2026-07-30T19:53:11.586629Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.03.742578",
     "title": "BCL11B targeting in tumor CD8+ T cells amplifies anti-tumor response by blocking exhaustion while promoting stemness and cytotoxicity",
     "sent_at": "2026-08-08T14:49:23.173498Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.02.742377",
+    "title": "Resolving Orsay Virus δ Protein Architecture Using Molecular Rulers in Single-Molecule Force Spectroscopy",
+    "sent_at": "2026-08-08T16:51:57.546307Z",
     "tier": 4,
     "kind": "preprint"
   }
