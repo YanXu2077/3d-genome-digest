@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741030",
-    "title": "NFYA regulates spermatogenesis through multifaceted chromatin interactions",
-    "sent_at": "2026-07-30T19:53:11.586629Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2025.12.19.695003",
     "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions",
     "sent_at": "2026-07-30T21:23:18.188371Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.02.742377",
     "title": "Resolving Orsay Virus δ Protein Architecture Using Molecular Rulers in Single-Molecule Force Spectroscopy",
     "sent_at": "2026-08-08T16:51:57.546307Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.06.742695",
+    "title": "Cell organization and disturbance-mapping using image activated cell-profiling (CODIAC)",
+    "sent_at": "2026-08-08T18:58:24.625627Z",
     "tier": 4,
     "kind": "preprint"
   }
