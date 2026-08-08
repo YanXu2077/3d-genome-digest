@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741571",
-    "title": "Enhancer buffering protects dosage-sensitive housekeeping genes during vulnerable developmental transitions",
-    "sent_at": "2026-07-30T10:37:12.525750Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.01.31.702994",
     "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
     "sent_at": "2026-07-30T14:31:28.080645Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.743335",
     "title": "Genomic repeats for single-cell molecular recording",
     "sent_at": "2026-08-08T10:52:19.486702Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743547",
+    "title": "Two heads are better than one: Single stranded DNA translocation of UvrD-family dimers vs. monomers",
+    "sent_at": "2026-08-08T13:16:27.400278Z",
     "tier": 4,
     "kind": "preprint"
   }
