@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2025.12.19.695003",
-    "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions",
-    "sent_at": "2026-07-30T21:23:18.188371Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.30.740154",
     "title": "Chaperone condensates buffer the heat shock response against pleiotropic inputs",
     "sent_at": "2026-07-30T23:21:27.810368Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.742695",
     "title": "Cell organization and disturbance-mapping using image activated cell-profiling (CODIAC)",
     "sent_at": "2026-08-08T18:58:24.625627Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.06.743186",
+    "title": "Why architecture matters: Controlling gene expression through design",
+    "sent_at": "2026-08-08T21:06:25.967656Z",
     "tier": 4,
     "kind": "preprint"
   }
