@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.740154",
-    "title": "Chaperone condensates buffer the heat shock response against pleiotropic inputs",
-    "sent_at": "2026-07-30T23:21:27.810368Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.11.17.686592",
     "title": "Dynamics of TFIIH and Spt4/5 during the transition from transcription initiation to elongation",
     "sent_at": "2026-07-31T03:48:08.510039Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.743186",
     "title": "Why architecture matters: Controlling gene expression through design",
     "sent_at": "2026-08-08T21:06:25.967656Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.06.743327",
+    "title": "A starvation-remodeled pre-mRNA structure controls U1 recruitment and nutrient-stress adaptation in yeast",
+    "sent_at": "2026-08-08T22:47:20.827260Z",
     "tier": 4,
     "kind": "preprint"
   }
