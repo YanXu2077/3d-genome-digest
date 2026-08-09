@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.25.690435",
-    "title": "Chromatin priming and Hunchback recruitment integrate spatial and temporal cues in Drosophila neuroblasts",
-    "sent_at": "2026-07-31T14:35:41.245096Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2025.12.08.693082",
     "title": "HS-AFM Reveals Hierarchical RNA Folding Driving Condensate Assembly and Material States",
     "sent_at": "2026-07-31T18:04:57.876640Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-09T05:15:11.655335Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.06.743405",
+    "title": "Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis",
+    "sent_at": "2026-08-09T11:02:06.879295Z",
+    "tier": 4,
+    "kind": "preprint"
   }
 ]
