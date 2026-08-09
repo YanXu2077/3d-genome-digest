@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.741771",
-    "title": "Targeting the NuRD Component, CHD4, Impairs Foxp3+ Treg Cell Production and Function and Promotes Anti-Tumor Immunity",
-    "sent_at": "2026-08-01T03:48:51.094874Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.10.737660",
     "title": "Concerted evolution and unorthodox recombination of human subtelomeres",
     "sent_at": "2026-08-01T06:42:30.023224Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.04.742537",
     "title": "pysigscore: gene signatures scoring across bulk and single-cell transcriptomics",
     "sent_at": "2026-08-09T18:57:45.040996Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743437",
+    "title": "XSSDense: Time-resolved X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder",
+    "sent_at": "2026-08-09T20:49:16.742172Z",
     "tier": 4,
     "kind": "preprint"
   }
