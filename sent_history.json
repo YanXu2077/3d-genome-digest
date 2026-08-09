@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.27.741006",
-    "title": "A comprehensive HA-tagged PRC1 toolkit enables standardized chromatin profiling and proteomic analysis in Drosophila melanogaster",
-    "sent_at": "2026-07-31T23:19:36.045744Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.30.741771",
     "title": "Targeting the NuRD Component, CHD4, Impairs Foxp3+ Treg Cell Production and Function and Promotes Anti-Tumor Immunity",
     "sent_at": "2026-08-01T03:48:51.094874Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.03.742402",
     "title": "Intrauterine growth restriction is associated with adaptive hematopoietic reprogramming and selective immune rewiring in monozygotic twins",
     "sent_at": "2026-08-09T16:51:10.710703Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742537",
+    "title": "pysigscore: gene signatures scoring across bulk and single-cell transcriptomics",
+    "sent_at": "2026-08-09T18:57:45.040996Z",
     "tier": 4,
     "kind": "preprint"
   }
