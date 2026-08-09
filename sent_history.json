@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741407",
-    "title": "Tunable kinetic destabilization governs RNA polymerase passage through a DNA-bound transcription factor",
-    "sent_at": "2026-07-31T06:57:08.690968Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.28.741242",
-    "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue",
-    "sent_at": "2026-07-31T10:52:47.474234Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.11.25.690435",
     "title": "Chromatin priming and Hunchback recruitment integrate spatial and temporal cues in Drosophila neuroblasts",
     "sent_at": "2026-07-31T14:35:41.245096Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-08-09T02:24:09.349780Z",
     "tier": 4,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.06.742174",
+    "title": "Early Emergence of Cultural Differences in Audiovisual Speech Perception",
+    "sent_at": "2026-08-09T05:15:11.655335Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117797",
+    "title": "Integrative 3D genome and epigenomic analysis identifies TP53RK and SYBU as critical regulators of stemness and anti-tumor immunity in HCC.",
+    "sent_at": "2026-08-09T05:15:11.655335Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
