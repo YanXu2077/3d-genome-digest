@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.17.686592",
-    "title": "Dynamics of TFIIH and Spt4/5 during the transition from transcription initiation to elongation",
-    "sent_at": "2026-07-31T03:48:08.510039Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741407",
     "title": "Tunable kinetic destabilization governs RNA polymerase passage through a DNA-bound transcription factor",
     "sent_at": "2026-07-31T06:57:08.690968Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.743327",
     "title": "A starvation-remodeled pre-mRNA structure controls U1 recruitment and nutrient-stress adaptation in yeast",
     "sent_at": "2026-08-08T22:47:20.827260Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743619",
+    "title": "Genome-wide association study in Heterogeneous Stock rats identifies genetic loci associated with aversion-based learning and cocaine aversion",
+    "sent_at": "2026-08-09T02:24:09.349780Z",
     "tier": 4,
     "kind": "preprint"
   }
