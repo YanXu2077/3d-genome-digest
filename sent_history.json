@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.741836",
-    "title": "Spindle Assembly Checkpoint Competency Determines Sensitivity to KIF18A Inhibition in Small-Cell Lung Cancer",
-    "sent_at": "2026-08-01T19:29:26.552565Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.30.739390",
     "title": "Multiplex genome engineering in yeast using the TIGR-Tas system",
     "sent_at": "2026-08-01T21:10:49.177069Z",
@@ -557,6 +550,13 @@
     "title": "ProtJEPA: A Multimodal Joint-Embedding Predictive Architecture for Protein Biological World Modeling with Multi-TeacherModality-Attentive Fusion",
     "sent_at": "2026-08-10T11:21:23.450208Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743587",
+    "title": "Suppression of RIPK3 by EZH2 contributes to cigarette smoking-induced chemoresistance in lung cancer",
+    "sent_at": "2026-08-10T13:45:05.658383Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
