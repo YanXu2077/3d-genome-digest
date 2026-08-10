@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.741946",
-    "title": "ATP-Free Fatty Aldehyde Biosynthesis Enables an Autonomous Lux-Based Bioluminescence System",
-    "sent_at": "2026-08-01T17:16:42.515275Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.30.741836",
     "title": "Spindle Assembly Checkpoint Competency Determines Sensitivity to KIF18A Inhibition in Small-Cell Lung Cancer",
     "sent_at": "2026-08-01T19:29:26.552565Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.04.742788",
     "title": "A generative model for dimensionality reduction with millions of features and few samples",
     "sent_at": "2026-08-10T09:47:23.343791Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.03.742606",
+    "title": "ProtJEPA: A Multimodal Joint-Embedding Predictive Architecture for Protein Biological World Modeling with Multi-TeacherModality-Attentive Fusion",
+    "sent_at": "2026-08-10T11:21:23.450208Z",
     "tier": 4,
     "kind": "preprint"
   }
