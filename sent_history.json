@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.741833",
-    "title": "Mitochondrial RNA processing promotes translation by resolving structured precursor RNAs",
-    "sent_at": "2026-08-01T23:09:41.657067Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.01.742136",
     "title": "Integrative genomics of the siphonophore Physalia utriculus reveals the regulatory logic of colonial division of labour and the molecular basis of venom activity",
     "sent_at": "2026-08-02T03:46:14.917292Z",
@@ -557,6 +550,13 @@
     "title": "scROMA: batch-aware pathway-activity inference and a ground-truth simulation framework for single-cell transcriptomics",
     "sent_at": "2026-08-10T15:15:16.513027Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743475",
+    "title": "Evolution of mechanical chromatin insulators from selfish genetic elements",
+    "sent_at": "2026-08-10T17:06:49.712579Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
