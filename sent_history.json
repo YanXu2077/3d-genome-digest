@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.30.741847",
-    "title": "An Open-Source, Excitation-Resolved UV-NIR Imaging Platform for Bioluminescence, Luminescence-Decay, and Chemical Discrimination Measurements",
-    "sent_at": "2026-08-02T10:07:01.786295Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.28.741304",
     "title": "FITdb, an Integrated Functional Immunogenomics and Transcriptomics Database",
     "sent_at": "2026-08-02T11:42:24.334834Z",
@@ -557,6 +550,13 @@
     "title": "Regulatory mutants of the Tbx1 gene alter transcription programs of lineage determination and patterning in early mesoderm.",
     "sent_at": "2026-08-10T21:03:21.170658Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743652",
+    "title": "A nuclear role for the contractile protein troponin I/UNC-27 in regulating muscle aging in C. elegans",
+    "sent_at": "2026-08-10T22:58:36.713907Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
