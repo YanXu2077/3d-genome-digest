@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.742064",
-    "title": "Asynchronous structural rearrangements govern constriction of the human nuclear pore complex",
-    "sent_at": "2026-08-02T06:42:53.808615Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.30.741847",
     "title": "An Open-Source, Excitation-Resolved UV-NIR Imaging Platform for Bioluminescence, Luminescence-Decay, and Chemical Discrimination Measurements",
     "sent_at": "2026-08-02T10:07:01.786295Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.08.743534",
     "title": "The chromatin reader protein MLLT1 is critical to maintain normal B lymphopoiesis",
     "sent_at": "2026-08-10T19:15:33.624294Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743664",
+    "title": "Regulatory mutants of the Tbx1 gene alter transcription programs of lineage determination and patterning in early mesoderm.",
+    "sent_at": "2026-08-10T21:03:21.170658Z",
     "tier": 3,
     "kind": "preprint"
   }
