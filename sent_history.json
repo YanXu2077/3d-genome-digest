@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741504",
-    "title": "How a single sperm protein recognizes highly divergent egg coat components",
-    "sent_at": "2026-08-02T15:14:03.558017Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.28.741297",
     "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics",
     "sent_at": "2026-08-02T17:12:33.712570Z",
@@ -557,6 +550,13 @@
     "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance",
     "sent_at": "2026-08-11T05:21:22.569563Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.09.740023",
+    "title": "Sequence-dependent conformational and mechanical landscapes of double-stranded nucleic acids",
+    "sent_at": "2026-08-11T07:25:49.367552Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
