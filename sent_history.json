@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.741304",
-    "title": "FITdb, an Integrated Functional Immunogenomics and Transcriptomics Database",
-    "sent_at": "2026-08-02T11:42:24.334834Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.741971",
     "title": "Pangenome Graph Node-Phenotype Association shows GWAS-like quality results with only few individuals",
     "sent_at": "2026-08-02T13:48:54.874598Z",
@@ -557,6 +550,13 @@
     "title": "A nuclear role for the contractile protein troponin I/UNC-27 in regulating muscle aging in C. elegans",
     "sent_at": "2026-08-10T22:58:36.713907Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742822",
+    "title": "ARID5B drives an inflammatory-to-destructive shift in pathologic fibroblast behavior",
+    "sent_at": "2026-08-11T02:24:02.020449Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
