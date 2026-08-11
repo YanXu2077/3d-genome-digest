@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.738702",
-    "title": "Joint modeling of multi-timepoint spatial observations for time-resolved spatial-unit-specific gene regulatory network inference",
-    "sent_at": "2026-08-02T21:07:34.486249Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.742133",
     "title": "SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble.",
     "sent_at": "2026-08-02T23:05:44.428847Z",
@@ -557,6 +550,13 @@
     "title": "Polycomb establishes TAD-scale H3K27me3 mega-domains to safeguard neuronal identity",
     "sent_at": "2026-08-11T11:06:18.055971Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.09.743789",
+    "title": "Single-locus chromatin memory enables flexible spatial fate specification in the Drosophila visual system",
+    "sent_at": "2026-08-11T13:29:31.077689Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
