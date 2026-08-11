@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.741297",
-    "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics",
-    "sent_at": "2026-08-02T17:12:33.712570Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741462",
     "title": "Reconstructing lineage-constrained gene-program dynamics with PhyloFM",
     "sent_at": "2026-08-02T19:26:28.827604Z",
@@ -557,6 +550,13 @@
     "title": "Sequence-dependent conformational and mechanical landscapes of double-stranded nucleic acids",
     "sent_at": "2026-08-11T07:25:49.367552Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.09.743771",
+    "title": "CRISPR-FOIL: A Programmable CRISPR Tool to Engineer and Illuminate Chromatin Folding in Live Human Cells",
+    "sent_at": "2026-08-11T09:14:05.582102Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
