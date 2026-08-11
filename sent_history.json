@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.741971",
-    "title": "Pangenome Graph Node-Phenotype Association shows GWAS-like quality results with only few individuals",
-    "sent_at": "2026-08-02T13:48:54.874598Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741504",
     "title": "How a single sperm protein recognizes highly divergent egg coat components",
     "sent_at": "2026-08-02T15:14:03.558017Z",
@@ -557,6 +550,13 @@
     "title": "ARID5B drives an inflammatory-to-destructive shift in pathologic fibroblast behavior",
     "sent_at": "2026-08-11T02:24:02.020449Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.743836",
+    "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance",
+    "sent_at": "2026-08-11T05:21:22.569563Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
