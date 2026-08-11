@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741462",
-    "title": "Reconstructing lineage-constrained gene-program dynamics with PhyloFM",
-    "sent_at": "2026-08-02T19:26:28.827604Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.28.738702",
     "title": "Joint modeling of multi-timepoint spatial observations for time-resolved spatial-unit-specific gene regulatory network inference",
     "sent_at": "2026-08-02T21:07:34.486249Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.09.743771",
     "title": "CRISPR-FOIL: A Programmable CRISPR Tool to Engineer and Illuminate Chromatin Folding in Live Human Cells",
     "sent_at": "2026-08-11T09:14:05.582102Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.743812",
+    "title": "Polycomb establishes TAD-scale H3K27me3 mega-domains to safeguard neuronal identity",
+    "sent_at": "2026-08-11T11:06:18.055971Z",
     "tier": 1,
     "kind": "preprint"
   }
