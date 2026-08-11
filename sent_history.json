@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.741205",
-    "title": "Compositional control of FUS condensate ageing through aggregation-prone interaction networks",
-    "sent_at": "2026-08-03T11:39:56.475858Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.742024",
     "title": "BAF perturbation augments cancer cell dependence on CDK12-driven transcription elongation by RNA polymerase II",
     "sent_at": "2026-08-03T15:14:04.448321Z",
@@ -557,6 +550,13 @@
     "title": "Lamin B1 affects nuclear shape and integrity through chromatin stiffness and not lamin stiffness",
     "sent_at": "2026-08-11T19:20:06.266822Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.743404",
+    "title": "3D Electron Microscopy Reveals Diverse Chromosome Morphologies Across Dinoflagellate Species",
+    "sent_at": "2026-08-11T21:02:34.082904Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
