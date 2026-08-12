@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.742021",
-    "title": "Nucleolar endonuclease MBLAC2 orchestrates co-transcriptional ribosomal RNA processing and global transcriptional output",
-    "sent_at": "2026-08-03T19:56:17.583957Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.741674",
     "title": "An RPEL-based FRET sensor for G-actin",
     "sent_at": "2026-08-03T21:18:15.484157Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.744009",
     "title": "SAD-6/ATRX enables broad genome surveillance and defense in fungi",
     "sent_at": "2026-08-12T02:44:17.320492Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.741731",
+    "title": "BRD9 inhibition induces selective radiosensitivity in glioblastoma through MYC pathway modulation",
+    "sent_at": "2026-08-12T05:50:17.264251Z",
     "tier": 3,
     "kind": "preprint"
   }
