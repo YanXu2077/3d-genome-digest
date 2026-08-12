@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.742076",
-    "title": "MLL4/KMT2D mutations increase immune activity and predict therapyefficacy in colorectal cancer",
-    "sent_at": "2026-08-03T23:17:46.097373Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741419",
     "title": "Not all tumors age alike: Bidirectional epigenetic age shifts across 20 solid tumors",
     "sent_at": "2026-08-04T03:34:11.160478Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.05.743041",
     "title": "DAF-12 germline-to-soma signaling mediates transgenerational longevity in C. elegans",
     "sent_at": "2026-08-12T07:53:04.608527Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.11.744222",
+    "title": "Integrated multi-omic analysis of pediatric metastatic osteosarcoma reveals endothelial cell plasticity and lineage infidelity.",
+    "sent_at": "2026-08-12T11:15:57.622168Z",
     "tier": 3,
     "kind": "preprint"
   }
