@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741472",
-    "title": "Spatial remodeling of the thymic stroma with age disrupts niches for T cell selection and tolerance",
-    "sent_at": "2026-08-04T06:40:12.368428Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.742030",
     "title": "Elevated Levels of Mcm7 Disrupt Microtubule and Nucleolar Homeostasis to Drive Genome Instability and Cell Death",
     "sent_at": "2026-08-04T10:51:11.688614Z",
@@ -557,6 +550,13 @@
     "title": "RelB proximity proteomics and CRISPR screening define chromatin regulators of noncanonical NF-κB control of HIV latency and reactivation",
     "sent_at": "2026-08-12T13:44:18.927444Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.06.743215",
+    "title": "In vivo cellular localisation and nanoscale organisation of NLRP3 inflammasomes",
+    "sent_at": "2026-08-12T15:18:18.581124Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
