@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.31.741674",
-    "title": "An RPEL-based FRET sensor for G-actin",
-    "sent_at": "2026-08-03T21:18:15.484157Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.742076",
     "title": "MLL4/KMT2D mutations increase immune activity and predict therapyefficacy in colorectal cancer",
     "sent_at": "2026-08-03T23:17:46.097373Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.10.741731",
     "title": "BRD9 inhibition induces selective radiosensitivity in glioblastoma through MYC pathway modulation",
     "sent_at": "2026-08-12T05:50:17.264251Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.05.743041",
+    "title": "DAF-12 germline-to-soma signaling mediates transgenerational longevity in C. elegans",
+    "sent_at": "2026-08-12T07:53:04.608527Z",
     "tier": 3,
     "kind": "preprint"
   }
