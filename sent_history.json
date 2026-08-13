@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742596",
-    "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization",
-    "sent_at": "2026-08-05T14:32:37.076963Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742839",
     "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers",
     "sent_at": "2026-08-05T17:55:43.626069Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.12.744469",
     "title": "Multi-ion permeation and dynamic conductance modulation in connexin gap junction channels",
     "sent_at": "2026-08-13T13:43:05.379060Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743694",
+    "title": "HaloUMI: Physics-informed analysis of inhibition halo assays",
+    "sent_at": "2026-08-13T15:15:11.470449Z",
     "tier": 4,
     "kind": "preprint"
   }
