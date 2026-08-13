@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.29.741599",
-    "title": "A hotspot for conformational heterogeneity driven by proline isomerisation in the androgen receptor disordered N-terminal domain",
-    "sent_at": "2026-08-05T10:52:01.762265Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742596",
     "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization",
     "sent_at": "2026-08-05T14:32:37.076963Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.743512",
     "title": "Germline BRCA1 Mutation Deregulates Irradiation-Induced Cell Cycle Checkpoints in Human Mammary Luminal Progenitors",
     "sent_at": "2026-08-13T11:13:52.172516Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744469",
+    "title": "Multi-ion permeation and dynamic conductance modulation in connexin gap junction channels",
+    "sent_at": "2026-08-13T13:43:05.379060Z",
     "tier": 4,
     "kind": "preprint"
   }
