@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742641",
-    "title": "Introns encode a vast class of Kink-loop RNAs that autoregulate pre-mRNA splicing",
-    "sent_at": "2026-08-05T20:14:30.104465Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742535",
     "title": "Calcineurin B-mediated Ca2+ sensing translates stress signal intensity into the assembly of phase-separated condensates at PERK complexes.",
     "sent_at": "2026-08-05T21:53:36.030250Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.744177",
     "title": "Reliable single-cell perturbations explain and improve model performance",
     "sent_at": "2026-08-13T17:10:54.862364Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743494",
+    "title": "Phosphorylation and pocket-binding ligands rewire the coupled networks in multidomain protein condensate",
+    "sent_at": "2026-08-13T19:18:56.825074Z",
     "tier": 4,
     "kind": "preprint"
   }
