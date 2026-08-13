@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742839",
-    "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers",
-    "sent_at": "2026-08-05T17:55:43.626069Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742641",
     "title": "Introns encode a vast class of Kink-loop RNAs that autoregulate pre-mRNA splicing",
     "sent_at": "2026-08-05T20:14:30.104465Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.08.743694",
     "title": "HaloUMI: Physics-informed analysis of inhibition halo assays",
     "sent_at": "2026-08-13T15:15:11.470449Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.11.744177",
+    "title": "Reliable single-cell perturbations explain and improve model performance",
+    "sent_at": "2026-08-13T17:10:54.862364Z",
     "tier": 4,
     "kind": "preprint"
   }
