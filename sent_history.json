@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.742358",
-    "title": "Lysine methyltransferase SET7 links cardiometabolic risk to endothelial dysfunction by dysregulating mRNA splicing and eNOS-CaM interaction",
-    "sent_at": "2026-08-05T06:43:30.393864Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741599",
     "title": "A hotspot for conformational heterogeneity driven by proline isomerisation in the androgen receptor disordered N-terminal domain",
     "sent_at": "2026-08-05T10:52:01.762265Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.06.743252",
     "title": "Spatial multi omics enables single cell transcriptome metabolome inference",
     "sent_at": "2026-08-13T09:26:44.017484Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.11.743512",
+    "title": "Germline BRCA1 Mutation Deregulates Irradiation-Induced Cell Cycle Checkpoints in Human Mammary Luminal Progenitors",
+    "sent_at": "2026-08-13T11:13:52.172516Z",
     "tier": 4,
     "kind": "preprint"
   }
