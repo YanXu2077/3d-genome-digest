@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742011",
-    "title": "Histone deacetylase activity limits the response to EZH2 inhibition-based therapy in epithelioid sarcoma and is targetable by epigenetic combination",
-    "sent_at": "2026-08-04T21:29:48.753331Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.29.741535",
     "title": "Epithelial-Intrinsic Alterations and Maladaptation to Luminal Metabolites Underlie Persistent Crohn's Disease Pathogenesis",
     "sent_at": "2026-08-04T23:20:50.773146Z",
@@ -557,6 +550,13 @@
     "title": "Yra2 regulates proteolysis of Cse4 to prevent its mislocalization to non-centromeric regions for chromosomal stability in budding yeast",
     "sent_at": "2026-08-13T02:42:49.978555Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.743781",
+    "title": "Sequential division of labor between PAXX and XLF drives NHEJ synaptic complex stability and maturation",
+    "sent_at": "2026-08-13T05:49:06.371610Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
