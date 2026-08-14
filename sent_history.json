@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.741886",
-    "title": "Cohesin loading at regulatory elements shapes 3D genome folding during erythropoiesis",
-    "sent_at": "2026-08-07T00:14:15.936000Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.31.742155",
     "title": "Cohesin promotes genomic stability by suppressing unequal sister chromatid exchange",
     "sent_at": "2026-08-07T03:31:01.433545Z",
@@ -557,6 +550,13 @@
     "title": "Urothelial-lineage master transcription factor hub proteomics shows mechanisms impeding urothelial cancer cell differentiation",
     "sent_at": "2026-08-14T11:12:34.180545Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.07.743503",
+    "title": "CellConsensus: An agent-curated atlas for automatic cell typing",
+    "sent_at": "2026-08-14T15:18:49.299934Z",
+    "tier": 4,
     "kind": "preprint"
   }
 ]
