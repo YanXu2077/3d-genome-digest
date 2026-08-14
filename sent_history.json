@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.05.743022",
-    "title": "SWI/SNF Alterations Define a Chromatin-Dependent Subtype of Urothelial Carcinoma",
-    "sent_at": "2026-08-06T14:34:41.760594Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.02.741886",
     "title": "Cohesin loading at regulatory elements shapes 3D genome folding during erythropoiesis",
     "sent_at": "2026-08-07T00:14:15.936000Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.13.744586",
     "title": "RERE and the Mediator complex cooperate with EWSR1::FLI1 in the reprogramming of Translation and Alternative Splicing, the latter being a therapeutically targetable vulnerability in Ewing sarcoma",
     "sent_at": "2026-08-14T09:41:46.207651Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744501",
+    "title": "Urothelial-lineage master transcription factor hub proteomics shows mechanisms impeding urothelial cancer cell differentiation",
+    "sent_at": "2026-08-14T11:12:34.180545Z",
     "tier": 3,
     "kind": "preprint"
   }
