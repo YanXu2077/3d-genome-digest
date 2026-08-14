@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.05.743047",
-    "title": "Massively parallel characterization of adolescent idiopathic scoliosis risk variants",
-    "sent_at": "2026-08-06T10:53:36.441452Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.05.743022",
     "title": "SWI/SNF Alterations Define a Chromatin-Dependent Subtype of Urothelial Carcinoma",
     "sent_at": "2026-08-06T14:34:41.760594Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.12.744517",
     "title": "The multifunctional scaffold protein Small ovary couples piRNA-guided transposon recognition to nuclear RNA decay and heterochromatin formation",
     "sent_at": "2026-08-14T05:51:08.456338Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744586",
+    "title": "RERE and the Mediator complex cooperate with EWSR1::FLI1 in the reprogramming of Translation and Alternative Splicing, the latter being a therapeutically targetable vulnerability in Ewing sarcoma",
+    "sent_at": "2026-08-14T09:41:46.207651Z",
     "tier": 3,
     "kind": "preprint"
   }
