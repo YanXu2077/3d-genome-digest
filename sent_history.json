@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.742309",
-    "title": "Contrastive Regulatory Embeddings Attention Model for Differential Expression Prediction with Personalized Genomes: Insights and Challenges",
-    "sent_at": "2026-08-06T03:32:37.694714Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742832",
     "title": "Cellular context restricts a promiscuous m6A reader IDR to a single functional effector interface for mRNA decay",
     "sent_at": "2026-08-06T06:44:51.604527Z",
@@ -557,6 +550,13 @@
     "title": "Integrated single-cell profiling of RNA and DNA interactomes reveals targetable chromatin architectures in cancer",
     "sent_at": "2026-08-13T22:59:43.447767Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744572",
+    "title": "Outside-in progression of heterochromatin replication and exclusion of CDC45 from the PCH domain in Drosophila",
+    "sent_at": "2026-08-14T02:41:09.051148Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
