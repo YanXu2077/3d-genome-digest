@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.05.743040",
-    "title": "Structural cell biology by mega-expansion microscopy",
-    "sent_at": "2026-08-07T07:42:40.808747Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.02.741928",
     "title": "High-Specificity Detection of Chromosomal Mosaicism Reveals Cell-Type-Specific Genomic Alteration Patterns in Aging Tissues",
     "sent_at": "2026-08-07T09:17:43.939624Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-14T21:00:57.630222Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bpj.2026.08.009",
+    "title": "A logic-circuit framework for mapping long-range interaction networks to 3D chromatin conformations.",
+    "sent_at": "2026-08-15T10:33:40.940996Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
