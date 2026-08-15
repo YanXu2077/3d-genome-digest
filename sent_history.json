@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.741928",
-    "title": "High-Specificity Detection of Chromosomal Mosaicism Reveals Cell-Type-Specific Genomic Alteration Patterns in Aging Tissues",
-    "sent_at": "2026-08-07T09:17:43.939624Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742834",
     "title": "Mutational consequences of perturbing DNA repair and chromatin state in Arabidopsis",
     "sent_at": "2026-08-07T11:09:03.453836Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-15T10:33:40.940996Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744314",
+    "title": "AI4Loop: an Artificial Intelligence Framework Reveals Increased 3D Chromatin Interactions and Therapeutic Vulnerabilities across 12,000 Cancer Samples",
+    "sent_at": "2026-08-15T16:39:56.038508Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
