@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742470",
-    "title": "A Temporal Atlas of the Nuclear Androgen Receptor Proximal Interactome",
-    "sent_at": "2026-08-07T19:16:15.526395Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.743042",
     "title": "Nrl expression and promoter activity in developing cone photoreceptors",
     "sent_at": "2026-08-07T21:01:40.437289Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.13.744683",
     "title": "Genome-wide mapping of helicase-generated ssDNA reveals Hrq1 activity at RNA polymerase III-transcribed genes",
     "sent_at": "2026-08-16T04:48:47.605915Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.10.743941",
+    "title": "Noncoding regulatory mutations contribute to the aberrant gene expression in neuroblastoma.",
+    "sent_at": "2026-08-16T06:57:33.675447Z",
     "tier": 3,
     "kind": "preprint"
   }
