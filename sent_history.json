@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742457",
-    "title": "Depletion of lamin-associated polypeptide 2alpha leads to chromatin reorganization and binding of A-type lamins to open genomic regions",
-    "sent_at": "2026-08-08T02:17:04.730000Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.740891",
     "title": "eRREMS expands regulatory CpG coverage in reduced representation methylome sequencing",
     "sent_at": "2026-08-08T03:54:25.673694Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.743830",
     "title": "DNA Origami Nanomechanical Amplifiers for Resolving Single-Molecule Binding Events",
     "sent_at": "2026-08-16T10:37:01.537632Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744810",
+    "title": "Molecular orchestration of global actin remodelling by INF2",
+    "sent_at": "2026-08-16T13:00:32.419645Z",
     "tier": 4,
     "kind": "preprint"
   }
