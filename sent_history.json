@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.742325",
-    "title": "Valency-Limited Molecular Dynamics Simulations of Stickers-and-Spacers Polymers Reveal a Tradeoff Between Condensation and Organization",
-    "sent_at": "2026-08-07T15:10:55.704078Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.743308",
     "title": "Single-cell multiomic mapping of genetic predisposition to childhood B-cell acute lymphoblastic leukemia",
     "sent_at": "2026-08-07T17:09:41.160547Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.744281",
     "title": "ATP-dependent reorientation on a nucleosome primes INO80 for DNA translocation",
     "sent_at": "2026-08-15T20:37:31.652105Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744815",
+    "title": "Isotype specific loss of HP1α but not of HP1β uncovers genomic regions that behave as HP1α-dependent common fragile sites",
+    "sent_at": "2026-08-16T03:11:25.696148Z",
     "tier": 3,
     "kind": "preprint"
   }
