@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743042",
-    "title": "Nrl expression and promoter activity in developing cone photoreceptors",
-    "sent_at": "2026-08-07T21:01:40.437289Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.05.741138",
     "title": "A longevity-associated ubiquitin E3 ligase UBE3C governs lamin B1 homeostasis through selective autophagy and delay senescence",
     "sent_at": "2026-08-07T22:54:57.406107Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.10.743941",
     "title": "Noncoding regulatory mutations contribute to the aberrant gene expression in neuroblastoma.",
     "sent_at": "2026-08-16T06:57:33.675447Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744621",
+    "title": "The centromere localization domain of kinetoplastid kinetochore protein KKT2 recognizes the free N-terminus of histone H3",
+    "sent_at": "2026-08-16T08:44:59.785938Z",
     "tier": 3,
     "kind": "preprint"
   }
