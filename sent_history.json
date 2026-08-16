@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743335",
-    "title": "Genomic repeats for single-cell molecular recording",
-    "sent_at": "2026-08-08T10:52:19.486702Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.07.743547",
     "title": "Two heads are better than one: Single stranded DNA translocation of UvrD-family dimers vs. monomers",
     "sent_at": "2026-08-08T13:16:27.400278Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.13.744634",
     "title": "Replication fork plasticity is a therapeutic vulnerability in acute myeloid leukemia",
     "sent_at": "2026-08-16T20:37:33.228396Z",
+    "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744004",
+    "title": "De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies",
+    "sent_at": "2026-08-16T22:36:09.384176Z",
     "tier": 4,
     "kind": "preprint"
   }
