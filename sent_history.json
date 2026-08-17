@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743547",
-    "title": "Two heads are better than one: Single stranded DNA translocation of UvrD-family dimers vs. monomers",
-    "sent_at": "2026-08-08T13:16:27.400278Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742578",
     "title": "BCL11B targeting in tumor CD8+ T cells amplifies anti-tumor response by blocking exhaustion while promoting stemness and cytotoxicity",
     "sent_at": "2026-08-08T14:49:23.173498Z",
@@ -557,6 +550,13 @@
     "title": "De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies",
     "sent_at": "2026-08-16T22:36:09.384176Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744943",
+    "title": "Ablation and Seed-driven Restoration of an Alpha-Satellite Devoid Human Centromere Reveals Size Homeostasis Mechanisms",
+    "sent_at": "2026-08-17T13:05:54.251929Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
