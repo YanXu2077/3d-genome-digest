@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742578",
-    "title": "BCL11B targeting in tumor CD8+ T cells amplifies anti-tumor response by blocking exhaustion while promoting stemness and cytotoxicity",
-    "sent_at": "2026-08-08T14:49:23.173498Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.02.742377",
     "title": "Resolving Orsay Virus δ Protein Architecture Using Molecular Rulers in Single-Molecule Force Spectroscopy",
     "sent_at": "2026-08-08T16:51:57.546307Z",
@@ -557,6 +550,13 @@
     "title": "Ablation and Seed-driven Restoration of an Alpha-Satellite Devoid Human Centromere Reveals Size Homeostasis Mechanisms",
     "sent_at": "2026-08-17T13:05:54.251929Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744931",
+    "title": "RNA-dependent chromatin organization during development",
+    "sent_at": "2026-08-17T14:41:04.980044Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
