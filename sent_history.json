@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.742377",
-    "title": "Resolving Orsay Virus δ Protein Architecture Using Molecular Rulers in Single-Molecule Force Spectroscopy",
-    "sent_at": "2026-08-08T16:51:57.546307Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.742695",
     "title": "Cell organization and disturbance-mapping using image activated cell-profiling (CODIAC)",
     "sent_at": "2026-08-08T18:58:24.625627Z",
@@ -557,6 +550,13 @@
     "title": "RNA-dependent chromatin organization during development",
     "sent_at": "2026-08-17T14:41:04.980044Z",
     "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744905",
+    "title": "BET bromodomain 2 inhibition facilitates SPOP-mediated degradation of chromatin-associated BRD4/BRD4-NUT, a therapeutic vulnerability in NUT carcinoma",
+    "sent_at": "2026-08-17T16:42:46.324704Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
