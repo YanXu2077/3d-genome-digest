@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.742174",
-    "title": "Early Emergence of Cultural Differences in Audiovisual Speech Perception",
-    "sent_at": "2026-08-09T05:15:11.655335Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117797",
     "title": "Integrative 3D genome and epigenomic analysis identifies TP53RK and SYBU as critical regulators of stemness and anti-tumor immunity in HCC.",
     "sent_at": "2026-08-09T05:15:11.655335Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.14.744974",
     "title": "Spatial second-order features predict glioma malignant transformation",
     "sent_at": "2026-08-18T01:49:55.586024Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744187",
+    "title": "Metabolic disease-relevant stimuli unmask context-dependent genetic regulation of cardiometabolic loci in human adipocytes",
+    "sent_at": "2026-08-18T03:26:28.209096Z",
     "tier": 3,
     "kind": "preprint"
   }
