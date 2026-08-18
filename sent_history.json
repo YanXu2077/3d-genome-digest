@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743405",
-    "title": "Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis",
-    "sent_at": "2026-08-09T11:02:06.879295Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.05.743110",
     "title": "Move BeTween modAlities (MBTA) employs flow matching to predict single cell data modalities",
     "sent_at": "2026-08-09T13:12:32.080169Z",
@@ -557,6 +550,13 @@
     "title": "Decoding single-cell replication states from imaging data reveals locus-specific subnuclear position dependencies of replication initiation",
     "sent_at": "2026-08-18T04:50:01.950505Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744942",
+    "title": "Coarse-grained models for simulations of double-stranded nucleic acids for mixed protein-nucleic acid condensates",
+    "sent_at": "2026-08-18T07:02:51.392842Z",
+    "tier": 2,
     "kind": "preprint"
   }
 ]
