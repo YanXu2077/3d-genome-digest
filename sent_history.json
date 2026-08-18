@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742604",
-    "title": "pbcftools: parallel execution of bcftools for large variant call sets",
-    "sent_at": "2026-08-10T02:31:51.865422Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742705",
     "title": "FOCUS: end-to-end preprocessing, alignment and resolution-matched integration of spatial multi-omics data",
     "sent_at": "2026-08-10T05:45:51.680900Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.13.744713",
     "title": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
     "sent_at": "2026-08-18T18:56:09.194694Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.742686",
+    "title": "A multilayered in silico analysis links UHRF1, DNA methylation and developmental chromatin memory to lineage-dependent prognosis in gastric, renal and adrenal cancers",
+    "sent_at": "2026-08-18T20:40:49.952132Z",
     "tier": 3,
     "kind": "preprint"
   }
