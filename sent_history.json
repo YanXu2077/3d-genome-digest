@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742671",
-    "title": "Virtual spatial transcriptomics from histopathology enables prognostic and therapeutic response prediction in cancer",
-    "sent_at": "2026-08-09T22:45:16.882146Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742604",
     "title": "pbcftools: parallel execution of bcftools for large variant call sets",
     "sent_at": "2026-08-10T02:31:51.865422Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.17.745371",
     "title": "Androgen receptor determines skeletal muscle sexual dimorphism",
     "sent_at": "2026-08-18T16:47:46.278269Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744713",
+    "title": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
+    "sent_at": "2026-08-18T18:56:09.194694Z",
     "tier": 3,
     "kind": "preprint"
   }
