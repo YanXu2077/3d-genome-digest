@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743437",
-    "title": "XSSDense: Time-resolved X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder",
-    "sent_at": "2026-08-09T20:49:16.742172Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742671",
     "title": "Virtual spatial transcriptomics from histopathology enables prognostic and therapeutic response prediction in cancer",
     "sent_at": "2026-08-09T22:45:16.882146Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.743982",
     "title": "Expression of photoactivatable molecules enables FCS in live cells by controlling fluorescence intensity",
     "sent_at": "2026-08-18T14:50:02.525082Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.17.745371",
+    "title": "Androgen receptor determines skeletal muscle sexual dimorphism",
+    "sent_at": "2026-08-18T16:47:46.278269Z",
     "tier": 3,
     "kind": "preprint"
   }
