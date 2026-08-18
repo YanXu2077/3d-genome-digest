@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742908",
-    "title": "Auto-sumoylation of UBC9 coordinates meiotic prophase and protects ovarian reserves",
-    "sent_at": "2026-08-09T14:47:40.238009Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742402",
     "title": "Intrauterine growth restriction is associated with adaptive hematopoietic reprogramming and selective immune rewiring in monozygotic twins",
     "sent_at": "2026-08-09T16:51:10.710703Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.12.743882",
     "title": "SynthMLM: A framework for interpretable analysis and synthetic localisation data generation for SMLM",
     "sent_at": "2026-08-18T08:53:24.805502Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.17.745107",
+    "title": "Isoform-specific regulation of SMARCAD1 dosage in ectodermal homeostasis and dysplasia",
+    "sent_at": "2026-08-18T10:46:46.636869Z",
     "tier": 3,
     "kind": "preprint"
   }
