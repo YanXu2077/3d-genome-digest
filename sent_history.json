@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743619",
-    "title": "Genome-wide association study in Heterogeneous Stock rats identifies genetic loci associated with aversion-based learning and cocaine aversion",
-    "sent_at": "2026-08-09T02:24:09.349780Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.742174",
     "title": "Early Emergence of Cultural Differences in Audiovisual Speech Perception",
     "sent_at": "2026-08-09T05:15:11.655335Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.15.744761",
     "title": "Enhancer RNA like function of intergenic inherited lncRNAs during maternal to zygotic transition in zebrafish",
     "sent_at": "2026-08-17T22:39:53.599549Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744974",
+    "title": "Spatial second-order features predict glioma malignant transformation",
+    "sent_at": "2026-08-18T01:49:55.586024Z",
     "tier": 3,
     "kind": "preprint"
   }
