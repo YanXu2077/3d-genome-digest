@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117797",
-    "title": "Integrative 3D genome and epigenomic analysis identifies TP53RK and SYBU as critical regulators of stemness and anti-tumor immunity in HCC.",
-    "sent_at": "2026-08-09T05:15:11.655335Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.06.743405",
     "title": "Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis",
     "sent_at": "2026-08-09T11:02:06.879295Z",
@@ -557,6 +550,13 @@
     "title": "Metabolic disease-relevant stimuli unmask context-dependent genetic regulation of cardiometabolic loci in human adipocytes",
     "sent_at": "2026-08-18T03:26:28.209096Z",
     "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744402",
+    "title": "Decoding single-cell replication states from imaging data reveals locus-specific subnuclear position dependencies of replication initiation",
+    "sent_at": "2026-08-18T04:50:01.950505Z",
+    "tier": 1,
     "kind": "preprint"
   }
 ]
