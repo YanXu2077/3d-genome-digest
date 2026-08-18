@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742537",
-    "title": "pysigscore: gene signatures scoring across bulk and single-cell transcriptomics",
-    "sent_at": "2026-08-09T18:57:45.040996Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.07.743437",
     "title": "XSSDense: Time-resolved X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder",
     "sent_at": "2026-08-09T20:49:16.742172Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.11.743997",
     "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization",
     "sent_at": "2026-08-18T13:07:44.501849Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.11.743982",
+    "title": "Expression of photoactivatable molecules enables FCS in live cells by controlling fluorescence intensity",
+    "sent_at": "2026-08-18T14:50:02.525082Z",
     "tier": 3,
     "kind": "preprint"
   }
