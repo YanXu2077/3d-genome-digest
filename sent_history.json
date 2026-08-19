@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.743812",
-    "title": "Polycomb establishes TAD-scale H3K27me3 mega-domains to safeguard neuronal identity",
-    "sent_at": "2026-08-11T11:06:18.055971Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.09.743789",
-    "title": "Single-locus chromatin memory enables flexible spatial fate specification in the Drosophila visual system",
-    "sent_at": "2026-08-11T13:29:31.077689Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.744058",
     "title": "LncRNA-mediated organization of oncogenic chromatin state is a targetable vulnerability in leukemia",
     "sent_at": "2026-08-11T15:15:37.798639Z",
@@ -557,6 +543,20 @@
     "title": "Two Unrelated Families With Noncoding Duplications Upstream of MSX2 Refine the Critical Regulatory Region Likely Involved in Cranial Bone Development and a Cleidocranial Dysplasia-Like Phenotype.",
     "sent_at": "2026-08-19T16:57:26.319927Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.18.745473",
+    "title": "Rapid and efficient generation of human 8-cell-like cells for embryo modelling",
+    "sent_at": "2026-08-19T18:55:10.892350Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag390",
+    "title": "Assessing Reproducibility of Hi-C Chromatin Interactions using Stratum-Adjusted Irreproducible Discovery Rate.",
+    "sent_at": "2026-08-19T18:55:10.892350Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
