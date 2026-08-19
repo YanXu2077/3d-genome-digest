@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.09.740023",
-    "title": "Sequence-dependent conformational and mechanical landscapes of double-stranded nucleic acids",
-    "sent_at": "2026-08-11T07:25:49.367552Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.09.743771",
-    "title": "CRISPR-FOIL: A Programmable CRISPR Tool to Engineer and Illuminate Chromatin Folding in Live Human Cells",
-    "sent_at": "2026-08-11T09:14:05.582102Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743812",
     "title": "Polycomb establishes TAD-scale H3K27me3 mega-domains to safeguard neuronal identity",
     "sent_at": "2026-08-11T11:06:18.055971Z",
@@ -557,6 +543,20 @@
     "title": "Dual roles for a chromatin insulator-H2Av axis in the DNA damage response and hematopoietic development in Drosophila.",
     "sent_at": "2026-08-19T14:52:21.694071Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744917",
+    "title": "Unpacking Chromatin Accessibility with Fiber-seq",
+    "sent_at": "2026-08-19T16:57:26.319927Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1155/humu/1258291",
+    "title": "Two Unrelated Families With Noncoding Duplications Upstream of MSX2 Refine the Critical Regulatory Region Likely Involved in Cranial Bone Development and a Cleidocranial Dysplasia-Like Phenotype.",
+    "sent_at": "2026-08-19T16:57:26.319927Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
