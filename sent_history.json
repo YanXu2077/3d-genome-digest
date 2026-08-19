@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742788",
-    "title": "A generative model for dimensionality reduction with millions of features and few samples",
-    "sent_at": "2026-08-10T09:47:23.343791Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.03.742606",
     "title": "ProtJEPA: A Multimodal Joint-Embedding Predictive Architecture for Protein Biological World Modeling with Multi-TeacherModality-Attentive Fusion",
     "sent_at": "2026-08-10T11:21:23.450208Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-19T01:51:24.188735Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44318-026-00902-0",
+    "title": "Nested TAD hierarchy defines cohesion zones on replicated chromosomes.",
+    "sent_at": "2026-08-19T03:28:31.074772Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
