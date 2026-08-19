@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.08.743664",
-    "title": "Regulatory mutants of the Tbx1 gene alter transcription programs of lineage determination and patterning in early mesoderm.",
-    "sent_at": "2026-08-10T21:03:21.170658Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.08.743652",
-    "title": "A nuclear role for the contractile protein troponin I/UNC-27 in regulating muscle aging in C. elegans",
-    "sent_at": "2026-08-10T22:58:36.713907Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742822",
     "title": "ARID5B drives an inflammatory-to-destructive shift in pathologic fibroblast behavior",
     "sent_at": "2026-08-11T02:24:02.020449Z",
@@ -557,6 +543,20 @@
     "title": "Acidic transcription factors position the genome at nuclear speckles through transcription -dependent and -independent mechanisms.",
     "sent_at": "2026-08-19T08:55:08.700221Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.18.745242",
+    "title": "Integrative enhancer discovery identifies functional enhancer dependencies in pediatric acute myeloid leukemia",
+    "sent_at": "2026-08-19T10:46:40.221012Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acs.accounts.6c00353",
+    "title": "Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale.",
+    "sent_at": "2026-08-19T10:46:40.221012Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
