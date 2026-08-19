@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743587",
-    "title": "Suppression of RIPK3 by EZH2 contributes to cigarette smoking-induced chemoresistance in lung cancer",
-    "sent_at": "2026-08-10T13:45:05.658383Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.07.743516",
-    "title": "scROMA: batch-aware pathway-activity inference and a ground-truth simulation framework for single-cell transcriptomics",
-    "sent_at": "2026-08-10T15:15:16.513027Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.08.743475",
     "title": "Evolution of mechanical chromatin insulators from selfish genetic elements",
     "sent_at": "2026-08-10T17:06:49.712579Z",
@@ -557,6 +543,20 @@
     "title": "Cohesin release-factor Wapl modulates axis and chromatin structure to promote conjunction and separation of meiotic chromosomes.",
     "sent_at": "2026-08-19T04:52:09.262123Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.13.744681",
+    "title": "RapidMACS: MACS3-identical peak calling, 50x faster",
+    "sent_at": "2026-08-19T07:06:29.520956Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jmb.2026.169992",
+    "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
+    "sent_at": "2026-08-19T07:06:29.520956Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
