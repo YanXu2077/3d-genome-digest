@@ -54,7 +54,11 @@ def http_get(url, timeout=30):
 
 
 def esearch(date_from, date_to, max_results=100):
-    keyword_clause = "(" + " OR ".join(KEYWORDS) + ")"
+    # PubMed has NO operator precedence — it evaluates strictly left to right,
+    # so "A OR B AND C" means "(A OR B) AND C". Several entries contain a bare
+    # AND, which would silently AND the whole preceding OR-chain. Parenthesize
+    # every entry so each stays self-contained.
+    keyword_clause = "(" + " OR ".join(f"({k})" for k in KEYWORDS) + ")"
     # PubMed expects YYYY/MM/DD format
     df = date_from.replace("-", "/")
     dt = date_to.replace("-", "/")

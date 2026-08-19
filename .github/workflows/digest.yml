@@ -110,6 +110,9 @@ jobs:
                - **JOURNAL**: highest-tier paper from `source == "PubMed"` not in sent_history
                If a source has 0 candidates after history exclusion, leave its files empty (the email step will skip that one).
 
+               **QUALITY FLOOR — this overrides "always send something":**
+               If the BEST available candidate for a source is Tier 4, write an EMPTY doi file for that source and send nothing from it. A silent slot is CORRECT and expected; do NOT reach for a Tier 4 paper just to fill the email. Sending an irrelevant paper is worse than sending nothing. Never inflate a paper's tier to clear this floor — assign the tier honestly first, then apply the floor.
+
             5. Write SIX plain-text files (no JSON, no escaping needed):
 
                PREPRINT:
