@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.08.743475",
-    "title": "Evolution of mechanical chromatin insulators from selfish genetic elements",
-    "sent_at": "2026-08-10T17:06:49.712579Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.08.743534",
-    "title": "The chromatin reader protein MLLT1 is critical to maintain normal B lymphopoiesis",
-    "sent_at": "2026-08-10T19:15:33.624294Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.08.743664",
     "title": "Regulatory mutants of the Tbx1 gene alter transcription programs of lineage determination and patterning in early mesoderm.",
     "sent_at": "2026-08-10T21:03:21.170658Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.jmb.2026.169992",
     "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
     "sent_at": "2026-08-19T07:06:29.520956Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.18.745309",
+    "title": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
+    "sent_at": "2026-08-19T08:55:08.700221Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.07.025",
+    "title": "Acidic transcription factors position the genome at nuclear speckles through transcription -dependent and -independent mechanisms.",
+    "sent_at": "2026-08-19T08:55:08.700221Z",
     "tier": 2,
     "kind": "journal"
   }
