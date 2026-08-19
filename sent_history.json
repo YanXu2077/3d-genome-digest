@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742627",
-    "title": "A Pseudo-Longitudinal Methylome Projection Framework Defines a Buccal PACE-like Aging-Rate Score from Cross-Sectional DNA Methylation Data",
-    "sent_at": "2026-08-10T08:02:36.794895Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742788",
     "title": "A generative model for dimensionality reduction with millions of features and few samples",
     "sent_at": "2026-08-10T09:47:23.343791Z",
@@ -557,6 +550,13 @@
     "title": "Probing intracellular physical environments by rotational and translational single-particle tracking",
     "sent_at": "2026-08-18T22:42:55.088221Z",
     "tier": 4,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.17.745350",
+    "title": "Cytoskeletal-nuclear control of alveolar fibroblast identity directs lung regeneration",
+    "sent_at": "2026-08-19T01:51:24.188735Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
