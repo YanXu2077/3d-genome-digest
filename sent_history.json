@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742822",
-    "title": "ARID5B drives an inflammatory-to-destructive shift in pathologic fibroblast behavior",
-    "sent_at": "2026-08-11T02:24:02.020449Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743836",
     "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance",
     "sent_at": "2026-08-11T05:21:22.569563Z",
@@ -556,6 +549,13 @@
     "doi": "10.1021/acs.accounts.6c00353",
     "title": "Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale.",
     "sent_at": "2026-08-19T10:46:40.221012Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s44320-026-00240-7",
+    "title": "Systematic comparison of estimates of transcription factor activity by ATAC-seq and multiplexed reporter assays.",
+    "sent_at": "2026-08-19T13:08:43.530150Z",
     "tier": 3,
     "kind": "journal"
   }
