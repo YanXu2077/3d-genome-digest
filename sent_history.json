@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.744010",
-    "title": "Lamin B1 affects nuclear shape and integrity through chromatin stiffness and not lamin stiffness",
-    "sent_at": "2026-08-11T19:20:06.266822Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743404",
     "title": "3D Electron Microscopy Reveals Diverse Chromosome Morphologies Across Dinoflagellate Species",
     "sent_at": "2026-08-11T21:02:34.082904Z",
@@ -557,6 +550,13 @@
     "title": "WAVE2 and REST/NRSF Regulate Clustered Gene Expression by Maintaining Heterochromatin Organization.",
     "sent_at": "2026-08-19T20:42:33.727985Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/1873-3468.70444",
+    "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
+    "sent_at": "2026-08-19T22:58:23.909499Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
