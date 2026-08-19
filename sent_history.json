@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.03.742606",
-    "title": "ProtJEPA: A Multimodal Joint-Embedding Predictive Architecture for Protein Biological World Modeling with Multi-TeacherModality-Attentive Fusion",
-    "sent_at": "2026-08-10T11:21:23.450208Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.07.743587",
     "title": "Suppression of RIPK3 by EZH2 contributes to cigarette smoking-induced chemoresistance in lung cancer",
     "sent_at": "2026-08-10T13:45:05.658383Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s44318-026-00902-0",
     "title": "Nested TAD hierarchy defines cohesion zones on replicated chromosomes.",
     "sent_at": "2026-08-19T03:28:31.074772Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117776",
+    "title": "Cohesin release-factor Wapl modulates axis and chromatin structure to promote conjunction and separation of meiotic chromosomes.",
+    "sent_at": "2026-08-19T04:52:09.262123Z",
     "tier": 1,
     "kind": "journal"
   }
