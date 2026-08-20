@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743252",
-    "title": "Spatial multi omics enables single cell transcriptome metabolome inference",
-    "sent_at": "2026-08-13T09:26:44.017484Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.11.743512",
-    "title": "Germline BRCA1 Mutation Deregulates Irradiation-Induced Cell Cycle Checkpoints in Human Mammary Luminal Progenitors",
-    "sent_at": "2026-08-13T11:13:52.172516Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.12.744469",
     "title": "Multi-ion permeation and dynamic conductance modulation in connexin gap junction channels",
     "sent_at": "2026-08-13T13:43:05.379060Z",
@@ -557,6 +543,20 @@
     "title": "Developmental expression of the skeletal muscle determination gene, MyoD , is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region.",
     "sent_at": "2026-08-20T19:00:06.684046Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745405",
+    "title": "BARe-seq enables high-throughput dissection of cis-regulatory control of transcriptional bursting",
+    "sent_at": "2026-08-20T21:03:43.777449Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.31.742155",
+    "title": "Cohesin promotes genomic stability by suppressing unequal sister chromatid exchange.",
+    "sent_at": "2026-08-20T21:03:43.777449Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
