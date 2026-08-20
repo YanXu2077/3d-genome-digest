@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.11.744009",
-    "title": "SAD-6/ATRX enables broad genome surveillance and defense in fungi",
-    "sent_at": "2026-08-12T02:44:17.320492Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.10.741731",
-    "title": "BRD9 inhibition induces selective radiosensitivity in glioblastoma through MYC pathway modulation",
-    "sent_at": "2026-08-12T05:50:17.264251Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.05.743041",
     "title": "DAF-12 germline-to-soma signaling mediates transgenerational longevity in C. elegans",
     "sent_at": "2026-08-12T07:53:04.608527Z",
@@ -556,6 +542,20 @@
     "doi": "10.1083/jcb.202511189",
     "title": "Perturbation of nuclear proteins by optogenetic trapping in Drosophila ovary.",
     "sent_at": "2026-08-20T03:28:58.475939Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.17.745167",
+    "title": "Nardilysin fine-tunes the mammalian circadian clock through selective modulation of PER2 function",
+    "sent_at": "2026-08-20T04:53:05.235066Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.tig.2026.07.008",
+    "title": "'Tango' or 'tangle' in transcriptional condensates.",
+    "sent_at": "2026-08-20T04:53:05.235066Z",
     "tier": 2,
     "kind": "journal"
   }
