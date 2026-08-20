@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743386",
-    "title": "High-speed atomic force-Raman microscopy",
-    "sent_at": "2026-08-12T17:14:38.180054Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.07.742730",
-    "title": "Targeting glucocorticoid signalling in dendritic cells for glioblastoma treatment",
-    "sent_at": "2026-08-12T19:24:00.438832Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.11.744254",
     "title": "Local fluidization of an active cytoplasmic gel partitions large cells",
     "sent_at": "2026-08-12T21:20:03.389378Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acs.nanolett.6c01802",
     "title": "Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy.",
     "sent_at": "2026-08-20T13:12:05.776264Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.14.744988",
+    "title": "AlphaGenome deletion responses complement supervised enhancer-gene relation prediction in primary human astrocytes",
+    "sent_at": "2026-08-20T14:56:49.586334Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41375-026-03095-x",
+    "title": "A novel role for transcription factor NFE2 in redox regulation and chemotherapy resistance in acute myeloid leukemia.",
+    "sent_at": "2026-08-20T14:56:49.586334Z",
     "tier": 3,
     "kind": "journal"
   }
