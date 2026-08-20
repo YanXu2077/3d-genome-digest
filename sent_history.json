@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.743404",
-    "title": "3D Electron Microscopy Reveals Diverse Chromosome Morphologies Across Dinoflagellate Species",
-    "sent_at": "2026-08-11T21:02:34.082904Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743840",
     "title": "Epigenetic evolution of colorectal cancer and its microenvironment reveals new vulnerabilities",
     "sent_at": "2026-08-11T23:08:42.295662Z",
@@ -557,6 +550,13 @@
     "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
     "sent_at": "2026-08-19T22:58:23.909499Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1073/pnas.2614314123",
+    "title": "Regulatory logic of neuronal differentiation in the Drosophila visual system.",
+    "sent_at": "2026-08-20T01:51:15.306276Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
