@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.06.743215",
-    "title": "In vivo cellular localisation and nanoscale organisation of NLRP3 inflammasomes",
-    "sent_at": "2026-08-12T15:18:18.581124Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.743386",
     "title": "High-speed atomic force-Raman microscopy",
     "sent_at": "2026-08-12T17:14:38.180054Z",
@@ -556,6 +549,13 @@
     "doi": "10.1126/sciadv.aeg2679",
     "title": "H3.3 chaperone Hira primes the effector program and function of regulatory T cells.",
     "sent_at": "2026-08-20T10:48:37.424458Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1021/acs.nanolett.6c01802",
+    "title": "Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy.",
+    "sent_at": "2026-08-20T13:12:05.776264Z",
     "tier": 3,
     "kind": "journal"
   }
