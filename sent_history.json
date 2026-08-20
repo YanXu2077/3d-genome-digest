@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.743840",
-    "title": "Epigenetic evolution of colorectal cancer and its microenvironment reveals new vulnerabilities",
-    "sent_at": "2026-08-11T23:08:42.295662Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.11.744009",
     "title": "SAD-6/ATRX enables broad genome surveillance and defense in fungi",
     "sent_at": "2026-08-12T02:44:17.320492Z",
@@ -557,6 +550,13 @@
     "title": "Regulatory logic of neuronal differentiation in the Drosophila visual system.",
     "sent_at": "2026-08-20T01:51:15.306276Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1083/jcb.202511189",
+    "title": "Perturbation of nuclear proteins by optogenetic trapping in Drosophila ovary.",
+    "sent_at": "2026-08-20T03:28:58.475939Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
