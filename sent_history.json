@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.743781",
-    "title": "Sequential division of labor between PAXX and XLF drives NHEJ synaptic complex stability and maturation",
-    "sent_at": "2026-08-13T05:49:06.371610Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.12.744353",
-    "title": "Differential turnover of apicobasal regulators drives emergent mechano-response and shape homeostasis",
-    "sent_at": "2026-08-13T07:51:33.073098Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.743252",
     "title": "Spatial multi omics enables single cell transcriptome metabolome inference",
     "sent_at": "2026-08-13T09:26:44.017484Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.07.28.741242",
     "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
     "sent_at": "2026-08-20T16:51:49.575889Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.16.745099",
+    "title": "Quantitative Model of Transcriptional Noise Regulation by mRNA Condensates",
+    "sent_at": "2026-08-20T19:00:06.684046Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741533",
+    "title": "Developmental expression of the skeletal muscle determination gene, MyoD , is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region.",
+    "sent_at": "2026-08-20T19:00:06.684046Z",
     "tier": 1,
     "kind": "journal"
   }
