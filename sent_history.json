@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.11.744217",
-    "title": "RelB proximity proteomics and CRISPR screening define chromatin regulators of noncanonical NF-κB control of HIV latency and reactivation",
-    "sent_at": "2026-08-12T13:44:18.927444Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.06.743215",
     "title": "In vivo cellular localisation and nanoscale organisation of NLRP3 inflammasomes",
     "sent_at": "2026-08-12T15:18:18.581124Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/anie.2990236",
     "title": "Single-Cell Imaging of Site-Specific RNA-Protein Interactions.",
     "sent_at": "2026-08-20T08:58:31.167783Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg2679",
+    "title": "H3.3 chaperone Hira primes the effector program and function of regulatory T cells.",
+    "sent_at": "2026-08-20T10:48:37.424458Z",
     "tier": 3,
     "kind": "journal"
   }
