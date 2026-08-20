@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.11.744254",
-    "title": "Local fluidization of an active cytoplasmic gel partitions large cells",
-    "sent_at": "2026-08-12T21:20:03.389378Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.11.744167",
-    "title": "Yra2 regulates proteolysis of Cse4 to prevent its mislocalization to non-centromeric regions for chromosomal stability in budding yeast",
-    "sent_at": "2026-08-13T02:42:49.978555Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743781",
     "title": "Sequential division of labor between PAXX and XLF drives NHEJ synaptic complex stability and maturation",
     "sent_at": "2026-08-13T05:49:06.371610Z",
@@ -557,6 +543,20 @@
     "title": "A novel role for transcription factor NFE2 in redox regulation and chemotherapy resistance in acute myeloid leukemia.",
     "sent_at": "2026-08-20T14:56:49.586334Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745721",
+    "title": "Multiple trans-regulators shape enhancer-promoter hub organization at a multi-enhancer locus",
+    "sent_at": "2026-08-20T16:51:49.575889Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741242",
+    "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
+    "sent_at": "2026-08-20T16:51:49.575889Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
