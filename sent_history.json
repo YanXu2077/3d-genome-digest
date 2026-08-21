@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743503",
-    "title": "CellConsensus: An agent-curated atlas for automatic cell typing",
-    "sent_at": "2026-08-14T15:18:49.299934Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.12.743743",
     "title": "Post-transcriptional glucocorticoid receptor signalling synchronises circadian rhythms",
     "sent_at": "2026-08-14T17:10:27.578147Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.07.30.741638",
     "title": "Structural determination of human nucleosomes reconstituted by the ExACT platform.",
     "sent_at": "2026-08-21T13:15:10.166193Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.28.741367",
+    "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons.",
+    "sent_at": "2026-08-21T14:54:59.999065Z",
     "tier": 3,
     "kind": "journal"
   }
