@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.12.743743",
-    "title": "Post-transcriptional glucocorticoid receptor signalling synchronises circadian rhythms",
-    "sent_at": "2026-08-14T17:10:27.578147Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.12.744422",
-    "title": "KDM6A Loss Confers an Invasive Phenotype in Osteosarcoma by Activating Cytoplasmic YAP-Dependent β-catenin Stabilisation",
-    "sent_at": "2026-08-14T21:00:57.630222Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bpj.2026.08.009",
     "title": "A logic-circuit framework for mapping long-range interaction networks to 3D chromatin conformations.",
     "sent_at": "2026-08-15T10:33:40.940996Z",
@@ -557,6 +543,20 @@
     "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons.",
     "sent_at": "2026-08-21T14:54:59.999065Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745738",
+    "title": "A Cajal body assembly factor regulates cell fate transitions in Arabidopsis",
+    "sent_at": "2026-08-21T16:55:17.040653Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag785",
+    "title": "Insights into the recruitment of the H3K4me3 reader Spp1 by the meiotic double-strand break protein Mer2.",
+    "sent_at": "2026-08-21T16:55:17.040653Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
