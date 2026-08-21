@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.12.744517",
-    "title": "The multifunctional scaffold protein Small ovary couples piRNA-guided transposon recognition to nuclear RNA decay and heterochromatin formation",
-    "sent_at": "2026-08-14T05:51:08.456338Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.13.744586",
     "title": "RERE and the Mediator complex cooperate with EWSR1::FLI1 in the reprogramming of Translation and Alternative Splicing, the latter being a therapeutically targetable vulnerability in Ewing sarcoma",
     "sent_at": "2026-08-14T09:41:46.207651Z",
@@ -557,6 +550,13 @@
     "title": "Integrative multi-omics analysis identifies an enhancer-driven ELF3-CLDN4 regulatory axis that shapes an immunosuppressive microenvironment and predicts prognosis in high-grade serous ovarian cancer.",
     "sent_at": "2026-08-21T07:10:44.660832Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.07.035",
+    "title": "Transcriptional kinases drive gene expression network plasticity.",
+    "sent_at": "2026-08-21T09:17:09.422990Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
