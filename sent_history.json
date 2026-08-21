@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.744815",
-    "title": "Isotype specific loss of HP1α but not of HP1β uncovers genomic regions that behave as HP1α-dependent common fragile sites",
-    "sent_at": "2026-08-16T03:11:25.696148Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.13.744683",
-    "title": "Genome-wide mapping of helicase-generated ssDNA reveals Hrq1 activity at RNA polymerase III-transcribed genes",
-    "sent_at": "2026-08-16T04:48:47.605915Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.10.743941",
     "title": "Noncoding regulatory mutations contribute to the aberrant gene expression in neuroblastoma.",
     "sent_at": "2026-08-16T06:57:33.675447Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acs.jpcb.6c03886",
     "title": "Multisite Threonine Phosphorylation in the SPT5 C-Terminal Region 1 Enables Sequence-Dependent Regulation without Global Structural Remodeling.",
     "sent_at": "2026-08-21T20:42:55.255421Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.07.29.741555",
+    "title": "Memory encoding reprograms neuronal transcriptional responses via durable chromatin remodeling.",
+    "sent_at": "2026-08-21T22:43:50.076001Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag819",
+    "title": "Newly synthesized histones: passive or active players in the regulation of epigenetic inheritance?",
+    "sent_at": "2026-08-21T22:43:50.076001Z",
     "tier": 3,
     "kind": "journal"
   }
