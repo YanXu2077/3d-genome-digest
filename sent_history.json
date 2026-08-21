@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.12.744478",
-    "title": "Integrated single-cell profiling of RNA and DNA interactomes reveals targetable chromatin architectures in cancer",
-    "sent_at": "2026-08-13T22:59:43.447767Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.13.744572",
-    "title": "Outside-in progression of heterochromatin replication and exclusion of CDC45 from the PCH domain in Drosophila",
-    "sent_at": "2026-08-14T02:41:09.051148Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.12.744517",
     "title": "The multifunctional scaffold protein Small ovary couples piRNA-guided transposon recognition to nuclear RNA decay and heterochromatin formation",
     "sent_at": "2026-08-14T05:51:08.456338Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.04.742839",
     "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers.",
     "sent_at": "2026-08-21T03:36:43.993460Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745709",
+    "title": "MYC-MIZ1 Complexes at Enhancers Tune Neuroendocrine Identity of Small Cell Lung Cancer",
+    "sent_at": "2026-08-21T07:10:44.660832Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.gene.2026.150360",
+    "title": "Integrative multi-omics analysis identifies an enhancer-driven ELF3-CLDN4 regulatory axis that shapes an immunosuppressive microenvironment and predicts prognosis in high-grade serous ovarian cancer.",
+    "sent_at": "2026-08-21T07:10:44.660832Z",
     "tier": 2,
     "kind": "journal"
   }
