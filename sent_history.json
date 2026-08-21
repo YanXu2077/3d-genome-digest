@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.07.743494",
-    "title": "Phosphorylation and pocket-binding ligands rewire the coupled networks in multidomain protein condensate",
-    "sent_at": "2026-08-13T19:18:56.825074Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.07.743490",
-    "title": "Learning Discrete Cell and Niche Codes from Spatial Transcriptomics Using Dual Residual Vector Quantization",
-    "sent_at": "2026-08-13T21:04:45.086912Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.12.744478",
     "title": "Integrated single-cell profiling of RNA and DNA interactomes reveals targetable chromatin architectures in cancer",
     "sent_at": "2026-08-13T22:59:43.447767Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.02.742296",
     "title": "Mapping genome-wide RNA-RNA and RNA-DNA interactions in nuclear hubs of male and female Drosophila cells.",
     "sent_at": "2026-08-21T01:59:55.793448Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745694",
+    "title": "LSm4 biomolecular condensates drive XRN2-mediated RNA decay at DNA double-strand breaks to facilitate repair",
+    "sent_at": "2026-08-21T03:36:43.993460Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.04.742839",
+    "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers.",
+    "sent_at": "2026-08-21T03:36:43.993460Z",
     "tier": 2,
     "kind": "journal"
   }
