@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.13.744621",
-    "title": "The centromere localization domain of kinetoplastid kinetochore protein KKT2 recognizes the free N-terminus of histone H3",
-    "sent_at": "2026-08-16T08:44:59.785938Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.11.743830",
     "title": "DNA Origami Nanomechanical Amplifiers for Resolving Single-Molecule Binding Events",
     "sent_at": "2026-08-16T10:37:01.537632Z",
@@ -556,6 +549,13 @@
     "doi": "10.3389/fgene.2026.1877252",
     "title": "Chromatin remodeling and epigenetic regulation of mesenchymal stem/stromal cells in osteoarthritis.",
     "sent_at": "2026-08-22T01:47:37.712819Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/cvr/cvag178",
+    "title": "Sirt1 inhibits the recruitment of RNA polymerase II to metabolic gene promoter during pressure overload through competition with the preinitiation complex on Sub1.",
+    "sent_at": "2026-08-22T03:16:55.016383Z",
     "tier": 3,
     "kind": "journal"
   }
