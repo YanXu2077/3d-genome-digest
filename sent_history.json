@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.10.743941",
-    "title": "Noncoding regulatory mutations contribute to the aberrant gene expression in neuroblastoma.",
-    "sent_at": "2026-08-16T06:57:33.675447Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.13.744621",
     "title": "The centromere localization domain of kinetoplastid kinetochore protein KKT2 recognizes the free N-terminus of histone H3",
     "sent_at": "2026-08-16T08:44:59.785938Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/nar/gkag819",
     "title": "Newly synthesized histones: passive or active players in the regulation of epigenetic inheritance?",
     "sent_at": "2026-08-21T22:43:50.076001Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3389/fgene.2026.1877252",
+    "title": "Chromatin remodeling and epigenetic regulation of mesenchymal stem/stromal cells in osteoarthritis.",
+    "sent_at": "2026-08-22T01:47:37.712819Z",
     "tier": 3,
     "kind": "journal"
   }
