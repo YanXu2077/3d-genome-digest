@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.13.744004",
-    "title": "De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies",
-    "sent_at": "2026-08-16T22:36:09.384176Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.14.744943",
-    "title": "Ablation and Seed-driven Restoration of an Alpha-Satellite Devoid Human Centromere Reveals Size Homeostasis Mechanisms",
-    "sent_at": "2026-08-17T13:05:54.251929Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.14.744931",
     "title": "RNA-dependent chromatin organization during development",
     "sent_at": "2026-08-17T14:41:04.980044Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41583-026-01074-w",
     "title": "Early life experiences, the neural epigenome and affective disorder risk.",
     "sent_at": "2026-08-22T08:54:58.213674Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.20.746118",
+    "title": "SPIN1 selectively silences evolutionarily young transposable elements through chromatin regulation",
+    "sent_at": "2026-08-22T10:39:50.716355Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/ijnp/pyag045",
+    "title": "Multiomic Single-Nucleus Profiling Reveals Cell-Type-Specific Epigenetic and Transcriptional Dysregulation in Major Depressive Disorder Brain.",
+    "sent_at": "2026-08-22T10:39:50.716355Z",
     "tier": 3,
     "kind": "journal"
   }
