@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.744920",
-    "title": "Impaired ZNF560 repression during induced pluripotent stem cell reprogramming indicates early epigenetic alterations in Schizophrenia",
-    "sent_at": "2026-08-17T20:41:55.157183Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.15.744761",
     "title": "Enhancer RNA like function of intergenic inherited lncRNAs during maternal to zygotic transition in zebrafish",
     "sent_at": "2026-08-17T22:39:53.599549Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-22T14:37:21.983116Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.17.745340",
+    "title": "Integrated Analysis of Skeletal Muscle Transcriptional Networks Characterizes Dysregulation in Pathways and Trait-Associated Regulatory Regions in Type 2 Diabetes",
+    "sent_at": "2026-08-22T16:42:40.911158Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
