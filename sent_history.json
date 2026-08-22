@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.11.743830",
-    "title": "DNA Origami Nanomechanical Amplifiers for Resolving Single-Molecule Binding Events",
-    "sent_at": "2026-08-16T10:37:01.537632Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.14.744810",
-    "title": "Molecular orchestration of global actin remodelling by INF2",
-    "sent_at": "2026-08-16T13:00:32.419645Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.13.744695",
     "title": "Healing of chromosomal breaks is impeded in cells expressing progerin",
     "sent_at": "2026-08-16T14:37:12.574858Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/cvr/cvag178",
     "title": "Sirt1 inhibits the recruitment of RNA polymerase II to metabolic gene promoter during pressure overload through competition with the preinitiation complex on Sub1.",
     "sent_at": "2026-08-22T03:16:55.016383Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.20.745648",
+    "title": "Loss of cohesin subunit Stag1 in zebrafish limits cell cycle progression and is compensated by altered BMP signalling and metabolic pathways",
+    "sent_at": "2026-08-22T04:48:50.742902Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.26508/lsa.202503546",
+    "title": "Interactions of LINE-1 ORF1p with proteins and chromatin suggest a role in neuronal physiology.",
+    "sent_at": "2026-08-22T04:48:50.742902Z",
     "tier": 3,
     "kind": "journal"
   }
