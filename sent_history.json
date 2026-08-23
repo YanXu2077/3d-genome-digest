@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.744942",
-    "title": "Coarse-grained models for simulations of double-stranded nucleic acids for mixed protein-nucleic acid condensates",
-    "sent_at": "2026-08-18T07:02:51.392842Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.12.743882",
     "title": "SynthMLM: A framework for interpretable analysis and synthetic localisation data generation for SMLM",
     "sent_at": "2026-08-18T08:53:24.805502Z",
@@ -557,6 +550,13 @@
     "title": "Chemical tools for BAZ2A/B biology: discovery of dual and BAZ2B-selective PROTAC degraders.",
     "sent_at": "2026-08-22T22:54:29.671548Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.patter.2026.101545",
+    "title": "Deep learning enabled prediction of nuclear lamina-associated chromatin.",
+    "sent_at": "2026-08-23T03:14:45.985397Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
