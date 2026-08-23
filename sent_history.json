@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.742686",
-    "title": "A multilayered in silico analysis links UHRF1, DNA methylation and developmental chromatin memory to lineage-dependent prognosis in gastric, renal and adrenal cancers",
-    "sent_at": "2026-08-18T20:40:49.952132Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.14.744592",
     "title": "Probing intracellular physical environments by rotational and translational single-particle tracking",
     "sent_at": "2026-08-18T22:42:55.088221Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.canlet.2026.218797",
     "title": "Loss of PBRM1 accelerates pancreatic cancer progression by inducing acquisition of mesenchymal phenotype and inflammatory cancer-associated fibroblasts reprogramming.",
     "sent_at": "2026-08-23T13:01:48.523663Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.mrfmmm.2026.111947",
+    "title": "In silico analysis of missense variants in functional domains of PWWP2A and PWWP2B proteins.",
+    "sent_at": "2026-08-23T14:36:40.482492Z",
     "tier": 3,
     "kind": "journal"
   }
