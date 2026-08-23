@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.12.743882",
-    "title": "SynthMLM: A framework for interpretable analysis and synthetic localisation data generation for SMLM",
-    "sent_at": "2026-08-18T08:53:24.805502Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.17.745107",
     "title": "Isoform-specific regulation of SMARCAD1 dosage in ectodermal homeostasis and dysplasia",
     "sent_at": "2026-08-18T10:46:46.636869Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.patter.2026.101545",
     "title": "Deep learning enabled prediction of nuclear lamina-associated chromatin.",
     "sent_at": "2026-08-23T03:14:45.985397Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117888",
+    "title": "Emergent 3D genome reorganization and graded gene control from the stepwise assembly of transcriptional condensates.",
+    "sent_at": "2026-08-23T04:50:42.499142Z",
     "tier": 1,
     "kind": "journal"
   }
