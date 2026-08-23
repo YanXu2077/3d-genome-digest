@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.744592",
-    "title": "Probing intracellular physical environments by rotational and translational single-particle tracking",
-    "sent_at": "2026-08-18T22:42:55.088221Z",
-    "tier": 4,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.17.745350",
     "title": "Cytoskeletal-nuclear control of alveolar fibroblast identity directs lung regeneration",
     "sent_at": "2026-08-19T01:51:24.188735Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.mrfmmm.2026.111947",
     "title": "In silico analysis of missense variants in functional domains of PWWP2A and PWWP2B proteins.",
     "sent_at": "2026-08-23T14:36:40.482492Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1177/15578100261479165",
+    "title": "Phosphosite-Centric Association of MBD3 and NuRD Complex Based on Meta-Analysis of Global Human Phosphoproteome.",
+    "sent_at": "2026-08-23T16:40:58.642323Z",
     "tier": 3,
     "kind": "journal"
   }
