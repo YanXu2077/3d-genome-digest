@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.11.743982",
-    "title": "Expression of photoactivatable molecules enables FCS in live cells by controlling fluorescence intensity",
-    "sent_at": "2026-08-18T14:50:02.525082Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.17.745371",
     "title": "Androgen receptor determines skeletal muscle sexual dimorphism",
     "sent_at": "2026-08-18T16:47:46.278269Z",
@@ -556,6 +549,13 @@
     "doi": "10.1096/fj.202603153R",
     "title": "Nonlinearities and Switch-Like Behavior in Gene Expression: From Genetics to Biochemistry and Back.",
     "sent_at": "2026-08-23T07:00:08.505762Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117886",
+    "title": "RNA degradation by DIS3 is a necessary step in the resolution of backtracked transcription complexes.",
+    "sent_at": "2026-08-23T08:44:33.773160Z",
     "tier": 3,
     "kind": "journal"
   }
