@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag390",
-    "title": "Assessing Reproducibility of Hi-C Chromatin Interactions using Stratum-Adjusted Irreproducible Discovery Rate.",
-    "sent_at": "2026-08-19T18:55:10.892350Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.14.744963",
-    "title": "Mitochondrial stress signaling shapes the nuclear response to loss of the chromatin reader MRG-1",
-    "sent_at": "2026-08-19T20:42:33.727985Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1096/fj.202601513R",
     "title": "WAVE2 and REST/NRSF Regulate Clustered Gene Expression by Maintaining Heterochromatin Organization.",
     "sent_at": "2026-08-19T20:42:33.727985Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag824",
     "title": "CpG content contributes to tissue-resident macrophage enhancer selection.",
     "sent_at": "2026-08-24T18:58:11.392700Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746286",
+    "title": "Actin-related ACTL8 localizes to the nucleus and modulates locus-specific transcription through chromatin regulation",
+    "sent_at": "2026-08-24T20:45:17.655267Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/bies.70177",
+    "title": "Dual Roads of CENP-A for Centromere Identification.",
+    "sent_at": "2026-08-24T20:45:17.655267Z",
     "tier": 3,
     "kind": "journal"
   }
