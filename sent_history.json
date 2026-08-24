@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1155/humu/1258291",
-    "title": "Two Unrelated Families With Noncoding Duplications Upstream of MSX2 Refine the Critical Regulatory Region Likely Involved in Cranial Bone Development and a Cleidocranial Dysplasia-Like Phenotype.",
-    "sent_at": "2026-08-19T16:57:26.319927Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.18.745473",
-    "title": "Rapid and efficient generation of human 8-cell-like cells for embryo modelling",
-    "sent_at": "2026-08-19T18:55:10.892350Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag390",
     "title": "Assessing Reproducibility of Hi-C Chromatin Interactions using Stratum-Adjusted Irreproducible Discovery Rate.",
     "sent_at": "2026-08-19T18:55:10.892350Z",
@@ -557,6 +543,20 @@
     "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
     "sent_at": "2026-08-24T16:55:49.354470Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.22.746193",
+    "title": "Paternal cardiac injury elicits an inflammatory signal relay to the gonads with intergenerational cardiac effects in vertebrates",
+    "sent_at": "2026-08-24T18:58:11.392700Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag824",
+    "title": "CpG content contributes to tissue-resident macrophage enhancer selection.",
+    "sent_at": "2026-08-24T18:58:11.392700Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
