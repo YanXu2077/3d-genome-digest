@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117776",
-    "title": "Cohesin release-factor Wapl modulates axis and chromatin structure to promote conjunction and separation of meiotic chromosomes.",
-    "sent_at": "2026-08-19T04:52:09.262123Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.13.744681",
-    "title": "RapidMACS: MACS3-identical peak calling, 50x faster",
-    "sent_at": "2026-08-19T07:06:29.520956Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jmb.2026.169992",
     "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
     "sent_at": "2026-08-19T07:06:29.520956Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-08-24T03:13:56.992739Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.18.745447",
+    "title": "Implicit Hierarchical Tensor Decomposition of Single-Cell Four-Omics Data Reveals Cell-Type-Associated Enhancer--Promoter Regulatory Programs",
+    "sent_at": "2026-08-24T04:58:31.039730Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/21541264.2026.2698182",
+    "title": "RNA polymerase II removal: transcription quality control and gene regulation.",
+    "sent_at": "2026-08-24T04:58:31.039730Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
