@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.18.745309",
-    "title": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
-    "sent_at": "2026-08-19T08:55:08.700221Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.07.025",
-    "title": "Acidic transcription factors position the genome at nuclear speckles through transcription -dependent and -independent mechanisms.",
-    "sent_at": "2026-08-19T08:55:08.700221Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.18.745242",
     "title": "Integrative enhancer discovery identifies functional enhancer dependencies in pediatric acute myeloid leukemia",
     "sent_at": "2026-08-19T10:46:40.221012Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-08-24T09:02:39.184290Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746258",
+    "title": "Direct visualization of MCM helicase activation and replisome coupling in situ",
+    "sent_at": "2026-08-24T10:53:00.437156Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1111/andr.70356",
+    "title": "Spatiotemporal Expression of ARRDC5 in Mammalian Spermatogenesis.",
+    "sent_at": "2026-08-24T10:53:00.437156Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
