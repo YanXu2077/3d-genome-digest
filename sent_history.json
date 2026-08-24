@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/g3journal/jkag185",
-    "title": "Dual roles for a chromatin insulator-H2Av axis in the DNA damage response and hematopoietic development in Drosophila.",
-    "sent_at": "2026-08-19T14:52:21.694071Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.14.744917",
-    "title": "Unpacking Chromatin Accessibility with Fiber-seq",
-    "sent_at": "2026-08-19T16:57:26.319927Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1155/humu/1258291",
     "title": "Two Unrelated Families With Noncoding Duplications Upstream of MSX2 Refine the Critical Regulatory Region Likely Involved in Cranial Bone Development and a Cleidocranial Dysplasia-Like Phenotype.",
     "sent_at": "2026-08-19T16:57:26.319927Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-08-24T14:57:24.484672Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.22.746471",
+    "title": "GATA3-extension mutants rewire lineage identity in luminal breast cancer",
+    "sent_at": "2026-08-24T16:55:49.354470Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag492",
+    "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
+    "sent_at": "2026-08-24T16:55:49.354470Z",
+    "tier": 1,
+    "kind": "journal"
   }
 ]
