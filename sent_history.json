@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jmb.2026.169992",
-    "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
-    "sent_at": "2026-08-19T07:06:29.520956Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.18.745309",
     "title": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
     "sent_at": "2026-08-19T08:55:08.700221Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-24T04:58:31.039730Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.18.745337",
+    "title": "Myeloid IRF5 is required for TLR7-driven inflammatory hemophagocyte differentiation and Macrophage Activation Syndrome",
+    "sent_at": "2026-08-24T09:02:39.184290Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
