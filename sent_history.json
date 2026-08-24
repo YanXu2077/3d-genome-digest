@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1096/fj.202601513R",
-    "title": "WAVE2 and REST/NRSF Regulate Clustered Gene Expression by Maintaining Heterochromatin Organization.",
-    "sent_at": "2026-08-19T20:42:33.727985Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1002/1873-3468.70444",
     "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
     "sent_at": "2026-08-19T22:58:23.909499Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-24T20:45:17.655267Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745838",
+    "title": "Human panepigenome represents epigenomic diversity",
+    "sent_at": "2026-08-24T22:42:24.994331Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
