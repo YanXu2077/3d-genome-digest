@@ -37,9 +37,10 @@ def http_get(url, timeout=30):
 
 
 def main():
-    # Widen the lookback so a quiet 48h does not force a bad pick. sent_history
-    # dedupes, so older-but-unsent papers surface instead of Tier 4 filler.
-    window_days = int(os.environ.get("WINDOW_DAYS", "7"))
+    # Same-day window: today + yesterday UTC. Yesterday is kept only because
+    # bioRxiv posts in the US evening, so "today" in the reader's timezone
+    # straddles the UTC boundary. Do NOT widen this — stale papers are useless.
+    window_days = int(os.environ.get("WINDOW_DAYS", "2"))
     today = datetime.now(timezone.utc).date()
     start = today - timedelta(days=window_days - 1)
     date_from = start.isoformat()

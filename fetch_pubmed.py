@@ -183,8 +183,8 @@ def safe_efetch_with_retry(pmids, attempts=3):
 
 
 def main():
-    # Match the bioRxiv lookback: a quiet 48h should not force a bad pick.
-    window_days = int(os.environ.get("WINDOW_DAYS", "7"))
+    # Same-day window, matching fetch_papers.py. Do NOT widen.
+    window_days = int(os.environ.get("WINDOW_DAYS", "2"))
     today = datetime.now(timezone.utc).date()
     start = today - timedelta(days=window_days - 1)
     date_from = start.isoformat()

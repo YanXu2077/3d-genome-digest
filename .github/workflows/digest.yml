@@ -72,7 +72,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          claude_args: '--max-turns 25 --model claude-sonnet-4-6 --allowed-tools "Read,Write,Bash"'
+          claude_args: '--max-turns 45 --model claude-sonnet-4-6 --allowed-tools "Read,Write,Bash"'
           prompt: |
             You are curating a daily research digest for a 3D genome / Micro-C / loop extrusion / single-molecule chromatin researcher (MIT). DO NOT mention "Hansen Lab" or "Hansen" anywhere.
 
@@ -89,7 +89,7 @@ jobs:
             TASK: pick TWO papers — one preprint + one journal article.
 
             1. Read /tmp/papers.json — fields: {title, authors, date, doi, url, category, abstract, source}. `source` is either "bioRxiv" (preprint) or "PubMed" (journal article).
-               The pool spans a ~7-DAY lookback, already relevance-prescreened and ranked. Papers are NOT all from today, and that is intentional: a strong 5-day-old paper that has never been sent beats a weak one from today. Do NOT prefer a paper just because its date is more recent — rank by tier first, and only use recency to break ties WITHIN the same tier.
+               The pool is TODAY's papers only (today + yesterday UTC, because bioRxiv posts in the US evening). It is already relevance-prescreened.
             2. Read sent_history.json — list of already-emailed DOIs. EXCLUDE any paper whose `doi` matches an entry in sent_history.
 
             3. STRICT TIER DEFINITIONS (BE HONEST, DO NOT INFLATE — a Tier 4 day is normal):
@@ -106,7 +106,12 @@ jobs:
                - This is the ONLY way an accessibility-focused paper can escape Tier 3. A pure ATAC paper with NO 3D data stays Tier 3 — do not promote it.
                - Perturbation studies are the most valuable case: something is perturbed (CRISPRi/degron/KO/differentiation) and BOTH accessibility and contacts are measured before/after.
 
-            4. Pick TWO papers (one from each source):
+            4. BE THOROUGH — spend your turns here, not on shortcuts:
+               - Read the ENTIRE papers.json. Do not stop at the first plausible match and do not judge from titles alone; open the abstract of every candidate that could plausibly reach Tier 1 or Tier 2.
+               - Use Bash (grep/python) to scan the pool for the Tier 1 keywords so nothing is missed, THEN read those abstracts in full before deciding.
+               - Re-check your top 2-3 candidates against the tier definitions before committing. A wrong pick costs the reader more than extra turns cost you.
+
+            5. Pick TWO papers (one from each source):
                - **PREPRINT**: highest-tier paper from `source == "bioRxiv"` not in sent_history
                - **JOURNAL**: highest-tier paper from `source == "PubMed"` not in sent_history
                If a source has 0 candidates after history exclusion, leave its files empty (the email step will skip that one).
@@ -114,7 +119,7 @@ jobs:
                **QUALITY FLOOR — this overrides "always send something":**
                If the BEST available candidate for a source is Tier 4, write an EMPTY doi file for that source and send nothing from it. A silent slot is CORRECT and expected; do NOT reach for a Tier 4 paper just to fill the email. Sending an irrelevant paper is worse than sending nothing. Never inflate a paper's tier to clear this floor — assign the tier honestly first, then apply the floor.
 
-            5. Write SIX plain-text files (no JSON, no escaping needed):
+            6. Write SIX plain-text files (no JSON, no escaping needed):
 
                PREPRINT:
                - /tmp/preprint_doi.txt — picked bioRxiv DOI (single line, nothing else); empty file if no preprint candidate
