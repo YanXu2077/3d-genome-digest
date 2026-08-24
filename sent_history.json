@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s44320-026-00240-7",
-    "title": "Systematic comparison of estimates of transcription factor activity by ATAC-seq and multiplexed reporter assays.",
-    "sent_at": "2026-08-19T13:08:43.530150Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/g3journal/jkag185",
     "title": "Dual roles for a chromatin insulator-H2Av axis in the DNA damage response and hematopoietic development in Drosophila.",
     "sent_at": "2026-08-19T14:52:21.694071Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-24T13:10:19.988286Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.22.746397",
+    "title": "SOX2 terminates trophectoderm competence in inner cell mass by closing trophectoderm enhancers",
+    "sent_at": "2026-08-24T14:57:24.484672Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
