@@ -37,13 +37,16 @@ def http_get(url, timeout=30):
 
 
 def main():
+    # Widen the lookback so a quiet 48h does not force a bad pick. sent_history
+    # dedupes, so older-but-unsent papers surface instead of Tier 4 filler.
+    window_days = int(os.environ.get("WINDOW_DAYS", "7"))
     today = datetime.now(timezone.utc).date()
-    yesterday = today - timedelta(days=1)
-    date_from = yesterday.isoformat()
+    start = today - timedelta(days=window_days - 1)
+    date_from = start.isoformat()
     date_to = today.isoformat()
 
     papers = []
-    for cursor in range(0, 4000, 30):
+    for cursor in range(0, 12000, 30):
         url = f"https://api.biorxiv.org/details/biorxiv/{date_from}/{date_to}/{cursor}"
         # Retry on transient errors (bioRxiv API occasionally 5xx / bad JSON)
         attempts, last_err = 3, None
@@ -65,7 +68,7 @@ def main():
             break
         papers.extend(coll)
 
-    keep_dates = {date_from, date_to}
+    keep_dates = {(start + timedelta(days=i)).isoformat() for i in range(window_days)}
     papers = [p for p in papers if p.get("date") in keep_dates]
 
     slim = []
@@ -88,6 +91,32 @@ def main():
             "category": p.get("category", ""),
             "abstract": p.get("abstract", ""),
         })
+
+    # Relevance prescreen: a 7-day window would otherwise hand Claude ~3000
+    # papers. Keep only those whose title/abstract touches the reader's topics,
+    # newest first, capped. This removes Tier 4 filler at the source.
+    RELEVANT = (
+        "hi-c", "micro-c", "microc", "loop extrusion", "cohesin", "ctcf", "tad",
+        "topologically associating", "3d genome", "chromosome conformation",
+        "chromatin loop", "compartment", "condensin", "nucleosome", "chromatin",
+        "atac", "dnase", "accessibility", "single-molecule", "single molecule",
+        "phase separation", "condensate", "rna polymerase ii", "pol ii",
+        "enhancer", "promoter", "polymer model", "hichip", "capture-c",
+        "nuclear organization", "genome organization", "transcription factor",
+    )
+    MAX_POOL = int(os.environ.get("MAX_POOL", "220"))
+
+    def hits(p):
+        blob = (p.get("title", "") + " " + p.get("abstract", "")).lower()
+        return sum(1 for k in RELEVANT if k in blob)
+
+    scored = [(hits(p), p) for p in slim]
+    matched = [(n, p) for n, p in scored if n > 0]
+    matched.sort(key=lambda t: (t[1].get("date", ""), t[0]), reverse=True)
+    dropped_irrelevant = len(slim) - len(matched)
+    slim = [p for _, p in matched[:MAX_POOL]]
+    print(f"prescreen: dropped {dropped_irrelevant} with no topic keyword, "
+          f"capped to {len(slim)} (max {MAX_POOL})", file=sys.stderr)
 
     out = {"window_utc": [date_from, date_to], "count": len(slim), "papers": slim}
     print(f"Fetched {len(papers)} in window, dropped {skipped_revisions} non-v1, "

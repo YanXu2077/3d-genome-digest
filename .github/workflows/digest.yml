@@ -89,6 +89,7 @@ jobs:
             TASK: pick TWO papers — one preprint + one journal article.
 
             1. Read /tmp/papers.json — fields: {title, authors, date, doi, url, category, abstract, source}. `source` is either "bioRxiv" (preprint) or "PubMed" (journal article).
+               The pool spans a ~7-DAY lookback, already relevance-prescreened and ranked. Papers are NOT all from today, and that is intentional: a strong 5-day-old paper that has never been sent beats a weak one from today. Do NOT prefer a paper just because its date is more recent — rank by tier first, and only use recency to break ties WITHIN the same tier.
             2. Read sent_history.json — list of already-emailed DOIs. EXCLUDE any paper whose `doi` matches an entry in sent_history.
 
             3. STRICT TIER DEFINITIONS (BE HONEST, DO NOT INFLATE — a Tier 4 day is normal):

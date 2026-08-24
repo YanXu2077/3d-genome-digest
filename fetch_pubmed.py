@@ -7,6 +7,7 @@ Stdlib only.
 """
 
 import json
+import os
 import sys
 import time
 import urllib.parse
@@ -94,7 +95,9 @@ def parse_articles(xml_text, date_from, date_to):
     if not xml_text.strip():
         return []
     root = ET.fromstring(xml_text)
-    keep_dates = {date_from, date_to}
+    d0 = datetime.strptime(date_from, "%Y-%m-%d").date()
+    d1 = datetime.strptime(date_to, "%Y-%m-%d").date()
+    keep_dates = {(d0 + timedelta(days=i)).isoformat() for i in range((d1 - d0).days + 1)}
     out = []
     for art in root.iter("PubmedArticle"):
         try:
@@ -159,7 +162,7 @@ def safe_esearch_with_retry(date_from, date_to, attempts=3):
     last_err = None
     for i in range(attempts):
         try:
-            return esearch(date_from, date_to, max_results=100)
+            return esearch(date_from, date_to, max_results=300)
         except Exception as e:
             last_err = e
             print(f"PubMed esearch attempt {i+1}/{attempts} failed: {e}", file=sys.stderr)
@@ -180,9 +183,11 @@ def safe_efetch_with_retry(pmids, attempts=3):
 
 
 def main():
+    # Match the bioRxiv lookback: a quiet 48h should not force a bad pick.
+    window_days = int(os.environ.get("WINDOW_DAYS", "7"))
     today = datetime.now(timezone.utc).date()
-    yesterday = today - timedelta(days=1)
-    date_from = yesterday.isoformat()
+    start = today - timedelta(days=window_days - 1)
+    date_from = start.isoformat()
     date_to = today.isoformat()
 
     try:

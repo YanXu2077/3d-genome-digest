@@ -5,6 +5,7 @@ papers with broken URLs (4xx/5xx) so the user never receives a dead link."""
 
 import concurrent.futures
 import json
+import os
 import sys
 import urllib.error
 import urllib.request
@@ -82,6 +83,32 @@ def main():
     skipped_count = sum(1 for p in deduped if p.get("source") in SKIP_VALIDATION_SOURCES)
     print(f"URL validation: checked {len(needs_check_idx)}, skipped(trusted) {skipped_count} | dropped: {drops_summary} | kept {len(keepers)}/{len(deduped)}",
           file=sys.stderr)
+
+    # With a 7-day lookback the pool gets large. Rank by topic-keyword density
+    # and keep the strongest N per source so Claude sees depth, not noise.
+    RELEVANT = (
+        "hi-c", "micro-c", "microc", "loop extrusion", "cohesin", "ctcf", "tad",
+        "topologically associating", "3d genome", "chromosome conformation",
+        "chromatin loop", "compartment", "condensin", "nucleosome", "chromatin",
+        "atac", "dnase", "accessibility", "single-molecule", "single molecule",
+        "phase separation", "condensate", "rna polymerase ii", "pol ii",
+        "enhancer", "promoter", "polymer model", "hichip", "capture-c",
+        "nuclear organization", "genome organization", "transcription factor",
+    )
+    PER_SOURCE = int(os.environ.get("PER_SOURCE_CAP", "120"))
+
+    def score(p):
+        blob = (p.get("title", "") + " " + p.get("abstract", "")).lower()
+        return sum(1 for k in RELEVANT if k in blob)
+
+    ranked = []
+    for src in sorted({p.get("source", "?") for p in keepers}):
+        grp = [p for p in keepers if p.get("source") == src]
+        grp.sort(key=lambda p: (score(p), p.get("date", "")), reverse=True)
+        kept_grp = [p for p in grp if score(p) > 0][:PER_SOURCE]
+        print(f"rank {src}: {len(grp)} -> {len(kept_grp)} (cap {PER_SOURCE})", file=sys.stderr)
+        ranked.extend(kept_grp)
+    keepers = ranked
 
     window = bx.get("window_utc") or pm.get("window_utc") or []
     out = {
