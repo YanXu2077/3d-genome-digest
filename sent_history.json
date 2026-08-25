@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.741242",
-    "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
-    "sent_at": "2026-08-20T16:51:49.575889Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.16.745099",
     "title": "Quantitative Model of Transcriptional Noise Regulation by mRNA Condensates",
     "sent_at": "2026-08-20T19:00:06.684046Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s41467-026-75592-7",
     "title": "Multi-subunit collaboration enables Smc5/6 to function as a composite SUMO E3 complex.",
     "sent_at": "2026-08-25T13:11:22.905242Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.26508/lsa.202603746",
+    "title": "Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.",
+    "sent_at": "2026-08-25T15:00:47.176894Z",
     "tier": 3,
     "kind": "journal"
   }
