@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeg2679",
-    "title": "H3.3 chaperone Hira primes the effector program and function of regulatory T cells.",
-    "sent_at": "2026-08-20T10:48:37.424458Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1021/acs.nanolett.6c01802",
     "title": "Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy.",
     "sent_at": "2026-08-20T13:12:05.776264Z",
@@ -557,6 +550,13 @@
     "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
     "sent_at": "2026-08-25T07:09:08.823669Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117813",
+    "title": "The R-loop-SPT6-SETD2 axis safeguards H3K36me3 to prevent broad H3K4me3 invasion in mouse oocytes.",
+    "sent_at": "2026-08-25T08:58:26.897045Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
