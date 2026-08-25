@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.tig.2026.07.008",
-    "title": "'Tango' or 'tangle' in transcriptional condensates.",
-    "sent_at": "2026-08-20T04:53:05.235066Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.molp.2026.08.006",
-    "title": "Small GTPase RAN-driven PNET2 oligomerization and phase separation at the nuclear lamina promote nuclear envelope integrity in plants.",
-    "sent_at": "2026-08-20T07:07:44.372732Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1002/anie.2990236",
     "title": "Single-Cell Imaging of Site-Specific RNA-Protein Interactions.",
     "sent_at": "2026-08-20T08:58:31.167783Z",
@@ -557,6 +543,20 @@
     "title": "Histone modification cross talk between a host and pathogen.",
     "sent_at": "2026-08-25T03:30:35.827349Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.19.745715",
+    "title": "Replicative history as a major determinant of epigenetic noise across human tissues",
+    "sent_at": "2026-08-25T04:56:31.777758Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.immuni.2026.08.001",
+    "title": "Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in CD4+ T cells.",
+    "sent_at": "2026-08-25T04:56:31.777758Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
