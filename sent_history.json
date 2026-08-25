@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.02.742296",
-    "title": "Mapping genome-wide RNA-RNA and RNA-DNA interactions in nuclear hubs of male and female Drosophila cells.",
-    "sent_at": "2026-08-21T01:59:55.793448Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.19.745694",
-    "title": "LSm4 biomolecular condensates drive XRN2-mediated RNA decay at DNA double-strand breaks to facilitate repair",
-    "sent_at": "2026-08-21T03:36:43.993460Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.04.742839",
     "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers.",
     "sent_at": "2026-08-21T03:36:43.993460Z",
@@ -557,6 +543,20 @@
     "title": "Targeting CDKs in the RNAPII transcription cycle.",
     "sent_at": "2026-08-25T20:49:19.648800Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746151",
+    "title": "Addressing technical variations in ATAC-seq data and improving motif accessibility analyses",
+    "sent_at": "2026-08-25T22:41:02.498375Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag631",
+    "title": "hicream: a flexible framework to identify significantly different regions in Hi-C data.",
+    "sent_at": "2026-08-25T22:41:02.498375Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
