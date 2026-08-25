@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.16.745099",
-    "title": "Quantitative Model of Transcriptional Noise Regulation by mRNA Condensates",
-    "sent_at": "2026-08-20T19:00:06.684046Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.07.29.741533",
-    "title": "Developmental expression of the skeletal muscle determination gene, MyoD , is regulated by novel enhancer elements that interact with the core enhancer and distal regulatory region.",
-    "sent_at": "2026-08-20T19:00:06.684046Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.19.745405",
     "title": "BARe-seq enables high-throughput dissection of cis-regulatory control of transcriptional bursting",
     "sent_at": "2026-08-20T21:03:43.777449Z",
@@ -557,6 +543,20 @@
     "title": "Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.",
     "sent_at": "2026-08-25T15:00:47.176894Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746650",
+    "title": "DePARylation prevents DNA replication-driven PARP1 condensation",
+    "sent_at": "2026-08-25T16:56:24.267400Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag788",
+    "title": "Neuronal activity-driven 3D chromatin dynamics in cortical pyramidal neurons depend on SATB2.",
+    "sent_at": "2026-08-25T16:56:24.267400Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
