@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1083/jcb.202511189",
-    "title": "Perturbation of nuclear proteins by optogenetic trapping in Drosophila ovary.",
-    "sent_at": "2026-08-20T03:28:58.475939Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.17.745167",
-    "title": "Nardilysin fine-tunes the mammalian circadian clock through selective modulation of PER2 function",
-    "sent_at": "2026-08-20T04:53:05.235066Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.tig.2026.07.008",
     "title": "'Tango' or 'tangle' in transcriptional condensates.",
     "sent_at": "2026-08-20T04:53:05.235066Z",
@@ -557,6 +543,20 @@
     "title": "RSF1-Dependent PAR Turnover Promotes 53BP1 Liquid Condensate Formation at DNA Damage Sites.",
     "sent_at": "2026-08-25T01:54:40.873457Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.20.745945",
+    "title": "Trust-Aware Sequence-to-Function Modelling in Regulatory Genomics",
+    "sent_at": "2026-08-25T03:30:35.827349Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2611585123",
+    "title": "Histone modification cross talk between a host and pathogen.",
+    "sent_at": "2026-08-25T03:30:35.827349Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
