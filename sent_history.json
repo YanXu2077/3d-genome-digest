@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.745948",
-    "title": "Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization",
-    "sent_at": "2026-08-20T22:54:46.560899Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3724/abbs.2026144",
-    "title": "Smc3-dependent chromatin insulation prevents transcriptional inversion at the Wnt-responsive Wisp1/ Ndrg1 locus in mouse ESCs.",
-    "sent_at": "2026-08-20T22:54:46.560899Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.02.742296",
     "title": "Mapping genome-wide RNA-RNA and RNA-DNA interactions in nuclear hubs of male and female Drosophila cells.",
     "sent_at": "2026-08-21T01:59:55.793448Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin accessibility classification of TAD boundaries discloses new architectural proteins.",
     "sent_at": "2026-08-25T18:57:50.359355Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.20.746112",
+    "title": "MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts",
+    "sent_at": "2026-08-25T20:49:19.648800Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41573-026-01517-0",
+    "title": "Targeting CDKs in the RNAPII transcription cycle.",
+    "sent_at": "2026-08-25T20:49:19.648800Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
