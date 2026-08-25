@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/1873-3468.70444",
-    "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
-    "sent_at": "2026-08-19T22:58:23.909499Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1073/pnas.2614314123",
-    "title": "Regulatory logic of neuronal differentiation in the Drosophila visual system.",
-    "sent_at": "2026-08-20T01:51:15.306276Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1083/jcb.202511189",
     "title": "Perturbation of nuclear proteins by optogenetic trapping in Drosophila ovary.",
     "sent_at": "2026-08-20T03:28:58.475939Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-08-24T22:42:24.994331Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.19.744884",
+    "title": "Erosion of regenerative regulation: age-associated shifts in the skeletal muscle fiber epigenome and transcriptome",
+    "sent_at": "2026-08-25T01:54:40.873457Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77271",
+    "title": "RSF1-Dependent PAR Turnover Promotes 53BP1 Liquid Condensate Formation at DNA Damage Sites.",
+    "sent_at": "2026-08-25T01:54:40.873457Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
