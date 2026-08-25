@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41375-026-03095-x",
-    "title": "A novel role for transcription factor NFE2 in redox regulation and chemotherapy resistance in acute myeloid leukemia.",
-    "sent_at": "2026-08-20T14:56:49.586334Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.19.745721",
-    "title": "Multiple trans-regulators shape enhancer-promoter hub organization at a multi-enhancer locus",
-    "sent_at": "2026-08-20T16:51:49.575889Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.07.28.741242",
     "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
     "sent_at": "2026-08-20T16:51:49.575889Z",
@@ -557,6 +543,20 @@
     "title": "Cohesin acts as a transcriptional gatekeeper by restraining pause-release to promote processive elongation.",
     "sent_at": "2026-08-25T10:47:34.653796Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746546",
+    "title": "CpG islands act as topological sinks for transcription-induced DNA supercoiling",
+    "sent_at": "2026-08-25T13:11:22.905242Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-75592-7",
+    "title": "Multi-subunit collaboration enables Smc5/6 to function as a composite SUMO E3 complex.",
+    "sent_at": "2026-08-25T13:11:22.905242Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
