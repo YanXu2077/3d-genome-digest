@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1002/anie.2990236",
-    "title": "Single-Cell Imaging of Site-Specific RNA-Protein Interactions.",
-    "sent_at": "2026-08-20T08:58:31.167783Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1126/sciadv.aeg2679",
     "title": "H3.3 chaperone Hira primes the effector program and function of regulatory T cells.",
     "sent_at": "2026-08-20T10:48:37.424458Z",
@@ -557,6 +550,13 @@
     "title": "Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in CD4+ T cells.",
     "sent_at": "2026-08-25T04:56:31.777758Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117649",
+    "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
+    "sent_at": "2026-08-25T07:09:08.823669Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
