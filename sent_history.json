@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1021/acs.nanolett.6c01802",
-    "title": "Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy.",
-    "sent_at": "2026-08-20T13:12:05.776264Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.14.744988",
-    "title": "AlphaGenome deletion responses complement supervised enhancer-gene relation prediction in primary human astrocytes",
-    "sent_at": "2026-08-20T14:56:49.586334Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41375-026-03095-x",
     "title": "A novel role for transcription factor NFE2 in redox regulation and chemotherapy resistance in acute myeloid leukemia.",
     "sent_at": "2026-08-20T14:56:49.586334Z",
@@ -557,6 +543,20 @@
     "title": "The R-loop-SPT6-SETD2 axis safeguards H3K36me3 to prevent broad H3K4me3 invasion in mouse oocytes.",
     "sent_at": "2026-08-25T08:58:26.897045Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746683",
+    "title": "Irregular nucleosome positioning governs a crystalline to liquid-like phase transition and tunes chromatin accessibility",
+    "sent_at": "2026-08-25T10:47:34.653796Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-76738-3",
+    "title": "Cohesin acts as a transcriptional gatekeeper by restraining pause-release to promote processive elongation.",
+    "sent_at": "2026-08-25T10:47:34.653796Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
