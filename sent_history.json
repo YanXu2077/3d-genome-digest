@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag785",
-    "title": "Insights into the recruitment of the H3K4me3 reader Spp1 by the meiotic double-strand break protein Mer2.",
-    "sent_at": "2026-08-21T16:55:17.040653Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.02.742325",
-    "title": "Valency-Limited Molecular Dynamics Simulations of Stickers-and-Spacers Polymers Reveal a Tradeoff Between Condensation and Organization.",
-    "sent_at": "2026-08-21T18:59:46.280737Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag806",
     "title": "AID self-assembly and multistranded DNA binding drive synapsis in class switch recombination.",
     "sent_at": "2026-08-21T18:59:46.280737Z",
@@ -557,6 +543,20 @@
     "title": "Cooperativity enables widespread role of low-affinity motifs in chromatin accessibility and increases regulatory potential.",
     "sent_at": "2026-08-26T07:08:07.224956Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.20.745782",
+    "title": "An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.",
+    "sent_at": "2026-08-26T09:03:38.746050Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/gbe/evag213",
+    "title": "De novo assembly of the Trypanosoma congolense genome reveals an organisation influenced by antigenic variation but distinct from Trypanosoma brucei.",
+    "sent_at": "2026-08-26T09:03:38.746050Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
