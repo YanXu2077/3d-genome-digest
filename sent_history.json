@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/cvr/cvag178",
-    "title": "Sirt1 inhibits the recruitment of RNA polymerase II to metabolic gene promoter during pressure overload through competition with the preinitiation complex on Sub1.",
-    "sent_at": "2026-08-22T03:16:55.016383Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.20.745648",
-    "title": "Loss of cohesin subunit Stag1 in zebrafish limits cell cycle progression and is compensated by altered BMP signalling and metabolic pathways",
-    "sent_at": "2026-08-22T04:48:50.742902Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.26508/lsa.202503546",
     "title": "Interactions of LINE-1 ORF1p with proteins and chromatin suggest a role in neuronal physiology.",
     "sent_at": "2026-08-22T04:48:50.742902Z",
@@ -557,6 +543,20 @@
     "title": "Origins and consequences of oncogenic 3D chromatin remodelling.",
     "sent_at": "2026-08-26T15:04:01.478765Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746871",
+    "title": "Inflammatory restraint and membrane lipid integrity protect hematopoietic stem cells under stress",
+    "sent_at": "2026-08-26T17:03:13.156163Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-1-0716-5072-1_9",
+    "title": "Single Molecule Tracking: Visualizing Transcription of Endogenous Loci in Living Cells.",
+    "sent_at": "2026-08-26T17:03:13.156163Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
