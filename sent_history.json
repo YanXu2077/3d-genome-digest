@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jare.2026.08.052",
-    "title": "PhaseOM: an integrated multi-task framework for phase separation analysis and key residue detection.",
-    "sent_at": "2026-08-22T07:02:13.722095Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.20.745968",
-    "title": "Set mediates chromosome alignment and Cohesin cleavage independently of direct PP2A-B56-binding in oocyte meiosis",
-    "sent_at": "2026-08-22T08:54:58.213674Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41583-026-01074-w",
     "title": "Early life experiences, the neural epigenome and affective disorder risk.",
     "sent_at": "2026-08-22T08:54:58.213674Z",
@@ -557,6 +543,20 @@
     "title": "Improved spike-in normalization clarifies the relationship between active histone modifications and transcription.",
     "sent_at": "2026-08-26T20:05:19.563819Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.22.746371",
+    "title": "A multi-tissue epigenomic atlas links the sheep non-coding genome to domestication and complex traits",
+    "sent_at": "2026-08-26T23:30:47.587632Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biotech15030070",
+    "title": "Diverse Roles of Cohesin in Chromosome Dynamics and Stem Cells.",
+    "sent_at": "2026-08-26T23:30:47.587632Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
