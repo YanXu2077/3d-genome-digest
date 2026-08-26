@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.26508/lsa.202503546",
-    "title": "Interactions of LINE-1 ORF1p with proteins and chromatin suggest a role in neuronal physiology.",
-    "sent_at": "2026-08-22T04:48:50.742902Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.21.746129",
-    "title": "Chromatin adaptors and TOPBP1 condensates cooperate to organize ATM signaling",
-    "sent_at": "2026-08-22T07:02:13.722095Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jare.2026.08.052",
     "title": "PhaseOM: an integrated multi-task framework for phase separation analysis and key residue detection.",
     "sent_at": "2026-08-22T07:02:13.722095Z",
@@ -557,6 +543,20 @@
     "title": "Single Molecule Tracking: Visualizing Transcription of Endogenous Loci in Living Cells.",
     "sent_at": "2026-08-26T17:03:13.156163Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.25.746923",
+    "title": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
+    "sent_at": "2026-08-26T20:05:19.563819Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41588-026-02728-2",
+    "title": "Improved spike-in normalization clarifies the relationship between active histone modifications and transcription.",
+    "sent_at": "2026-08-26T20:05:19.563819Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
