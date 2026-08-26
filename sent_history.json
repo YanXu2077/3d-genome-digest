@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.04.742839",
-    "title": "ZATELLITE: a toolkit to visualize and manipulate human centromeres in live cells using synthetic zinc fingers.",
-    "sent_at": "2026-08-21T03:36:43.993460Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.19.745709",
-    "title": "MYC-MIZ1 Complexes at Enhancers Tune Neuroendocrine Identity of Small Cell Lung Cancer",
-    "sent_at": "2026-08-21T07:10:44.660832Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.gene.2026.150360",
     "title": "Integrative multi-omics analysis identifies an enhancer-driven ELF3-CLDN4 regulatory axis that shapes an immunosuppressive microenvironment and predicts prognosis in high-grade serous ovarian cancer.",
     "sent_at": "2026-08-21T07:10:44.660832Z",
@@ -557,6 +543,20 @@
     "title": "hicream: a flexible framework to identify significantly different regions in Hi-C data.",
     "sent_at": "2026-08-25T22:41:02.498375Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746556",
+    "title": "IPO9 modulates histone-dependent inhibition of cGAS activity",
+    "sent_at": "2026-08-26T02:00:08.752728Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.pbio.3003954",
+    "title": "Tcf15 promotes an open nucleolar chromatin state to safeguard ribosome biogenesis and genome stability in mouse embryonic stem cells.",
+    "sent_at": "2026-08-26T02:00:08.752728Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
