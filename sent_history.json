@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.07.28.741367",
-    "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons.",
-    "sent_at": "2026-08-21T14:54:59.999065Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.19.745738",
-    "title": "A Cajal body assembly factor regulates cell fate transitions in Arabidopsis",
-    "sent_at": "2026-08-21T16:55:17.040653Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag785",
     "title": "Insights into the recruitment of the H3K4me3 reader Spp1 by the meiotic double-strand break protein Mer2.",
     "sent_at": "2026-08-21T16:55:17.040653Z",
@@ -557,6 +543,20 @@
     "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
     "sent_at": "2026-08-26T05:08:42.171581Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746772",
+    "title": "Adaptive energetic tuning of nucleolar phase separation regulates rRNA transport",
+    "sent_at": "2026-08-26T07:08:07.224956Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.xgen.2026.101339",
+    "title": "Cooperativity enables widespread role of low-affinity motifs in chromatin accessibility and increases regulatory potential.",
+    "sent_at": "2026-08-26T07:08:07.224956Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
