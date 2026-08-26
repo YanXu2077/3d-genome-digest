@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bpj.2026.08.016",
-    "title": "Lamin A-regulated chromatin organization regulates transcription factor binding.",
-    "sent_at": "2026-08-21T10:48:04.397046Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.30.741638",
-    "title": "Structural determination of human nucleosomes reconstituted by the ExACT platform.",
-    "sent_at": "2026-08-21T13:15:10.166193Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.07.28.741367",
     "title": "The linker histone H1.4 condenses chromatin in maturing postmitotic neurons.",
     "sent_at": "2026-08-21T14:54:59.999065Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gr.282066.126",
     "title": "A network of steroid receptor transcription factors regulates ovarian chromatin remodelling in the transition to ovulation.",
     "sent_at": "2026-08-26T03:41:05.691462Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746281",
+    "title": "The compartmental polarization of interphase human chromosomes within the nucleus: A mechanism for transcriptional regulation of large chromosomes",
+    "sent_at": "2026-08-26T05:08:42.171581Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.07.039",
+    "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
+    "sent_at": "2026-08-26T05:08:42.171581Z",
     "tier": 1,
     "kind": "journal"
   }
