@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.gene.2026.150360",
-    "title": "Integrative multi-omics analysis identifies an enhancer-driven ELF3-CLDN4 regulatory axis that shapes an immunosuppressive microenvironment and predicts prognosis in high-grade serous ovarian cancer.",
-    "sent_at": "2026-08-21T07:10:44.660832Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.07.035",
-    "title": "Transcriptional kinases drive gene expression network plasticity.",
-    "sent_at": "2026-08-21T09:17:09.422990Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.bpj.2026.08.016",
     "title": "Lamin A-regulated chromatin organization regulates transcription factor binding.",
     "sent_at": "2026-08-21T10:48:04.397046Z",
@@ -557,6 +543,20 @@
     "title": "Tcf15 promotes an open nucleolar chromatin state to safeguard ribosome biogenesis and genome stability in mouse embryonic stem cells.",
     "sent_at": "2026-08-26T02:00:08.752728Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746263",
+    "title": "Chromatin compartments define distinct modes of action and biological roles of the pioneer Pax7",
+    "sent_at": "2026-08-26T03:41:05.691462Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gr.282066.126",
+    "title": "A network of steroid receptor transcription factors regulates ovarian chromatin remodelling in the transition to ovulation.",
+    "sent_at": "2026-08-26T03:41:05.691462Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
