@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag819",
-    "title": "Newly synthesized histones: passive or active players in the regulation of epigenetic inheritance?",
-    "sent_at": "2026-08-21T22:43:50.076001Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.3389/fgene.2026.1877252",
-    "title": "Chromatin remodeling and epigenetic regulation of mesenchymal stem/stromal cells in osteoarthritis.",
-    "sent_at": "2026-08-22T01:47:37.712819Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/cvr/cvag178",
     "title": "Sirt1 inhibits the recruitment of RNA polymerase II to metabolic gene promoter during pressure overload through competition with the preinitiation complex on Sub1.",
     "sent_at": "2026-08-22T03:16:55.016383Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s13072-026-00694-x",
     "title": "Drosophila Rumpelstiltskin regulates Polycomb cis and trans interactions and Homie barrier activity.",
     "sent_at": "2026-08-26T13:14:39.518684Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.22.745658",
+    "title": "Transcription factor co-occupancy shapes the somatic mutational landscapes across regulatory regions in liver cancer",
+    "sent_at": "2026-08-26T15:04:01.478765Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41568-026-00969-1",
+    "title": "Origins and consequences of oncogenic 3D chromatin remodelling.",
+    "sent_at": "2026-08-26T15:04:01.478765Z",
     "tier": 1,
     "kind": "journal"
   }
