@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag806",
-    "title": "AID self-assembly and multistranded DNA binding drive synapsis in class switch recombination.",
-    "sent_at": "2026-08-21T18:59:46.280737Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.07.30.741692",
-    "title": "Modulation of noisy gene expression by general sequestration mechanisms.",
-    "sent_at": "2026-08-21T20:42:55.255421Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1021/acs.jpcb.6c03886",
     "title": "Multisite Threonine Phosphorylation in the SPT5 C-Terminal Region 1 Enables Sequence-Dependent Regulation without Global Structural Remodeling.",
     "sent_at": "2026-08-21T20:42:55.255421Z",
@@ -557,6 +543,20 @@
     "title": "De novo assembly of the Trypanosoma congolense genome reveals an organisation influenced by antigenic variation but distinct from Trypanosoma brucei.",
     "sent_at": "2026-08-26T09:03:38.746050Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.22.746439",
+    "title": "Cell type-resolved chromatin accessibility clocks for brain aging",
+    "sent_at": "2026-08-26T10:51:28.165171Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41422-026-01290-0",
+    "title": "p-LoopF is associated with chromatin looping in large introns of Ginkgo biloba.",
+    "sent_at": "2026-08-26T10:51:28.165171Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
