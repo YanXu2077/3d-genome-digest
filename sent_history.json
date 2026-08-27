@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.746118",
-    "title": "SPIN1 selectively silences evolutionarily young transposable elements through chromatin regulation",
-    "sent_at": "2026-08-22T10:39:50.716355Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/ijnp/pyag045",
-    "title": "Multiomic Single-Nucleus Profiling Reveals Cell-Type-Specific Epigenetic and Transcriptional Dysregulation in Major Depressive Disorder Brain.",
-    "sent_at": "2026-08-22T10:39:50.716355Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.17.744355",
     "title": "RegFM: an interpretable context-aware foundation model for human transcriptional regulation",
     "sent_at": "2026-08-22T13:05:05.098561Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gad.353831.126",
     "title": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
     "sent_at": "2026-08-27T09:33:21.275736Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.26.747395",
+    "title": "A reaction-diffusion framework for de novo Polycomb spreading",
+    "sent_at": "2026-08-27T20:29:49.630097Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/genes17080932",
+    "title": "Applying the Poincaré Disc Method to Analyze the Hierarchical Structure of TADs in Hi-C Data.",
+    "sent_at": "2026-08-27T20:29:49.630097Z",
     "tier": 1,
     "kind": "journal"
   }
