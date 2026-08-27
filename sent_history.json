@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41583-026-01074-w",
-    "title": "Early life experiences, the neural epigenome and affective disorder risk.",
-    "sent_at": "2026-08-22T08:54:58.213674Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.20.746118",
     "title": "SPIN1 selectively silences evolutionarily young transposable elements through chromatin regulation",
     "sent_at": "2026-08-22T10:39:50.716355Z",
@@ -556,6 +549,13 @@
     "doi": "10.3390/biotech15030070",
     "title": "Diverse Roles of Cohesin in Chromosome Dynamics and Stem Cells.",
     "sent_at": "2026-08-26T23:30:47.587632Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/gad.353831.126",
+    "title": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
+    "sent_at": "2026-08-27T09:33:21.275736Z",
     "tier": 1,
     "kind": "journal"
   }
