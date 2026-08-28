@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s13072-026-00696-9",
-    "title": "Delineating SWI/SNF gene and subtype expression in cancer.",
-    "sent_at": "2026-08-22T14:37:21.983116Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.17.745340",
-    "title": "Integrated Analysis of Skeletal Muscle Transcriptional Networks Characterizes Dysregulation in Pathways and Trait-Associated Regulatory Regions in Type 2 Diabetes",
-    "sent_at": "2026-08-22T16:42:40.911158Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.14.744920",
     "title": "Impaired ZNF560 repression during induced pluripotent stem cell reprogramming indicates early epigenetic alterations in Schizophrenia",
     "sent_at": "2026-08-22T18:51:22.683309Z",
@@ -557,6 +543,20 @@
     "title": "Characterization of Protein Co-Localization and Histone Modifications at Enhancers Anchored in Chromatin Loops.",
     "sent_at": "2026-08-28T06:11:17.621009Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.24.746893",
+    "title": "Extending conventional TIRF microscopy to image single molecules in micromolar analyte backgrounds",
+    "sent_at": "2026-08-28T18:59:45.309337Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biom16081143",
+    "title": "Mapping Protein Diffusion from the Plasma Membrane to the Nucleus: Insights from Fluorescence Correlation Spectroscopy.",
+    "sent_at": "2026-08-28T18:59:45.309337Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
