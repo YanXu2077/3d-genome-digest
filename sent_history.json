@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.17.744355",
-    "title": "RegFM: an interpretable context-aware foundation model for human transcriptional regulation",
-    "sent_at": "2026-08-22T13:05:05.098561Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41591-026-04571-8",
-    "title": "Dysregulated adult hippocampal neurogenesis in major depressive disorders.",
-    "sent_at": "2026-08-22T13:05:05.098561Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1186/s13072-026-00696-9",
     "title": "Delineating SWI/SNF gene and subtype expression in cancer.",
     "sent_at": "2026-08-22T14:37:21.983116Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/genes17080932",
     "title": "Applying the Poincaré Disc Method to Analyze the Hierarchical Structure of TADs in Hi-C Data.",
     "sent_at": "2026-08-27T20:29:49.630097Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.26.747275",
+    "title": "Nuclear size is genetically controlled and influences cell fate",
+    "sent_at": "2026-08-28T06:11:17.621009Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biology15161331",
+    "title": "Characterization of Protein Co-Localization and Histone Modifications at Enhancers Anchored in Chromatin Loops.",
+    "sent_at": "2026-08-28T06:11:17.621009Z",
     "tier": 1,
     "kind": "journal"
   }
