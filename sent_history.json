@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117888",
-    "title": "Emergent 3D genome reorganization and graded gene control from the stepwise assembly of transcriptional condensates.",
-    "sent_at": "2026-08-23T04:50:42.499142Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.18.745540",
-    "title": "A Kinetochore-Associated Proteasome Pool Drives a Second Pathway of Cohesin Removal during Meiosis",
-    "sent_at": "2026-08-23T07:00:08.505762Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1096/fj.202603153R",
     "title": "Nonlinearities and Switch-Like Behavior in Gene Expression: From Genetics to Biochemistry and Back.",
     "sent_at": "2026-08-23T07:00:08.505762Z",
@@ -557,6 +543,20 @@
     "title": "HoT auto-blinking probes enable real-time, super-resolution chromatin imaging in live cells and tissues.",
     "sent_at": "2026-08-29T16:44:12.988681Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.28.746988",
+    "title": "FET fusion proteins reshape splicing factor networks to drive oncogenic alternative splicing",
+    "sent_at": "2026-08-29T20:57:20.240422Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.005",
+    "title": "Oriented binding of transcription factors to nucleosomes remodels chromatin at human promoters.",
+    "sent_at": "2026-08-29T20:57:20.240422Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
