@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.13.744387",
-    "title": "Pretraining Enhances Megabase-Scale Gene Expression Prediction with GeneUnet",
-    "sent_at": "2026-08-22T22:54:29.671548Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1039/d6md00244g",
     "title": "Chemical tools for BAZ2A/B biology: discovery of dual and BAZ2B-selective PROTAC degraders.",
     "sent_at": "2026-08-22T22:54:29.671548Z",
@@ -556,6 +549,13 @@
     "doi": "10.1126/sciadv.aeg0134",
     "title": "Hi-Cformer enables multiscale chromatin contact map modeling for single-cell Hi-C data analysis.",
     "sent_at": "2026-08-29T02:57:08.997730Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/gr.281535.125",
+    "title": "Identification of differential topologically associating domains from low sequencing depth and pseudo-bulk chromatin contact maps.",
+    "sent_at": "2026-08-29T11:02:50.430718Z",
     "tier": 1,
     "kind": "journal"
   }
