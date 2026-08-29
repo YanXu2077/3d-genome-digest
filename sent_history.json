@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.14.744920",
-    "title": "Impaired ZNF560 repression during induced pluripotent stem cell reprogramming indicates early epigenetic alterations in Schizophrenia",
-    "sent_at": "2026-08-22T18:51:22.683309Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/hon.70239",
-    "title": "Epigenetic Rewiring and Context-Dependent Therapeutic Vulnerabilities in Myeloproliferative Neoplasms.",
-    "sent_at": "2026-08-22T18:51:22.683309Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.13.744387",
     "title": "Pretraining Enhances Megabase-Scale Gene Expression Prediction with GeneUnet",
     "sent_at": "2026-08-22T22:54:29.671548Z",
@@ -557,6 +543,20 @@
     "title": "Mapping Protein Diffusion from the Plasma Membrane to the Nucleus: Insights from Fluorescence Correlation Spectroscopy.",
     "sent_at": "2026-08-28T18:59:45.309337Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.27.747566",
+    "title": "Female specific erosion of allelic fidelity in aged CD8 memory T cells",
+    "sent_at": "2026-08-29T02:57:08.997730Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg0134",
+    "title": "Hi-Cformer enables multiscale chromatin contact map modeling for single-cell Hi-C data analysis.",
+    "sent_at": "2026-08-29T02:57:08.997730Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
