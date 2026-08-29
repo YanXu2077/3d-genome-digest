@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1039/d6md00244g",
-    "title": "Chemical tools for BAZ2A/B biology: discovery of dual and BAZ2B-selective PROTAC degraders.",
-    "sent_at": "2026-08-22T22:54:29.671548Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.patter.2026.101545",
-    "title": "Deep learning enabled prediction of nuclear lamina-associated chromatin.",
-    "sent_at": "2026-08-23T03:14:45.985397Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117888",
     "title": "Emergent 3D genome reorganization and graded gene control from the stepwise assembly of transcriptional condensates.",
     "sent_at": "2026-08-23T04:50:42.499142Z",
@@ -557,6 +543,20 @@
     "title": "Identification of differential topologically associating domains from low sequencing depth and pseudo-bulk chromatin contact maps.",
     "sent_at": "2026-08-29T11:02:50.430718Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.28.747770",
+    "title": "A developmental switch in the piRNA pathway ensures stage-specific transposon silencing",
+    "sent_at": "2026-08-29T16:44:12.988681Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.010",
+    "title": "HoT auto-blinking probes enable real-time, super-resolution chromatin imaging in live cells and tissues.",
+    "sent_at": "2026-08-29T16:44:12.988681Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
