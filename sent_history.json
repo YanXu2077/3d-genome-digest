@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1096/fj.202603153R",
-    "title": "Nonlinearities and Switch-Like Behavior in Gene Expression: From Genetics to Biochemistry and Back.",
-    "sent_at": "2026-08-23T07:00:08.505762Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117886",
     "title": "RNA degradation by DIS3 is a necessary step in the resolution of backtracked transcription complexes.",
     "sent_at": "2026-08-23T08:44:33.773160Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.molcel.2026.08.005",
     "title": "Oriented binding of transcription factors to nucleosomes remodels chromatin at human promoters.",
     "sent_at": "2026-08-29T20:57:20.240422Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3389/fgeed.2026.1759382",
+    "title": "Evaluating high-fidelity CRISPR-Cas nucleases in nucleosomal contexts using a quantitative framework.",
+    "sent_at": "2026-08-30T00:11:29.147305Z",
     "tier": 3,
     "kind": "journal"
   }
