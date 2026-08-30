@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.canlet.2026.218797",
-    "title": "Loss of PBRM1 accelerates pancreatic cancer progression by inducing acquisition of mesenchymal phenotype and inflammatory cancer-associated fibroblasts reprogramming.",
-    "sent_at": "2026-08-23T13:01:48.523663Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.mrfmmm.2026.111947",
     "title": "In silico analysis of missense variants in functional domains of PWWP2A and PWWP2B proteins.",
     "sent_at": "2026-08-23T14:36:40.482492Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/advs.77493",
     "title": "Glucose and Glutamine Deprivation Promotes Breast Cancer Lung Metastasis via BRD4-Dependent Enhancer Activation.",
     "sent_at": "2026-08-30T12:08:38.374471Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1111/acel.70689",
+    "title": "SIRT1 Silences L1 Retrotransposons by Stabilizing Heterochromatin-Modifying Complexes.",
+    "sent_at": "2026-08-30T19:20:04.796628Z",
     "tier": 3,
     "kind": "journal"
   }
