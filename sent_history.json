@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1111/gtc.70145",
-    "title": "Transforming Life Science Through Chromosome-Level Genome Assemblies.",
-    "sent_at": "2026-08-23T10:37:29.648510Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.canlet.2026.218797",
     "title": "Loss of PBRM1 accelerates pancreatic cancer progression by inducing acquisition of mesenchymal phenotype and inflammatory cancer-associated fibroblasts reprogramming.",
     "sent_at": "2026-08-23T13:01:48.523663Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-30T05:42:47.728475Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77493",
+    "title": "Glucose and Glutamine Deprivation Promotes Breast Cancer Lung Metastasis via BRD4-Dependent Enhancer Activation.",
+    "sent_at": "2026-08-30T12:08:38.374471Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
