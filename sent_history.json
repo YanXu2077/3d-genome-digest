@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117886",
-    "title": "RNA degradation by DIS3 is a necessary step in the resolution of backtracked transcription complexes.",
-    "sent_at": "2026-08-23T08:44:33.773160Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1111/gtc.70145",
     "title": "Transforming Life Science Through Chromosome-Level Genome Assemblies.",
     "sent_at": "2026-08-23T10:37:29.648510Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-30T00:11:29.147305Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.27.747511",
+    "title": "Towards transferable explicit-solvent coarse-grained models for biomolecular condensates",
+    "sent_at": "2026-08-30T05:42:47.728475Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
