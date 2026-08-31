@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1177/15578100261479165",
-    "title": "Phosphosite-Centric Association of MBD3 and NuRD Complex Based on Meta-Analysis of Global Human Phosphoproteome.",
-    "sent_at": "2026-08-23T16:40:58.642323Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1002/mc.70168",
-    "title": "RNF123 Inhibits the Proliferation, Migration, and Invasion of Thyroid Cancer by Inhibiting KAT5-Mediated PSPC1 Histone Acetylation.",
-    "sent_at": "2026-08-23T22:37:09.259145Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.20.746005",
     "title": "Formation of an RNA-mediated nuclear compartment",
     "sent_at": "2026-08-24T03:13:56.992739Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.isci.2026.117120",
     "title": "DVE-1 is a telomere-binding protein and links the NuRD complex to telomere regulation in C. elegans.",
     "sent_at": "2026-08-30T21:22:59.599462Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.28.747853",
+    "title": "The first chromosome-scale genome assembly of Blumeria graminis f. sp. avenae provides insights into genome evolution and host specialization",
+    "sent_at": "2026-08-31T05:25:10.603535Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ygeno.2026.111311",
+    "title": "Charting host structural variations in cervical cancer by long-read sequencing pinpoints a functional deletion in PIAS1.",
+    "sent_at": "2026-08-31T05:25:10.603535Z",
     "tier": 3,
     "kind": "journal"
   }
