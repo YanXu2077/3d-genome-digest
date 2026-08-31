@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.746005",
-    "title": "Formation of an RNA-mediated nuclear compartment",
-    "sent_at": "2026-08-24T03:13:56.992739Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.18.745447",
-    "title": "Implicit Hierarchical Tensor Decomposition of Single-Cell Four-Omics Data Reveals Cell-Type-Associated Enhancer--Promoter Regulatory Programs",
-    "sent_at": "2026-08-24T04:58:31.039730Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1080/21541264.2026.2698182",
     "title": "RNA polymerase II removal: transcription quality control and gene regulation.",
     "sent_at": "2026-08-24T04:58:31.039730Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.ygeno.2026.111311",
     "title": "Charting host structural variations in cervical cancer by long-read sequencing pinpoints a functional deletion in PIAS1.",
     "sent_at": "2026-08-31T05:25:10.603535Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.26.739472",
+    "title": "Lineage-specific X chromosome inactivation escape and skew underlie sex-biased immune gene dosage and deleterious variant exposure",
+    "sent_at": "2026-08-31T13:38:45.995617Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15548627.2026.2726121",
+    "title": "Thyroid hormone promotes lipid droplet remodeling and lipophagy through KAT2B/PCAF-dependent histone acetylation in preimplantation embryos.",
+    "sent_at": "2026-08-31T13:38:45.995617Z",
     "tier": 3,
     "kind": "journal"
   }
