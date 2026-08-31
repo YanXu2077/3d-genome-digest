@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.18.745337",
-    "title": "Myeloid IRF5 is required for TLR7-driven inflammatory hemophagocyte differentiation and Macrophage Activation Syndrome",
-    "sent_at": "2026-08-24T09:02:39.184290Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.21.746258",
     "title": "Direct visualization of MCM helicase activation and replisome coupling in situ",
     "sent_at": "2026-08-24T10:53:00.437156Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.29.748052",
     "title": "In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding",
     "sent_at": "2026-08-31T20:02:07.169911Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.28.747860",
+    "title": "Transient reprogramming limits AP-1-associated chromatin opening and transposable element activation to preserve hematopoietic stem cell function during aging and stress",
+    "sent_at": "2026-08-31T23:00:59.539028Z",
     "tier": 3,
     "kind": "preprint"
   }
