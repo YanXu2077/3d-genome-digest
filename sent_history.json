@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1080/21541264.2026.2698182",
-    "title": "RNA polymerase II removal: transcription quality control and gene regulation.",
-    "sent_at": "2026-08-24T04:58:31.039730Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.18.745337",
     "title": "Myeloid IRF5 is required for TLR7-driven inflammatory hemophagocyte differentiation and Macrophage Activation Syndrome",
     "sent_at": "2026-08-24T09:02:39.184290Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-31T13:38:45.995617Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.29.748052",
+    "title": "In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding",
+    "sent_at": "2026-08-31T20:02:07.169911Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
