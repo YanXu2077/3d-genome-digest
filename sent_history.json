@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.21.746239",
-    "title": "An ncBAF-ETS2 Chromatin-Remodelling Axis Drives Vascular Smooth Muscle Cell Osteogenic Reprogramming in Vascular Calcification",
-    "sent_at": "2026-08-24T13:10:19.988286Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1186/s13619-026-00302-z",
-    "title": "Distinct regulation of Wnt signaling and EPZ5676 governs human UiPSM reprogramming via the CDX2/T/TBX6 core axis.",
-    "sent_at": "2026-08-24T13:10:19.988286Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.22.746397",
     "title": "SOX2 terminates trophectoderm competence in inner cell mass by closing trophectoderm enhancers",
     "sent_at": "2026-08-24T14:57:24.484672Z",
@@ -557,6 +543,20 @@
     "title": "An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin.",
     "sent_at": "2026-09-01T11:38:21.464730Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.31.748372",
+    "title": "X-inactivation escapee domains are CTCF-cohesin independent chromatin compartments",
+    "sent_at": "2026-09-01T16:38:05.796691Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acschembio.6c00345",
+    "title": "Evaluation of HDAC8 as a Druggable Target in STAG2-Mutant Ewing Sarcoma.",
+    "sent_at": "2026-09-01T16:38:05.796691Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
