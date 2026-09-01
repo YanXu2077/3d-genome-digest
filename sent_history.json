@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1111/andr.70356",
-    "title": "Spatiotemporal Expression of ARRDC5 in Mammalian Spermatogenesis.",
-    "sent_at": "2026-08-24T10:53:00.437156Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.21.746239",
     "title": "An ncBAF-ETS2 Chromatin-Remodelling Axis Drives Vascular Smooth Muscle Cell Osteogenic Reprogramming in Vascular Calcification",
     "sent_at": "2026-08-24T13:10:19.988286Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/advs.77533",
     "title": "Single-Molecule Imaging of Endogenous RNA Using a Miniaturized and Circularly Permuted CRISPR-Cas13 Degron-Masking System CDegSR.",
     "sent_at": "2026-09-01T05:01:51.928595Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.006",
+    "title": "An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin.",
+    "sent_at": "2026-09-01T11:38:21.464730Z",
     "tier": 2,
     "kind": "journal"
   }
