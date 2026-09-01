@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.22.746397",
-    "title": "SOX2 terminates trophectoderm competence in inner cell mass by closing trophectoderm enhancers",
-    "sent_at": "2026-08-24T14:57:24.484672Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.22.746471",
-    "title": "GATA3-extension mutants rewire lineage identity in luminal breast cancer",
-    "sent_at": "2026-08-24T16:55:49.354470Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag492",
     "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
     "sent_at": "2026-08-24T16:55:49.354470Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acschembio.6c00345",
     "title": "Evaluation of HDAC8 as a Druggable Target in STAG2-Mutant Ewing Sarcoma.",
     "sent_at": "2026-09-01T16:38:05.796691Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.27.747604",
+    "title": "Dynamical Regimes in Rejuvenation",
+    "sent_at": "2026-09-01T21:04:11.107423Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag652",
+    "title": "mmVelo: A deep generative model for estimating cell state-dependent dynamics across multiple modalities.",
+    "sent_at": "2026-09-01T21:04:11.107423Z",
     "tier": 3,
     "kind": "journal"
   }
