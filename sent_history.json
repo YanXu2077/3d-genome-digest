@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.21.746258",
-    "title": "Direct visualization of MCM helicase activation and replisome coupling in situ",
-    "sent_at": "2026-08-24T10:53:00.437156Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1111/andr.70356",
     "title": "Spatiotemporal Expression of ARRDC5 in Mammalian Spermatogenesis.",
     "sent_at": "2026-08-24T10:53:00.437156Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-08-31T23:00:59.539028Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77533",
+    "title": "Single-Molecule Imaging of Endogenous RNA Using a Miniaturized and Circularly Permuted CRISPR-Cas13 Degron-Masking System CDegSR.",
+    "sent_at": "2026-09-01T05:01:51.928595Z",
+    "tier": 2,
+    "kind": "journal"
   }
 ]
