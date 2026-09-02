@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.21.746286",
-    "title": "Actin-related ACTL8 localizes to the nucleus and modulates locus-specific transcription through chromatin regulation",
-    "sent_at": "2026-08-24T20:45:17.655267Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/bies.70177",
-    "title": "Dual Roads of CENP-A for Centromere Identification.",
-    "sent_at": "2026-08-24T20:45:17.655267Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.19.745838",
     "title": "Human panepigenome represents epigenomic diversity",
     "sent_at": "2026-08-24T22:42:24.994331Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gr.280394.124",
     "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes.",
     "sent_at": "2026-09-02T04:25:26.155086Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.31.748411",
+    "title": "HIF1A recruits primate-specific endogenous retroviruses into the human hypoxic and immune responses",
+    "sent_at": "2026-09-02T11:19:19.273995Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41592-026-03217-4",
+    "title": "Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.",
+    "sent_at": "2026-09-02T11:19:19.273995Z",
     "tier": 1,
     "kind": "journal"
   }
