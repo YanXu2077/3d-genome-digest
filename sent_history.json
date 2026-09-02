@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag824",
-    "title": "CpG content contributes to tissue-resident macrophage enhancer selection.",
-    "sent_at": "2026-08-24T18:58:11.392700Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.21.746286",
     "title": "Actin-related ACTL8 localizes to the nucleus and modulates locus-specific transcription through chromatin regulation",
     "sent_at": "2026-08-24T20:45:17.655267Z",
@@ -557,6 +550,13 @@
     "title": "[CHAF1A sustains hematopoietic stem cell stemness by enhancing the activity of the NF-Y transcription factor family].",
     "sent_at": "2026-09-02T00:07:41.170455Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1101/gr.280394.124",
+    "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes.",
+    "sent_at": "2026-09-02T04:25:26.155086Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
