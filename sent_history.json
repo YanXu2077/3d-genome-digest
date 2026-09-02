@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.19.745838",
-    "title": "Human panepigenome represents epigenomic diversity",
-    "sent_at": "2026-08-24T22:42:24.994331Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.19.744884",
-    "title": "Erosion of regenerative regulation: age-associated shifts in the skeletal muscle fiber epigenome and transcriptome",
-    "sent_at": "2026-08-25T01:54:40.873457Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/advs.77271",
     "title": "RSF1-Dependent PAR Turnover Promotes 53BP1 Liquid Condensate Formation at DNA Damage Sites.",
     "sent_at": "2026-08-25T01:54:40.873457Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41592-026-03217-4",
     "title": "Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.",
     "sent_at": "2026-09-02T11:19:19.273995Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.30.748132",
+    "title": "POU2AF2/OCA-T1 coactivates POU2F2 and defines a lineage-specific dependency in diffuse large B-cell lymphoma",
+    "sent_at": "2026-09-02T16:38:44.948164Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-1-0716-5284-8_6",
+    "title": "Analysis of Chromatin Structure Using Network Approaches: A Step-by-Step Guide.",
+    "sent_at": "2026-09-02T16:38:44.948164Z",
     "tier": 1,
     "kind": "journal"
   }
