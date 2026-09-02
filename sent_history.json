@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag492",
-    "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
-    "sent_at": "2026-08-24T16:55:49.354470Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.22.746193",
-    "title": "Paternal cardiac injury elicits an inflammatory signal relay to the gonads with intergenerational cardiac effects in vertebrates",
-    "sent_at": "2026-08-24T18:58:11.392700Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag824",
     "title": "CpG content contributes to tissue-resident macrophage enhancer selection.",
     "sent_at": "2026-08-24T18:58:11.392700Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/bioinformatics/btag652",
     "title": "mmVelo: A deep generative model for estimating cell state-dependent dynamics across multiple modalities.",
     "sent_at": "2026-09-01T21:04:11.107423Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.28.747911",
+    "title": "Distinct functions of Nup93 paralogs in tumor growth and Polycomb-mediated repression of JAK/STAT signaling",
+    "sent_at": "2026-09-02T00:07:41.170455Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.13294/j.aps.2026.0069",
+    "title": "[CHAF1A sustains hematopoietic stem cell stemness by enhancing the activity of the NF-Y transcription factor family].",
+    "sent_at": "2026-09-02T00:07:41.170455Z",
     "tier": 3,
     "kind": "journal"
   }
