@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/advs.77271",
-    "title": "RSF1-Dependent PAR Turnover Promotes 53BP1 Liquid Condensate Formation at DNA Damage Sites.",
-    "sent_at": "2026-08-25T01:54:40.873457Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.20.745945",
-    "title": "Trust-Aware Sequence-to-Function Modelling in Regulatory Genomics",
-    "sent_at": "2026-08-25T03:30:35.827349Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2611585123",
     "title": "Histone modification cross talk between a host and pathogen.",
     "sent_at": "2026-08-25T03:30:35.827349Z",
@@ -557,6 +543,20 @@
     "title": "Analysis of Chromatin Structure Using Network Approaches: A Step-by-Step Guide.",
     "sent_at": "2026-09-02T16:38:44.948164Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.28.747954",
+    "title": "Paternal regulation of H3K4 methylation supports tumor suppressor networks in mammals intergenerationally",
+    "sent_at": "2026-09-02T21:06:36.333376Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41588-026-02721-9",
+    "title": "Mechanisms and functional implications of long-range enhancer-dependent gene regulation.",
+    "sent_at": "2026-09-02T21:06:36.333376Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
