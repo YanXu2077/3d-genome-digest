@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.immuni.2026.08.001",
-    "title": "Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in CD4+ T cells.",
-    "sent_at": "2026-08-25T04:56:31.777758Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.117649",
-    "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
-    "sent_at": "2026-08-25T07:09:08.823669Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.117813",
     "title": "The R-loop-SPT6-SETD2 axis safeguards H3K36me3 to prevent broad H3K4me3 invasion in mouse oocytes.",
     "sent_at": "2026-08-25T08:58:26.897045Z",
@@ -557,6 +543,20 @@
     "title": "Leveraging human-trained neural networks for cross-species chromatin regulation annotations.",
     "sent_at": "2026-09-03T04:54:39.179216Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.01.748708",
+    "title": "Beyond Equilibrium Ensembles: Time Rescaling in Coarse-Grained Simulations across Single-Molecule and Condensate Regimes",
+    "sent_at": "2026-09-03T07:12:04.941741Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1182/blood.2025032640",
+    "title": "Epstein-Barr virus-associated chromatin activation and enhancer engagement in T/NK-cell lymphoproliferative diseases.",
+    "sent_at": "2026-09-03T07:12:04.941741Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
