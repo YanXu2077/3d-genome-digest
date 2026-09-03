@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.24.746546",
-    "title": "CpG islands act as topological sinks for transcription-induced DNA supercoiling",
-    "sent_at": "2026-08-25T13:11:22.905242Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-75592-7",
     "title": "Multi-subunit collaboration enables Smc5/6 to function as a composite SUMO E3 complex.",
     "sent_at": "2026-08-25T13:11:22.905242Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/nar/gkag850",
     "title": "Bridging-driven condensation by eukaryotic SMC complexes is a conserved feature of genome organization.",
     "sent_at": "2026-09-03T16:41:49.931527Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41467-026-76447-x",
+    "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective MYC regulatory interactions.",
+    "sent_at": "2026-09-03T21:03:29.674316Z",
     "tier": 1,
     "kind": "journal"
   }
