@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2611585123",
-    "title": "Histone modification cross talk between a host and pathogen.",
-    "sent_at": "2026-08-25T03:30:35.827349Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.19.745715",
     "title": "Replicative history as a major determinant of epigenetic noise across human tissues",
     "sent_at": "2026-08-25T04:56:31.777758Z",
@@ -557,6 +550,13 @@
     "title": "Mechanisms and functional implications of long-range enhancer-dependent gene regulation.",
     "sent_at": "2026-09-02T21:06:36.333376Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/nar/gkag839",
+    "title": "Regulation of the histone H3K36 methyltransferase Set2 by the histone chaperone Spt6.",
+    "sent_at": "2026-09-03T00:10:54.975184Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
