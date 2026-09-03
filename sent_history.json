@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.19.745715",
-    "title": "Replicative history as a major determinant of epigenetic noise across human tissues",
-    "sent_at": "2026-08-25T04:56:31.777758Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.immuni.2026.08.001",
     "title": "Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in CD4+ T cells.",
     "sent_at": "2026-08-25T04:56:31.777758Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/nar/gkag839",
     "title": "Regulation of the histone H3K36 methyltransferase Set2 by the histone chaperone Spt6.",
     "sent_at": "2026-09-03T00:10:54.975184Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/g3journal/jkag230",
+    "title": "Leveraging human-trained neural networks for cross-species chromatin regulation annotations.",
+    "sent_at": "2026-09-03T04:54:39.179216Z",
     "tier": 3,
     "kind": "journal"
   }
