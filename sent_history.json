@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76738-3",
-    "title": "Cohesin acts as a transcriptional gatekeeper by restraining pause-release to promote processive elongation.",
-    "sent_at": "2026-08-25T10:47:34.653796Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.24.746546",
     "title": "CpG islands act as topological sinks for transcription-induced DNA supercoiling",
     "sent_at": "2026-08-25T13:11:22.905242Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s41586-026-10987-6",
     "title": "3D epigenome of glial cell types in developing human cortex.",
     "sent_at": "2026-09-03T11:39:10.430056Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/nar/gkag850",
+    "title": "Bridging-driven condensation by eukaryotic SMC complexes is a conserved feature of genome organization.",
+    "sent_at": "2026-09-03T16:41:49.931527Z",
     "tier": 1,
     "kind": "journal"
   }
