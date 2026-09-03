@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117813",
-    "title": "The R-loop-SPT6-SETD2 axis safeguards H3K36me3 to prevent broad H3K4me3 invasion in mouse oocytes.",
-    "sent_at": "2026-08-25T08:58:26.897045Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.24.746683",
-    "title": "Irregular nucleosome positioning governs a crystalline to liquid-like phase transition and tunes chromatin accessibility",
-    "sent_at": "2026-08-25T10:47:34.653796Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-76738-3",
     "title": "Cohesin acts as a transcriptional gatekeeper by restraining pause-release to promote processive elongation.",
     "sent_at": "2026-08-25T10:47:34.653796Z",
@@ -556,6 +542,20 @@
     "doi": "10.1182/blood.2025032640",
     "title": "Epstein-Barr virus-associated chromatin activation and enhancer engagement in T/NK-cell lymphoproliferative diseases.",
     "sent_at": "2026-09-03T07:12:04.941741Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.01.748477",
+    "title": "β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression",
+    "sent_at": "2026-09-03T11:39:10.430056Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41586-026-10987-6",
+    "title": "3D epigenome of glial cell types in developing human cortex.",
+    "sent_at": "2026-09-03T11:39:10.430056Z",
     "tier": 1,
     "kind": "journal"
   }
