@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.745941",
-    "title": "Early life stress affects the transcription and chromatin accessibility of spermatogonial cells",
-    "sent_at": "2026-08-25T18:57:50.359355Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag796",
-    "title": "Chromatin accessibility classification of TAD boundaries discloses new architectural proteins.",
-    "sent_at": "2026-08-25T18:57:50.359355Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.20.746112",
     "title": "MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts",
     "sent_at": "2026-08-25T20:49:19.648800Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/science.aea4611",
     "title": "Conformational asymmetry of replicated human chromosomes.",
     "sent_at": "2026-09-04T04:25:01.948019Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.30.748130",
+    "title": "HiC-LEGO: Biologically Guided High-Resolution 3D Genome Reconstruction Preserves Chromatin Organization at Kilobase Resolution",
+    "sent_at": "2026-09-04T11:15:52.096694Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-76396-5",
+    "title": "Nuclear exosome targeting complexes modulate cohesin binding and enhancer-promoter interactions in 3D.",
+    "sent_at": "2026-09-04T11:15:52.096694Z",
     "tier": 1,
     "kind": "journal"
   }
