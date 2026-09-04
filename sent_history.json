@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.24.746556",
-    "title": "IPO9 modulates histone-dependent inhibition of cGAS activity",
-    "sent_at": "2026-08-26T02:00:08.752728Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1371/journal.pbio.3003954",
-    "title": "Tcf15 promotes an open nucleolar chromatin state to safeguard ribosome biogenesis and genome stability in mouse embryonic stem cells.",
-    "sent_at": "2026-08-26T02:00:08.752728Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.21.746263",
     "title": "Chromatin compartments define distinct modes of action and biological roles of the pioneer Pax7",
     "sent_at": "2026-08-26T03:41:05.691462Z",
@@ -557,6 +543,20 @@
     "title": "Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.",
     "sent_at": "2026-09-04T19:13:23.431647Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.02.748955",
+    "title": "Synergistic targeting of EP300/CBP and EYA co-activators collapses the rhabdomyosarcoma core regulatory circuit",
+    "sent_at": "2026-09-04T20:52:33.624534Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.26508/lsa.202603698",
+    "title": "Induced degradation of Ufd1 reveals regulation of cohesin by the VCP/p97Ufd1-Npl4 complex.",
+    "sent_at": "2026-09-04T20:52:33.624534Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
