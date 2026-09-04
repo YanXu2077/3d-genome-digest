@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.21.746151",
-    "title": "Addressing technical variations in ATAC-seq data and improving motif accessibility analyses",
-    "sent_at": "2026-08-25T22:41:02.498375Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/bioinformatics/btag631",
-    "title": "hicream: a flexible framework to identify significantly different regions in Hi-C data.",
-    "sent_at": "2026-08-25T22:41:02.498375Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.24.746556",
     "title": "IPO9 modulates histone-dependent inhibition of cGAS activity",
     "sent_at": "2026-08-26T02:00:08.752728Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.21.746258",
     "title": "Direct visualization of MCM helicase activation and replisome coupling in situ.",
     "sent_at": "2026-09-04T16:25:25.533548Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.02.748901",
+    "title": "SOX2 can associate with chromatin directly by binding to DNA or indirectly via association with other chromatin-bound proteins",
+    "sent_at": "2026-09-04T19:13:23.431647Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44319-026-00894-2",
+    "title": "Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.",
+    "sent_at": "2026-09-04T19:13:23.431647Z",
     "tier": 2,
     "kind": "journal"
   }
