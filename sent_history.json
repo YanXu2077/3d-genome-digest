@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.21.746263",
-    "title": "Chromatin compartments define distinct modes of action and biological roles of the pioneer Pax7",
-    "sent_at": "2026-08-26T03:41:05.691462Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1101/gr.282066.126",
-    "title": "A network of steroid receptor transcription factors regulates ovarian chromatin remodelling in the transition to ovulation.",
-    "sent_at": "2026-08-26T03:41:05.691462Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.21.746281",
     "title": "The compartmental polarization of interphase human chromosomes within the nucleus: A mechanism for transcriptional regulation of large chromosomes",
     "sent_at": "2026-08-26T05:08:42.171581Z",
@@ -557,6 +543,20 @@
     "title": "Induced degradation of Ufd1 reveals regulation of cohesin by the VCP/p97Ufd1-Npl4 complex.",
     "sent_at": "2026-09-04T20:52:33.624534Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.02.748863",
+    "title": "Clonal memory in human embryonic stem cells biases fate potential during endoderm differentiation",
+    "sent_at": "2026-09-04T22:34:47.844761Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aee2863",
+    "title": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
+    "sent_at": "2026-09-04T22:34:47.844761Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
