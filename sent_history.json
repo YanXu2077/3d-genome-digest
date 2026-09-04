@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.746112",
-    "title": "MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts",
-    "sent_at": "2026-08-25T20:49:19.648800Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41573-026-01517-0",
-    "title": "Targeting CDKs in the RNAPII transcription cycle.",
-    "sent_at": "2026-08-25T20:49:19.648800Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.21.746151",
     "title": "Addressing technical variations in ATAC-seq data and improving motif accessibility analyses",
     "sent_at": "2026-08-25T22:41:02.498375Z",
@@ -557,6 +543,20 @@
     "title": "Nuclear exosome targeting complexes modulate cohesin binding and enhancer-promoter interactions in 3D.",
     "sent_at": "2026-09-04T11:15:52.096694Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.31.748267",
+    "title": "Mitotic chromosomes are mechanically connected by chromatin-based interchromosome linkers",
+    "sent_at": "2026-09-04T16:25:25.533548Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.21.746258",
+    "title": "Direct visualization of MCM helicase activation and replisome coupling in situ.",
+    "sent_at": "2026-09-04T16:25:25.533548Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
