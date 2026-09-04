@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-75592-7",
-    "title": "Multi-subunit collaboration enables Smc5/6 to function as a composite SUMO E3 complex.",
-    "sent_at": "2026-08-25T13:11:22.905242Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.26508/lsa.202603746",
-    "title": "Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.",
-    "sent_at": "2026-08-25T15:00:47.176894Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.24.746650",
     "title": "DePARylation prevents DNA replication-driven PARP1 condensation",
     "sent_at": "2026-08-25T16:56:24.267400Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-76447-x",
     "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective MYC regulatory interactions.",
     "sent_at": "2026-09-03T21:03:29.674316Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.02.748911",
+    "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain",
+    "sent_at": "2026-09-04T00:08:19.650801Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-10017071/v1",
+    "title": "Enhanced chromatin compaction is associated with de novo expression of a nuclear microprotein, global loss of H3 acetylation and local transcriptional changes in retinal rod photoreceptors.",
+    "sent_at": "2026-09-04T00:08:19.650801Z",
     "tier": 1,
     "kind": "journal"
   }
