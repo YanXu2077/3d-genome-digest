@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.22.746439",
-    "title": "Cell type-resolved chromatin accessibility clocks for brain aging",
-    "sent_at": "2026-08-26T10:51:28.165171Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41422-026-01290-0",
     "title": "p-LoopF is associated with chromatin looping in large introns of Ginkgo biloba.",
     "sent_at": "2026-08-26T10:51:28.165171Z",
@@ -556,6 +549,13 @@
     "doi": "10.1021/acs.jproteome.6c00086",
     "title": "Antibody-Based Proximity Labeling Reveals Bait-Proximal Proteomes in Paraffin-Embedded and Snap-Frozen Tissue Samples.",
     "sent_at": "2026-09-05T18:16:14.639532Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1186/s12967-026-08874-9",
+    "title": "Beyond genes: EpiSwitch® and Orion platform-powered 3D genome architecture biomarkers reveal shared biology across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis.",
+    "sent_at": "2026-09-05T20:39:42.820180Z",
     "tier": 3,
     "kind": "journal"
   }
