@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41422-026-01290-0",
-    "title": "p-LoopF is associated with chromatin looping in large introns of Ginkgo biloba.",
-    "sent_at": "2026-08-26T10:51:28.165171Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.25.746968",
     "title": "DPF3a couples H3K36me2-dependent chromatin remodeling to genome architecture during myogenesis",
     "sent_at": "2026-08-26T13:14:39.518684Z",
@@ -556,6 +549,13 @@
     "doi": "10.1186/s12967-026-08874-9",
     "title": "Beyond genes: EpiSwitch® and Orion platform-powered 3D genome architecture biomarkers reveal shared biology across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis.",
     "sent_at": "2026-09-05T20:39:42.820180Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117894",
+    "title": "Androgen-PDH axis modulates sexual dimorphism of mitochondrial respiration in visceral fat.",
+    "sent_at": "2026-09-05T22:09:59.731212Z",
     "tier": 3,
     "kind": "journal"
   }
