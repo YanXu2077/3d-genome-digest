@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.20.745782",
-    "title": "An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.",
-    "sent_at": "2026-08-26T09:03:38.746050Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/gbe/evag213",
-    "title": "De novo assembly of the Trypanosoma congolense genome reveals an organisation influenced by antigenic variation but distinct from Trypanosoma brucei.",
-    "sent_at": "2026-08-26T09:03:38.746050Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.22.746439",
     "title": "Cell type-resolved chromatin accessibility clocks for brain aging",
     "sent_at": "2026-08-26T10:51:28.165171Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41580-026-01019-2",
     "title": "The molecular basis of transcription initiation by RNA polymerase II.",
     "sent_at": "2026-09-05T15:12:05.347826Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.01.748595",
+    "title": "Widespread cryptic RAG-mediated recombination in developing T lymphocytes",
+    "sent_at": "2026-09-05T18:16:14.639532Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acs.jproteome.6c00086",
+    "title": "Antibody-Based Proximity Labeling Reveals Bait-Proximal Proteomes in Paraffin-Embedded and Snap-Frozen Tissue Samples.",
+    "sent_at": "2026-09-05T18:16:14.639532Z",
     "tier": 3,
     "kind": "journal"
   }
