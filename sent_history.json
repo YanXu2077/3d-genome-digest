@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.24.746772",
-    "title": "Adaptive energetic tuning of nucleolar phase separation regulates rRNA transport",
-    "sent_at": "2026-08-26T07:08:07.224956Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.xgen.2026.101339",
     "title": "Cooperativity enables widespread role of low-affinity motifs in chromatin accessibility and increases regulatory potential.",
     "sent_at": "2026-08-26T07:08:07.224956Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.devcel.2026.08.008",
     "title": "Chromatin context shapes SPT5 regulation of promoter-proximal Pol II, fine-tuning gene expression changes during Drosophila embryogenesis.",
     "sent_at": "2026-09-05T04:21:28.409308Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/nargab/lqag104",
+    "title": "Scalable joint non-negative matrix factorization for paired single cell gene expression and chromatin accessibility data.",
+    "sent_at": "2026-09-05T10:34:51.380757Z",
     "tier": 3,
     "kind": "journal"
   }
