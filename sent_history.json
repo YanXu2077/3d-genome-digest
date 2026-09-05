@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.25.746968",
-    "title": "DPF3a couples H3K36me2-dependent chromatin remodeling to genome architecture during myogenesis",
-    "sent_at": "2026-08-26T13:14:39.518684Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s13072-026-00694-x",
     "title": "Drosophila Rumpelstiltskin regulates Polycomb cis and trans interactions and Homie barrier activity.",
     "sent_at": "2026-08-26T13:14:39.518684Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.celrep.2026.117894",
     "title": "Androgen-PDH axis modulates sexual dimorphism of mitochondrial respiration in visceral fat.",
     "sent_at": "2026-09-05T22:09:59.731212Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41380-026-03862-3",
+    "title": "Developmental and cellular vulnerabilities underlie genetic architecture of schizophrenia.",
+    "sent_at": "2026-09-05T23:58:00.897767Z",
     "tier": 3,
     "kind": "journal"
   }
