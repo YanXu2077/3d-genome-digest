@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xgen.2026.101339",
-    "title": "Cooperativity enables widespread role of low-affinity motifs in chromatin accessibility and increases regulatory potential.",
-    "sent_at": "2026-08-26T07:08:07.224956Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.20.745782",
     "title": "An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.",
     "sent_at": "2026-08-26T09:03:38.746050Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/nargab/lqag104",
     "title": "Scalable joint non-negative matrix factorization for paired single cell gene expression and chromatin accessibility data.",
     "sent_at": "2026-09-05T10:34:51.380757Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41580-026-01019-2",
+    "title": "The molecular basis of transcription initiation by RNA polymerase II.",
+    "sent_at": "2026-09-05T15:12:05.347826Z",
     "tier": 3,
     "kind": "journal"
   }
