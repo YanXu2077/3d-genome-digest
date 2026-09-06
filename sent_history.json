@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s13072-026-00694-x",
-    "title": "Drosophila Rumpelstiltskin regulates Polycomb cis and trans interactions and Homie barrier activity.",
-    "sent_at": "2026-08-26T13:14:39.518684Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.22.745658",
-    "title": "Transcription factor co-occupancy shapes the somatic mutational landscapes across regulatory regions in liver cancer",
-    "sent_at": "2026-08-26T15:04:01.478765Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41568-026-00969-1",
     "title": "Origins and consequences of oncogenic 3D chromatin remodelling.",
     "sent_at": "2026-08-26T15:04:01.478765Z",
@@ -557,6 +543,20 @@
     "title": "Developmental and cellular vulnerabilities underlie genetic architecture of schizophrenia.",
     "sent_at": "2026-09-05T23:58:00.897767Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.03.748889",
+    "title": "Cell cycle control of chromatin creates a therapeutic window for epigenetic therapy in tumors",
+    "sent_at": "2026-09-06T10:52:41.071684Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/jemt.70172",
+    "title": "Innovative Method for Evaluating the Optical Properties of Liquid-Liquid Phase Separations Using Laser Scanning Microscopic Spectroscopy.",
+    "sent_at": "2026-09-06T10:52:41.071684Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
