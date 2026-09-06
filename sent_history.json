@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1007/978-1-0716-5072-1_9",
-    "title": "Single Molecule Tracking: Visualizing Transcription of Endogenous Loci in Living Cells.",
-    "sent_at": "2026-08-26T17:03:13.156163Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.25.746923",
     "title": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
     "sent_at": "2026-08-26T20:05:19.563819Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.isci.2026.117332",
     "title": "The Sox2 regulatory region 42 produces enhancer RNAs that influence neuronal migration during cortical development.",
     "sent_at": "2026-09-06T15:28:06.761625Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.bioactmat.2026.08.031",
+    "title": "Tissue-derived extracellular matrix hydrogels instruct epigenetic adaptation in metastatic colonization.",
+    "sent_at": "2026-09-06T18:17:51.498188Z",
     "tier": 3,
     "kind": "journal"
   }
