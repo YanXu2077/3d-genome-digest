@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/gad.353831.126",
-    "title": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
-    "sent_at": "2026-08-27T09:33:21.275736Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.26.747395",
-    "title": "A reaction-diffusion framework for de novo Polycomb spreading",
-    "sent_at": "2026-08-27T20:29:49.630097Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/genes17080932",
     "title": "Applying the Poincaré Disc Method to Analyze the Hierarchical Structure of TADs in Hi-C Data.",
     "sent_at": "2026-08-27T20:29:49.630097Z",
@@ -557,6 +543,20 @@
     "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development.",
     "sent_at": "2026-09-07T04:26:40.795184Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.02.748967",
+    "title": "Motif-based model of transcription predicts effects of sequence variants in AR enhancers and reveals distinct functions for AR-associated transcription factors",
+    "sent_at": "2026-09-07T12:24:00.885345Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-76506-3",
+    "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain.",
+    "sent_at": "2026-09-07T12:24:00.885345Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
