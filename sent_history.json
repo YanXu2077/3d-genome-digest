@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/genes17080932",
-    "title": "Applying the Poincaré Disc Method to Analyze the Hierarchical Structure of TADs in Hi-C Data.",
-    "sent_at": "2026-08-27T20:29:49.630097Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.26.747275",
-    "title": "Nuclear size is genetically controlled and influences cell fate",
-    "sent_at": "2026-08-28T06:11:17.621009Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/biology15161331",
     "title": "Characterization of Protein Co-Localization and Histone Modifications at Enhancers Anchored in Chromatin Loops.",
     "sent_at": "2026-08-28T06:11:17.621009Z",
@@ -557,6 +543,20 @@
     "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain.",
     "sent_at": "2026-09-07T12:24:00.885345Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.03.748884",
+    "title": "STED microscopy reveals mitotic stage-dependent CENP-A organization",
+    "sent_at": "2026-09-07T18:46:50.651019Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag866",
+    "title": "Dynamic chromatin tethering of MDC1 regulates genome stability.",
+    "sent_at": "2026-09-07T18:46:50.651019Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
