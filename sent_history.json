@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/biotech15030070",
-    "title": "Diverse Roles of Cohesin in Chromosome Dynamics and Stem Cells.",
-    "sent_at": "2026-08-26T23:30:47.587632Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/gad.353831.126",
     "title": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
     "sent_at": "2026-08-27T09:33:21.275736Z",
@@ -556,6 +549,13 @@
     "doi": "10.1111/acel.70694",
     "title": "Twisting the End Game: How Telomere Chromatin Modifications Shape Telomere Maintenance.",
     "sent_at": "2026-09-07T00:11:23.570220Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.diff.2026.100990",
+    "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development.",
+    "sent_at": "2026-09-07T04:26:40.795184Z",
     "tier": 3,
     "kind": "journal"
   }
