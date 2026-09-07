@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/biology15161331",
-    "title": "Characterization of Protein Co-Localization and Histone Modifications at Enhancers Anchored in Chromatin Loops.",
-    "sent_at": "2026-08-28T06:11:17.621009Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.24.746893",
-    "title": "Extending conventional TIRF microscopy to image single molecules in micromolar analyte backgrounds",
-    "sent_at": "2026-08-28T18:59:45.309337Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/biom16081143",
     "title": "Mapping Protein Diffusion from the Plasma Membrane to the Nucleus: Insights from Fluorescence Correlation Spectroscopy.",
     "sent_at": "2026-08-28T18:59:45.309337Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag866",
     "title": "Dynamic chromatin tethering of MDC1 regulates genome stability.",
     "sent_at": "2026-09-07T18:46:50.651019Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749084",
+    "title": "Residual cohesin function and PARP1 levels determine PARP inhibitor sensitivity in STAG2-deficient cancers",
+    "sent_at": "2026-09-07T22:51:11.820105Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/prot.70172",
+    "title": "Molecular Basis for Uracil-DNA-Glycosylase to Identify DNA Damage in the Nucleosome.",
+    "sent_at": "2026-09-07T22:51:11.820105Z",
     "tier": 3,
     "kind": "journal"
   }
