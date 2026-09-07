@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.22.746371",
-    "title": "A multi-tissue epigenomic atlas links the sheep non-coding genome to domestication and complex traits",
-    "sent_at": "2026-08-26T23:30:47.587632Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/biotech15030070",
     "title": "Diverse Roles of Cohesin in Chromosome Dynamics and Stem Cells.",
     "sent_at": "2026-08-26T23:30:47.587632Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.clinsp.2026.101115",
     "title": "Preliminary analysis of chromatin accessibility in osteosarcoma tissues.",
     "sent_at": "2026-09-06T22:09:53.320025Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1111/acel.70694",
+    "title": "Twisting the End Game: How Telomere Chromatin Modifications Shape Telomere Maintenance.",
+    "sent_at": "2026-09-07T00:11:23.570220Z",
     "tier": 3,
     "kind": "journal"
   }
