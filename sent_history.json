@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.28.747770",
-    "title": "A developmental switch in the piRNA pathway ensures stage-specific transposon silencing",
-    "sent_at": "2026-08-29T16:44:12.988681Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.08.010",
-    "title": "HoT auto-blinking probes enable real-time, super-resolution chromatin imaging in live cells and tissues.",
-    "sent_at": "2026-08-29T16:44:12.988681Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.28.746988",
     "title": "FET fusion proteins reshape splicing factor networks to drive oncogenic alternative splicing",
     "sent_at": "2026-08-29T20:57:20.240422Z",
@@ -557,6 +543,20 @@
     "title": "Enhancer-mediated DDIT4 activation by SMYD2-dependent H3K4me1 promotes pazopanib resistance in clear cell renal cell carcinoma.",
     "sent_at": "2026-09-08T11:15:07.241503Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.03.749075",
+    "title": "A systematic evaluation of SIRT6 as transcriptomic biomarker of aging",
+    "sent_at": "2026-09-08T16:38:48.965753Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag851",
+    "title": "Loss of SUMOylation drives aberrant PRC1 clustering and 3D genome rewiring independent of H3K27me3.",
+    "sent_at": "2026-09-08T16:38:48.965753Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
