@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.28.746988",
-    "title": "FET fusion proteins reshape splicing factor networks to drive oncogenic alternative splicing",
-    "sent_at": "2026-08-29T20:57:20.240422Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.08.005",
-    "title": "Oriented binding of transcription factors to nucleosomes remodels chromatin at human promoters.",
-    "sent_at": "2026-08-29T20:57:20.240422Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.3389/fgeed.2026.1759382",
     "title": "Evaluating high-fidelity CRISPR-Cas nucleases in nucleosomal contexts using a quantitative framework.",
     "sent_at": "2026-08-30T00:11:29.147305Z",
@@ -557,6 +543,20 @@
     "title": "Loss of SUMOylation drives aberrant PRC1 clustering and 3D genome rewiring independent of H3K27me3.",
     "sent_at": "2026-09-08T16:38:48.965753Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749409",
+    "title": "A single-nucleus multiomic and spatial atlas of gene regulation in human spermatogenesis",
+    "sent_at": "2026-09-08T21:10:23.995269Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1242/dev.205584",
+    "title": "Histone H3K9 methyltransferases regulate cortical growth by coordinating heterochromatin formation and neural progenitor dynamics.",
+    "sent_at": "2026-09-08T21:10:23.995269Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
