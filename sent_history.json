@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeg0134",
-    "title": "Hi-Cformer enables multiscale chromatin contact map modeling for single-cell Hi-C data analysis.",
-    "sent_at": "2026-08-29T02:57:08.997730Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1101/gr.281535.125",
-    "title": "Identification of differential topologically associating domains from low sequencing depth and pseudo-bulk chromatin contact maps.",
-    "sent_at": "2026-08-29T11:02:50.430718Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.28.747770",
     "title": "A developmental switch in the piRNA pathway ensures stage-specific transposon silencing",
     "sent_at": "2026-08-29T16:44:12.988681Z",
@@ -556,6 +542,20 @@
     "doi": "10.1177/00220345261471409",
     "title": "ARID1A Mediates ROS-Induced Osteoclast Activation in TMJ Osteoarthritis.",
     "sent_at": "2026-09-08T04:34:02.057710Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.739550",
+    "title": "BCOR mutations establish a persistent culture-adaptive state in human induced pluripotent stem cells",
+    "sent_at": "2026-09-08T11:15:07.241503Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12967-026-08714-w",
+    "title": "Enhancer-mediated DDIT4 activation by SMYD2-dependent H3K4me1 promotes pazopanib resistance in clear cell renal cell carcinoma.",
+    "sent_at": "2026-09-08T11:15:07.241503Z",
     "tier": 3,
     "kind": "journal"
   }
