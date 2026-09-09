@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.27.747511",
-    "title": "Towards transferable explicit-solvent coarse-grained models for biomolecular condensates",
-    "sent_at": "2026-08-30T05:42:47.728475Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.77493",
-    "title": "Glucose and Glutamine Deprivation Promotes Breast Cancer Lung Metastasis via BRD4-Dependent Enhancer Activation.",
-    "sent_at": "2026-08-30T12:08:38.374471Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1111/acel.70689",
     "title": "SIRT1 Silences L1 Retrotransposons by Stabilizing Heterochromatin-Modifying Complexes.",
     "sent_at": "2026-08-30T19:20:04.796628Z",
@@ -557,6 +543,20 @@
     "title": "Integrative modeling of the genome structure and dynamics in fission yeast.",
     "sent_at": "2026-09-09T00:10:10.589403Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749300",
+    "title": "Transcription-Coupled Chromatin Reinforcement Maintains the Mature Cardiomyocyte State",
+    "sent_at": "2026-09-09T05:04:33.809159Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.013",
+    "title": "HP1α binding creates a local barrier against transcription activation and persists during chromatin decondensation.",
+    "sent_at": "2026-09-09T05:04:33.809159Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
