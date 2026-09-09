@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.28.747853",
-    "title": "The first chromosome-scale genome assembly of Blumeria graminis f. sp. avenae provides insights into genome evolution and host specialization",
-    "sent_at": "2026-08-31T05:25:10.603535Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.ygeno.2026.111311",
-    "title": "Charting host structural variations in cervical cancer by long-read sequencing pinpoints a functional deletion in PIAS1.",
-    "sent_at": "2026-08-31T05:25:10.603535Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.26.739472",
     "title": "Lineage-specific X chromosome inactivation escape and skew underlie sex-biased immune gene dosage and deleterious variant exposure",
     "sent_at": "2026-08-31T13:38:45.995617Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41588-026-02736-2",
     "title": "Cohesin prevents local mixing of condensed euchromatic domains in living human cells.",
     "sent_at": "2026-09-09T11:44:11.481252Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749524",
+    "title": "Stable epigenetic states set single-cell activation thresholds in mammalian expression systems",
+    "sent_at": "2026-09-09T16:52:48.515624Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.202524180",
+    "title": "Overcoming Artificial Structures in Resolution-Enhanced Hi-C Data by Signal Decomposition and Multi-Scale Attention.",
+    "sent_at": "2026-09-09T16:52:48.515624Z",
     "tier": 1,
     "kind": "journal"
   }
