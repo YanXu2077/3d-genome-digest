@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3389/fgeed.2026.1759382",
-    "title": "Evaluating high-fidelity CRISPR-Cas nucleases in nucleosomal contexts using a quantitative framework.",
-    "sent_at": "2026-08-30T00:11:29.147305Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.27.747511",
     "title": "Towards transferable explicit-solvent coarse-grained models for biomolecular condensates",
     "sent_at": "2026-08-30T05:42:47.728475Z",
@@ -557,6 +550,13 @@
     "title": "Histone H3K9 methyltransferases regulate cortical growth by coordinating heterochromatin formation and neural progenitor dynamics.",
     "sent_at": "2026-09-08T21:10:23.995269Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1073/pnas.2612002123",
+    "title": "Integrative modeling of the genome structure and dynamics in fission yeast.",
+    "sent_at": "2026-09-09T00:10:10.589403Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
