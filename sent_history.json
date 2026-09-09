@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1111/acel.70689",
-    "title": "SIRT1 Silences L1 Retrotransposons by Stabilizing Heterochromatin-Modifying Complexes.",
-    "sent_at": "2026-08-30T19:20:04.796628Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117120",
     "title": "DVE-1 is a telomere-binding protein and links the NuRD complex to telomere regulation in C. elegans.",
     "sent_at": "2026-08-30T21:22:59.599462Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.molcel.2026.08.013",
     "title": "HP1α binding creates a local barrier against transcription activation and persists during chromatin decondensation.",
     "sent_at": "2026-09-09T05:04:33.809159Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.jbc.2026.113517",
+    "title": "Multiscale Modeling Primer: Focus on Chromatin and Epigenetics.",
+    "sent_at": "2026-09-09T07:27:55.541914Z",
     "tier": 2,
     "kind": "journal"
   }
