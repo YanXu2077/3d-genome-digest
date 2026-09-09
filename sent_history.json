@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117120",
-    "title": "DVE-1 is a telomere-binding protein and links the NuRD complex to telomere regulation in C. elegans.",
-    "sent_at": "2026-08-30T21:22:59.599462Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.28.747853",
     "title": "The first chromosome-scale genome assembly of Blumeria graminis f. sp. avenae provides insights into genome evolution and host specialization",
     "sent_at": "2026-08-31T05:25:10.603535Z",
@@ -557,6 +550,13 @@
     "title": "Multiscale Modeling Primer: Focus on Chromatin and Epigenetics.",
     "sent_at": "2026-09-09T07:27:55.541914Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41588-026-02736-2",
+    "title": "Cohesin prevents local mixing of condensed euchromatic domains in living human cells.",
+    "sent_at": "2026-09-09T11:44:11.481252Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
