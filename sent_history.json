@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.31.748372",
-    "title": "X-inactivation escapee domains are CTCF-cohesin independent chromatin compartments",
-    "sent_at": "2026-09-01T16:38:05.796691Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1021/acschembio.6c00345",
-    "title": "Evaluation of HDAC8 as a Druggable Target in STAG2-Mutant Ewing Sarcoma.",
-    "sent_at": "2026-09-01T16:38:05.796691Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.27.747604",
     "title": "Dynamical Regimes in Rejuvenation",
     "sent_at": "2026-09-01T21:04:11.107423Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acs.nanolett.6c02799",
     "title": "Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy.",
     "sent_at": "2026-09-10T07:22:30.739622Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.06.749697",
+    "title": "phyB photobodies display molecular memory, regulating light signaling transcriptional states through phase separation.",
+    "sent_at": "2026-09-10T11:44:06.912561Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41556-026-02040-5",
+    "title": "The periphery of nuclear speckles defines a spatially and temporally regulated compartment of long-lived intron-retained RNAs that resolves during mitosis.",
+    "sent_at": "2026-09-10T11:44:06.912561Z",
     "tier": 3,
     "kind": "journal"
   }
