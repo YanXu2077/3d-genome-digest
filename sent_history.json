@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.28.747860",
-    "title": "Transient reprogramming limits AP-1-associated chromatin opening and transposable element activation to preserve hematopoietic stem cell function during aging and stress",
-    "sent_at": "2026-08-31T23:00:59.539028Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.77533",
-    "title": "Single-Molecule Imaging of Endogenous RNA Using a Miniaturized and Circularly Permuted CRISPR-Cas13 Degron-Masking System CDegSR.",
-    "sent_at": "2026-09-01T05:01:51.928595Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.08.006",
     "title": "An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin.",
     "sent_at": "2026-09-01T11:38:21.464730Z",
@@ -557,6 +543,20 @@
     "title": "Reversibility of Nuclear and 3D Genomic Changes in Non-Cancerous Fibroblasts After Constricted Migration.",
     "sent_at": "2026-09-10T00:10:58.234030Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749554",
+    "title": "An atlas of the C. elegans starvation response reveals that transcription is necessary to initiate transcriptional silencing in quiescent primordial germ cells",
+    "sent_at": "2026-09-10T05:06:58.264307Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aef1579",
+    "title": "The CENP-A chaperone complex spatially organizes centromeres.",
+    "sent_at": "2026-09-10T05:06:58.264307Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
