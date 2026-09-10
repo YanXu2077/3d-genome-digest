@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.27.747604",
-    "title": "Dynamical Regimes in Rejuvenation",
-    "sent_at": "2026-09-01T21:04:11.107423Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag652",
     "title": "mmVelo: A deep generative model for estimating cell state-dependent dynamics across multiple modalities.",
     "sent_at": "2026-09-01T21:04:11.107423Z",
@@ -557,6 +550,13 @@
     "title": "The periphery of nuclear speckles defines a spatially and temporally regulated compartment of long-lived intron-retained RNAs that resolves during mitosis.",
     "sent_at": "2026-09-10T11:44:06.912561Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag673",
+    "title": "HiCPotts: An R/Bioconductor package to identify significant interactions in chromosome conformation capture data and model sources of bias.",
+    "sent_at": "2026-09-10T16:38:57.627019Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
