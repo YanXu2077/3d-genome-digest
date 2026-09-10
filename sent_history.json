@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.08.006",
-    "title": "An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin.",
-    "sent_at": "2026-09-01T11:38:21.464730Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.31.748372",
     "title": "X-inactivation escapee domains are CTCF-cohesin independent chromatin compartments",
     "sent_at": "2026-09-01T16:38:05.796691Z",
@@ -557,6 +550,13 @@
     "title": "The CENP-A chaperone complex spatially organizes centromeres.",
     "sent_at": "2026-09-10T05:06:58.264307Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1021/acs.nanolett.6c02799",
+    "title": "Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy.",
+    "sent_at": "2026-09-10T07:22:30.739622Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
