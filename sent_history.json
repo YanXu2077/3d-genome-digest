@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.29.748052",
-    "title": "In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding",
-    "sent_at": "2026-08-31T20:02:07.169911Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.08.28.747860",
     "title": "Transient reprogramming limits AP-1-associated chromatin opening and transposable element activation to preserve hematopoietic stem cell function during aging and stress",
     "sent_at": "2026-08-31T23:00:59.539028Z",
@@ -557,6 +550,13 @@
     "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome.",
     "sent_at": "2026-09-09T21:00:37.515220Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1091/mbc.E26-01-0053",
+    "title": "Reversibility of Nuclear and 3D Genomic Changes in Non-Cancerous Fibroblasts After Constricted Migration.",
+    "sent_at": "2026-09-10T00:10:58.234030Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
