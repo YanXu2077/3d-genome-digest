@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.13294/j.aps.2026.0069",
-    "title": "[CHAF1A sustains hematopoietic stem cell stemness by enhancing the activity of the NF-Y transcription factor family].",
-    "sent_at": "2026-09-02T00:07:41.170455Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1101/gr.280394.124",
     "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes.",
     "sent_at": "2026-09-02T04:25:26.155086Z",
@@ -557,6 +550,13 @@
     "title": "Selective control of HLA-DRB1 and HLA-DQA1 transcription through DR/DQ super enhancer microelements.",
     "sent_at": "2026-09-11T00:07:37.331038Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1111/nyas.70362",
+    "title": "PIEZO1 Mediates Myoblast Proliferation Under Simulated Microgravity.",
+    "sent_at": "2026-09-11T04:34:14.844336Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
