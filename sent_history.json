@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/gr.280394.124",
-    "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes.",
-    "sent_at": "2026-09-02T04:25:26.155086Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.31.748411",
-    "title": "HIF1A recruits primate-specific endogenous retroviruses into the human hypoxic and immune responses",
-    "sent_at": "2026-09-02T11:19:19.273995Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41592-026-03217-4",
     "title": "Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.",
     "sent_at": "2026-09-02T11:19:19.273995Z",
@@ -557,6 +543,20 @@
     "title": "PIEZO1 Mediates Myoblast Proliferation Under Simulated Microgravity.",
     "sent_at": "2026-09-11T04:34:14.844336Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.07.749802",
+    "title": "Remodelling of chromatin architecture and super-enhancer landscape in lamin A/C depleted HGSOC",
+    "sent_at": "2026-09-11T11:18:26.850269Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.leukres.2026.108304",
+    "title": "Identification and characterization of ectopic chromosomal amplifications in acute myeloid leukemia cell limes using high-throughput chromosome conformation capture screening.",
+    "sent_at": "2026-09-11T11:18:26.850269Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
