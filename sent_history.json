@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748911",
-    "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain",
-    "sent_at": "2026-09-04T00:08:19.650801Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.21203/rs.3.rs-10017071/v1",
     "title": "Enhanced chromatin compaction is associated with de novo expression of a nuclear microprotein, global loss of H3 acetylation and local transcriptional changes in retinal rod photoreceptors.",
     "sent_at": "2026-09-04T00:08:19.650801Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.cell.2026.08.023",
     "title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility.",
     "sent_at": "2026-09-12T11:09:28.402003Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.tcb.2026.08.007",
+    "title": "Transcription elongation by RNA polymerase II: from regulatory complexity to disease.",
+    "sent_at": "2026-09-12T15:48:38.914100Z",
     "tier": 3,
     "kind": "journal"
   }
