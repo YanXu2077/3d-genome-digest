@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.08.30.748103",
-    "title": "Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks",
-    "sent_at": "2026-09-04T04:25:01.948019Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/science.aea4611",
     "title": "Conformational asymmetry of replicated human chromosomes.",
     "sent_at": "2026-09-04T04:25:01.948019Z",
@@ -556,6 +549,13 @@
     "doi": "10.1126/sciadv.aei6204",
     "title": "RNA-independent cis-autoregulatory circuits within bidirectional gene pairs control metabolism.",
     "sent_at": "2026-09-12T18:40:58.122827Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.ady5166",
+    "title": "Elucidating the role of DEAF1 in neurodevelopment and shared molecular pathways in high-risk autism genes using cortical organoids.",
+    "sent_at": "2026-09-12T20:35:17.617644Z",
     "tier": 3,
     "kind": "journal"
   }
