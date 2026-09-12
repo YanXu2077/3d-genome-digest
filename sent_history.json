@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.01.748708",
-    "title": "Beyond Equilibrium Ensembles: Time Rescaling in Coarse-Grained Simulations across Single-Molecule and Condensate Regimes",
-    "sent_at": "2026-09-03T07:12:04.941741Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1182/blood.2025032640",
-    "title": "Epstein-Barr virus-associated chromatin activation and enhancer engagement in T/NK-cell lymphoproliferative diseases.",
-    "sent_at": "2026-09-03T07:12:04.941741Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.01.748477",
     "title": "β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression",
     "sent_at": "2026-09-03T11:39:10.430056Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag863",
     "title": "The dynamics of RAD51 foci formation and elongation in living human cells.",
     "sent_at": "2026-09-12T00:19:03.373058Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.09.750334",
+    "title": "Repeat element-anchored enhancer-promoter interactions (REEPIs) shape the regulatory landscape of hormone-resistant breast cancer",
+    "sent_at": "2026-09-12T04:55:51.209492Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/bies.70178",
+    "title": "ATRX Condensates as Candidate Organizers of Enhancer-Centered Nuclear Microenvironments in Neural Progenitors: A Hypothesis for Enhancer-Associated ATRX Function in Neural Progenitors.",
+    "sent_at": "2026-09-12T04:55:51.209492Z",
     "tier": 2,
     "kind": "journal"
   }
