@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.21203/rs.3.rs-10017071/v1",
-    "title": "Enhanced chromatin compaction is associated with de novo expression of a nuclear microprotein, global loss of H3 acetylation and local transcriptional changes in retinal rod photoreceptors.",
-    "sent_at": "2026-09-04T00:08:19.650801Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.30.748103",
     "title": "Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks",
     "sent_at": "2026-09-04T04:25:01.948019Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.tcb.2026.08.007",
     "title": "Transcription elongation by RNA polymerase II: from regulatory complexity to disease.",
     "sent_at": "2026-09-12T15:48:38.914100Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.aei6204",
+    "title": "RNA-independent cis-autoregulatory circuits within bidirectional gene pairs control metabolism.",
+    "sent_at": "2026-09-12T18:40:58.122827Z",
     "tier": 3,
     "kind": "journal"
   }
