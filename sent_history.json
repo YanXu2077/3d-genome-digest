@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag850",
-    "title": "Bridging-driven condensation by eukaryotic SMC complexes is a conserved feature of genome organization.",
-    "sent_at": "2026-09-03T16:41:49.931527Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41467-026-76447-x",
-    "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective MYC regulatory interactions.",
-    "sent_at": "2026-09-03T21:03:29.674316Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.02.748911",
     "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain",
     "sent_at": "2026-09-04T00:08:19.650801Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/21541264.2026.2727737",
     "title": "Characterization of physical interactions between the Drosophila insulator binding protein BEAF and transcription-associated proteins.",
     "sent_at": "2026-09-12T07:11:20.590370Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.750584",
+    "title": "Massively parallel characterization reveals context-dependent and non-additive regulatory effects of closely spaced variant pairs",
+    "sent_at": "2026-09-12T11:09:28.402003Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.08.023",
+    "title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility.",
+    "sent_at": "2026-09-12T11:09:28.402003Z",
     "tier": 3,
     "kind": "journal"
   }
