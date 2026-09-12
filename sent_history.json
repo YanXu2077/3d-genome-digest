@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.01.748477",
-    "title": "β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression",
-    "sent_at": "2026-09-03T11:39:10.430056Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41586-026-10987-6",
-    "title": "3D epigenome of glial cell types in developing human cortex.",
-    "sent_at": "2026-09-03T11:39:10.430056Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/nar/gkag850",
     "title": "Bridging-driven condensation by eukaryotic SMC complexes is a conserved feature of genome organization.",
     "sent_at": "2026-09-03T16:41:49.931527Z",
@@ -557,6 +543,20 @@
     "title": "ATRX Condensates as Candidate Organizers of Enhancer-Centered Nuclear Microenvironments in Neural Progenitors: A Hypothesis for Enhancer-Associated ATRX Function in Neural Progenitors.",
     "sent_at": "2026-09-12T04:55:51.209492Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.07.749956",
+    "title": "ATAC-seq and MNase-seq Detect Distinct Modes of Chromatin Accessibility",
+    "sent_at": "2026-09-12T07:11:20.590370Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/21541264.2026.2727737",
+    "title": "Characterization of physical interactions between the Drosophila insulator binding protein BEAF and transcription-associated proteins.",
+    "sent_at": "2026-09-12T07:11:20.590370Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
