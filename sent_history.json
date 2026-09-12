@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/science.aea4611",
-    "title": "Conformational asymmetry of replicated human chromosomes.",
-    "sent_at": "2026-09-04T04:25:01.948019Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.30.748130",
     "title": "HiC-LEGO: Biologically Guided High-Resolution 3D Genome Reconstruction Preserves Chromatin Organization at Kilobase Resolution",
     "sent_at": "2026-09-04T11:15:52.096694Z",
@@ -556,6 +549,13 @@
     "doi": "10.1126/sciadv.ady5166",
     "title": "Elucidating the role of DEAF1 in neurodevelopment and shared molecular pathways in high-risk autism genes using cortical organoids.",
     "sent_at": "2026-09-12T20:35:17.617644Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.aef1694",
+    "title": "Targeting LOXL4-driven matrix stiffening with acetyldigoxin restores CD8+ T cell function in lung cancer.",
+    "sent_at": "2026-09-12T22:31:48.885453Z",
     "tier": 3,
     "kind": "journal"
   }
