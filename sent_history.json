@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748863",
-    "title": "Clonal memory in human embryonic stem cells biases fate potential during endoderm differentiation",
-    "sent_at": "2026-09-04T22:34:47.844761Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1126/sciadv.aee2863",
-    "title": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
-    "sent_at": "2026-09-04T22:34:47.844761Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1039/d6cc03731c",
     "title": "Observation of hidden dynamics underlying facilitated dissociation of proteins from DNA.",
     "sent_at": "2026-09-05T00:04:23.157355Z",
@@ -557,6 +543,20 @@
     "title": "Enhancer-promoter interaction maps in pig implantation tissue identify candidate cis-regulatory elements and regulatory variants.",
     "sent_at": "2026-09-13T18:57:47.203942Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.09.750459",
+    "title": "A transitional senescence program drives inflammatory monocyte state expansion in aging humans",
+    "sent_at": "2026-09-13T20:47:51.603549Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21769/BioProtoc.5807",
+    "title": "ChromID: A Protocol for Mapping Protein Chromatin Interactions in Living Cells.",
+    "sent_at": "2026-09-13T20:47:51.603549Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
