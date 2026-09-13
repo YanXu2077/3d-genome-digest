@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1039/d6cc03731c",
-    "title": "Observation of hidden dynamics underlying facilitated dissociation of proteins from DNA.",
-    "sent_at": "2026-09-05T00:04:23.157355Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.devcel.2026.08.008",
-    "title": "Chromatin context shapes SPT5 regulation of promoter-proximal Pol II, fine-tuning gene expression changes during Drosophila embryogenesis.",
-    "sent_at": "2026-09-05T04:21:28.409308Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/nargab/lqag104",
     "title": "Scalable joint non-negative matrix factorization for paired single cell gene expression and chromatin accessibility data.",
     "sent_at": "2026-09-05T10:34:51.380757Z",
@@ -556,6 +542,20 @@
     "doi": "10.21769/BioProtoc.5807",
     "title": "ChromID: A Protocol for Mapping Protein Chromatin Interactions in Living Cells.",
     "sent_at": "2026-09-13T20:47:51.603549Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.06.747930",
+    "title": "Identifying human-specific transcription factor binding site gains and losses that contribute to human-specific phenotypes",
+    "sent_at": "2026-09-13T22:37:11.854882Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/19491034.2026.2721777",
+    "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization.",
+    "sent_at": "2026-09-13T22:37:11.854882Z",
     "tier": 3,
     "kind": "journal"
   }
