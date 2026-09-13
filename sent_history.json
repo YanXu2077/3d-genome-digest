@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76396-5",
-    "title": "Nuclear exosome targeting complexes modulate cohesin binding and enhancer-promoter interactions in 3D.",
-    "sent_at": "2026-09-04T11:15:52.096694Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.08.31.748267",
     "title": "Mitotic chromosomes are mechanically connected by chromatin-based interchromosome linkers",
     "sent_at": "2026-09-04T16:25:25.533548Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-09-13T00:04:45.029735Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.05.749632",
+    "title": "spAlignDE unifies cross-sample and cross-modal spatial alignment with mismatch-aware differential expression",
+    "sent_at": "2026-09-13T05:09:55.434529Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
