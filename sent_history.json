@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748955",
-    "title": "Synergistic targeting of EP300/CBP and EYA co-activators collapses the rhabdomyosarcoma core regulatory circuit",
-    "sent_at": "2026-09-04T20:52:33.624534Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.26508/lsa.202603698",
-    "title": "Induced degradation of Ufd1 reveals regulation of cohesin by the VCP/p97Ufd1-Npl4 complex.",
-    "sent_at": "2026-09-04T20:52:33.624534Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.02.748863",
     "title": "Clonal memory in human embryonic stem cells biases fate potential during endoderm differentiation",
     "sent_at": "2026-09-04T22:34:47.844761Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.isci.2026.117394",
     "title": "MORC1 coordinates TRIM28 interaction and nuclear condensate formation for transposon silencing.",
     "sent_at": "2026-09-13T16:13:45.965102Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.750863",
+    "title": "Single-residue variation in the nucleosome core reveals a regulatory hub for phenotypic innovation",
+    "sent_at": "2026-09-13T18:57:47.203942Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ygeno.2026.111318",
+    "title": "Enhancer-promoter interaction maps in pig implantation tissue identify candidate cis-regulatory elements and regulatory variants.",
+    "sent_at": "2026-09-13T18:57:47.203942Z",
     "tier": 2,
     "kind": "journal"
   }
