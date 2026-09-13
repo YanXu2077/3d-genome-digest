@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748901",
-    "title": "SOX2 can associate with chromatin directly by binding to DNA or indirectly via association with other chromatin-bound proteins",
-    "sent_at": "2026-09-04T19:13:23.431647Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s44319-026-00894-2",
-    "title": "Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.",
-    "sent_at": "2026-09-04T19:13:23.431647Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.02.748955",
     "title": "Synergistic targeting of EP300/CBP and EYA co-activators collapses the rhabdomyosarcoma core regulatory circuit",
     "sent_at": "2026-09-04T20:52:33.624534Z",
@@ -557,6 +543,20 @@
     "title": "dcHiChIP: A comprehensive Nextflow-based pipeline for multiscale analysis of chromatin architecture from HiChIP data.",
     "sent_at": "2026-09-13T11:45:41.630615Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.750682",
+    "title": "SAF-A/HNRNPU regulates euchromatin dynamics and is required for nuclear envelope integrity",
+    "sent_at": "2026-09-13T16:13:45.965102Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.isci.2026.117394",
+    "title": "MORC1 coordinates TRIM28 interaction and nuclear condensate formation for transposon silencing.",
+    "sent_at": "2026-09-13T16:13:45.965102Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
