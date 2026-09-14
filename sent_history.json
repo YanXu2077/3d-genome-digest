@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.01.748595",
-    "title": "Widespread cryptic RAG-mediated recombination in developing T lymphocytes",
-    "sent_at": "2026-09-05T18:16:14.639532Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1021/acs.jproteome.6c00086",
     "title": "Antibody-Based Proximity Labeling Reveals Bait-Proximal Proteomes in Paraffin-Embedded and Snap-Frozen Tissue Samples.",
     "sent_at": "2026-09-05T18:16:14.639532Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.lfs.2026.124677",
     "title": "Intramolecular determinants of Retinoid X receptor involved in heterodimeric interactions with its partner PXR: Implications in receptor dynamics and mitotic chromatin interactions.",
     "sent_at": "2026-09-14T05:18:52.555393Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/hem3.70456",
+    "title": "Clonotypic characterization defines B-cell drivers of clonal expansion and intratumor heterogeneity in IgM monoclonal gammopathies.",
+    "sent_at": "2026-09-14T07:56:13.445458Z",
     "tier": 3,
     "kind": "journal"
   }
