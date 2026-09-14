@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1021/acs.jproteome.6c00086",
-    "title": "Antibody-Based Proximity Labeling Reveals Bait-Proximal Proteomes in Paraffin-Embedded and Snap-Frozen Tissue Samples.",
-    "sent_at": "2026-09-05T18:16:14.639532Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1186/s12967-026-08874-9",
     "title": "Beyond genes: EpiSwitch® and Orion platform-powered 3D genome architecture biomarkers reveal shared biology across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis.",
     "sent_at": "2026-09-05T20:39:42.820180Z",
@@ -557,6 +550,13 @@
     "title": "Clonotypic characterization defines B-cell drivers of clonal expansion and intratumor heterogeneity in IgM monoclonal gammopathies.",
     "sent_at": "2026-09-14T07:56:13.445458Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.abiote.2026.100080",
+    "title": "Haplotype-resolved 3D genome maps reveal RNAPII-mediated allelic regulation in hybrid rice.",
+    "sent_at": "2026-09-14T13:14:41.120488Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
