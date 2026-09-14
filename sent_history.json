@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.117894",
-    "title": "Androgen-PDH axis modulates sexual dimorphism of mitochondrial respiration in visceral fat.",
-    "sent_at": "2026-09-05T22:09:59.731212Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41380-026-03862-3",
-    "title": "Developmental and cellular vulnerabilities underlie genetic architecture of schizophrenia.",
-    "sent_at": "2026-09-05T23:58:00.897767Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.03.748889",
     "title": "Cell cycle control of chromatin creates a therapeutic window for epigenetic therapy in tumors",
     "sent_at": "2026-09-06T10:52:41.071684Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.jid.2026.07.038",
     "title": "Differential BET protein recruitment to IL6 and IL8 promoters and suppression of inflammatory and cell cycle genes by BET inhibitor in keratinocytes.",
     "sent_at": "2026-09-14T15:00:50.076752Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.09.750400",
+    "title": "Insulators As Dynamic, Tunable Regulators of Enhancer-Promoter Coordination in Living Drosophila Embryos",
+    "sent_at": "2026-09-14T19:37:04.173615Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1242/dev.205729",
+    "title": "Single-nucleus multiome sequencing reveals the molecular basis of thermal acclimation in Drosophila melanogaster embryos.",
+    "sent_at": "2026-09-14T19:37:04.173615Z",
     "tier": 3,
     "kind": "journal"
   }
