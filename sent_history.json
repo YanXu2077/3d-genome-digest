@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nargab/lqag104",
-    "title": "Scalable joint non-negative matrix factorization for paired single cell gene expression and chromatin accessibility data.",
-    "sent_at": "2026-09-05T10:34:51.380757Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41580-026-01019-2",
-    "title": "The molecular basis of transcription initiation by RNA polymerase II.",
-    "sent_at": "2026-09-05T15:12:05.347826Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.01.748595",
     "title": "Widespread cryptic RAG-mediated recombination in developing T lymphocytes",
     "sent_at": "2026-09-05T18:16:14.639532Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/19491034.2026.2721777",
     "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization.",
     "sent_at": "2026-09-13T22:37:11.854882Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.07.749820",
+    "title": "A Framework for Quantifying DNA Methylation Heterogeneity and Detecting Co-methylated loci from Native Nanopore Sequencing",
+    "sent_at": "2026-09-14T05:18:52.555393Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.lfs.2026.124677",
+    "title": "Intramolecular determinants of Retinoid X receptor involved in heterodimeric interactions with its partner PXR: Implications in receptor dynamics and mitotic chromatin interactions.",
+    "sent_at": "2026-09-14T05:18:52.555393Z",
     "tier": 3,
     "kind": "journal"
   }
