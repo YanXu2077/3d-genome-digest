@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.03.748889",
-    "title": "Cell cycle control of chromatin creates a therapeutic window for epigenetic therapy in tumors",
-    "sent_at": "2026-09-06T10:52:41.071684Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/jemt.70172",
-    "title": "Innovative Method for Evaluating the Optical Properties of Liquid-Liquid Phase Separations Using Laser Scanning Microscopic Spectroscopy.",
-    "sent_at": "2026-09-06T10:52:41.071684Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.01.748651",
     "title": "The Notch signaling pathway is a master regulator of CD8+ T cell exhaustion and differentiation during chronic infection",
     "sent_at": "2026-09-06T15:28:06.761625Z",
@@ -557,6 +543,20 @@
     "title": "Single-nucleus multiome sequencing reveals the molecular basis of thermal acclimation in Drosophila melanogaster embryos.",
     "sent_at": "2026-09-14T19:37:04.173615Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.07.749913",
+    "title": "TransBind2: Improving Transcription Factor-DNA Binding Prediction with Multimodal Data and Bidirectional Cross Attention",
+    "sent_at": "2026-09-14T23:20:57.989527Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/978-1-0716-5539-9_17",
+    "title": "Identification of Genome-Wide Chromatin Structural Aberration in Cancer by Hi-C Analysis.",
+    "sent_at": "2026-09-14T23:20:57.989527Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
