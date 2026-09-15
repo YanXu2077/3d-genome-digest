@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748967",
-    "title": "Motif-based model of transcription predicts effects of sequence variants in AR enhancers and reveals distinct functions for AR-associated transcription factors",
-    "sent_at": "2026-09-07T12:24:00.885345Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-76506-3",
-    "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain.",
-    "sent_at": "2026-09-07T12:24:00.885345Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.03.748884",
     "title": "STED microscopy reveals mitotic stage-dependent CENP-A organization",
     "sent_at": "2026-09-07T18:46:50.651019Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41594-026-01885-6",
     "title": "Cryo-EM structure, enzymatic activity and genome targeting of canonical PRC1.",
     "sent_at": "2026-09-15T17:17:24.331972Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.750430",
+    "title": "Allele-Resolved Hybrid Embryos Reveal the Fates of Regulatory Divergence",
+    "sent_at": "2026-09-15T21:40:22.137778Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27177926",
+    "title": "Biomolecular Condensates Integrate Transcriptional and Epigenetic Responses to Hypoxia.",
+    "sent_at": "2026-09-15T21:40:22.137778Z",
     "tier": 2,
     "kind": "journal"
   }
