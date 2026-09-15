@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/rmb2.70095",
-    "title": "Epigenetic Reprogramming and Zygotic Genome Activation in Human Preimplantation Development: Mechanisms, Models, and Translational Prospects.",
-    "sent_at": "2026-09-06T20:43:11.230234Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.clinsp.2026.101115",
-    "title": "Preliminary analysis of chromatin accessibility in osteosarcoma tissues.",
-    "sent_at": "2026-09-06T22:09:53.320025Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1111/acel.70694",
     "title": "Twisting the End Game: How Telomere Chromatin Modifications Shape Telomere Maintenance.",
     "sent_at": "2026-09-07T00:11:23.570220Z",
@@ -557,6 +543,20 @@
     "title": "Mitotic chromosomes: from the chromosome scaffold model to condensins and physical forces.",
     "sent_at": "2026-09-15T12:00:17.527594Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751064",
+    "title": "H3K27me3 Drives Constricted Migration Induced 3D Genome Rewiring in Melanoma",
+    "sent_at": "2026-09-15T13:33:42.895645Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41580-026-01017-4",
+    "title": "A practical guide to studying genome function using single-molecule genomics.",
+    "sent_at": "2026-09-15T13:33:42.895645Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
