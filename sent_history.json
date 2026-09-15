@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1111/acel.70694",
-    "title": "Twisting the End Game: How Telomere Chromatin Modifications Shape Telomere Maintenance.",
-    "sent_at": "2026-09-07T00:11:23.570220Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.diff.2026.100990",
-    "title": "PRDM3 and PRDM16 define cranial neural crest cell states in zebrafish development.",
-    "sent_at": "2026-09-07T04:26:40.795184Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.02.748967",
     "title": "Motif-based model of transcription predicts effects of sequence variants in AR enhancers and reveals distinct functions for AR-associated transcription factors",
     "sent_at": "2026-09-07T12:24:00.885345Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41580-026-01017-4",
     "title": "A practical guide to studying genome function using single-molecule genomics.",
     "sent_at": "2026-09-15T13:33:42.895645Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751074",
+    "title": "Enhancer Tuning by Sequence-Specific Repressors",
+    "sent_at": "2026-09-15T17:17:24.331972Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41594-026-01885-6",
+    "title": "Cryo-EM structure, enzymatic activity and genome targeting of canonical PRC1.",
+    "sent_at": "2026-09-15T17:17:24.331972Z",
     "tier": 2,
     "kind": "journal"
   }
