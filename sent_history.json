@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117332",
-    "title": "The Sox2 regulatory region 42 produces enhancer RNAs that influence neuronal migration during cortical development.",
-    "sent_at": "2026-09-06T15:28:06.761625Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.bioactmat.2026.08.031",
     "title": "Tissue-derived extracellular matrix hydrogels instruct epigenetic adaptation in metastatic colonization.",
     "sent_at": "2026-09-06T18:17:51.498188Z",
@@ -556,6 +549,13 @@
     "doi": "10.7554/eLife.110111",
     "title": "Intracellular growth of Chlamydia trachomatis leads to global histone hypermethylation by impairing demethylation.",
     "sent_at": "2026-09-15T05:10:39.522617Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.isci.2026.117424",
+    "title": "KMT5A maintains muscle stem cell quiescence through epigenetic regulation of Notch signaling.",
+    "sent_at": "2026-09-15T07:40:48.707280Z",
     "tier": 3,
     "kind": "journal"
   }
