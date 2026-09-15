@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.01.748651",
-    "title": "The Notch signaling pathway is a master regulator of CD8+ T cell exhaustion and differentiation during chronic infection",
-    "sent_at": "2026-09-06T15:28:06.761625Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117332",
     "title": "The Sox2 regulatory region 42 produces enhancer RNAs that influence neuronal migration during cortical development.",
     "sent_at": "2026-09-06T15:28:06.761625Z",
@@ -557,6 +550,13 @@
     "title": "Identification of Genome-Wide Chromatin Structural Aberration in Cancer by Hi-C Analysis.",
     "sent_at": "2026-09-14T23:20:57.989527Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.7554/eLife.110111",
+    "title": "Intracellular growth of Chlamydia trachomatis leads to global histone hypermethylation by impairing demethylation.",
+    "sent_at": "2026-09-15T05:10:39.522617Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
