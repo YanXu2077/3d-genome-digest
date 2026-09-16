@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1242/dev.205584",
-    "title": "Histone H3K9 methyltransferases regulate cortical growth by coordinating heterochromatin formation and neural progenitor dynamics.",
-    "sent_at": "2026-09-08T21:10:23.995269Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1073/pnas.2612002123",
     "title": "Integrative modeling of the genome structure and dynamics in fission yeast.",
     "sent_at": "2026-09-09T00:10:10.589403Z",
@@ -557,6 +550,13 @@
     "title": "Interrogation of functional variants in COPD GWAS loci by massively parallel reporter assays.",
     "sent_at": "2026-09-16T18:26:55.855741Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/gpbjnl/qzag097",
+    "title": "MACS3: A Peak-calling Platform for Bulk and Single-cell Regulatory Genomics.",
+    "sent_at": "2026-09-16T21:23:46.384025Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
