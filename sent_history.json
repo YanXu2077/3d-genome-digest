@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag866",
-    "title": "Dynamic chromatin tethering of MDC1 regulates genome stability.",
-    "sent_at": "2026-09-07T18:46:50.651019Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.04.749084",
-    "title": "Residual cohesin function and PARP1 levels determine PARP inhibitor sensitivity in STAG2-deficient cancers",
-    "sent_at": "2026-09-07T22:51:11.820105Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/prot.70172",
     "title": "Molecular Basis for Uracil-DNA-Glycosylase to Identify DNA Damage in the Nucleosome.",
     "sent_at": "2026-09-07T22:51:11.820105Z",
@@ -557,6 +543,20 @@
     "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
     "sent_at": "2026-09-16T00:40:48.770348Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.751430",
+    "title": "Intermediate-Resolution Modeling of Dynamic DNAs and Their Phase Separation",
+    "sent_at": "2026-09-16T04:44:56.649914Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2611995123",
+    "title": "The CTNNB1-TRIM28 complex governs hormone-induced RNA polymerase II dynamics in kidney epithelial cells.",
+    "sent_at": "2026-09-16T04:44:56.649914Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
