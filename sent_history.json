@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1177/00220345261471409",
-    "title": "ARID1A Mediates ROS-Induced Osteoclast Activation in TMJ Osteoarthritis.",
-    "sent_at": "2026-09-08T04:34:02.057710Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.04.739550",
-    "title": "BCOR mutations establish a persistent culture-adaptive state in human induced pluripotent stem cells",
-    "sent_at": "2026-09-08T11:15:07.241503Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s12967-026-08714-w",
     "title": "Enhancer-mediated DDIT4 activation by SMYD2-dependent H3K4me1 promotes pazopanib resistance in clear cell renal cell carcinoma.",
     "sent_at": "2026-09-08T11:15:07.241503Z",
@@ -557,6 +543,20 @@
     "title": "5-Azacytosine induces cytotoxicity via 5-methylcytosine depletion on chromatin-associated RNA in leukemia.",
     "sent_at": "2026-09-16T07:55:12.674049Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.745915",
+    "title": "Genome-Wide Mapping of Major Histone Modifications Reveals Distinct Epigenetic Regulatory States in a Reef-Building Coral",
+    "sent_at": "2026-09-16T13:42:10.789576Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-76807-7",
+    "title": "Counteraction of HMGB1 at ss-dsDNA junctions maintains liquidity of protamine-DNA co-condensates.",
+    "sent_at": "2026-09-16T13:42:10.789576Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
