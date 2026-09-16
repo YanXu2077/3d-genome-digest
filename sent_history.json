@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/prot.70172",
-    "title": "Molecular Basis for Uracil-DNA-Glycosylase to Identify DNA Damage in the Nucleosome.",
-    "sent_at": "2026-09-07T22:51:11.820105Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.03.749057",
-    "title": "Protein-driven colloid-osmotic pressure controls nuclear size, organization, and function",
-    "sent_at": "2026-09-08T04:34:02.057710Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1177/00220345261471409",
     "title": "ARID1A Mediates ROS-Induced Osteoclast Activation in TMJ Osteoarthritis.",
     "sent_at": "2026-09-08T04:34:02.057710Z",
@@ -557,6 +543,20 @@
     "title": "The CTNNB1-TRIM28 complex governs hormone-induced RNA polymerase II dynamics in kidney epithelial cells.",
     "sent_at": "2026-09-16T04:44:56.649914Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.750150",
+    "title": "PRDM9-mediated meiotic hotspot specification is constrained in humans despite extensive sequence diversity",
+    "sent_at": "2026-09-16T07:55:12.674049Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.018",
+    "title": "5-Azacytosine induces cytotoxicity via 5-methylcytosine depletion on chromatin-associated RNA in leukemia.",
+    "sent_at": "2026-09-16T07:55:12.674049Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
