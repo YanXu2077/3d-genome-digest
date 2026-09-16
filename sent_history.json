@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.03.748884",
-    "title": "STED microscopy reveals mitotic stage-dependent CENP-A organization",
-    "sent_at": "2026-09-07T18:46:50.651019Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag866",
     "title": "Dynamic chromatin tethering of MDC1 regulates genome stability.",
     "sent_at": "2026-09-07T18:46:50.651019Z",
@@ -557,6 +550,13 @@
     "title": "Biomolecular Condensates Integrate Transcriptional and Epigenetic Responses to Hypoxia.",
     "sent_at": "2026-09-15T21:40:22.137778Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1073/pnas.2600693123",
+    "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
+    "sent_at": "2026-09-16T00:40:48.770348Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
