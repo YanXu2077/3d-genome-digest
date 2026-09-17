@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.04.749524",
-    "title": "Stable epigenetic states set single-cell activation thresholds in mammalian expression systems",
-    "sent_at": "2026-09-09T16:52:48.515624Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.202524180",
-    "title": "Overcoming Artificial Structures in Resolution-Enhanced Hi-C Data by Signal Decomposition and Multi-Scale Attention.",
-    "sent_at": "2026-09-09T16:52:48.515624Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.04.749511",
     "title": "Spatial Logic and Evolutionary Innovation in Human Placentation",
     "sent_at": "2026-09-09T21:00:37.515220Z",
@@ -557,6 +543,20 @@
     "title": "The roles of chromatin remodeling and 3D genome organization in cancers: from mechanistic insights to emerging treatment options.",
     "sent_at": "2026-09-17T18:13:40.225043Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751767",
+    "title": "Epi-PoreC: a nanopore-based method for simultaneous profiling of chromatin conformation, DNA methylation, and chromatin accessibility",
+    "sent_at": "2026-09-17T21:39:51.331672Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.08.021",
+    "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
+    "sent_at": "2026-09-17T21:39:51.331672Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
