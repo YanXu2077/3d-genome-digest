@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2612002123",
-    "title": "Integrative modeling of the genome structure and dynamics in fission yeast.",
-    "sent_at": "2026-09-09T00:10:10.589403Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.04.749300",
     "title": "Transcription-Coupled Chromatin Reinforcement Maintains the Mature Cardiomyocyte State",
     "sent_at": "2026-09-09T05:04:33.809159Z",
@@ -557,6 +550,13 @@
     "title": "MACS3: A Peak-calling Platform for Bulk and Single-cell Regulatory Genomics.",
     "sent_at": "2026-09-16T21:23:46.384025Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1091/mbc.E25-05-0237",
+    "title": "Transcriptional activity generates chromatin motion that drives nuclear blebbing.",
+    "sent_at": "2026-09-17T00:23:27.241346Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
