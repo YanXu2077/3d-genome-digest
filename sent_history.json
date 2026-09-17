@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.04.749300",
-    "title": "Transcription-Coupled Chromatin Reinforcement Maintains the Mature Cardiomyocyte State",
-    "sent_at": "2026-09-09T05:04:33.809159Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.08.013",
-    "title": "HP1α binding creates a local barrier against transcription activation and persists during chromatin decondensation.",
-    "sent_at": "2026-09-09T05:04:33.809159Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.jbc.2026.113517",
     "title": "Multiscale Modeling Primer: Focus on Chromatin and Epigenetics.",
     "sent_at": "2026-09-09T07:27:55.541914Z",
@@ -557,6 +543,20 @@
     "title": "Transcriptional activity generates chromatin motion that drives nuclear blebbing.",
     "sent_at": "2026-09-17T00:23:27.241346Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.750809",
+    "title": "Empirical Estimation of Ambient Contamination in Combinatorial Single-Cell Methods Using Multi-Reference Mapping",
+    "sent_at": "2026-09-17T07:41:26.282669Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.08.038",
+    "title": "3D chromatin remodeling during domestication defines novel targets for crop improvement.",
+    "sent_at": "2026-09-17T07:41:26.282669Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
