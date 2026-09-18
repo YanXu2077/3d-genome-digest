@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1091/mbc.E26-01-0053",
-    "title": "Reversibility of Nuclear and 3D Genomic Changes in Non-Cancerous Fibroblasts After Constricted Migration.",
-    "sent_at": "2026-09-10T00:10:58.234030Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.04.749554",
-    "title": "An atlas of the C. elegans starvation response reveals that transcription is necessary to initiate transcriptional silencing in quiescent primordial germ cells",
-    "sent_at": "2026-09-10T05:06:58.264307Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aef1579",
     "title": "The CENP-A chaperone complex spatially organizes centromeres.",
     "sent_at": "2026-09-10T05:06:58.264307Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/bioinformatics/btag683",
     "title": "Coolsecture: an easy-to-use and improved framework for cross-species Hi-C contact map comparison.",
     "sent_at": "2026-09-18T00:40:33.656253Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751728",
+    "title": "DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps",
+    "sent_at": "2026-09-18T04:36:00.108879Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/bs.ctdb.2026.06.007",
+    "title": "How advances in chromosome conformation capture (3C) methods are reshaping our understanding of gene regulation in hematopoiesis.",
+    "sent_at": "2026-09-18T04:36:00.108879Z",
     "tier": 1,
     "kind": "journal"
   }
