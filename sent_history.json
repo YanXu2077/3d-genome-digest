@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.04.749511",
-    "title": "Spatial Logic and Evolutionary Innovation in Human Placentation",
-    "sent_at": "2026-09-09T21:00:37.515220Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1083/jcb.202605096",
-    "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome.",
-    "sent_at": "2026-09-09T21:00:37.515220Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1091/mbc.E26-01-0053",
     "title": "Reversibility of Nuclear and 3D Genomic Changes in Non-Cancerous Fibroblasts After Constricted Migration.",
     "sent_at": "2026-09-10T00:10:58.234030Z",
@@ -557,6 +543,20 @@
     "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
     "sent_at": "2026-09-17T21:39:51.331672Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.749901",
+    "title": "Developmentally programmed loss of long-range Polycomb interactions is regulated by cohesin",
+    "sent_at": "2026-09-18T00:40:33.656253Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btag683",
+    "title": "Coolsecture: an easy-to-use and improved framework for cross-species Hi-C contact map comparison.",
+    "sent_at": "2026-09-18T00:40:33.656253Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
