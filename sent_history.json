@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aef1579",
-    "title": "The CENP-A chaperone complex spatially organizes centromeres.",
-    "sent_at": "2026-09-10T05:06:58.264307Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1021/acs.nanolett.6c02799",
-    "title": "Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy.",
-    "sent_at": "2026-09-10T07:22:30.739622Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.06.749697",
     "title": "phyB photobodies display molecular memory, regulating light signaling transcriptional states through phase separation.",
     "sent_at": "2026-09-10T11:44:06.912561Z",
@@ -557,6 +543,20 @@
     "title": "How advances in chromosome conformation capture (3C) methods are reshaping our understanding of gene regulation in hematopoiesis.",
     "sent_at": "2026-09-18T04:36:00.108879Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751063",
+    "title": "Inverted logic of ecDNA localization converts nuclear periphery into oncogenic transcription hubs in cancer",
+    "sent_at": "2026-09-18T07:37:07.910301Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/bs.ctdb.2026.06.002",
+    "title": "Mediator at the Helm: Coordinating transcription and biomolecular condensates in hematopoiesis.",
+    "sent_at": "2026-09-18T07:37:07.910301Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
