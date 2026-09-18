@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41559-026-03164-5",
-    "title": "Flexible use of conserved motifs constrains genome access in cell type evolution.",
-    "sent_at": "2026-09-10T20:56:10.170179Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.117980",
-    "title": "Selective control of HLA-DRB1 and HLA-DQA1 transcription through DR/DQ super enhancer microelements.",
-    "sent_at": "2026-09-11T00:07:37.331038Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1111/nyas.70362",
     "title": "PIEZO1 Mediates Myoblast Proliferation Under Simulated Microgravity.",
     "sent_at": "2026-09-11T04:34:14.844336Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription.",
     "sent_at": "2026-09-18T16:22:23.115076Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.752023",
+    "title": "Stepwise reorganization of chromosome conformation and nuclear organization during stem cell differentiation",
+    "sent_at": "2026-09-18T17:52:57.523412Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bbrep.2026.102789",
+    "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
+    "sent_at": "2026-09-18T17:52:57.523412Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
