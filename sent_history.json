@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1111/nyas.70362",
-    "title": "PIEZO1 Mediates Myoblast Proliferation Under Simulated Microgravity.",
-    "sent_at": "2026-09-11T04:34:14.844336Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.07.749802",
-    "title": "Remodelling of chromatin architecture and super-enhancer landscape in lamin A/C depleted HGSOC",
-    "sent_at": "2026-09-11T11:18:26.850269Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.leukres.2026.108304",
     "title": "Identification and characterization of ectopic chromosomal amplifications in acute myeloid leukemia cell limes using high-throughput chromosome conformation capture screening.",
     "sent_at": "2026-09-11T11:18:26.850269Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.bbrep.2026.102789",
     "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
     "sent_at": "2026-09-18T17:52:57.523412Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.751457",
+    "title": "ssJSD: A fusion of sparsity and spatial information for HiC single-cell clustering",
+    "sent_at": "2026-09-18T20:59:20.660357Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/bies.70182",
+    "title": "Transcription and Three-Dimensional Genome Organization: Cause, Consequence, or Coordination?",
+    "sent_at": "2026-09-18T20:59:20.660357Z",
     "tier": 1,
     "kind": "journal"
   }
