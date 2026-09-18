@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag673",
-    "title": "HiCPotts: An R/Bioconductor package to identify significant interactions in chromosome conformation capture data and model sources of bias.",
-    "sent_at": "2026-09-10T16:38:57.627019Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s41559-026-03164-5",
     "title": "Flexible use of conserved motifs constrains genome access in cell type evolution.",
     "sent_at": "2026-09-10T20:56:10.170179Z",
@@ -557,6 +550,13 @@
     "title": "GenoME: a MoE-based generative model for individualized, multimodal prediction and perturbation of genomic profiles.",
     "sent_at": "2026-09-18T11:13:48.259738Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41467-026-76578-1",
+    "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription.",
+    "sent_at": "2026-09-18T16:22:23.115076Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
