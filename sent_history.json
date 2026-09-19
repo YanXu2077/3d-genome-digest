@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.leukres.2026.108304",
-    "title": "Identification and characterization of ectopic chromosomal amplifications in acute myeloid leukemia cell limes using high-throughput chromosome conformation capture screening.",
-    "sent_at": "2026-09-11T11:18:26.850269Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.xcrm.2026.103027",
     "title": "A stem-like chromatin program in small-cell lung cancer is associated with poor outcomes after chemoimmunotherapy.",
     "sent_at": "2026-09-11T16:28:06.585235Z",
@@ -557,6 +550,13 @@
     "title": "Transcription and Three-Dimensional Genome Organization: Cause, Consequence, or Coordination?",
     "sent_at": "2026-09-18T20:59:20.660357Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.aee8251",
+    "title": "Epigenetic training licenses naïve CD8+ T cell metabolic fitness and function.",
+    "sent_at": "2026-09-19T00:16:53.614208Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
