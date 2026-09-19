@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xcrm.2026.103027",
-    "title": "A stem-like chromatin program in small-cell lung cancer is associated with poor outcomes after chemoimmunotherapy.",
-    "sent_at": "2026-09-11T16:28:06.585235Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.05.749240",
     "title": "H-NS silences antiviral immunity through 3D chromatin compaction",
     "sent_at": "2026-09-11T21:02:11.096360Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-09-19T00:16:53.614208Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.752217",
+    "title": "Machine learning reveals sequence and genomic context features underlying Alu-specific effects on genome folding",
+    "sent_at": "2026-09-19T04:53:43.973495Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
