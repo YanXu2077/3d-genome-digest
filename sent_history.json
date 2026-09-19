@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.07.749863",
-    "title": "Chromatin structure of the inactive X chromosome revealed by in situ cryo-electron tomography",
-    "sent_at": "2026-09-12T00:19:03.373058Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag863",
-    "title": "The dynamics of RAD51 foci formation and elongation in living human cells.",
-    "sent_at": "2026-09-12T00:19:03.373058Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.09.750334",
     "title": "Repeat element-anchored enhancer-promoter interactions (REEPIs) shape the regulatory landscape of hormone-resistant breast cancer",
     "sent_at": "2026-09-12T04:55:51.209492Z",
@@ -557,6 +543,20 @@
     "title": "A canonical role of SMAD4 in safeguarding 3D genome architecture to suppress lung tumorigenesis.",
     "sent_at": "2026-09-19T11:24:13.866079Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.751590",
+    "title": "An atlas of transcription factor cooperation reveals how motif readers shape regulatory output",
+    "sent_at": "2026-09-19T16:08:10.415346Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ijbiomac.2026.154403",
+    "title": "Retinoid X receptor in motion: Subtype-specific organization and dynamics of condensate-like assemblies.",
+    "sent_at": "2026-09-19T16:08:10.415346Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
