@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.07.749956",
-    "title": "ATAC-seq and MNase-seq Detect Distinct Modes of Chromatin Accessibility",
-    "sent_at": "2026-09-12T07:11:20.590370Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/21541264.2026.2727737",
-    "title": "Characterization of physical interactions between the Drosophila insulator binding protein BEAF and transcription-associated proteins.",
-    "sent_at": "2026-09-12T07:11:20.590370Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.10.750584",
     "title": "Massively parallel characterization reveals context-dependent and non-additive regulatory effects of closely spaced variant pairs",
     "sent_at": "2026-09-12T11:09:28.402003Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.crmeth.2026.101607",
     "title": "HisTrader identifies nucleosome-free regions within ChIP-based profiling of histone post-translational modifications.",
     "sent_at": "2026-09-19T18:50:02.539805Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751045",
+    "title": "dubTAGs enable on-demand stabilization for tunable and reversible control of endogenous protein levels",
+    "sent_at": "2026-09-19T20:40:26.056934Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bbrep.2026.102786",
+    "title": "Comparing bulk and single-cell methodologies and models to profile gene expression, chromatin accessibility and regulatory links in endothelial cells treated with TNFα.",
+    "sent_at": "2026-09-19T20:40:26.056934Z",
     "tier": 3,
     "kind": "journal"
   }
