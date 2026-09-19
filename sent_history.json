@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.05.749240",
-    "title": "H-NS silences antiviral immunity through 3D chromatin compaction",
-    "sent_at": "2026-09-11T21:02:22.253359Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1152/ajplung.00281.2025",
-    "title": "Multi-omics analysis of glucocorticoid receptor crosstalk with Type I and Type II inflammatory signaling in human airway smooth muscle cells.",
-    "sent_at": "2026-09-11T21:02:22.253359Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.07.749863",
     "title": "Chromatin structure of the inactive X chromosome revealed by in situ cryo-electron tomography",
     "sent_at": "2026-09-12T00:19:03.373058Z",
@@ -557,6 +543,20 @@
     "title": "Molecular simulations of chromatin-associated biomolecular condensates.",
     "sent_at": "2026-09-19T07:24:53.034535Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.751900",
+    "title": "Dna2-intrinsic condensation regulates DNA end resection and reveals evolutionary redistribution of condensate grammar",
+    "sent_at": "2026-09-19T11:24:13.866079Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41388-026-03984-6",
+    "title": "A canonical role of SMAD4 in safeguarding 3D genome architecture to suppress lung tumorigenesis.",
+    "sent_at": "2026-09-19T11:24:13.866079Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
