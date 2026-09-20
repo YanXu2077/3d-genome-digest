@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117394",
-    "title": "MORC1 coordinates TRIM28 interaction and nuclear condensate formation for transposon silencing.",
-    "sent_at": "2026-09-13T16:13:45.965102Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.11.750863",
-    "title": "Single-residue variation in the nucleosome core reveals a regulatory hub for phenotypic innovation",
-    "sent_at": "2026-09-13T18:57:47.203942Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.ygeno.2026.111318",
     "title": "Enhancer-promoter interaction maps in pig implantation tissue identify candidate cis-regulatory elements and regulatory variants.",
     "sent_at": "2026-09-13T18:57:47.203942Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.dnarep.2026.103960",
     "title": "ZIPPing the gaps: A new class of zinc finger proteins orchestrates the DNA damage response.",
     "sent_at": "2026-09-20T19:00:43.107785Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751898",
+    "title": "Hierarchical chromatin polyvalency governs robust gene regulation and organogenesis",
+    "sent_at": "2026-09-20T20:48:12.182358Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/jnen/nlag096",
+    "title": "Epigenetic deregulation in adult gliomas: A key driver of molecular heterogeneity and precision oncology.",
+    "sent_at": "2026-09-20T20:48:12.182358Z",
     "tier": 3,
     "kind": "journal"
   }
