@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aei6204",
-    "title": "RNA-independent cis-autoregulatory circuits within bidirectional gene pairs control metabolism.",
-    "sent_at": "2026-09-12T18:40:58.122827Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1126/sciadv.ady5166",
     "title": "Elucidating the role of DEAF1 in neurodevelopment and shared molecular pathways in high-risk autism genes using cortical organoids.",
     "sent_at": "2026-09-12T20:35:17.617644Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.tig.2026.08.010",
     "title": "Beyond gene editing: the age of chromosome-scale genome engineering.",
     "sent_at": "2026-09-20T05:13:25.771170Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.bcp.2026.118490",
+    "title": "IRF1-driven chromatin and transcriptional regulation determines the anti-tumor responses to all-trans retinoic acid across cancer types.",
+    "sent_at": "2026-09-20T07:45:54.915941Z",
     "tier": 3,
     "kind": "journal"
   }
