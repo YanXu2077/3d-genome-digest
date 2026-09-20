@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.ady5166",
-    "title": "Elucidating the role of DEAF1 in neurodevelopment and shared molecular pathways in high-risk autism genes using cortical organoids.",
-    "sent_at": "2026-09-12T20:35:17.617644Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1126/sciadv.aef1694",
-    "title": "Targeting LOXL4-driven matrix stiffening with acetyldigoxin restores CD8+ T cell function in lung cancer.",
-    "sent_at": "2026-09-12T22:31:48.885453Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.21037/tp-2026-0272",
     "title": "Decreased H3K79 acetylation and dysregulation of neurodevelopmental genes in fetal down syndrome.",
     "sent_at": "2026-09-13T00:04:45.029735Z",
@@ -557,6 +543,20 @@
     "title": "IRF1-driven chromatin and transcriptional regulation determines the anti-tumor responses to all-trans retinoic acid across cancer types.",
     "sent_at": "2026-09-20T07:45:54.915941Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.752192",
+    "title": "Human-specific retrotransposons encode the regulatory logic of two lineages in a bipotent neural crest and central nervous system precursor",
+    "sent_at": "2026-09-20T11:44:00.011222Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44318-026-00912-y",
+    "title": "Whole genome duplication through mitotic slippage causes nuclear instability.",
+    "sent_at": "2026-09-20T11:44:00.011222Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
