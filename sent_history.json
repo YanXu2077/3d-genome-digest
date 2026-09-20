@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.21037/tp-2026-0272",
-    "title": "Decreased H3K79 acetylation and dysregulation of neurodevelopmental genes in fetal down syndrome.",
-    "sent_at": "2026-09-13T00:04:45.029735Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.05.749632",
-    "title": "spAlignDE unifies cross-sample and cross-modal spatial alignment with mismatch-aware differential expression",
-    "sent_at": "2026-09-13T05:09:55.434529Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.09.06.745329",
     "title": "pydreg: a fast Python package for identifying active cis-regulatory elements from nascent transcription",
     "sent_at": "2026-09-13T11:45:41.630615Z",
@@ -557,6 +543,20 @@
     "title": "Whole genome duplication through mitotic slippage causes nuclear instability.",
     "sent_at": "2026-09-20T11:44:00.011222Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.17.752339",
+    "title": "Identifying Putative Pathogenic Non-Coding Variants in Unresolved Rare Disease Patients Using Topologically Associated Domains",
+    "sent_at": "2026-09-20T13:04:32.960389Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.intimp.2026.117445",
+    "title": "Synthetic coincidence of BCR-NF-κB and IL-4Rα-STAT6 signaling constitutes a master checkpoint for functional IgE class switch recombination.",
+    "sent_at": "2026-09-20T13:04:32.960389Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
