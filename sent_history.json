@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.tcb.2026.08.007",
-    "title": "Transcription elongation by RNA polymerase II: from regulatory complexity to disease.",
-    "sent_at": "2026-09-12T15:48:38.914100Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1126/sciadv.aei6204",
     "title": "RNA-independent cis-autoregulatory circuits within bidirectional gene pairs control metabolism.",
     "sent_at": "2026-09-12T18:40:58.122827Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.mcpro.2026.101662",
     "title": "PRC2 loss in MPNST is accompanied by SWI/SNF complex rewiring and sensitization to SMARCA2/4 and BET inhibition in vivo.",
     "sent_at": "2026-09-19T22:30:37.146812Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.tig.2026.08.010",
+    "title": "Beyond gene editing: the age of chromosome-scale genome engineering.",
+    "sent_at": "2026-09-20T05:13:25.771170Z",
     "tier": 3,
     "kind": "journal"
   }
