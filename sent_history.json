@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag636",
-    "title": "dcHiChIP: A comprehensive Nextflow-based pipeline for multiscale analysis of chromatin architecture from HiChIP data.",
-    "sent_at": "2026-09-13T11:45:41.630615Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.10.750682",
-    "title": "SAF-A/HNRNPU regulates euchromatin dynamics and is required for nuclear envelope integrity",
-    "sent_at": "2026-09-13T16:13:45.965102Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117394",
     "title": "MORC1 coordinates TRIM28 interaction and nuclear condensate formation for transposon silencing.",
     "sent_at": "2026-09-13T16:13:45.965102Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/pcmedi/pbag024",
     "title": "Histone modifications: mechanisms, metabolic regulation, and therapeutic targeting in cancer.",
     "sent_at": "2026-09-20T16:25:00.598691Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.751594",
+    "title": "SMCHD1's DNA binding activity enables its stable retention on chromatin",
+    "sent_at": "2026-09-20T19:00:43.107785Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.dnarep.2026.103960",
+    "title": "ZIPPing the gaps: A new class of zinc finger proteins orchestrates the DNA damage response.",
+    "sent_at": "2026-09-20T19:00:43.107785Z",
     "tier": 3,
     "kind": "journal"
   }
