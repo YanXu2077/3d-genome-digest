@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.06.745329",
-    "title": "pydreg: a fast Python package for identifying active cis-regulatory elements from nascent transcription",
-    "sent_at": "2026-09-13T11:45:41.630615Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag636",
     "title": "dcHiChIP: A comprehensive Nextflow-based pipeline for multiscale analysis of chromatin architecture from HiChIP data.",
     "sent_at": "2026-09-13T11:45:41.630615Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.intimp.2026.117445",
     "title": "Synthetic coincidence of BCR-NF-κB and IL-4Rα-STAT6 signaling constitutes a master checkpoint for functional IgE class switch recombination.",
     "sent_at": "2026-09-20T13:04:32.960389Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/pcmedi/pbag024",
+    "title": "Histone modifications: mechanisms, metabolic regulation, and therapeutic targeting in cancer.",
+    "sent_at": "2026-09-20T16:25:00.598691Z",
     "tier": 3,
     "kind": "journal"
   }
