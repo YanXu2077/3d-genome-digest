@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.09.750459",
-    "title": "A transitional senescence program drives inflammatory monocyte state expansion in aging humans",
-    "sent_at": "2026-09-13T20:47:51.603549Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.21769/BioProtoc.5807",
     "title": "ChromID: A Protocol for Mapping Protein Chromatin Interactions in Living Cells.",
     "sent_at": "2026-09-13T20:47:51.603549Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.09.14.750771",
     "title": "High-order enhancer hubs buffer allelic regulatory variation through kinetic compensation",
     "sent_at": "2026-09-21T13:11:47.117147Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751738",
+    "title": "Mammalian condensin I controls higher-order chromosome organization and homologous recombination in meiotic prophase I",
+    "sent_at": "2026-09-21T19:41:14.941889Z",
     "tier": 1,
     "kind": "preprint"
   }
