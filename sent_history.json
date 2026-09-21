@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.ygeno.2026.111318",
-    "title": "Enhancer-promoter interaction maps in pig implantation tissue identify candidate cis-regulatory elements and regulatory variants.",
-    "sent_at": "2026-09-13T18:57:47.203942Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.09.750459",
     "title": "A transitional senescence program drives inflammatory monocyte state expansion in aging humans",
     "sent_at": "2026-09-13T20:47:51.603549Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-09-20T20:48:12.182358Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.750771",
+    "title": "High-order enhancer hubs buffer allelic regulatory variation through kinetic compensation",
+    "sent_at": "2026-09-21T13:11:47.117147Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
