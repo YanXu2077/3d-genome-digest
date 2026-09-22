@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1242/dev.205729",
-    "title": "Single-nucleus multiome sequencing reveals the molecular basis of thermal acclimation in Drosophila melanogaster embryos.",
-    "sent_at": "2026-09-14T19:37:04.173615Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.07.749913",
-    "title": "TransBind2: Improving Transcription Factor-DNA Binding Prediction with Multimodal Data and Bidirectional Cross Attention",
-    "sent_at": "2026-09-14T23:20:57.989527Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-1-0716-5539-9_17",
     "title": "Identification of Genome-Wide Chromatin Structural Aberration in Cancer by Hi-C Analysis.",
     "sent_at": "2026-09-14T23:20:57.989527Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41590-026-02655-8",
     "title": "Deletion of a distal IRF4 element prevents inflammation-induced reprogramming of human regulatory T cell fate.",
     "sent_at": "2026-09-22T13:27:47.392591Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.18.752607",
+    "title": "DeepSCENIC: transfer learning from sequence-to-function models enables causal gene regulatory network inference",
+    "sent_at": "2026-09-22T17:17:47.857732Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/biolre/ioag204",
+    "title": "Multiscale Regulation of Meiotic Recombination in Mammals.",
+    "sent_at": "2026-09-22T17:17:47.857732Z",
     "tier": 3,
     "kind": "journal"
   }
