@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.21769/BioProtoc.5807",
-    "title": "ChromID: A Protocol for Mapping Protein Chromatin Interactions in Living Cells.",
-    "sent_at": "2026-09-13T20:47:51.603549Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.06.747930",
     "title": "Identifying human-specific transcription factor binding site gains and losses that contribute to human-specific phenotypes",
     "sent_at": "2026-09-13T22:37:11.854882Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-09-21T19:41:14.941889Z",
     "tier": 1,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/toxsci/kfag128",
+    "title": "Integrated single-cell and epigenomic analysis reveals cellular specificity of CYP2E1 in human alcohol-related liver disease.",
+    "sent_at": "2026-09-22T00:46:36.984090Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
