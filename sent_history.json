@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/hem3.70456",
-    "title": "Clonotypic characterization defines B-cell drivers of clonal expansion and intratumor heterogeneity in IgM monoclonal gammopathies.",
-    "sent_at": "2026-09-14T07:56:13.445458Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.abiote.2026.100080",
-    "title": "Haplotype-resolved 3D genome maps reveal RNAPII-mediated allelic regulation in hybrid rice.",
-    "sent_at": "2026-09-14T13:14:41.120488Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.jid.2026.07.038",
     "title": "Differential BET protein recruitment to IL6 and IL8 promoters and suppression of inflammatory and cell cycle genes by BET inhibitor in keratinocytes.",
     "sent_at": "2026-09-14T15:00:50.076752Z",
@@ -557,6 +543,20 @@
     "title": "Spatial genome organization in nematodes with programmed DNA elimination.",
     "sent_at": "2026-09-22T07:42:34.263912Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.18.752771",
+    "title": "AI discovery of sequence rules for RNA polymerase II pausing revises the pause-release model of gene activation",
+    "sent_at": "2026-09-22T12:01:05.211719Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.psj.2026.107771",
+    "title": "Integrative single-cell and multi-omic analysis resolves granulosa-cell programs during chicken follicle selection.",
+    "sent_at": "2026-09-22T12:01:05.211719Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
