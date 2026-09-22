@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.06.747930",
-    "title": "Identifying human-specific transcription factor binding site gains and losses that contribute to human-specific phenotypes",
-    "sent_at": "2026-09-13T22:37:11.854882Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/19491034.2026.2721777",
-    "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization.",
-    "sent_at": "2026-09-13T22:37:11.854882Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.07.749820",
     "title": "A Framework for Quantifying DNA Methylation Heterogeneity and Detecting Co-methylated loci from Native Nanopore Sequencing",
     "sent_at": "2026-09-14T05:18:52.555393Z",
@@ -557,6 +543,20 @@
     "title": "Integrated single-cell and epigenomic analysis reveals cellular specificity of CYP2E1 in human alcohol-related liver disease.",
     "sent_at": "2026-09-22T00:46:36.984090Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751753",
+    "title": "Genome reshuffling as a route to specialization? Chromosome-level insights from the bark beetle symbiont genus Geosmithia.",
+    "sent_at": "2026-09-22T05:18:25.870516Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gad.353948.126",
+    "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
+    "sent_at": "2026-09-22T05:18:25.870516Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
