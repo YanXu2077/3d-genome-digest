@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/978-1-0716-5539-9_17",
-    "title": "Identification of Genome-Wide Chromatin Structural Aberration in Cancer by Hi-C Analysis.",
-    "sent_at": "2026-09-14T23:20:57.989527Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.7554/eLife.110111",
-    "title": "Intracellular growth of Chlamydia trachomatis leads to global histone hypermethylation by impairing demethylation.",
-    "sent_at": "2026-09-15T05:10:39.522617Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117424",
     "title": "KMT5A maintains muscle stem cell quiescence through epigenetic regulation of Notch signaling.",
     "sent_at": "2026-09-15T07:40:48.707280Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/biolre/ioag204",
     "title": "Multiscale Regulation of Meiotic Recombination in Mammals.",
     "sent_at": "2026-09-22T17:17:47.857732Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.20.752975",
+    "title": "INO80 rapidly shuttles nucleosomes between chromatin barriers",
+    "sent_at": "2026-09-22T21:21:41.066221Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-76911-8",
+    "title": "HOMEODOMAIN-LIKE shapes chromatin architecture and rewires leaf epidermal patterns.",
+    "sent_at": "2026-09-22T21:21:41.066221Z",
     "tier": 3,
     "kind": "journal"
   }
