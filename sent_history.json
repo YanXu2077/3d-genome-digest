@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.07.749820",
-    "title": "A Framework for Quantifying DNA Methylation Heterogeneity and Detecting Co-methylated loci from Native Nanopore Sequencing",
-    "sent_at": "2026-09-14T05:18:52.555393Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.lfs.2026.124677",
-    "title": "Intramolecular determinants of Retinoid X receptor involved in heterodimeric interactions with its partner PXR: Implications in receptor dynamics and mitotic chromatin interactions.",
-    "sent_at": "2026-09-14T05:18:52.555393Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1002/hem3.70456",
     "title": "Clonotypic characterization defines B-cell drivers of clonal expansion and intratumor heterogeneity in IgM monoclonal gammopathies.",
     "sent_at": "2026-09-14T07:56:13.445458Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gad.353948.126",
     "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
     "sent_at": "2026-09-22T05:18:25.870516Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.17.752532",
+    "title": "Single-cell multiomic QTL mapping reveals state-dependent genetic regulation and associated gene during cellular senescence",
+    "sent_at": "2026-09-22T07:42:34.263912Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gr.282223.126",
+    "title": "Spatial genome organization in nematodes with programmed DNA elimination.",
+    "sent_at": "2026-09-22T07:42:34.263912Z",
     "tier": 1,
     "kind": "journal"
   }
