@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.11.751064",
-    "title": "H3K27me3 Drives Constricted Migration Induced 3D Genome Rewiring in Melanoma",
-    "sent_at": "2026-09-15T13:33:42.895645Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41580-026-01017-4",
-    "title": "A practical guide to studying genome function using single-molecule genomics.",
-    "sent_at": "2026-09-15T13:33:42.895645Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.11.751074",
     "title": "Enhancer Tuning by Sequence-Specific Repressors",
     "sent_at": "2026-09-15T17:17:24.331972Z",
@@ -557,6 +543,20 @@
     "title": "Conserved C-terminal residues adjacent to the canonical PDX1 homeodomain are required for chromatin occupancy and pancreas development.",
     "sent_at": "2026-09-23T00:27:12.451903Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.21.753283",
+    "title": "DNMT1-Mediated Epigenetic Reprogramming Drives KMT2A Amplifications and Rearrangements",
+    "sent_at": "2026-09-23T07:47:23.504844Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118008",
+    "title": "A splicing factor-cohesin association links RNA processing to cohesin-dependent genome folding.",
+    "sent_at": "2026-09-23T07:47:23.504844Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
