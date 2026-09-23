@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117424",
-    "title": "KMT5A maintains muscle stem cell quiescence through epigenetic regulation of Notch signaling.",
-    "sent_at": "2026-09-15T07:40:48.707280Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.tig.2026.08.005",
-    "title": "Mitotic chromosomes: from the chromosome scaffold model to condensins and physical forces.",
-    "sent_at": "2026-09-15T12:00:17.527594Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.11.751064",
     "title": "H3K27me3 Drives Constricted Migration Induced 3D Genome Rewiring in Melanoma",
     "sent_at": "2026-09-15T13:33:42.895645Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-76911-8",
     "title": "HOMEODOMAIN-LIKE shapes chromatin architecture and rewires leaf epidermal patterns.",
     "sent_at": "2026-09-22T21:21:41.066221Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.751930",
+    "title": "Regulatory-scale stripe analysis from single-cell Hi-C with scStripe",
+    "sent_at": "2026-09-23T00:27:12.451903Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1242/dev.205842",
+    "title": "Conserved C-terminal residues adjacent to the canonical PDX1 homeodomain are required for chromatin occupancy and pancreas development.",
+    "sent_at": "2026-09-23T00:27:12.451903Z",
     "tier": 3,
     "kind": "journal"
   }
