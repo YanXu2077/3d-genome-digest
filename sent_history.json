@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.11.750430",
-    "title": "Allele-Resolved Hybrid Embryos Reveal the Fates of Regulatory Divergence",
-    "sent_at": "2026-09-15T21:40:22.137778Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/ijms27177926",
-    "title": "Biomolecular Condensates Integrate Transcriptional and Epigenetic Responses to Hypoxia.",
-    "sent_at": "2026-09-15T21:40:22.137778Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1073/pnas.2600693123",
     "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
     "sent_at": "2026-09-16T00:40:48.770348Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.molcel.2026.09.001",
     "title": "Linker histone H1.0 loads onto nucleosomes through multiple pathways that are facilitated by histone chaperones.",
     "sent_at": "2026-09-23T13:43:41.748008Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.18.752640",
+    "title": "Glucocorticoid signalling exerts distinct lineage-permissive and dose-dependent disruptive actions during human osteoblast differentiation",
+    "sent_at": "2026-09-23T18:30:49.298567Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jbc.2026.113588",
+    "title": "A prostate cancer-specific super-enhancer at 1q42.3 regulates the CAPN2 and KRT19.",
+    "sent_at": "2026-09-23T18:30:49.298567Z",
     "tier": 2,
     "kind": "journal"
   }
