@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2600693123",
-    "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
-    "sent_at": "2026-09-16T00:40:48.770348Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.14.751430",
     "title": "Intermediate-Resolution Modeling of Dynamic DNAs and Their Phase Separation",
     "sent_at": "2026-09-16T04:44:56.649914Z",
@@ -557,6 +550,13 @@
     "title": "A prostate cancer-specific super-enhancer at 1q42.3 regulates the CAPN2 and KRT19.",
     "sent_at": "2026-09-23T18:30:49.298567Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3390/mps9050135",
+    "title": "LAWS-HiC: A Locally Adaptive Weighting and Screening (LAWS) Approach to Improve Detection of Long-Range Chromatin Interactions from Hi-C Data.",
+    "sent_at": "2026-09-23T21:43:02.339908Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
