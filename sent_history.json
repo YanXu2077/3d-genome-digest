@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.10.745915",
-    "title": "Genome-Wide Mapping of Major Histone Modifications Reveals Distinct Epigenetic Regulatory States in a Reef-Building Coral",
-    "sent_at": "2026-09-16T13:42:10.789576Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-76807-7",
     "title": "Counteraction of HMGB1 at ss-dsDNA junctions maintains liquidity of protamine-DNA co-condensates.",
     "sent_at": "2026-09-16T13:42:10.789576Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s41586-026-11059-5",
     "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion.",
     "sent_at": "2026-09-24T11:39:19.505843Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41467-026-77029-7",
+    "title": "BRANCHED1 acts as a rheostat of Nuclear Factor Y-dependent epigenetic regulation in axillary bud development.",
+    "sent_at": "2026-09-24T13:43:27.701860Z",
     "tier": 3,
     "kind": "journal"
   }
