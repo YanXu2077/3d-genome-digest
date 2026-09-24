@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/ajrcmb/aanag179",
-    "title": "Interrogation of functional variants in COPD GWAS loci by massively parallel reporter assays.",
-    "sent_at": "2026-09-16T18:26:55.855741Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/gpbjnl/qzag097",
-    "title": "MACS3: A Peak-calling Platform for Bulk and Single-cell Regulatory Genomics.",
-    "sent_at": "2026-09-16T21:23:46.384025Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1091/mbc.E25-05-0237",
     "title": "Transcriptional activity generates chromatin motion that drives nuclear blebbing.",
     "sent_at": "2026-09-17T00:23:27.241346Z",
@@ -556,6 +542,20 @@
     "doi": "10.3389/fsysb.2026.1859256",
     "title": "Covariate-adjusted AP-1 motif architecture and footprinting track olaparib-adaptive chromatin remodelling.",
     "sent_at": "2026-09-24T18:37:06.968055Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751074",
+    "title": "Enhancer Tuning by Sequence-Specific Repressors.",
+    "sent_at": "2026-09-24T21:34:03.375622Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2613025123",
+    "title": "Splicing suppression alters the STING transcription start site to attenuate antiviral innate immunity.",
+    "sent_at": "2026-09-24T21:34:03.375622Z",
     "tier": 3,
     "kind": "journal"
   }
