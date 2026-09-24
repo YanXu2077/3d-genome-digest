@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.08.018",
-    "title": "5-Azacytosine induces cytotoxicity via 5-methylcytosine depletion on chromatin-associated RNA in leukemia.",
-    "sent_at": "2026-09-16T07:55:12.674049Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.10.745915",
     "title": "Genome-Wide Mapping of Major Histone Modifications Reveals Distinct Epigenetic Regulatory States in a Reef-Building Coral",
     "sent_at": "2026-09-16T13:42:10.789576Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/plcell/koag298",
     "title": "Single-cell epigenomics in plants.",
     "sent_at": "2026-09-24T07:46:08.991604Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41586-026-11059-5",
+    "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion.",
+    "sent_at": "2026-09-24T11:39:19.505843Z",
     "tier": 3,
     "kind": "journal"
   }
