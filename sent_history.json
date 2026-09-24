@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.10.750150",
-    "title": "PRDM9-mediated meiotic hotspot specification is constrained in humans despite extensive sequence diversity",
-    "sent_at": "2026-09-16T07:55:12.674049Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.08.018",
     "title": "5-Azacytosine induces cytotoxicity via 5-methylcytosine depletion on chromatin-associated RNA in leukemia.",
     "sent_at": "2026-09-16T07:55:12.674049Z",
@@ -556,6 +549,13 @@
     "doi": "10.1262/jrd.2026-110",
     "title": "Increasing global chromatin accessibility alone is insufficient to enhance global transcription during mouse zygotic gene activation.",
     "sent_at": "2026-09-24T04:37:58.841855Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/plcell/koag298",
+    "title": "Single-cell epigenomics in plants.",
+    "sent_at": "2026-09-24T07:46:08.991604Z",
     "tier": 3,
     "kind": "journal"
   }
