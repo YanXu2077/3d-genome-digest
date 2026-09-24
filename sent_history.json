@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/jb/mvag065",
-    "title": "Target-Site Selection by Transcription Factors: Roles of DNA, Chromatin, and Cofactor-Mediated Regulation.",
-    "sent_at": "2026-09-16T16:50:32.722063Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.10.750690",
-    "title": "Flow Orchestrated Regulatory Genomics Engine (FORGE): A Configurable Nextflow Pipeline for End-to-End snMultiome Analysis",
-    "sent_at": "2026-09-16T18:26:55.855741Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/ajrcmb/aanag179",
     "title": "Interrogation of functional variants in COPD GWAS loci by massively parallel reporter assays.",
     "sent_at": "2026-09-16T18:26:55.855741Z",
@@ -557,6 +543,20 @@
     "title": "SPOP-mediated ZMYND8 ubiquitination and phase separation exclusion drives mTOR inhibitor resistance in kidney cancer.",
     "sent_at": "2026-09-24T17:08:49.755947Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.11.751064",
+    "title": "H3K27me3 Drives Constricted Migration-Induced 3D Genome Rewiring in Melanoma.",
+    "sent_at": "2026-09-24T18:37:06.968055Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fsysb.2026.1859256",
+    "title": "Covariate-adjusted AP-1 motif architecture and footprinting track olaparib-adaptive chromatin remodelling.",
+    "sent_at": "2026-09-24T18:37:06.968055Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
