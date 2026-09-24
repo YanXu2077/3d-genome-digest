@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76807-7",
-    "title": "Counteraction of HMGB1 at ss-dsDNA junctions maintains liquidity of protamine-DNA co-condensates.",
-    "sent_at": "2026-09-16T13:42:10.789576Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.10.750716",
-    "title": "FetchPA: a guided, end-to-end solution for local ATAC-Seq data processing and analyses",
-    "sent_at": "2026-09-16T16:50:32.722063Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/jb/mvag065",
     "title": "Target-Site Selection by Transcription Factors: Roles of DNA, Chromatin, and Cofactor-Mediated Regulation.",
     "sent_at": "2026-09-16T16:50:32.722063Z",
@@ -557,6 +543,20 @@
     "title": "BRANCHED1 acts as a rheostat of Nuclear Factor Y-dependent epigenetic regulation in axillary bud development.",
     "sent_at": "2026-09-24T13:43:27.701860Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.09.750400",
+    "title": "Insulators As Dynamic, Tunable Regulators of Enhancer-Promoter Coordination in Living Drosophila Embryos.",
+    "sent_at": "2026-09-24T17:08:49.755947Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77043-9",
+    "title": "SPOP-mediated ZMYND8 ubiquitination and phase separation exclusion drives mTOR inhibitor resistance in kidney cancer.",
+    "sent_at": "2026-09-24T17:08:49.755947Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
