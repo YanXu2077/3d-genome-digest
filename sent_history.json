@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.08.021",
-    "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
-    "sent_at": "2026-09-17T21:39:51.331672Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.15.749901",
-    "title": "Developmentally programmed loss of long-range Polycomb interactions is regulated by cohesin",
-    "sent_at": "2026-09-18T00:40:33.656253Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag683",
     "title": "Coolsecture: an easy-to-use and improved framework for cross-species Hi-C contact map comparison.",
     "sent_at": "2026-09-18T00:40:33.656253Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s43587-026-01221-z",
     "title": "A cross-species single-cell kidney epigenome atlas reveals epithelial-dominant aging-like states in disease.",
     "sent_at": "2026-09-25T13:44:07.055367Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.15.751821",
+    "title": "Integration of cell-specific gene expression and chromatin accessibility facilitates localization of neurodegenerative risk in microglia.",
+    "sent_at": "2026-09-25T18:36:52.862605Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1152/physiolgenomics.00157.2026",
+    "title": "Disruption of local CTCF binding impairs renin expression and blood pressure response in Dahl salt-sensitive rats.",
+    "sent_at": "2026-09-25T18:36:52.862605Z",
     "tier": 1,
     "kind": "journal"
   }
