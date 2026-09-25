@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s12943-026-02763-x",
-    "title": "The roles of chromatin remodeling and 3D genome organization in cancers: from mechanistic insights to emerging treatment options.",
-    "sent_at": "2026-09-17T18:13:40.225043Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.15.751767",
-    "title": "Epi-PoreC: a nanopore-based method for simultaneous profiling of chromatin conformation, DNA methylation, and chromatin accessibility",
-    "sent_at": "2026-09-17T21:39:51.331672Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.08.021",
     "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
     "sent_at": "2026-09-17T21:39:51.331672Z",
@@ -557,6 +543,20 @@
     "title": "Lights, machines, action! Watching gene expression unfold at the single-molecule level.",
     "sent_at": "2026-09-25T07:45:49.549295Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.750690",
+    "title": "Flow Orchestrated Regulatory Genomics Engine (FORGE): A Configurable Nextflow Pipeline for End-to-End snMultiome Analysis.",
+    "sent_at": "2026-09-25T13:44:07.055367Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s43587-026-01221-z",
+    "title": "A cross-species single-cell kidney epigenome atlas reveals epithelial-dominant aging-like states in disease.",
+    "sent_at": "2026-09-25T13:44:07.055367Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
