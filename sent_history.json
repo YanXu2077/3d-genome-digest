@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag683",
-    "title": "Coolsecture: an easy-to-use and improved framework for cross-species Hi-C contact map comparison.",
-    "sent_at": "2026-09-18T00:40:33.656253Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.15.751728",
-    "title": "DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps",
-    "sent_at": "2026-09-18T04:36:00.108879Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/bs.ctdb.2026.06.007",
     "title": "How advances in chromosome conformation capture (3C) methods are reshaping our understanding of gene regulation in hematopoiesis.",
     "sent_at": "2026-09-18T04:36:00.108879Z",
@@ -557,6 +543,20 @@
     "title": "Disruption of local CTCF binding impairs renin expression and blood pressure response in Dahl salt-sensitive rats.",
     "sent_at": "2026-09-25T18:36:52.862605Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.10.750150",
+    "title": "PRDM9-mediated meiotic hotspot specification is constrained in humans despite extensive sequence diversity.",
+    "sent_at": "2026-09-25T23:23:15.823991Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1140/epje/s10189-026-00634-3",
+    "title": "A Brownian dynamics study of liquid-liquid phase separation in multiscale chromatin networks.",
+    "sent_at": "2026-09-25T23:23:15.823991Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
