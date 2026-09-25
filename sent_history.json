@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1091/mbc.E25-05-0237",
-    "title": "Transcriptional activity generates chromatin motion that drives nuclear blebbing.",
-    "sent_at": "2026-09-17T00:23:27.241346Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.11.750809",
-    "title": "Empirical Estimation of Ambient Contamination in Combinatorial Single-Cell Methods Using Multi-Reference Mapping",
-    "sent_at": "2026-09-17T07:41:26.282669Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.cell.2026.08.038",
     "title": "3D chromatin remodeling during domestication defines novel targets for crop improvement.",
     "sent_at": "2026-09-17T07:41:26.282669Z",
@@ -556,6 +542,20 @@
     "doi": "10.1073/pnas.2613025123",
     "title": "Splicing suppression alters the STING transcription start site to attenuate antiviral innate immunity.",
     "sent_at": "2026-09-24T21:34:03.375622Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.14.751507",
+    "title": "A custom two-in-one HIST and line-scanning confocal excitation module.",
+    "sent_at": "2026-09-25T00:35:16.971091Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fcell.2026.1908892",
+    "title": "Integrated RNA-seq and ATAC-seq analyses reveal muscle development differences between european meat pigeon and shiqi pigeon during embryonic to post-hatching stages.",
+    "sent_at": "2026-09-25T00:35:16.971091Z",
     "tier": 3,
     "kind": "journal"
   }
