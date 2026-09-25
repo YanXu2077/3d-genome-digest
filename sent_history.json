@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.cell.2026.08.038",
-    "title": "3D chromatin remodeling during domestication defines novel targets for crop improvement.",
-    "sent_at": "2026-09-17T07:41:26.282669Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41586-026-11034-0",
-    "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
-    "sent_at": "2026-09-17T13:25:20.048454Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1186/s12943-026-02763-x",
     "title": "The roles of chromatin remodeling and 3D genome organization in cancers: from mechanistic insights to emerging treatment options.",
     "sent_at": "2026-09-17T18:13:40.225043Z",
@@ -556,6 +542,20 @@
     "doi": "10.3389/fcell.2026.1908892",
     "title": "Integrated RNA-seq and ATAC-seq analyses reveal muscle development differences between european meat pigeon and shiqi pigeon during embryonic to post-hatching stages.",
     "sent_at": "2026-09-25T00:35:16.971091Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.16.752125",
+    "title": "Fusion Oncoprotein EWSR1::FLI1 Invades Nucleosomes at Consensus ETS Motifs and GGAA Microsatellites.",
+    "sent_at": "2026-09-25T07:45:49.549295Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103389",
+    "title": "Lights, machines, action! Watching gene expression unfold at the single-molecule level.",
+    "sent_at": "2026-09-25T07:45:49.549295Z",
     "tier": 3,
     "kind": "journal"
   }
