@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.11.751063",
-    "title": "Inverted logic of ecDNA localization converts nuclear periphery into oncogenic transcription hubs in cancer",
-    "sent_at": "2026-09-18T07:37:07.910301Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/bs.ctdb.2026.06.002",
     "title": "Mediator at the Helm: Coordinating transcription and biomolecular condensates in hematopoiesis.",
     "sent_at": "2026-09-18T07:37:07.910301Z",
@@ -557,6 +550,13 @@
     "title": "Molecular Details of RNA Interactions With FUS Condensates Altering Assembly, Dynamics, and Aggregation.",
     "sent_at": "2026-09-26T04:50:23.093145Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41588-026-02775-9",
+    "title": "Euchromatin forms condensed domains with short active regions on the surface.",
+    "sent_at": "2026-09-26T11:19:47.901095Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
