@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/bs.ctdb.2026.06.007",
-    "title": "How advances in chromosome conformation capture (3C) methods are reshaping our understanding of gene regulation in hematopoiesis.",
-    "sent_at": "2026-09-18T04:36:00.108879Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.11.751063",
     "title": "Inverted logic of ecDNA localization converts nuclear periphery into oncogenic transcription hubs in cancer",
     "sent_at": "2026-09-18T07:37:07.910301Z",
@@ -557,6 +550,13 @@
     "title": "A Brownian dynamics study of liquid-liquid phase separation in multiscale chromatin networks.",
     "sent_at": "2026-09-25T23:23:15.823991Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/anie.1070299",
+    "title": "Molecular Details of RNA Interactions With FUS Condensates Altering Assembly, Dynamics, and Aggregation.",
+    "sent_at": "2026-09-26T04:50:23.093145Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
