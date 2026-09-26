@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/bs.ctdb.2026.06.002",
-    "title": "Mediator at the Helm: Coordinating transcription and biomolecular condensates in hematopoiesis.",
-    "sent_at": "2026-09-18T07:37:07.910301Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.14.751543",
     "title": "PAXIP1-PAGR1 directs cohesin recruitment during break-induced telomere repair",
     "sent_at": "2026-09-18T11:13:48.259738Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s41588-026-02775-9",
     "title": "Euchromatin forms condensed domains with short active regions on the surface.",
     "sent_at": "2026-09-26T11:19:47.901095Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41592-026-03218-3",
+    "title": "Spatially resolved chromatin architectures in mammalian brain tissues.",
+    "sent_at": "2026-09-26T16:19:26.737198Z",
     "tier": 1,
     "kind": "journal"
   }
