@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76578-1",
-    "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription.",
-    "sent_at": "2026-09-18T16:22:23.115076Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.16.752023",
     "title": "Stepwise reorganization of chromosome conformation and nuclear organization during stem cell differentiation",
     "sent_at": "2026-09-18T17:52:57.523412Z",
@@ -557,6 +550,13 @@
     "title": "A Novel Epigenetic Mechanism of Intestinal NHE3 Gene Regulation by Histone Acetylation.",
     "sent_at": "2026-09-27T00:31:14.366553Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118048",
+    "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
+    "sent_at": "2026-09-27T08:03:50.853532Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
