@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aee8251",
-    "title": "Epigenetic training licenses naïve CD8+ T cell metabolic fitness and function.",
-    "sent_at": "2026-09-19T00:16:53.614208Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.16.752217",
-    "title": "Machine learning reveals sequence and genomic context features underlying Alu-specific effects on genome folding",
-    "sent_at": "2026-09-19T04:53:43.973495Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.09.13.751294",
     "title": "Distinct RNA-RNA spatial interaction sub-networks of transcription factors in hepatic cells",
     "sent_at": "2026-09-19T07:24:53.034535Z",
@@ -557,6 +543,20 @@
     "title": "Microfluidics-Enhanced 3D DNA-Based Points Accumulation for Imaging in Nanoscale Topography.",
     "sent_at": "2026-09-27T18:23:01.864790Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.25.754561",
+    "title": "A single-nucleus multi-omic atlas of gene regulation across 21 adult human tissues",
+    "sent_at": "2026-09-27T23:03:08.223198Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77736",
+    "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
+    "sent_at": "2026-09-27T23:03:08.223198Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
