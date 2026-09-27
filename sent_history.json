@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.14.751457",
-    "title": "ssJSD: A fusion of sparsity and spatial information for HiC single-cell clustering",
-    "sent_at": "2026-09-18T20:59:20.660357Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/bies.70182",
-    "title": "Transcription and Three-Dimensional Genome Organization: Cause, Consequence, or Coordination?",
-    "sent_at": "2026-09-18T20:59:20.660357Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1126/sciadv.aee8251",
     "title": "Epigenetic training licenses naïve CD8+ T cell metabolic fitness and function.",
     "sent_at": "2026-09-19T00:16:53.614208Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/ijms27188348",
     "title": "Barcoded Sleeping Beauty Transposons as Mobile Reporters of Chromatin Architecture.",
     "sent_at": "2026-09-27T14:00:38.701447Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.22.753564",
+    "title": "Discrepancies between ChIP-seq and CUT&Tag histone mark profiles are explained by GC content and chromatin accessibility",
+    "sent_at": "2026-09-27T18:23:01.864790Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acsami.6c11511",
+    "title": "Microfluidics-Enhanced 3D DNA-Based Points Accumulation for Imaging in Nanoscale Topography.",
+    "sent_at": "2026-09-27T18:23:01.864790Z",
     "tier": 3,
     "kind": "journal"
   }
