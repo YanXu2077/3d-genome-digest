@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.16.752023",
-    "title": "Stepwise reorganization of chromosome conformation and nuclear organization during stem cell differentiation",
-    "sent_at": "2026-09-18T17:52:57.523412Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.bbrep.2026.102789",
-    "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
-    "sent_at": "2026-09-18T17:52:57.523412Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.14.751457",
     "title": "ssJSD: A fusion of sparsity and spatial information for HiC single-cell clustering",
     "sent_at": "2026-09-18T20:59:20.660357Z",
@@ -557,6 +543,20 @@
     "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
     "sent_at": "2026-09-27T08:03:50.853532Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.25.754334",
+    "title": "Scaling of structural variability of ecDNA polymer condensates with copy number boosts and stabilises oncogene regulatory contacts",
+    "sent_at": "2026-09-27T14:00:38.701447Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27188348",
+    "title": "Barcoded Sleeping Beauty Transposons as Mobile Reporters of Chromatin Architecture.",
+    "sent_at": "2026-09-27T14:00:38.701447Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
