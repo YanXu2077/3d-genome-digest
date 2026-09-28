@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41388-026-03984-6",
-    "title": "A canonical role of SMAD4 in safeguarding 3D genome architecture to suppress lung tumorigenesis.",
-    "sent_at": "2026-09-19T11:24:13.866079Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.14.751590",
-    "title": "An atlas of transcription factor cooperation reveals how motif readers shape regulatory output",
-    "sent_at": "2026-09-19T16:08:10.415346Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.ijbiomac.2026.154403",
     "title": "Retinoid X receptor in motion: Subtype-specific organization and dynamics of condensate-like assemblies.",
     "sent_at": "2026-09-19T16:08:10.415346Z",
@@ -557,6 +543,20 @@
     "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
     "sent_at": "2026-09-28T14:22:56.825234Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.24.753912",
+    "title": "Nucleosome Core Allostery Governs Chromatin Recognition and Cell Fate",
+    "sent_at": "2026-09-28T20:35:49.131695Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77894",
+    "title": "Integration of the D-Genome Reshapes Gene Transcription, Chromatin Architecture, and Metabolome of Allohexaploid Wheat, Leading to Enhanced Environmental Adaptability.",
+    "sent_at": "2026-09-28T20:35:49.131695Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
