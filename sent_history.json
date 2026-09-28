@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.13.751294",
-    "title": "Distinct RNA-RNA spatial interaction sub-networks of transcription factors in hepatic cells",
-    "sent_at": "2026-09-19T07:24:53.034535Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103378",
     "title": "Molecular simulations of chromatin-associated biomolecular condensates.",
     "sent_at": "2026-09-19T07:24:53.034535Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/advs.77736",
     "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
     "sent_at": "2026-09-27T23:03:08.223198Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118020",
+    "title": "Nucleome dynamics and histone priming by pioneer transcription factors drive osteoblast differentiation.",
+    "sent_at": "2026-09-28T05:16:42.278601Z",
     "tier": 1,
     "kind": "journal"
   }
