@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.sbi.2026.103378",
-    "title": "Molecular simulations of chromatin-associated biomolecular condensates.",
-    "sent_at": "2026-09-19T07:24:53.034535Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.16.751900",
-    "title": "Dna2-intrinsic condensation regulates DNA end resection and reveals evolutionary redistribution of condensate grammar",
-    "sent_at": "2026-09-19T11:24:13.866079Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41388-026-03984-6",
     "title": "A canonical role of SMAD4 in safeguarding 3D genome architecture to suppress lung tumorigenesis.",
     "sent_at": "2026-09-19T11:24:13.866079Z",
@@ -557,6 +543,20 @@
     "title": "Nucleome dynamics and histone priming by pioneer transcription factors drive osteoblast differentiation.",
     "sent_at": "2026-09-28T05:16:42.278601Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.25.754463",
+    "title": "Integrator governs NF-κB dwell time on chromatin to drive inflammatory transcription",
+    "sent_at": "2026-09-28T14:22:56.825234Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.77883",
+    "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
+    "sent_at": "2026-09-28T14:22:56.825234Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
