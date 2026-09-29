@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.ijbiomac.2026.154403",
-    "title": "Retinoid X receptor in motion: Subtype-specific organization and dynamics of condensate-like assemblies.",
-    "sent_at": "2026-09-19T16:08:10.415346Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.16.752104",
-    "title": "Mi-2 and E93 coordinate robust cell cycle exit with terminal differentiation through enhancer decommissioning",
-    "sent_at": "2026-09-19T18:50:02.539805Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.crmeth.2026.101607",
     "title": "HisTrader identifies nucleosome-free regions within ChIP-based profiling of histone post-translational modifications.",
     "sent_at": "2026-09-19T18:50:02.539805Z",
@@ -557,6 +543,20 @@
     "title": "Integration of the D-Genome Reshapes Gene Transcription, Chromatin Architecture, and Metabolome of Allohexaploid Wheat, Leading to Enhanced Environmental Adaptability.",
     "sent_at": "2026-09-28T20:35:49.131695Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.26.754600",
+    "title": "Nucleosome-scale p53-hormone receptor grammar distributed by Alu elements",
+    "sent_at": "2026-09-29T01:52:41.608279Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2625638123",
+    "title": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
+    "sent_at": "2026-09-29T01:52:41.608279Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
