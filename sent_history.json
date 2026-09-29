@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.crmeth.2026.101607",
-    "title": "HisTrader identifies nucleosome-free regions within ChIP-based profiling of histone post-translational modifications.",
-    "sent_at": "2026-09-19T18:50:02.539805Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.11.751045",
-    "title": "dubTAGs enable on-demand stabilization for tunable and reversible control of endogenous protein levels",
-    "sent_at": "2026-09-19T20:40:26.056934Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.bbrep.2026.102786",
     "title": "Comparing bulk and single-cell methodologies and models to profile gene expression, chromatin accessibility and regulatory links in endothelial cells treated with TNFα.",
     "sent_at": "2026-09-19T20:40:26.056934Z",
@@ -557,6 +543,20 @@
     "title": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
     "sent_at": "2026-09-29T01:52:41.608279Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.28.754945",
+    "title": "Fibers and Glasses are Competing Material States in FUS Protein Condensation",
+    "sent_at": "2026-09-29T08:25:46.820230Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jmb.2026.170040",
+    "title": "TAD boundary disruption in Xq27-q28 deletions rewires 3D chromatin architecture and may predispose to primary skewed X chromosome inactivation.",
+    "sent_at": "2026-09-29T08:25:46.820230Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
