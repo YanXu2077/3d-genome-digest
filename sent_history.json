@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bbrep.2026.102786",
-    "title": "Comparing bulk and single-cell methodologies and models to profile gene expression, chromatin accessibility and regulatory links in endothelial cells treated with TNFα.",
-    "sent_at": "2026-09-19T20:40:26.056934Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.17.752471",
-    "title": "Decoupling Transcription from Cell Fate Preserves Germ Cell Totipotency",
-    "sent_at": "2026-09-19T22:30:37.146812Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.mcpro.2026.101662",
     "title": "PRC2 loss in MPNST is accompanied by SWI/SNF complex rewiring and sensitization to SMARCA2/4 and BET inhibition in vivo.",
     "sent_at": "2026-09-19T22:30:37.146812Z",
@@ -557,6 +543,20 @@
     "title": "TAD boundary disruption in Xq27-q28 deletions rewires 3D chromatin architecture and may predispose to primary skewed X chromosome inactivation.",
     "sent_at": "2026-09-29T08:25:46.820230Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.28.754564",
+    "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy",
+    "sent_at": "2026-09-29T16:32:38.636974Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1063/5.0341810",
+    "title": "Many short traces are nearly as informative as one uninterrupted trace in recovering hidden-state kinetics.",
+    "sent_at": "2026-09-29T16:32:38.636974Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
