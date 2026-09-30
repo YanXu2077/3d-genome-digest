@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/gad.353948.126",
-    "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
-    "sent_at": "2026-09-22T05:18:25.870516Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.17.752532",
-    "title": "Single-cell multiomic QTL mapping reveals state-dependent genetic regulation and associated gene during cellular senescence",
-    "sent_at": "2026-09-22T07:42:34.263912Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.282223.126",
     "title": "Spatial genome organization in nematodes with programmed DNA elimination.",
     "sent_at": "2026-09-22T07:42:34.263912Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s42003-026-10946-x",
     "title": "Cryo-EM structures of CENP-A nucleosomes isolated from human cells.",
     "sent_at": "2026-09-30T21:01:26.323820Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.28.754892",
+    "title": "Gene-family-dependent thermodynamic effects of oncogenic mutations on nucleosome-DNA binding stability: a comparative molecular dynamics study across 22 cancer hotspots",
+    "sent_at": "2026-09-30T23:46:46.879519Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103406",
+    "title": "Single-molecule fluorescence methods for visualizing the central dogma.",
+    "sent_at": "2026-09-30T23:46:46.879519Z",
     "tier": 2,
     "kind": "journal"
   }
