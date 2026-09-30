@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.bcp.2026.118490",
-    "title": "IRF1-driven chromatin and transcriptional regulation determines the anti-tumor responses to all-trans retinoic acid across cancer types.",
-    "sent_at": "2026-09-20T07:45:54.915941Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.16.752192",
-    "title": "Human-specific retrotransposons encode the regulatory logic of two lineages in a bipotent neural crest and central nervous system precursor",
-    "sent_at": "2026-09-20T11:44:00.011222Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s44318-026-00912-y",
     "title": "Whole genome duplication through mitotic slippage causes nuclear instability.",
     "sent_at": "2026-09-20T11:44:00.011222Z",
@@ -557,6 +543,20 @@
     "title": "Lipid-Mediated DNA-Protein Coupling Reinforces the Mechanics of HP1α-DNA Condensates.",
     "sent_at": "2026-09-29T22:16:28.688030Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.24.754017",
+    "title": "EpiZoo: a DNA sequence-aware foundation model for cross-species single-cell epigenomics",
+    "sent_at": "2026-09-30T01:29:07.870291Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioadv/vbag228",
+    "title": "Towards improved particle reconstruction for single-molecule localization microscopy using geometric deep learning.",
+    "sent_at": "2026-09-30T01:29:07.870291Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
