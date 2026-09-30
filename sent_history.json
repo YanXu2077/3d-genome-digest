@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.intimp.2026.117445",
-    "title": "Synthetic coincidence of BCR-NF-κB and IL-4Rα-STAT6 signaling constitutes a master checkpoint for functional IgE class switch recombination.",
-    "sent_at": "2026-09-20T13:04:32.960389Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/pcmedi/pbag024",
-    "title": "Histone modifications: mechanisms, metabolic regulation, and therapeutic targeting in cancer.",
-    "sent_at": "2026-09-20T16:25:00.598691Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.14.751594",
     "title": "SMCHD1's DNA binding activity enables its stable retention on chromatin",
     "sent_at": "2026-09-20T19:00:43.107785Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.molcel.2026.09.011",
     "title": "Transcription factor clusters enhance gene expression in vivo without modulating bursting dynamics.",
     "sent_at": "2026-09-30T05:28:22.750536Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.28.755122",
+    "title": "Defective HIRA driven chromatin maintenance underlies age related decline in oocyte quality",
+    "sent_at": "2026-09-30T08:55:21.240384Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103404",
+    "title": "Going through the motions; Chromatin organization and dynamics across scales.",
+    "sent_at": "2026-09-30T08:55:21.240384Z",
     "tier": 2,
     "kind": "journal"
   }
