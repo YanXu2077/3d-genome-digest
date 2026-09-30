@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.14.750771",
-    "title": "High-order enhancer hubs buffer allelic regulatory variation through kinetic compensation",
-    "sent_at": "2026-09-21T13:11:47.117147Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.09.15.751738",
-    "title": "Mammalian condensin I controls higher-order chromosome organization and homologous recombination in meiotic prophase I",
-    "sent_at": "2026-09-21T19:41:14.941889Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/toxsci/kfag128",
     "title": "Integrated single-cell and epigenomic analysis reveals cellular specificity of CYP2E1 in human alcohol-related liver disease.",
     "sent_at": "2026-09-22T00:46:36.984090Z",
@@ -557,6 +543,20 @@
     "title": "Single-molecule imaging reveals DNA shape read-out by the INO80 chromatin remodeler.",
     "sent_at": "2026-09-30T16:33:17.530415Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.29.755468",
+    "title": "Induction of hysteretic chromatin states by CRISPRa reveals locus-specific encoding of transcriptional memory",
+    "sent_at": "2026-09-30T19:14:24.077431Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3724/abbs.2026165",
+    "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
+    "sent_at": "2026-09-30T19:14:24.077431Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
