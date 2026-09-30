@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.14.751594",
-    "title": "SMCHD1's DNA binding activity enables its stable retention on chromatin",
-    "sent_at": "2026-09-20T19:00:43.107785Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.dnarep.2026.103960",
-    "title": "ZIPPing the gaps: A new class of zinc finger proteins orchestrates the DNA damage response.",
-    "sent_at": "2026-09-20T19:00:43.107785Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.15.751898",
     "title": "Hierarchical chromatin polyvalency governs robust gene regulation and organogenesis",
     "sent_at": "2026-09-20T20:48:12.182358Z",
@@ -557,6 +543,20 @@
     "title": "Going through the motions; Chromatin organization and dynamics across scales.",
     "sent_at": "2026-09-30T08:55:21.240384Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.29.754952",
+    "title": "Structural basis of nucleosome remodeling by archaeal RNA polymerase during transcription elongation",
+    "sent_at": "2026-09-30T12:29:53.645409Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77331-4",
+    "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma.",
+    "sent_at": "2026-09-30T12:29:53.645409Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
