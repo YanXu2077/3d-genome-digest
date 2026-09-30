@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/toxsci/kfag128",
-    "title": "Integrated single-cell and epigenomic analysis reveals cellular specificity of CYP2E1 in human alcohol-related liver disease.",
-    "sent_at": "2026-09-22T00:46:36.984090Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.15.751753",
-    "title": "Genome reshuffling as a route to specialization? Chromosome-level insights from the bark beetle symbiont genus Geosmithia.",
-    "sent_at": "2026-09-22T05:18:25.870516Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gad.353948.126",
     "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
     "sent_at": "2026-09-22T05:18:25.870516Z",
@@ -557,6 +543,20 @@
     "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
     "sent_at": "2026-09-30T19:14:24.077431Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.29.755502",
+    "title": "CDX2 Drives Divergent Regional Programs During Intestinal Development and Redeploys Them During Regeneration",
+    "sent_at": "2026-09-30T21:01:26.323820Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s42003-026-10946-x",
+    "title": "Cryo-EM structures of CENP-A nucleosomes isolated from human cells.",
+    "sent_at": "2026-09-30T21:01:26.323820Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
