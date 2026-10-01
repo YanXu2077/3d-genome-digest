@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/biolre/ioag204",
-    "title": "Multiscale Regulation of Meiotic Recombination in Mammals.",
-    "sent_at": "2026-09-22T17:17:47.857732Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.20.752975",
-    "title": "INO80 rapidly shuttles nucleosomes between chromatin barriers",
-    "sent_at": "2026-09-22T21:21:41.066221Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-76911-8",
     "title": "HOMEODOMAIN-LIKE shapes chromatin architecture and rewires leaf epidermal patterns.",
     "sent_at": "2026-09-22T21:21:41.066221Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-77122-x",
     "title": "Submolecular video-imaging of the Smc5/6 complex topologically bound to DNA.",
     "sent_at": "2026-10-01T13:07:31.452414Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755648",
+    "title": "Nucleolar buffering of lamina-associated heterochromatin restrains Progerin-induced ageing programs",
+    "sent_at": "2026-10-01T17:16:15.137681Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.09.04.749524",
+    "title": "Stable epigenetic states set single-cell activation thresholds in mammalian expression systems.",
+    "sent_at": "2026-10-01T17:16:15.137681Z",
     "tier": 2,
     "kind": "journal"
   }
