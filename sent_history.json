@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41590-026-02655-8",
-    "title": "Deletion of a distal IRF4 element prevents inflammation-induced reprogramming of human regulatory T cell fate.",
-    "sent_at": "2026-09-22T13:27:47.392591Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.18.752607",
-    "title": "DeepSCENIC: transfer learning from sequence-to-function models enables causal gene regulatory network inference",
-    "sent_at": "2026-09-22T17:17:47.857732Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/biolre/ioag204",
     "title": "Multiscale Regulation of Meiotic Recombination in Mammals.",
     "sent_at": "2026-09-22T17:17:47.857732Z",
@@ -557,6 +543,20 @@
     "title": "EZH2-dependent phenotypic plasticity reveals TTP-associated and mTORC1 therapeutic vulnerabilities in lethal prostate cancer.",
     "sent_at": "2026-10-01T09:19:21.039817Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755691",
+    "title": "Active Nucleosome Sliding, Eviction, and Reassembly Dynamics Can Regulate Chromatin Condensate Organization",
+    "sent_at": "2026-10-01T13:07:31.452414Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77122-x",
+    "title": "Submolecular video-imaging of the Smc5/6 complex topologically bound to DNA.",
+    "sent_at": "2026-10-01T13:07:31.452414Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
