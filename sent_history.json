@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/gr.282223.126",
-    "title": "Spatial genome organization in nematodes with programmed DNA elimination.",
-    "sent_at": "2026-09-22T07:42:34.263912Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.18.752771",
     "title": "AI discovery of sequence rules for RNA polymerase II pausing revises the pause-release model of gene activation",
     "sent_at": "2026-09-22T12:01:05.211719Z",
@@ -557,6 +550,13 @@
     "title": "Single-molecule fluorescence methods for visualizing the central dogma.",
     "sent_at": "2026-09-30T23:46:46.879519Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1126/sciadv.aeb4023",
+    "title": "Sensitizing tumor response to topoisomerase I antibody-drug conjugate by selective CDK7 inhibition.",
+    "sent_at": "2026-10-01T01:30:24.868913Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
