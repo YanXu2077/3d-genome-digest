@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.psj.2026.107771",
-    "title": "Integrative single-cell and multi-omic analysis resolves granulosa-cell programs during chicken follicle selection.",
-    "sent_at": "2026-09-22T12:01:05.211719Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.20.752982",
-    "title": "A blastema in sea star larvae integrates wound signaling to drive regeneration-specific and developmental gene expression patterns.",
-    "sent_at": "2026-09-22T13:27:47.392591Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41590-026-02655-8",
     "title": "Deletion of a distal IRF4 element prevents inflammation-induced reprogramming of human regulatory T cell fate.",
     "sent_at": "2026-09-22T13:27:47.392591Z",
@@ -557,6 +543,20 @@
     "title": "Kinetic Control of Condensate Function: How the Formation Dynamics of APBs Influence ALT Cancer Telomere Length Heterogeneity.",
     "sent_at": "2026-10-01T05:45:02.256760Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.25.754514",
+    "title": "Stage-Specific NF-κB RelA and IRF4 Programs Drive -Synuclein-Induced Disease-Associated Microglia Differentiation",
+    "sent_at": "2026-10-01T09:19:21.039817Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.xcrm.2026.103083",
+    "title": "EZH2-dependent phenotypic plasticity reveals TTP-associated and mTORC1 therapeutic vulnerabilities in lethal prostate cancer.",
+    "sent_at": "2026-10-01T09:19:21.039817Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
