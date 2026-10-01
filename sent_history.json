@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76911-8",
-    "title": "HOMEODOMAIN-LIKE shapes chromatin architecture and rewires leaf epidermal patterns.",
-    "sent_at": "2026-09-22T21:21:41.066221Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.16.751930",
-    "title": "Regulatory-scale stripe analysis from single-cell Hi-C with scStripe",
-    "sent_at": "2026-09-23T00:27:12.451903Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1242/dev.205842",
     "title": "Conserved C-terminal residues adjacent to the canonical PDX1 homeodomain are required for chromatin occupancy and pancreas development.",
     "sent_at": "2026-09-23T00:27:12.451903Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.09.04.749524",
     "title": "Stable epigenetic states set single-cell activation thresholds in mammalian expression systems.",
     "sent_at": "2026-10-01T17:16:15.137681Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1186/s12943-026-02789-1",
+    "title": "Extrachromosomal DNA as a platform for epigenetic reprogramming in cancer.",
+    "sent_at": "2026-10-01T19:34:11.805599Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1186/s12943-026-02789-1",
+    "title": "Extrachromosomal DNA as a platform for epigenetic reprogramming in cancer.",
+    "sent_at": "2026-10-01T19:34:19.133992Z",
     "tier": 2,
     "kind": "journal"
   }
