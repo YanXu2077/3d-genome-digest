@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/mps9050135",
-    "title": "LAWS-HiC: A Locally Adaptive Weighting and Screening (LAWS) Approach to Improve Detection of Long-Range Chromatin Interactions from Hi-C Data.",
-    "sent_at": "2026-09-23T21:43:02.339908Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/humrep/deag152",
-    "title": "Maternal TRIM28 safeguards bovine embryonic genome activation by regulating SAM-dependent methylation via lipid metabolism.",
-    "sent_at": "2026-09-24T00:44:54.833893Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1262/jrd.2026-110",
     "title": "Increasing global chromatin accessibility alone is insufficient to enhance global transcription during mouse zygotic gene activation.",
     "sent_at": "2026-09-24T04:37:58.841855Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.tcb.2026.09.001",
     "title": "Handles on chromosome architecture.",
     "sent_at": "2026-10-02T19:17:03.434483Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.26.754598",
+    "title": "Multi-omics fine-mapping uncovers a pleiotropic intestinal enhancer variant linking PMAIP1 regulation to pig growth and fatness",
+    "sent_at": "2026-10-02T23:48:59.823696Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg1622",
+    "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4+ T cells.",
+    "sent_at": "2026-10-02T23:48:59.823696Z",
     "tier": 1,
     "kind": "journal"
   }
