@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.21.753114",
-    "title": "Disruption of lamina-associated genome organization activates neuronal gene programs in H3.3K27M DIPG",
-    "sent_at": "2026-09-23T13:43:41.748008Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.molcel.2026.09.001",
-    "title": "Linker histone H1.0 loads onto nucleosomes through multiple pathways that are facilitated by histone chaperones.",
-    "sent_at": "2026-09-23T13:43:41.748008Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.18.752640",
     "title": "Glucocorticoid signalling exerts distinct lineage-permissive and dose-dependent disruptive actions during human osteoblast differentiation",
     "sent_at": "2026-09-23T18:30:49.298567Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.sbi.2026.103405",
     "title": "Cohesin on the move: navigating genomic traffic during loop extrusion.",
     "sent_at": "2026-10-02T05:31:55.361804Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.01.755872",
+    "title": "Oncogenic ESR1 fusions form chromatin-anchored condensates that remodel nuclear architecture",
+    "sent_at": "2026-10-02T12:29:13.635367Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41375-026-03152-5",
+    "title": "Alterations in 3D-DNA architecture drive unique leukemic profiles in IDH1- and DNMT3A-mutant acute myeloid leukemia.",
+    "sent_at": "2026-10-02T12:29:13.635367Z",
     "tier": 1,
     "kind": "journal"
   }
