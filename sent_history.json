@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.18.752640",
-    "title": "Glucocorticoid signalling exerts distinct lineage-permissive and dose-dependent disruptive actions during human osteoblast differentiation",
-    "sent_at": "2026-09-23T18:30:49.298567Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.jbc.2026.113588",
-    "title": "A prostate cancer-specific super-enhancer at 1q42.3 regulates the CAPN2 and KRT19.",
-    "sent_at": "2026-09-23T18:30:49.298567Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.3390/mps9050135",
     "title": "LAWS-HiC: A Locally Adaptive Weighting and Screening (LAWS) Approach to Improve Detection of Long-Range Chromatin Interactions from Hi-C Data.",
     "sent_at": "2026-09-23T21:43:02.339908Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41375-026-03152-5",
     "title": "Alterations in 3D-DNA architecture drive unique leukemic profiles in IDH1- and DNMT3A-mutant acute myeloid leukemia.",
     "sent_at": "2026-10-02T12:29:13.635367Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755832",
+    "title": "Topoisomerase-mediated resolution of negative DNA supercoiling sustains human transcription and gene activation",
+    "sent_at": "2026-10-02T19:17:03.434483Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.tcb.2026.09.001",
+    "title": "Handles on chromosome architecture.",
+    "sent_at": "2026-10-02T19:17:03.434483Z",
     "tier": 1,
     "kind": "journal"
   }
