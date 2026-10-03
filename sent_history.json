@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1262/jrd.2026-110",
-    "title": "Increasing global chromatin accessibility alone is insufficient to enhance global transcription during mouse zygotic gene activation.",
-    "sent_at": "2026-09-24T04:37:58.841855Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/plcell/koag298",
-    "title": "Single-cell epigenomics in plants.",
-    "sent_at": "2026-09-24T07:46:08.991604Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s41586-026-11059-5",
     "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion.",
     "sent_at": "2026-09-24T11:39:19.505843Z",
@@ -557,6 +543,20 @@
     "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4+ T cells.",
     "sent_at": "2026-10-02T23:48:59.823696Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755690",
+    "title": "One-carbon metabolism controls colorectal cancer cell state and chemosensitivity through chromatin remodeling",
+    "sent_at": "2026-10-03T05:12:13.730865Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2607883123",
+    "title": "Cell size modulates SBF and Whi5 chromatin association to regulate the Start of the budding yeast cell cycle.",
+    "sent_at": "2026-10-03T05:12:13.730865Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
