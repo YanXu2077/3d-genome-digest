@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41586-026-11059-5",
-    "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion.",
-    "sent_at": "2026-09-24T11:39:19.505843Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41467-026-77029-7",
-    "title": "BRANCHED1 acts as a rheostat of Nuclear Factor Y-dependent epigenetic regulation in axillary bud development.",
-    "sent_at": "2026-09-24T13:43:27.701860Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.09.750400",
     "title": "Insulators As Dynamic, Tunable Regulators of Enhancer-Promoter Coordination in Living Drosophila Embryos.",
     "sent_at": "2026-09-24T17:08:49.755947Z",
@@ -557,6 +543,20 @@
     "title": "Cell size modulates SBF and Whi5 chromatin association to regulate the Start of the budding yeast cell cycle.",
     "sent_at": "2026-10-03T05:12:13.730865Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755594",
+    "title": "Inference on paths of yeast transcription pre-initiation complex assembly by model-based analysis of altered occupancy profiles",
+    "sent_at": "2026-10-03T11:37:21.337694Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41588-026-02776-8",
+    "title": "Single-allele nanoscale mapping of regulatory variants.",
+    "sent_at": "2026-10-03T11:37:21.337694Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
