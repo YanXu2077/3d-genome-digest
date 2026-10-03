@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.11.751064",
-    "title": "H3K27me3 Drives Constricted Migration-Induced 3D Genome Rewiring in Melanoma.",
-    "sent_at": "2026-09-24T18:37:06.968055Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fsysb.2026.1859256",
-    "title": "Covariate-adjusted AP-1 motif architecture and footprinting track olaparib-adaptive chromatin remodelling.",
-    "sent_at": "2026-09-24T18:37:06.968055Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.11.751074",
     "title": "Enhancer Tuning by Sequence-Specific Repressors.",
     "sent_at": "2026-09-24T21:34:03.375622Z",
@@ -557,6 +543,20 @@
     "title": "Single-molecule chromatin tracing reveals a diversity of megabase heterochromatin domains.",
     "sent_at": "2026-10-03T16:14:47.985615Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.30.755827",
+    "title": "Multi-omics profiling identifies a metabolic and energetic signature associated with neuronal dENL/AF9 suppression in aged flies",
+    "sent_at": "2026-10-03T21:14:35.409864Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fcell.2026.1932329",
+    "title": "Reconstitution of genome remodeling using Xenopus egg extracts.",
+    "sent_at": "2026-10-03T21:14:35.409864Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
