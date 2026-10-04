@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.16.752125",
-    "title": "Fusion Oncoprotein EWSR1::FLI1 Invades Nucleosomes at Consensus ETS Motifs and GGAA Microsatellites.",
-    "sent_at": "2026-09-25T07:45:49.549295Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103389",
     "title": "Lights, machines, action! Watching gene expression unfold at the single-molecule level.",
     "sent_at": "2026-09-25T07:45:49.549295Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.cellin.2026.100361",
     "title": "HBV integration into KMT2B increases malignant phenotype of hepatocellular carcinoma by epigenetic reprogramming.",
     "sent_at": "2026-10-04T19:34:33.642966Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/advs.78138",
+    "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
+    "sent_at": "2026-10-04T23:03:55.822928Z",
     "tier": 3,
     "kind": "journal"
   }
