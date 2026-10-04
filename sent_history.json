@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.14.751507",
-    "title": "A custom two-in-one HIST and line-scanning confocal excitation module.",
-    "sent_at": "2026-09-25T00:35:16.971091Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/fcell.2026.1908892",
     "title": "Integrated RNA-seq and ATAC-seq analyses reveal muscle development differences between european meat pigeon and shiqi pigeon during embryonic to post-hatching stages.",
     "sent_at": "2026-09-25T00:35:16.971091Z",
@@ -556,6 +549,13 @@
     "doi": "10.1080/17501911.2026.2740396",
     "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
     "sent_at": "2026-10-04T08:22:49.005079Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1007/s00125-026-06884-2",
+    "title": "BAF60A governs beta cell identity to control systemic glucose homeostasis.",
+    "sent_at": "2026-10-04T15:20:10.287674Z",
     "tier": 3,
     "kind": "journal"
   }
