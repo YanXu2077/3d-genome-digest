@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3389/fcell.2026.1908892",
-    "title": "Integrated RNA-seq and ATAC-seq analyses reveal muscle development differences between european meat pigeon and shiqi pigeon during embryonic to post-hatching stages.",
-    "sent_at": "2026-09-25T00:35:16.971091Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.16.752125",
     "title": "Fusion Oncoprotein EWSR1::FLI1 Invades Nucleosomes at Consensus ETS Motifs and GGAA Microsatellites.",
     "sent_at": "2026-09-25T07:45:49.549295Z",
@@ -556,6 +549,13 @@
     "doi": "10.1007/s00125-026-06884-2",
     "title": "BAF60A governs beta cell identity to control systemic glucose homeostasis.",
     "sent_at": "2026-10-04T15:20:10.287674Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.cellin.2026.100361",
+    "title": "HBV integration into KMT2B increases malignant phenotype of hepatocellular carcinoma by epigenetic reprogramming.",
+    "sent_at": "2026-10-04T19:34:33.642966Z",
     "tier": 3,
     "kind": "journal"
   }
