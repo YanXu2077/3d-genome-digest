@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.11.751074",
-    "title": "Enhancer Tuning by Sequence-Specific Repressors.",
-    "sent_at": "2026-09-24T21:34:03.375622Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2613025123",
     "title": "Splicing suppression alters the STING transcription start site to attenuate antiviral innate immunity.",
     "sent_at": "2026-09-24T21:34:03.375622Z",
@@ -557,6 +550,13 @@
     "title": "Reconstitution of genome remodeling using Xenopus egg extracts.",
     "sent_at": "2026-10-03T21:14:35.409864Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1111/nph.71624",
+    "title": "BpSRK1-mediated phosphorylation of BpERF3 relieves HDA6-dependent chromatin repression to enhance drought tolerance in birch.",
+    "sent_at": "2026-10-04T01:47:57.017099Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
