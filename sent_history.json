@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.sbi.2026.103389",
-    "title": "Lights, machines, action! Watching gene expression unfold at the single-molecule level.",
-    "sent_at": "2026-09-25T07:45:49.549295Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.10.750690",
     "title": "Flow Orchestrated Regulatory Genomics Engine (FORGE): A Configurable Nextflow Pipeline for End-to-End snMultiome Analysis.",
     "sent_at": "2026-09-25T13:44:07.055367Z",
@@ -557,6 +550,13 @@
     "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
     "sent_at": "2026-10-04T23:03:55.822928Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1134/S0006297926602285",
+    "title": "What Is the Role of Cohesin in Transcription Regulation?",
+    "sent_at": "2026-10-05T05:26:13.718386Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
