@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.10.750690",
-    "title": "Flow Orchestrated Regulatory Genomics Engine (FORGE): A Configurable Nextflow Pipeline for End-to-End snMultiome Analysis.",
-    "sent_at": "2026-09-25T13:44:07.055367Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s43587-026-01221-z",
     "title": "A cross-species single-cell kidney epigenome atlas reveals epithelial-dominant aging-like states in disease.",
     "sent_at": "2026-09-25T13:44:07.055367Z",
@@ -556,6 +549,13 @@
     "doi": "10.1134/S0006297926602285",
     "title": "What Is the Role of Cohesin in Transcription Regulation?",
     "sent_at": "2026-10-05T05:26:13.718386Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41467-026-76395-6",
+    "title": "A critical role of the histone lysine demethylase JmjC1 in regulating severe malaria-associated virulence genes in Plasmodium falciparum.",
+    "sent_at": "2026-10-05T14:27:44.082121Z",
     "tier": 1,
     "kind": "journal"
   }
