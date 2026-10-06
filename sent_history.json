@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41588-026-02775-9",
-    "title": "Euchromatin forms condensed domains with short active regions on the surface.",
-    "sent_at": "2026-09-26T11:19:47.901095Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41592-026-03218-3",
-    "title": "Spatially resolved chromatin architectures in mammalian brain tissues.",
-    "sent_at": "2026-09-26T16:19:26.737198Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.3390/ijms27188104",
     "title": "3D Genome Engineering Using CRISPR/dCas Systems.",
     "sent_at": "2026-09-26T21:11:30.237600Z",
@@ -557,6 +543,20 @@
     "title": "MED26 facilitates Mediator-Pol II complex assembly and promotes nuclear stress body formation during heat stress.",
     "sent_at": "2026-10-06T15:06:58.046423Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.29.755394",
+    "title": "Fast single molecule localization microscopy in 3D",
+    "sent_at": "2026-10-06T20:58:12.094835Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.110073",
+    "title": "Cell-cycle-resolved Hi-C reveals unexpected plasticity of A/B compartments across interphase.",
+    "sent_at": "2026-10-06T20:58:12.094835Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
