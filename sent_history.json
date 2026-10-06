@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1152/physiolgenomics.00157.2026",
-    "title": "Disruption of local CTCF binding impairs renin expression and blood pressure response in Dahl salt-sensitive rats.",
-    "sent_at": "2026-09-25T18:36:52.862605Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.10.750150",
-    "title": "PRDM9-mediated meiotic hotspot specification is constrained in humans despite extensive sequence diversity.",
-    "sent_at": "2026-09-25T23:23:15.823991Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1140/epje/s10189-026-00634-3",
     "title": "A Brownian dynamics study of liquid-liquid phase separation in multiscale chromatin networks.",
     "sent_at": "2026-09-25T23:23:15.823991Z",
@@ -556,6 +542,20 @@
     "doi": "10.1371/journal.pcbi.1014848",
     "title": "DeCTCF: Decoding CTCF binding sequences by leveraging predicted epigenomic features.",
     "sent_at": "2026-10-05T22:36:42.937794Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.01.756097",
+    "title": "A Structural Model of Transcriptional Activation by Mediator",
+    "sent_at": "2026-10-06T06:13:04.225528Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.biomaterials.2026.124672",
+    "title": "Silnr1 promotes pluripotent induction by coordinating Cohesin SMC1-mediated nuclear remodeling.",
+    "sent_at": "2026-10-06T06:13:04.225528Z",
     "tier": 1,
     "kind": "journal"
   }
