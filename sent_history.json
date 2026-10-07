@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1021/acsami.6c11511",
-    "title": "Microfluidics-Enhanced 3D DNA-Based Points Accumulation for Imaging in Nanoscale Topography.",
-    "sent_at": "2026-09-27T18:23:01.864790Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.25.754561",
-    "title": "A single-nucleus multi-omic atlas of gene regulation across 21 adult human tissues",
-    "sent_at": "2026-09-27T23:03:08.223198Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/advs.77736",
     "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
     "sent_at": "2026-09-27T23:03:08.223198Z",
@@ -556,6 +542,20 @@
     "doi": "10.3389/freae.2026.1858923",
     "title": "Elucidation of chromatin loops among regulatory regions using Hi-TrAC.",
     "sent_at": "2026-10-07T17:27:26.189230Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.05.756655",
+    "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4",
+    "sent_at": "2026-10-07T23:11:09.515990Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg9610",
+    "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma.",
+    "sent_at": "2026-10-07T23:11:09.515990Z",
     "tier": 1,
     "kind": "journal"
   }
