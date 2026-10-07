@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.118048",
-    "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
-    "sent_at": "2026-09-27T08:03:50.853532Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.25.754334",
-    "title": "Scaling of structural variability of ecDNA polymer condensates with copy number boosts and stabilises oncogene regulatory contacts",
-    "sent_at": "2026-09-27T14:00:38.701447Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/ijms27188348",
     "title": "Barcoded Sleeping Beauty Transposons as Mobile Reporters of Chromatin Architecture.",
     "sent_at": "2026-09-27T14:00:38.701447Z",
@@ -557,6 +543,20 @@
     "title": "A near-complete quail genome identifies heterochromatin expansion and chromosome architecture remodeling.",
     "sent_at": "2026-10-07T01:29:55.615176Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.01.756002",
+    "title": "Nutrient-sensitive histone propionylation regulates T cell fate and function",
+    "sent_at": "2026-10-07T08:39:39.287127Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.devcel.2026.09.004",
+    "title": "Spatially resolved genome architecture in mouse embryonic development.",
+    "sent_at": "2026-10-07T08:39:39.287127Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
