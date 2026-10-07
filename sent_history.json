@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/ijms27188348",
-    "title": "Barcoded Sleeping Beauty Transposons as Mobile Reporters of Chromatin Architecture.",
-    "sent_at": "2026-09-27T14:00:38.701447Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.22.753564",
-    "title": "Discrepancies between ChIP-seq and CUT&Tag histone mark profiles are explained by GC content and chromatin accessibility",
-    "sent_at": "2026-09-27T18:23:01.864790Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1021/acsami.6c11511",
     "title": "Microfluidics-Enhanced 3D DNA-Based Points Accumulation for Imaging in Nanoscale Topography.",
     "sent_at": "2026-09-27T18:23:01.864790Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.devcel.2026.09.004",
     "title": "Spatially resolved genome architecture in mouse embryonic development.",
     "sent_at": "2026-10-07T08:39:39.287127Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.06.757095",
+    "title": "PHC2-Dependent PRC1 Assemblies Stabilize Motor Neuron Hox Codes",
+    "sent_at": "2026-10-07T17:27:26.189230Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/freae.2026.1858923",
+    "title": "Elucidation of chromatin loops among regulatory regions using Hi-TrAC.",
+    "sent_at": "2026-10-07T17:27:26.189230Z",
     "tier": 1,
     "kind": "journal"
   }
