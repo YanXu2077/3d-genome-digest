@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.24.753912",
-    "title": "Nucleosome Core Allostery Governs Chromatin Recognition and Cell Fate",
-    "sent_at": "2026-09-28T20:35:49.131695Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.77894",
-    "title": "Integration of the D-Genome Reshapes Gene Transcription, Chromatin Architecture, and Metabolome of Allohexaploid Wheat, Leading to Enhanced Environmental Adaptability.",
-    "sent_at": "2026-09-28T20:35:49.131695Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.26.754600",
     "title": "Nucleosome-scale p53-hormone receptor grammar distributed by Alu elements",
     "sent_at": "2026-09-29T01:52:41.608279Z",
@@ -557,6 +543,20 @@
     "title": "Protocol for quantifying chromatin DNA replication by multiplex labeling and single-molecule localization microscopy.",
     "sent_at": "2026-10-08T13:23:09.110719Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.07.757230",
+    "title": "Coordinated alterations in SWI/SNF chromatin remodeling complex, mRNA splicing and mRNA methylation as hallmarks of salivary gland adenoid cystic carcinoma (SACC)",
+    "sent_at": "2026-10-08T19:57:26.724028Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-9213027/v2",
+    "title": "Chromosomal inversions modulate 3D chromatin interactions and regulatory architecture in Anopheles gambiae.",
+    "sent_at": "2026-10-08T19:57:26.724028Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
