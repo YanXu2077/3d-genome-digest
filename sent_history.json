@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/advs.77736",
-    "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
-    "sent_at": "2026-09-27T23:03:08.223198Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.118020",
-    "title": "Nucleome dynamics and histone priming by pioneer transcription factors drive osteoblast differentiation.",
-    "sent_at": "2026-09-28T05:16:42.278601Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.25.754463",
     "title": "Integrator governs NF-κB dwell time on chromatin to drive inflammatory transcription",
     "sent_at": "2026-09-28T14:22:56.825234Z",
@@ -557,6 +543,20 @@
     "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma.",
     "sent_at": "2026-10-07T23:11:09.515990Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.06.757090",
+    "title": "DNA replication stress redistributes the histone methyltransferase G9a and activates lineage-specific gene expression",
+    "sent_at": "2026-10-08T05:56:13.762013Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1242/jcs.265367",
+    "title": "Average local nucleosome motion remains nearly constant during interphase in living human cells.",
+    "sent_at": "2026-10-08T05:56:13.762013Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
