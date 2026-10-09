@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bioadv/vbag228",
-    "title": "Towards improved particle reconstruction for single-molecule localization microscopy using geometric deep learning.",
-    "sent_at": "2026-09-30T01:29:07.870291Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.28.754674",
-    "title": "Epigenetic progression of pancreatic cancer to aggressive subtypes involves alternate routes of lineage reprogramming in subtype-intermediate progenitor cells",
-    "sent_at": "2026-09-30T05:28:22.750536Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.09.011",
     "title": "Transcription factor clusters enhance gene expression in vivo without modulating bursting dynamics.",
     "sent_at": "2026-09-30T05:28:22.750536Z",
@@ -557,6 +543,20 @@
     "title": "Cell cycle-dependent chromatin motion: a role for DNA content doubling over cohesion.",
     "sent_at": "2026-10-09T17:01:00.141088Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.756856",
+    "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
+    "sent_at": "2026-10-09T19:40:45.545418Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743475",
+    "title": "Evolution of mechanical chromatin insulators from selfish genetic elements.",
+    "sent_at": "2026-10-09T19:40:45.545418Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
