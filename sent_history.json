@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.09.011",
-    "title": "Transcription factor clusters enhance gene expression in vivo without modulating bursting dynamics.",
-    "sent_at": "2026-09-30T05:28:22.750536Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.28.755122",
-    "title": "Defective HIRA driven chromatin maintenance underlies age related decline in oocyte quality",
-    "sent_at": "2026-09-30T08:55:21.240384Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103404",
     "title": "Going through the motions; Chromatin organization and dynamics across scales.",
     "sent_at": "2026-09-30T08:55:21.240384Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.08.743475",
     "title": "Evolution of mechanical chromatin insulators from selfish genetic elements.",
     "sent_at": "2026-10-09T19:40:45.545418Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.757605",
+    "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
+    "sent_at": "2026-10-09T22:42:53.761206Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeh2087",
+    "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish.",
+    "sent_at": "2026-10-09T22:42:53.761206Z",
     "tier": 1,
     "kind": "journal"
   }
