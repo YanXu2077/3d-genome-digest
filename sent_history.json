@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.26.754600",
-    "title": "Nucleosome-scale p53-hormone receptor grammar distributed by Alu elements",
-    "sent_at": "2026-09-29T01:52:41.608279Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1073/pnas.2625638123",
     "title": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
     "sent_at": "2026-09-29T01:52:41.608279Z",
@@ -556,6 +549,13 @@
     "doi": "10.21203/rs.3.rs-9213027/v2",
     "title": "Chromosomal inversions modulate 3D chromatin interactions and regulatory architecture in Anopheles gambiae.",
     "sent_at": "2026-10-08T19:57:26.724028Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.08.08.743709",
+    "title": "Entanglement dilution and high fractal dimension mediated by loop extrusion revealed in simulations of active polymer melts.",
+    "sent_at": "2026-10-09T00:20:58.954734Z",
     "tier": 1,
     "kind": "journal"
   }
