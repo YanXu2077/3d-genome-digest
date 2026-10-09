@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1073/pnas.2625638123",
-    "title": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
-    "sent_at": "2026-09-29T01:52:41.608279Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.28.754945",
-    "title": "Fibers and Glasses are Competing Material States in FUS Protein Condensation",
-    "sent_at": "2026-09-29T08:25:46.820230Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jmb.2026.170040",
     "title": "TAD boundary disruption in Xq27-q28 deletions rewires 3D chromatin architecture and may predispose to primary skewed X chromosome inactivation.",
     "sent_at": "2026-09-29T08:25:46.820230Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.08.743709",
     "title": "Entanglement dilution and high fractal dimension mediated by loop extrusion revealed in simulations of active polymer melts.",
     "sent_at": "2026-10-09T00:20:58.954734Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.01.756000",
+    "title": "CBFA2T3-GLIS2 establishes transcriptionally permissive enhancer hypermethylation associated with venetoclax response in pediatric AML",
+    "sent_at": "2026-10-09T06:39:38.231550Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.08.12.744478",
+    "title": "Integrated single-cell profiling of RNA and DNA interactomes reveals targetable chromatin architectures in cancer.",
+    "sent_at": "2026-10-09T06:39:38.231550Z",
     "tier": 1,
     "kind": "journal"
   }
