@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jmb.2026.170040",
-    "title": "TAD boundary disruption in Xq27-q28 deletions rewires 3D chromatin architecture and may predispose to primary skewed X chromosome inactivation.",
-    "sent_at": "2026-09-29T08:25:46.820230Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.28.754564",
-    "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy",
-    "sent_at": "2026-09-29T16:32:38.636974Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1063/5.0341810",
     "title": "Many short traces are nearly as informative as one uninterrupted trace in recovering hidden-state kinetics.",
     "sent_at": "2026-09-29T16:32:38.636974Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.08.12.744478",
     "title": "Integrated single-cell profiling of RNA and DNA interactomes reveals targetable chromatin architectures in cancer.",
     "sent_at": "2026-10-09T06:39:38.231550Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.02.756223",
+    "title": "PPARγ brakes cytosolic DNA-induced macrophage inflammation by super-enhancer metabolic reprogramming",
+    "sent_at": "2026-10-09T08:58:25.290153Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-10010180/v1",
+    "title": "Site-specific N6-methyladenosine fine tunes CTCF/cohesin-defined enhancer-promoter interactions and oncogenic transcription program.",
+    "sent_at": "2026-10-09T08:58:25.290153Z",
     "tier": 1,
     "kind": "journal"
   }
