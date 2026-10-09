@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/smsc.70410",
-    "title": "Lipid-Mediated DNA-Protein Coupling Reinforces the Mechanics of HP1α-DNA Condensates.",
-    "sent_at": "2026-09-29T22:16:28.688030Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.24.754017",
-    "title": "EpiZoo: a DNA sequence-aware foundation model for cross-species single-cell epigenomics",
-    "sent_at": "2026-09-30T01:29:07.870291Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioadv/vbag228",
     "title": "Towards improved particle reconstruction for single-molecule localization microscopy using geometric deep learning.",
     "sent_at": "2026-09-30T01:29:07.870291Z",
@@ -557,6 +543,20 @@
     "title": "Identification of Topologically Associated Domains via Infomap Entropy Minimization.",
     "sent_at": "2026-10-09T13:45:01.748309Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.757737",
+    "title": "Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level",
+    "sent_at": "2026-10-09T17:01:00.141088Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag951",
+    "title": "Cell cycle-dependent chromatin motion: a role for DNA content doubling over cohesion.",
+    "sent_at": "2026-10-09T17:01:00.141088Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
