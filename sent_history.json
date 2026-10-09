@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1063/5.0341810",
-    "title": "Many short traces are nearly as informative as one uninterrupted trace in recovering hidden-state kinetics.",
-    "sent_at": "2026-09-29T16:32:38.636974Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.24.754269",
-    "title": "The nuclear membrane protein Samp1 links peripheral genome organization to the myogenic transcriptional program",
-    "sent_at": "2026-09-29T22:16:28.688030Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1002/smsc.70410",
     "title": "Lipid-Mediated DNA-Protein Coupling Reinforces the Mechanics of HP1α-DNA Condensates.",
     "sent_at": "2026-09-29T22:16:28.688030Z",
@@ -556,6 +542,20 @@
     "doi": "10.21203/rs.3.rs-10010180/v1",
     "title": "Site-specific N6-methyladenosine fine tunes CTCF/cohesin-defined enhancer-promoter interactions and oncogenic transcription program.",
     "sent_at": "2026-10-09T08:58:25.290153Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.756399",
+    "title": "Senescence-induced Spatio-temporal Re-organization of the Nuclear Lamina Dynamic Landscape at Single-molecule Level in Live Human RPE Cells",
+    "sent_at": "2026-10-09T13:45:01.748309Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1177/15578666261491762",
+    "title": "Identification of Topologically Associated Domains via Infomap Entropy Minimization.",
+    "sent_at": "2026-10-09T13:45:01.748309Z",
     "tier": 1,
     "kind": "journal"
   }
