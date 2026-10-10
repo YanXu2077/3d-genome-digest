@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s42003-026-10946-x",
-    "title": "Cryo-EM structures of CENP-A nucleosomes isolated from human cells.",
-    "sent_at": "2026-09-30T21:01:26.323820Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.28.754892",
-    "title": "Gene-family-dependent thermodynamic effects of oncogenic mutations on nucleosome-DNA binding stability: a comparative molecular dynamics study across 22 cancer hotspots",
-    "sent_at": "2026-09-30T23:46:46.879519Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.sbi.2026.103406",
     "title": "Single-molecule fluorescence methods for visualizing the central dogma.",
     "sent_at": "2026-09-30T23:46:46.879519Z",
@@ -557,6 +543,20 @@
     "title": "Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution.",
     "sent_at": "2026-10-10T18:33:57.111983Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.07.757421",
+    "title": "The replication checkpoint couples fork progression to the release of transcribed genes from nuclear pores",
+    "sent_at": "2026-10-10T23:31:18.434334Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41592-026-03265-w",
+    "title": "An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging.",
+    "sent_at": "2026-10-10T23:31:18.434334Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
