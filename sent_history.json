@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3724/abbs.2026165",
-    "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
-    "sent_at": "2026-09-30T19:14:24.077431Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.29.755502",
-    "title": "CDX2 Drives Divergent Regional Programs During Intestinal Development and Redeploys Them During Regeneration",
-    "sent_at": "2026-09-30T21:01:26.323820Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s42003-026-10946-x",
     "title": "Cryo-EM structures of CENP-A nucleosomes isolated from human cells.",
     "sent_at": "2026-09-30T21:01:26.323820Z",
@@ -557,6 +543,20 @@
     "title": "Genome reorganisation and expansion shape 3D genome architecture and define a distinct regulatory landscape in coleoid cephalopods.",
     "sent_at": "2026-10-10T12:24:33.473529Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.757710",
+    "title": "Transcription factor interactions promote binding to non-cognate DNA sites",
+    "sent_at": "2026-10-10T18:33:57.111983Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78474-0",
+    "title": "Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution.",
+    "sent_at": "2026-10-10T18:33:57.111983Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
