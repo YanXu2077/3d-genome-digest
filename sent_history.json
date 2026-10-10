@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77906-1",
-    "title": "Single-molecule imaging reveals DNA shape read-out by the INO80 chromatin remodeler.",
-    "sent_at": "2026-09-30T16:33:17.530415Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.29.755468",
-    "title": "Induction of hysteretic chromatin states by CRISPRa reveals locus-specific encoding of transcriptional memory",
-    "sent_at": "2026-09-30T19:14:24.077431Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3724/abbs.2026165",
     "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
     "sent_at": "2026-09-30T19:14:24.077431Z",
@@ -557,6 +543,20 @@
     "title": "A modular platform for in cellulo target engagement profiling of chromatin reader inhibitors.",
     "sent_at": "2026-10-10T05:45:42.383174Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757888",
+    "title": "A modular DNA toolkit for single-molecule biophysics",
+    "sent_at": "2026-10-10T12:24:33.473529Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77625-7",
+    "title": "Genome reorganisation and expansion shape 3D genome architecture and define a distinct regulatory landscape in coleoid cephalopods.",
+    "sent_at": "2026-10-10T12:24:33.473529Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
