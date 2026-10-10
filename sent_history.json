@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77331-4",
-    "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma.",
-    "sent_at": "2026-09-30T12:29:53.645409Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.29.755413",
-    "title": "The androgen receptor polyglutamine tract sets the transcriptional balance between muscle growth and atrophy",
-    "sent_at": "2026-09-30T16:33:17.530415Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77906-1",
     "title": "Single-molecule imaging reveals DNA shape read-out by the INO80 chromatin remodeler.",
     "sent_at": "2026-09-30T16:33:17.530415Z",
@@ -556,6 +542,20 @@
     "doi": "10.1073/pnas.2606713123",
     "title": "SETDB1 preferentially silences evolutionarily young retroelements.",
     "sent_at": "2026-10-10T00:15:49.493122Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.07.757445",
+    "title": "High-throughput identification of chromatin-opening transcription factors",
+    "sent_at": "2026-10-10T05:45:42.383174Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.chembiol.2026.09.009",
+    "title": "A modular platform for in cellulo target engagement profiling of chromatin reader inhibitors.",
+    "sent_at": "2026-10-10T05:45:42.383174Z",
     "tier": 3,
     "kind": "journal"
   }
