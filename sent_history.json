@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/bies.70187",
-    "title": "Kinetic Control of Condensate Function: How the Formation Dynamics of APBs Influence ALT Cancer Telomere Length Heterogeneity.",
-    "sent_at": "2026-10-01T05:45:02.256760Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.25.754514",
-    "title": "Stage-Specific NF-κB RelA and IRF4 Programs Drive -Synuclein-Induced Disease-Associated Microglia Differentiation",
-    "sent_at": "2026-10-01T09:19:21.039817Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.xcrm.2026.103083",
     "title": "EZH2-dependent phenotypic plasticity reveals TTP-associated and mTORC1 therapeutic vulnerabilities in lethal prostate cancer.",
     "sent_at": "2026-10-01T09:19:21.039817Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.09.28.754564",
     "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy.",
     "sent_at": "2026-10-11T12:42:10.400049Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.05.756789",
+    "title": "Structural variants from donor-specific assemblies affect recurrent chromatin contact divergence in humans",
+    "sent_at": "2026-10-11T18:50:54.235950Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.omtn.2026.103100",
+    "title": "Roles of meiotic and mitotic cohesin in stem cell gene regulation and genome stability.",
+    "sent_at": "2026-10-11T18:50:54.235950Z",
     "tier": 1,
     "kind": "journal"
   }
