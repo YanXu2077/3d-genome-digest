@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xcrm.2026.103083",
-    "title": "EZH2-dependent phenotypic plasticity reveals TTP-associated and mTORC1 therapeutic vulnerabilities in lethal prostate cancer.",
-    "sent_at": "2026-10-01T09:19:21.039817Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.30.755691",
     "title": "Active Nucleosome Sliding, Eviction, and Reassembly Dynamics Can Regulate Chromatin Condensate Organization",
     "sent_at": "2026-10-01T13:07:31.452414Z",
@@ -557,6 +550,13 @@
     "title": "Roles of meiotic and mitotic cohesin in stem cell gene regulation and genome stability.",
     "sent_at": "2026-10-11T18:50:54.235950Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.09.25.754463",
+    "title": "Integrator governs NF-κB dwell time on chromatin to drive inflammatory transcription.",
+    "sent_at": "2026-10-11T23:40:30.580514Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
