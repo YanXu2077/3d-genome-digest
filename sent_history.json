@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.04.749524",
-    "title": "Stable epigenetic states set single-cell activation thresholds in mammalian expression systems.",
-    "sent_at": "2026-10-01T17:16:15.137681Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1186/s12943-026-02789-1",
-    "title": "Extrachromosomal DNA as a platform for epigenetic reprogramming in cancer.",
-    "sent_at": "2026-10-01T19:34:11.805599Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1186/s12943-026-02789-1",
     "title": "Extrachromosomal DNA as a platform for epigenetic reprogramming in cancer.",
     "sent_at": "2026-10-01T19:34:19.133992Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-76415-5",
     "title": "Directionality of transcriptional regulatory elements.",
     "sent_at": "2026-10-12T15:14:45.507393Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757887",
+    "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
+    "sent_at": "2026-10-12T22:57:12.439402Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118077",
+    "title": "Rotational settings quantize nucleosome movement by chromatin regulators.",
+    "sent_at": "2026-10-12T22:57:12.439402Z",
     "tier": 3,
     "kind": "journal"
   }
