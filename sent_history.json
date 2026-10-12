@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.30.755691",
-    "title": "Active Nucleosome Sliding, Eviction, and Reassembly Dynamics Can Regulate Chromatin Condensate Organization",
-    "sent_at": "2026-10-01T13:07:31.452414Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77122-x",
     "title": "Submolecular video-imaging of the Smc5/6 complex topologically bound to DNA.",
     "sent_at": "2026-10-01T13:07:31.452414Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-10-11T23:40:30.580514Z",
     "tier": 2,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.08.757510",
+    "title": "Capture-(Hi)C analysis with PostChicago: Integrative metaprofiling and quantitative comparison of chromatin interactions",
+    "sent_at": "2026-10-12T05:49:24.319741Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
