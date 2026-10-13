@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.25.753922",
-    "title": "Genetic risk and inflammatory signaling converge on cell type-specific regulatory programs in type 1 diabetes",
-    "sent_at": "2026-10-02T05:31:55.361804Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.sbi.2026.103405",
-    "title": "Cohesin on the move: navigating genomic traffic during loop extrusion.",
-    "sent_at": "2026-10-02T05:31:55.361804Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.01.755872",
     "title": "Oncogenic ESR1 fusions form chromatin-anchored condensates that remodel nuclear architecture",
     "sent_at": "2026-10-02T12:29:13.635367Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.neuron.2026.09.019",
     "title": "The histone variant H2A.Z regulates sex differences in Alzheimer's disease pathophysiology.",
     "sent_at": "2026-10-13T06:44:17.279545Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.10.758243",
+    "title": "A role for CIZ1, a Nuclear Matrix Protein Overexpressed in Cancer Cells, in Controlling the Initiation of DNA Replication",
+    "sent_at": "2026-10-13T15:59:24.420659Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/15592294.2026.2733375",
+    "title": "Decoding chromatin-associated RNA (caRNA) interaction networks: from genome-wide dynamic capture to epigenetic mechanisms in plants and animals.",
+    "sent_at": "2026-10-13T15:59:24.420659Z",
     "tier": 3,
     "kind": "journal"
   }
