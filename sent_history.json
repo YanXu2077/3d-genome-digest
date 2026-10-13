@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s12943-026-02789-1",
-    "title": "Extrachromosomal DNA as a platform for epigenetic reprogramming in cancer.",
-    "sent_at": "2026-10-01T19:34:19.133992Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.21203/rs.3.rs-10849354/v1",
-    "title": "Chromatin remodeling coordinates chromosome compaction, synaptonemal complex architecture and meiotic crossing-over.",
-    "sent_at": "2026-10-01T22:56:31.229338Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.25.753922",
     "title": "Genetic risk and inflammatory signaling converge on cell type-specific regulatory programs in type 1 diabetes",
     "sent_at": "2026-10-02T05:31:55.361804Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.celrep.2026.118077",
     "title": "Rotational settings quantize nucleosome movement by chromatin regulators.",
     "sent_at": "2026-10-12T22:57:12.439402Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757098",
+    "title": "Developmental rewiring of EHMT1 function during human cortical neurogenesis",
+    "sent_at": "2026-10-13T06:44:17.279545Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.neuron.2026.09.019",
+    "title": "The histone variant H2A.Z regulates sex differences in Alzheimer's disease pathophysiology.",
+    "sent_at": "2026-10-13T06:44:17.279545Z",
     "tier": 3,
     "kind": "journal"
   }
