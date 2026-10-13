@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.01.755872",
-    "title": "Oncogenic ESR1 fusions form chromatin-anchored condensates that remodel nuclear architecture",
-    "sent_at": "2026-10-02T12:29:13.635367Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41375-026-03152-5",
-    "title": "Alterations in 3D-DNA architecture drive unique leukemic profiles in IDH1- and DNMT3A-mutant acute myeloid leukemia.",
-    "sent_at": "2026-10-02T12:29:13.635367Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.30.755832",
     "title": "Topoisomerase-mediated resolution of negative DNA supercoiling sustains human transcription and gene activation",
     "sent_at": "2026-10-02T19:17:03.434483Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/15592294.2026.2733375",
     "title": "Decoding chromatin-associated RNA (caRNA) interaction networks: from genome-wide dynamic capture to epigenetic mechanisms in plants and animals.",
     "sent_at": "2026-10-13T15:59:24.420659Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.12.755748",
+    "title": "Linking H3K36me3 to transcriptional dynamics",
+    "sent_at": "2026-10-13T21:17:03.044774Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.26508/lsa.202603673",
+    "title": "Esc2 and Rad57 contribute to RNA polymerase II distribution at highly transcribed genes.",
+    "sent_at": "2026-10-13T21:17:03.044774Z",
     "tier": 3,
     "kind": "journal"
   }
