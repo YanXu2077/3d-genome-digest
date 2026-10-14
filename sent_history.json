@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.28.754901",
-    "title": "Shade enhancers, a class of redundant enhancers uncovered by functional JAK-STAT pathway dissection",
-    "sent_at": "2026-10-03T16:14:47.985615Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41594-026-01895-4",
-    "title": "Single-molecule chromatin tracing reveals a diversity of megabase heterochromatin domains.",
-    "sent_at": "2026-10-03T16:14:47.985615Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.30.755827",
     "title": "Multi-omics profiling identifies a metabolic and energetic signature associated with neuronal dENL/AF9 suppression in aged flies",
     "sent_at": "2026-10-03T21:14:35.409864Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gr.281732.125",
     "title": "The divergent 3D genome landscapes of aging and neurodegenerative mouse models.",
     "sent_at": "2026-10-14T18:34:29.214921Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.11.756618",
+    "title": "Decoding super-enhancer regulatory grammar and pathogenic gain-of-function variants directly from DNA sequence",
+    "sent_at": "2026-10-14T23:16:09.610050Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fmolb.2026.1896884",
+    "title": "High-order chromatin structures mediated by phase separation in cell senescence.",
+    "sent_at": "2026-10-14T23:16:09.610050Z",
     "tier": 1,
     "kind": "journal"
   }
