@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.30.755832",
-    "title": "Topoisomerase-mediated resolution of negative DNA supercoiling sustains human transcription and gene activation",
-    "sent_at": "2026-10-02T19:17:03.434483Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.tcb.2026.09.001",
-    "title": "Handles on chromosome architecture.",
-    "sent_at": "2026-10-02T19:17:03.434483Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.26.754598",
     "title": "Multi-omics fine-mapping uncovers a pleiotropic intestinal enhancer variant linking PMAIP1 regulation to pig growth and fatness",
     "sent_at": "2026-10-02T23:48:59.823696Z",
@@ -556,6 +542,20 @@
     "doi": "10.26508/lsa.202603673",
     "title": "Esc2 and Rad57 contribute to RNA polymerase II distribution at highly transcribed genes.",
     "sent_at": "2026-10-13T21:17:03.044774Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.758120",
+    "title": "Continuous Large Maf Activity Maintains Fast Myofiber Identity and Multicellular Homeostasis in Adult Skeletal Muscle",
+    "sent_at": "2026-10-14T01:13:51.957978Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag965",
+    "title": "CRISPR-mediated gap-based replacement enables site-specific DNA lesion insertion into long DNA and nucleosomes.",
+    "sent_at": "2026-10-14T01:13:51.957978Z",
     "tier": 3,
     "kind": "journal"
   }
