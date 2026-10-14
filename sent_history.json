@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.26.754598",
-    "title": "Multi-omics fine-mapping uncovers a pleiotropic intestinal enhancer variant linking PMAIP1 regulation to pig growth and fatness",
-    "sent_at": "2026-10-02T23:48:59.823696Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1126/sciadv.aeg1622",
-    "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4+ T cells.",
-    "sent_at": "2026-10-02T23:48:59.823696Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.30.755690",
     "title": "One-carbon metabolism controls colorectal cancer cell state and chemosensitivity through chromatin remodeling",
     "sent_at": "2026-10-03T05:12:13.730865Z",
@@ -557,6 +543,20 @@
     "title": "CRISPR-mediated gap-based replacement enables site-specific DNA lesion insertion into long DNA and nucleosomes.",
     "sent_at": "2026-10-14T01:13:51.957978Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.07.757272",
+    "title": "Single-Cell Multimodal Profiling Reveals Maternal Diabetes-Nkx2-5 Interaction in Congenital Heart Disease in a Genetic Model Recapitulating Human Embryopathies",
+    "sent_at": "2026-10-14T07:33:04.181107Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.09.028",
+    "title": "Mechanisms of transcription control by distal enhancers from single-gene nanoscopy.",
+    "sent_at": "2026-10-14T07:33:04.181107Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
