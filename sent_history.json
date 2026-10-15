@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s00125-026-06884-2",
-    "title": "BAF60A governs beta cell identity to control systemic glucose homeostasis.",
-    "sent_at": "2026-10-04T15:20:10.287674Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.cellin.2026.100361",
-    "title": "HBV integration into KMT2B increases malignant phenotype of hepatocellular carcinoma by epigenetic reprogramming.",
-    "sent_at": "2026-10-04T19:34:33.642966Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1002/advs.78138",
     "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
     "sent_at": "2026-10-04T23:03:55.822928Z",
@@ -557,6 +543,20 @@
     "title": "Deep learning uncovers hidden power of low-affinity motifs.",
     "sent_at": "2026-10-15T11:22:56.895065Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759046",
+    "title": "Mechanical characterization of human centromeres",
+    "sent_at": "2026-10-15T16:54:49.693115Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77603-z",
+    "title": "A scaffolding element rewires local 3D chromatin architecture during differentiation.",
+    "sent_at": "2026-10-15T16:54:49.693115Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
