@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1002/advs.78138",
-    "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
-    "sent_at": "2026-10-04T23:03:55.822928Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1134/S0006297926602285",
-    "title": "What Is the Role of Cohesin in Transcription Regulation?",
-    "sent_at": "2026-10-05T05:26:13.718386Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s41467-026-76395-6",
     "title": "A critical role of the histone lysine demethylase JmjC1 in regulating severe malaria-associated virulence genes in Plasmodium falciparum.",
     "sent_at": "2026-10-05T14:27:44.082121Z",
@@ -557,6 +543,20 @@
     "title": "A scaffolding element rewires local 3D chromatin architecture during differentiation.",
     "sent_at": "2026-10-15T16:54:49.693115Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.13.758779",
+    "title": "Translational isoforms of mammalian heterochromatin protein 1 (HP1) tune its interactions with chromatin effectors",
+    "sent_at": "2026-10-15T21:21:17.728041Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77871-9",
+    "title": "Molecular dynamics guided all-atom reconstruction of cryo-ET maps reveals mechanisms of histone tail mediated chromatin compaction.",
+    "sent_at": "2026-10-15T21:21:17.728041Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
