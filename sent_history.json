@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.30.755827",
-    "title": "Multi-omics profiling identifies a metabolic and energetic signature associated with neuronal dENL/AF9 suppression in aged flies",
-    "sent_at": "2026-10-03T21:14:35.409864Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3389/fcell.2026.1932329",
-    "title": "Reconstitution of genome remodeling using Xenopus egg extracts.",
-    "sent_at": "2026-10-03T21:14:35.409864Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1111/nph.71624",
     "title": "BpSRK1-mediated phosphorylation of BpERF3 relieves HDA6-dependent chromatin repression to enhance drought tolerance in birch.",
     "sent_at": "2026-10-04T01:47:57.017099Z",
@@ -557,6 +543,20 @@
     "title": "High-order chromatin structures mediated by phase separation in cell senescence.",
     "sent_at": "2026-10-14T23:16:09.610050Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.12.758711",
+    "title": "Understanding the role of chromatin accessibility and compaction on loop extrusion dynamics",
+    "sent_at": "2026-10-15T04:29:48.442766Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118159",
+    "title": "NONO mitigates transcription-replication conflicts during replication stress by restraining BRD4-dependent transcription elongation.",
+    "sent_at": "2026-10-15T04:29:48.442766Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
