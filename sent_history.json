@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-76395-6",
-    "title": "A critical role of the histone lysine demethylase JmjC1 in regulating severe malaria-associated virulence genes in Plasmodium falciparum.",
-    "sent_at": "2026-10-05T14:27:44.082121Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.02.756235",
     "title": "A contact-mediated transfer mechanism directs in cis localization and spread of Xist RNA",
     "sent_at": "2026-10-05T22:36:42.937794Z",
@@ -557,6 +550,13 @@
     "title": "Molecular dynamics guided all-atom reconstruction of cryo-ET maps reveals mechanisms of histone tail mediated chromatin compaction.",
     "sent_at": "2026-10-15T21:21:17.728041Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3389/fcell.2026.1943977",
+    "title": "Dynamic three-dimensional chromatin remodeling in lung disease: mechanistic principles, pathogenic regulatory networks, and translational challenges.",
+    "sent_at": "2026-10-16T00:20:32.952769Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
