@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.biomaterials.2026.124672",
-    "title": "Silnr1 promotes pluripotent induction by coordinating Cohesin SMC1-mediated nuclear remodeling.",
-    "sent_at": "2026-10-06T06:13:04.225528Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.756771",
-    "title": "WNT/β-catenin increases 3D chromatin mobility and reorganisation during posterior cell state transitions",
-    "sent_at": "2026-10-06T15:06:58.046423Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117557",
     "title": "MED26 facilitates Mediator-Pol II complex assembly and promotes nuclear stress body formation during heat stress.",
     "sent_at": "2026-10-06T15:06:58.046423Z",
@@ -557,6 +543,20 @@
     "title": "Somatic epimutations cap genetic determinism in the human diploid chromatin epigenome.",
     "sent_at": "2026-10-16T07:07:53.849053Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759128",
+    "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+    "sent_at": "2026-10-16T11:47:57.044412Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12864-026-13455-7",
+    "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics.",
+    "sent_at": "2026-10-16T11:47:57.044412Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
