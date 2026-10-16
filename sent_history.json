@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.110073",
-    "title": "Cell-cycle-resolved Hi-C reveals unexpected plasticity of A/B compartments across interphase.",
-    "sent_at": "2026-10-06T20:58:12.094835Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.756609",
-    "title": "RBM25 exhibits distinct RNA- and chromatin-associated target programs in human embryonic stem cells",
-    "sent_at": "2026-10-07T01:29:55.615176Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.118099",
     "title": "A near-complete quail genome identifies heterochromatin expansion and chromosome architecture remodeling.",
     "sent_at": "2026-10-07T01:29:55.615176Z",
@@ -557,6 +543,20 @@
     "title": "Influence of Histone Acetylation on Chromatin 3D Organization in Drosophila S2 Cells.",
     "sent_at": "2026-10-16T13:17:18.793860Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757970",
+    "title": "Genome-wide chromatin reset at the onset of leg regeneration in pancrustaceans",
+    "sent_at": "2026-10-16T16:58:35.735585Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118144",
+    "title": "Genome architecture shapes transcriptional responses to topoisomerase depletion in C. elegans.",
+    "sent_at": "2026-10-16T16:58:35.735585Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
