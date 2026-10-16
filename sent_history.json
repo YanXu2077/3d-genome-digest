@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.02.756235",
-    "title": "A contact-mediated transfer mechanism directs in cis localization and spread of Xist RNA",
-    "sent_at": "2026-10-05T22:36:42.937794Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1371/journal.pcbi.1014848",
-    "title": "DeCTCF: Decoding CTCF binding sequences by leveraging predicted epigenomic features.",
-    "sent_at": "2026-10-05T22:36:42.937794Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.01.756097",
     "title": "A Structural Model of Transcriptional Activation by Mediator",
     "sent_at": "2026-10-06T06:13:04.225528Z",
@@ -557,6 +543,20 @@
     "title": "Dynamic three-dimensional chromatin remodeling in lung disease: mechanistic principles, pathogenic regulatory networks, and translational challenges.",
     "sent_at": "2026-10-16T00:20:32.952769Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757940",
+    "title": "Deciphering Spatial Cellular Organization through RNA-Anchored Multi-Omics Deconvolution",
+    "sent_at": "2026-10-16T04:55:47.479147Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1042/BCJ20260251",
+    "title": "Recent advances in coarse-grained simulations of nucleic acid condensation.",
+    "sent_at": "2026-10-16T04:55:47.479147Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
