@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117557",
-    "title": "MED26 facilitates Mediator-Pol II complex assembly and promotes nuclear stress body formation during heat stress.",
-    "sent_at": "2026-10-06T15:06:58.046423Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.09.29.755394",
-    "title": "Fast single molecule localization microscopy in 3D",
-    "sent_at": "2026-10-06T20:58:12.094835Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.7554/eLife.110073",
     "title": "Cell-cycle-resolved Hi-C reveals unexpected plasticity of A/B compartments across interphase.",
     "sent_at": "2026-10-06T20:58:12.094835Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s12864-026-13455-7",
     "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics.",
     "sent_at": "2026-10-16T11:47:57.044412Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759109",
+    "title": "Localization accuracy in single-molecule fluorescence microscopy",
+    "sent_at": "2026-10-16T13:17:18.793860Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27198638",
+    "title": "Influence of Histone Acetylation on Chromatin 3D Organization in Drosophila S2 Cells.",
+    "sent_at": "2026-10-16T13:17:18.793860Z",
     "tier": 1,
     "kind": "journal"
   }
