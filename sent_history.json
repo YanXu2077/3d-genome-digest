@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.01.756097",
-    "title": "A Structural Model of Transcriptional Activation by Mediator",
-    "sent_at": "2026-10-06T06:13:04.225528Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.biomaterials.2026.124672",
     "title": "Silnr1 promotes pluripotent induction by coordinating Cohesin SMC1-mediated nuclear remodeling.",
     "sent_at": "2026-10-06T06:13:04.225528Z",
@@ -557,6 +550,13 @@
     "title": "Recent advances in coarse-grained simulations of nucleic acid condensation.",
     "sent_at": "2026-10-16T04:55:47.479147Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.09.034",
+    "title": "Somatic epimutations cap genetic determinism in the human diploid chromatin epigenome.",
+    "sent_at": "2026-10-16T07:07:53.849053Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
