@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.21203/rs.3.rs-9213027/v2",
-    "title": "Chromosomal inversions modulate 3D chromatin interactions and regulatory architecture in Anopheles gambiae.",
-    "sent_at": "2026-10-08T19:57:26.724028Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.08.08.743709",
-    "title": "Entanglement dilution and high fractal dimension mediated by loop extrusion revealed in simulations of active polymer melts.",
-    "sent_at": "2026-10-09T00:20:58.954734Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.01.756000",
     "title": "CBFA2T3-GLIS2 establishes transcriptionally permissive enhancer hypermethylation associated with venetoclax response in pediatric AML",
     "sent_at": "2026-10-09T06:39:38.231550Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/ijms27198482",
     "title": "Chronic Cortisol Exposure Reshapes Chromatin Accessibility and Gene Expression: Implications for Growth and Welfare in Rainbow Trout (Oncorhynchus mykiss).",
     "sent_at": "2026-10-17T18:48:13.789649Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759213",
+    "title": "GEMS (GWAS Effect Mechanisms via Sequence-to-Function): Unveiling cell type-specific mechanisms for GWAS variants",
+    "sent_at": "2026-10-17T20:34:53.718933Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.06.16.732674",
+    "title": "Foxf1 is required for the specification and maintenance of pulmonary capillary identity.",
+    "sent_at": "2026-10-17T20:34:53.718933Z",
     "tier": 3,
     "kind": "journal"
   }
