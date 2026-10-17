@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xpro.2026.104882",
-    "title": "Protocol for quantifying chromatin DNA replication by multiplex labeling and single-molecule localization microscopy.",
-    "sent_at": "2026-10-08T13:23:09.110719Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.07.757230",
-    "title": "Coordinated alterations in SWI/SNF chromatin remodeling complex, mRNA splicing and mRNA methylation as hallmarks of salivary gland adenoid cystic carcinoma (SACC)",
-    "sent_at": "2026-10-08T19:57:26.724028Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.21203/rs.3.rs-9213027/v2",
     "title": "Chromosomal inversions modulate 3D chromatin interactions and regulatory architecture in Anopheles gambiae.",
     "sent_at": "2026-10-08T19:57:26.724028Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/gr.282119.126",
     "title": "Liver X receptors participate in the fasting response by assisting CEBPB binding to enhancers and promoting the fasting transcriptional program.",
     "sent_at": "2026-10-17T15:53:59.870178Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.15.759473",
+    "title": "ARID5A Is a PERK-Dependent Effector of the Endoplasmic Reticulum Stress Response That Protects Against Steatohepatitis",
+    "sent_at": "2026-10-17T18:48:13.789649Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27198482",
+    "title": "Chronic Cortisol Exposure Reshapes Chromatin Accessibility and Gene Expression: Implications for Growth and Welfare in Rainbow Trout (Oncorhynchus mykiss).",
+    "sent_at": "2026-10-17T18:48:13.789649Z",
     "tier": 3,
     "kind": "journal"
   }
