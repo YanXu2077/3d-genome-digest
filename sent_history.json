@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeg9610",
-    "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma.",
-    "sent_at": "2026-10-07T23:11:09.515990Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.06.757090",
-    "title": "DNA replication stress redistributes the histone methyltransferase G9a and activates lineage-specific gene expression",
-    "sent_at": "2026-10-08T05:56:13.762013Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1242/jcs.265367",
     "title": "Average local nucleosome motion remains nearly constant during interphase in living human cells.",
     "sent_at": "2026-10-08T05:56:13.762013Z",
@@ -557,6 +543,20 @@
     "title": "Conditional diffusion for single-cell Hi-C data imputation and enhancement with scHiC-Diff.",
     "sent_at": "2026-10-17T06:55:32.839658Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757677",
+    "title": "A Compact Regulatory Logic Governs Fibroblast Cell State Plasticity in Fibrosis",
+    "sent_at": "2026-10-17T12:14:52.355426Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44318-026-00932-8",
+    "title": "Electrostatic control of chromatin compaction safeguards against apoptotic DNA release.",
+    "sent_at": "2026-10-17T12:14:52.355426Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
