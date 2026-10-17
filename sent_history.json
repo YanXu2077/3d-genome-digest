@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1242/jcs.265367",
-    "title": "Average local nucleosome motion remains nearly constant during interphase in living human cells.",
-    "sent_at": "2026-10-08T05:56:13.762013Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.753292",
-    "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
-    "sent_at": "2026-10-08T13:23:09.110719Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.xpro.2026.104882",
     "title": "Protocol for quantifying chromatin DNA replication by multiplex labeling and single-molecule localization microscopy.",
     "sent_at": "2026-10-08T13:23:09.110719Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s44318-026-00932-8",
     "title": "Electrostatic control of chromatin compaction safeguards against apoptotic DNA release.",
     "sent_at": "2026-10-17T12:14:52.355426Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.15.759339",
+    "title": "The nuclear Argonaute HRDE-1 broadly interacts with euchromatin via an RGG domain to enable transgenerational epigenetic silencing",
+    "sent_at": "2026-10-17T15:53:59.870178Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gr.282119.126",
+    "title": "Liver X receptors participate in the fasting response by assisting CEBPB binding to enhancers and promoting the fasting transcriptional program.",
+    "sent_at": "2026-10-17T15:53:59.870178Z",
     "tier": 3,
     "kind": "journal"
   }
