@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.devcel.2026.09.004",
-    "title": "Spatially resolved genome architecture in mouse embryonic development.",
-    "sent_at": "2026-10-07T08:39:39.287127Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.06.757095",
-    "title": "PHC2-Dependent PRC1 Assemblies Stabilize Motor Neuron Hox Codes",
-    "sent_at": "2026-10-07T17:27:26.189230Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/freae.2026.1858923",
     "title": "Elucidation of chromatin loops among regulatory regions using Hi-TrAC.",
     "sent_at": "2026-10-07T17:27:26.189230Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/bioinformatics/btag753",
     "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions.",
     "sent_at": "2026-10-16T21:05:08.430823Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.757904",
+    "title": "MOFI reveals dynamic multi-omics coordination during cell fate progression",
+    "sent_at": "2026-10-17T00:24:05.775754Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/cells15191795",
+    "title": "Molecular Architecture of the H2AX-Containing Nucleosome from Arabidopsis.",
+    "sent_at": "2026-10-17T00:24:05.775754Z",
     "tier": 3,
     "kind": "journal"
   }
