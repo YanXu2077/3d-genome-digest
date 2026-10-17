@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3389/freae.2026.1858923",
-    "title": "Elucidation of chromatin loops among regulatory regions using Hi-TrAC.",
-    "sent_at": "2026-10-07T17:27:26.189230Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.756655",
-    "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4",
-    "sent_at": "2026-10-07T23:11:09.515990Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aeg9610",
     "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma.",
     "sent_at": "2026-10-07T23:11:09.515990Z",
@@ -557,6 +543,20 @@
     "title": "Molecular Architecture of the H2AX-Containing Nucleosome from Arabidopsis.",
     "sent_at": "2026-10-17T00:24:05.775754Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.09.758069",
+    "title": "ZBTB7B is a Master Regulator of Salivary Acinar Cell Function",
+    "sent_at": "2026-10-17T06:55:32.839658Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/gr.281897.126",
+    "title": "Conditional diffusion for single-cell Hi-C data imputation and enhancement with scHiC-Diff.",
+    "sent_at": "2026-10-17T06:55:32.839658Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
