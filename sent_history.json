@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeh2087",
-    "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish.",
-    "sent_at": "2026-10-09T22:42:53.761206Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.07.757465",
     "title": "The fusion gene occurrence spectrum predicts the spatial structure of chromosomes",
     "sent_at": "2026-10-10T00:15:49.493122Z",
@@ -556,6 +549,13 @@
     "doi": "10.1080/15592294.2026.2745292",
     "title": "Diverse patterns of transcriptional regulation and epigenetic reprogramming within PMDs contribute to ESCC progression by regulating EMT and immunosuppression.",
     "sent_at": "2026-10-18T18:38:39.042153Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1155/ijog/9324717",
+    "title": "Single-Cell Multiomics Integration Reveals Cell Trajectories and Regulatory Networks in Breast Cancer Progression.",
+    "sent_at": "2026-10-18T22:26:44.509938Z",
     "tier": 3,
     "kind": "journal"
   }
