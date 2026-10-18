@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.08.757605",
-    "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
-    "sent_at": "2026-10-09T22:42:53.761206Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aeh2087",
     "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish.",
     "sent_at": "2026-10-09T22:42:53.761206Z",
@@ -556,6 +549,13 @@
     "doi": "10.1101/2025.11.22.689869",
     "title": "Spatial patterning of transcriptional and regulatory programs in the primate subcortex.",
     "sent_at": "2026-10-18T15:51:23.132763Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1080/15592294.2026.2745292",
+    "title": "Diverse patterns of transcriptional regulation and epigenetic reprogramming within PMDs contribute to ESCC progression by regulating EMT and immunosuppression.",
+    "sent_at": "2026-10-18T18:38:39.042153Z",
     "tier": 3,
     "kind": "journal"
   }
