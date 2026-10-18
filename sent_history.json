@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.08.756856",
-    "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
-    "sent_at": "2026-10-09T19:40:45.545418Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.08.08.743475",
-    "title": "Evolution of mechanical chromatin insulators from selfish genetic elements.",
-    "sent_at": "2026-10-09T19:40:45.545418Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.08.757605",
     "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
     "sent_at": "2026-10-09T22:42:53.761206Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.isci.2026.117718",
     "title": "Massive histone H3 phosphorylation without mitotic chromosome condensation.",
     "sent_at": "2026-10-18T10:57:31.060326Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.12.758417",
+    "title": "Pan-cancer nucleosome landscapes reveal tumor heterogeneity and inform cell-free DNA-based detection",
+    "sent_at": "2026-10-18T15:51:23.132763Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/2025.11.22.689869",
+    "title": "Spatial patterning of transcriptional and regulatory programs in the primate subcortex.",
+    "sent_at": "2026-10-18T15:51:23.132763Z",
     "tier": 3,
     "kind": "journal"
   }
