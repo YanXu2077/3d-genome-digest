@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.08.757737",
-    "title": "Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level",
-    "sent_at": "2026-10-09T17:01:00.141088Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag951",
-    "title": "Cell cycle-dependent chromatin motion: a role for DNA content doubling over cohesion.",
-    "sent_at": "2026-10-09T17:01:00.141088Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.08.756856",
     "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
     "sent_at": "2026-10-09T19:40:45.545418Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s40364-026-01019-6",
     "title": "Dynamic regulation of H3K9 modifications in cancer: pathogenesis and targeted therapies.",
     "sent_at": "2026-10-18T04:21:14.793078Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.13.758960",
+    "title": "Multiplex programming of mappable, molecularly tagged genomic deletions",
+    "sent_at": "2026-10-18T10:57:31.060326Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.isci.2026.117718",
+    "title": "Massive histone H3 phosphorylation without mitotic chromosome condensation.",
+    "sent_at": "2026-10-18T10:57:31.060326Z",
     "tier": 3,
     "kind": "journal"
   }
