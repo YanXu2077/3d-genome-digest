@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.02.756223",
-    "title": "PPARγ brakes cytosolic DNA-induced macrophage inflammation by super-enhancer metabolic reprogramming",
-    "sent_at": "2026-10-09T08:58:25.290153Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.21203/rs.3.rs-10010180/v1",
-    "title": "Site-specific N6-methyladenosine fine tunes CTCF/cohesin-defined enhancer-promoter interactions and oncogenic transcription program.",
-    "sent_at": "2026-10-09T08:58:25.290153Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.08.756399",
     "title": "Senescence-induced Spatio-temporal Re-organization of the Nuclear Lamina Dynamic Landscape at Single-molecule Level in Live Human RPE Cells",
     "sent_at": "2026-10-09T13:45:01.748309Z",
@@ -556,6 +542,20 @@
     "doi": "10.7554/eLife.110189",
     "title": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends.",
     "sent_at": "2026-10-17T22:37:00.954374Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/advs.78255",
+    "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
+    "sent_at": "2026-10-18T00:03:53.709001+00:00",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/advs.78255",
+    "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
+    "sent_at": "2026-10-18T00:04:02.449042Z",
     "tier": 3,
     "kind": "journal"
   }
