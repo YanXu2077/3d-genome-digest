@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.08.756399",
-    "title": "Senescence-induced Spatio-temporal Re-organization of the Nuclear Lamina Dynamic Landscape at Single-molecule Level in Live Human RPE Cells",
-    "sent_at": "2026-10-09T13:45:01.748309Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1177/15578666261491762",
-    "title": "Identification of Topologically Associated Domains via Infomap Entropy Minimization.",
-    "sent_at": "2026-10-09T13:45:01.748309Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.08.757737",
     "title": "Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level",
     "sent_at": "2026-10-09T17:01:00.141088Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/advs.78255",
     "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
     "sent_at": "2026-10-18T00:04:02.449042Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.15.755990",
+    "title": "G4 RNA inhibits PRC2 by sequestering two disordered loops required for nucleosome binding",
+    "sent_at": "2026-10-18T04:21:14.793078Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s40364-026-01019-6",
+    "title": "Dynamic regulation of H3K9 modifications in cancer: pathogenesis and targeted therapies.",
+    "sent_at": "2026-10-18T04:21:14.793078Z",
     "tier": 3,
     "kind": "journal"
   }
