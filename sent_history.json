@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757888",
-    "title": "A modular DNA toolkit for single-molecule biophysics",
-    "sent_at": "2026-10-10T12:24:33.473529Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-77625-7",
-    "title": "Genome reorganisation and expansion shape 3D genome architecture and define a distinct regulatory landscape in coleoid cephalopods.",
-    "sent_at": "2026-10-10T12:24:33.473529Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.08.757710",
     "title": "Transcription factor interactions promote binding to non-cognate DNA sites",
     "sent_at": "2026-10-10T18:33:57.111983Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-77901-6",
     "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication.",
     "sent_at": "2026-10-19T12:59:14.296502Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.12.758470",
+    "title": "Enhanced DNA Scanning and Target Specificity via Motif Sequestration",
+    "sent_at": "2026-10-19T19:51:39.931072Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1004",
+    "title": "Integrative analysis reveals extensive interactions among C2H2 zinc finger proteins at chromatin loop anchors.",
+    "sent_at": "2026-10-19T19:51:39.931072Z",
     "tier": 1,
     "kind": "journal"
   }
