@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.08.757710",
-    "title": "Transcription factor interactions promote binding to non-cognate DNA sites",
-    "sent_at": "2026-10-10T18:33:57.111983Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-78474-0",
-    "title": "Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution.",
-    "sent_at": "2026-10-10T18:33:57.111983Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.07.757421",
     "title": "The replication checkpoint couples fork progression to the release of transcribed genes from nuclear pores",
     "sent_at": "2026-10-10T23:31:18.434334Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag1004",
     "title": "Integrative analysis reveals extensive interactions among C2H2 zinc finger proteins at chromatin loop anchors.",
     "sent_at": "2026-10-19T19:51:39.931072Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.17.759816",
+    "title": "CALISTO: A Standardized and Open-Source Software for Magnetic Tweezer Force Calibration",
+    "sent_at": "2026-10-19T23:37:17.434077Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.16288/j.yczz.26-060",
+    "title": "Comparative analysis of chromosome interaction networks in 12 human cell types using Hi-C.",
+    "sent_at": "2026-10-19T23:37:17.434077Z",
     "tier": 1,
     "kind": "journal"
   }
