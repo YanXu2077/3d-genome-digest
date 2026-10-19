@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.07.757445",
-    "title": "High-throughput identification of chromatin-opening transcription factors",
-    "sent_at": "2026-10-10T05:45:42.383174Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.chembiol.2026.09.009",
-    "title": "A modular platform for in cellulo target engagement profiling of chromatin reader inhibitors.",
-    "sent_at": "2026-10-10T05:45:42.383174Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757888",
     "title": "A modular DNA toolkit for single-molecule biophysics",
     "sent_at": "2026-10-10T12:24:33.473529Z",
@@ -556,6 +542,20 @@
     "doi": "10.16288/j.yczz.26-016",
     "title": "A single-cell TAD-like domain identification method based on Hi-C contact matrix reconstruction.",
     "sent_at": "2026-10-19T04:31:09.650719Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.18.759996",
+    "title": "U-Chrom: a unified framework for single-cell and spatial 3D genome data",
+    "sent_at": "2026-10-19T12:59:14.296502Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77901-6",
+    "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication.",
+    "sent_at": "2026-10-19T12:59:14.296502Z",
     "tier": 1,
     "kind": "journal"
   }
