@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.07.757421",
-    "title": "The replication checkpoint couples fork progression to the release of transcribed genes from nuclear pores",
-    "sent_at": "2026-10-10T23:31:18.434334Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41592-026-03265-w",
-    "title": "An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging.",
-    "sent_at": "2026-10-10T23:31:18.434334Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.07.757425",
     "title": "Disrupted chromatin architecture blocks B lymphopoiesis in Down syndrome",
     "sent_at": "2026-10-11T12:42:10.400049Z",
@@ -557,6 +543,20 @@
     "title": "Comparative analysis of chromosome interaction networks in 12 human cell types using Hi-C.",
     "sent_at": "2026-10-19T23:37:17.434077Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.16.758916",
+    "title": "Kinetic decoupling of early transcription reveals Mediator regulates paused RNA polymerase II stability",
+    "sent_at": "2026-10-20T04:41:43.881552Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.xcrm.2026.103117",
+    "title": "Targeting oncogenic SOX2 condensates suppresses squamous cell carcinoma progression.",
+    "sent_at": "2026-10-20T04:41:43.881552Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
