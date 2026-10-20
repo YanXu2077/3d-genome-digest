@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.07.757425",
-    "title": "Disrupted chromatin architecture blocks B lymphopoiesis in Down syndrome",
-    "sent_at": "2026-10-11T12:42:10.400049Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.09.28.754564",
-    "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy.",
-    "sent_at": "2026-10-11T12:42:10.400049Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.05.756789",
     "title": "Structural variants from donor-specific assemblies affect recurrent chromatin contact divergence in humans",
     "sent_at": "2026-10-11T18:50:54.235950Z",
@@ -557,6 +543,20 @@
     "title": "Targeting oncogenic SOX2 condensates suppresses squamous cell carcinoma progression.",
     "sent_at": "2026-10-20T04:41:43.881552Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760026",
+    "title": "Predicting cell-state-specific gene regulation from DNA across species",
+    "sent_at": "2026-10-20T11:30:07.903885Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1158/2159-8290.CD-26-0180",
+    "title": "H3K4me1-Mediated Epigenomic Priming of Chemoresistant Tumor States in Ovarian Cancer.",
+    "sent_at": "2026-10-20T11:30:07.903885Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
