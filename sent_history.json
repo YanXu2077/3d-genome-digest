@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.10.758243",
-    "title": "A role for CIZ1, a Nuclear Matrix Protein Overexpressed in Cancer Cells, in Controlling the Initiation of DNA Replication",
-    "sent_at": "2026-10-13T15:59:24.420659Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1080/15592294.2026.2733375",
-    "title": "Decoding chromatin-associated RNA (caRNA) interaction networks: from genome-wide dynamic capture to epigenetic mechanisms in plants and animals.",
-    "sent_at": "2026-10-13T15:59:24.420659Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.12.755748",
     "title": "Linking H3K36me3 to transcriptional dynamics",
     "sent_at": "2026-10-13T21:17:03.044774Z",
@@ -557,6 +543,20 @@
     "title": "Mechanism of M18BP1-mediated activation of condensin II for mitotic DNA compaction.",
     "sent_at": "2026-10-21T13:45:19.232924Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760027",
+    "title": "Constitutive ATR Signaling Enforces Domain-Wide Origin Synchrony",
+    "sent_at": "2026-10-21T18:38:26.836384Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77798-1",
+    "title": "Disruption of SWI/SNF ATPases in the mouse liver impairs diurnal gene expression associated with specific promoter features.",
+    "sent_at": "2026-10-21T18:38:26.836384Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
