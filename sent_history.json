@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.10.757971",
-    "title": "Robust V(D)J Recombination in the Absence of SA1/2-mediated Chromatin Loops",
-    "sent_at": "2026-10-12T15:14:45.507393Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-76415-5",
-    "title": "Directionality of transcriptional regulatory elements.",
-    "sent_at": "2026-10-12T15:14:45.507393Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757887",
     "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
     "sent_at": "2026-10-12T22:57:12.439402Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41431-026-02259-8",
     "title": "Deep intronic NIPBL variants underlie unresolved Cornelia de Lange syndrome revealed by integrated epigenomic and transcriptomic analysis.",
     "sent_at": "2026-10-20T21:35:58.665794Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760300",
+    "title": "Design of synthetic activators for programmable gene expression",
+    "sent_at": "2026-10-21T00:38:19.881263Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.106510",
+    "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex.",
+    "sent_at": "2026-10-21T00:38:19.881263Z",
     "tier": 3,
     "kind": "journal"
   }
