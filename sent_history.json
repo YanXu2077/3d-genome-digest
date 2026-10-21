@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757098",
-    "title": "Developmental rewiring of EHMT1 function during human cortical neurogenesis",
-    "sent_at": "2026-10-13T06:44:17.279545Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.neuron.2026.09.019",
-    "title": "The histone variant H2A.Z regulates sex differences in Alzheimer's disease pathophysiology.",
-    "sent_at": "2026-10-13T06:44:17.279545Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.10.758243",
     "title": "A role for CIZ1, a Nuclear Matrix Protein Overexpressed in Cancer Cells, in Controlling the Initiation of DNA Replication",
     "sent_at": "2026-10-13T15:59:24.420659Z",
@@ -557,6 +543,20 @@
     "title": "Hat1 Orchestrates Heterochromatin Structure by Regulating Localization of H3K9 Methyltransferases.",
     "sent_at": "2026-10-21T07:33:20.574965Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.20.760189",
+    "title": "Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data",
+    "sent_at": "2026-10-21T13:45:19.232924Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41594-026-01902-8",
+    "title": "Mechanism of M18BP1-mediated activation of condensin II for mitotic DNA compaction.",
+    "sent_at": "2026-10-21T13:45:19.232924Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
