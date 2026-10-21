@@ -1,33 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.12.755748",
-    "title": "Linking H3K36me3 to transcriptional dynamics",
-    "sent_at": "2026-10-13T21:17:03.044774Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.26508/lsa.202603673",
-    "title": "Esc2 and Rad57 contribute to RNA polymerase II distribution at highly transcribed genes.",
-    "sent_at": "2026-10-13T21:17:03.044774Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.09.758120",
-    "title": "Continuous Large Maf Activity Maintains Fast Myofiber Identity and Multicellular Homeostasis in Adult Skeletal Muscle",
-    "sent_at": "2026-10-14T01:13:51.957978Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag965",
-    "title": "CRISPR-mediated gap-based replacement enables site-specific DNA lesion insertion into long DNA and nucleosomes.",
-    "sent_at": "2026-10-14T01:13:51.957978Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.07.757272",
     "title": "Single-Cell Multimodal Profiling Reveals Maternal Diabetes-Nkx2-5 Interaction in Congenital Heart Disease in a Genetic Model Recapitulating Human Embryopathies",
     "sent_at": "2026-10-14T07:33:04.181107Z",
@@ -556,6 +528,34 @@
     "doi": "10.1038/s41467-026-77798-1",
     "title": "Disruption of SWI/SNF ATPases in the mouse liver impairs diurnal gene expression associated with specific promoter features.",
     "sent_at": "2026-10-21T18:38:26.836384Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760212",
+    "title": "Extrachromosomal circular DNA formation follows a 10.5-bp periodicity reflecting the minor groove orientation around nucleosomes",
+    "sent_at": "2026-10-21T23:17:25.138980+00:00",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77898-y",
+    "title": "Spatial partitioning of NSD2 defines H3K36me2 as an active mark for repetitive sequence activation.",
+    "sent_at": "2026-10-21T23:17:25.138980+00:00",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760212",
+    "title": "Extrachromosomal circular DNA formation follows a 10.5-bp periodicity reflecting the minor groove orientation around nucleosomes",
+    "sent_at": "2026-10-21T23:17:34.827019Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77898-y",
+    "title": "Spatial partitioning of NSD2 defines H3K36me2 as an active mark for repetitive sequence activation.",
+    "sent_at": "2026-10-21T23:17:34.827019Z",
     "tier": 3,
     "kind": "journal"
   }
