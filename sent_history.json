@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757887",
-    "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
-    "sent_at": "2026-10-12T22:57:12.439402Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.celrep.2026.118077",
-    "title": "Rotational settings quantize nucleosome movement by chromatin regulators.",
-    "sent_at": "2026-10-12T22:57:12.439402Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757098",
     "title": "Developmental rewiring of EHMT1 function during human cortical neurogenesis",
     "sent_at": "2026-10-13T06:44:17.279545Z",
@@ -556,6 +542,20 @@
     "doi": "10.7554/eLife.106510",
     "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex.",
     "sent_at": "2026-10-21T00:38:19.881263Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759117",
+    "title": "multiomeR: a pipeline for reproducible analysis of large-scale single-nucleus Epi Multiome datasets",
+    "sent_at": "2026-10-21T07:33:20.574965Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.jbc.2026.113659",
+    "title": "Hat1 Orchestrates Heterochromatin Structure by Regulating Localization of H3K9 Methyltransferases.",
+    "sent_at": "2026-10-21T07:33:20.574965Z",
     "tier": 3,
     "kind": "journal"
   }
