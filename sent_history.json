@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.12.758628",
-    "title": "Oncogenic ETS factors expressed from fusion genes utilize EWSR1 to associate with the paraspeckle and regulate transcription.",
-    "sent_at": "2026-10-14T13:42:31.082499Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.281770.125",
     "title": "Reconstruction of contact signals from repeated elements with Hicberg.",
     "sent_at": "2026-10-14T13:42:31.082499Z",
@@ -557,6 +550,13 @@
     "title": "Epigenomic heterogeneity and spatial organization during human reprogramming",
     "sent_at": "2026-10-22T11:42:18.935849Z",
     "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.21.760624",
+    "title": "Rewired mRNA homeostasis enforces cell-size associated senescence",
+    "sent_at": "2026-10-22T17:06:38.822778Z",
+    "tier": 3,
     "kind": "preprint"
   }
 ]
