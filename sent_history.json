@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.cell.2026.09.028",
-    "title": "Mechanisms of transcription control by distal enhancers from single-gene nanoscopy.",
-    "sent_at": "2026-10-14T07:33:04.181107Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.12.758628",
     "title": "Oncogenic ETS factors expressed from fusion genes utilize EWSR1 to associate with the paraspeckle and regulate transcription.",
     "sent_at": "2026-10-14T13:42:31.082499Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-10-22T04:32:05.080142Z",
     "tier": 3,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.15.757424",
+    "title": "Epigenomic heterogeneity and spatial organization during human reprogramming",
+    "sent_at": "2026-10-22T11:42:18.935849Z",
+    "tier": 1,
+    "kind": "preprint"
   }
 ]
