@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3389/fmolb.2026.1896884",
-    "title": "High-order chromatin structures mediated by phase separation in cell senescence.",
-    "sent_at": "2026-10-14T23:16:09.610050Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.12.758711",
-    "title": "Understanding the role of chromatin accessibility and compaction on loop extrusion dynamics",
-    "sent_at": "2026-10-15T04:29:48.442766Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.118159",
     "title": "NONO mitigates transcription-replication conflicts during replication stress by restraining BRD4-dependent transcription elongation.",
     "sent_at": "2026-10-15T04:29:48.442766Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/femsyr/foag056",
     "title": "Transcription-coupled recruitment of SMC complexes in yeast.",
     "sent_at": "2026-10-23T07:28:37.044751Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.21.760833",
+    "title": "Histone modifications directly modulate transcription factor binding to nucleosomes",
+    "sent_at": "2026-10-23T13:29:16.320246Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag979",
+    "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of Escherichia coli chromosome organization.",
+    "sent_at": "2026-10-23T13:29:16.320246Z",
     "tier": 1,
     "kind": "journal"
   }
