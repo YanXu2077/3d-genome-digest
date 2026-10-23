@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xgen.2026.101392",
-    "title": "Deep learning uncovers hidden power of low-affinity motifs.",
-    "sent_at": "2026-10-15T11:22:56.895065Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.759046",
-    "title": "Mechanical characterization of human centromeres",
-    "sent_at": "2026-10-15T16:54:49.693115Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77603-z",
     "title": "A scaffolding element rewires local 3D chromatin architecture during differentiation.",
     "sent_at": "2026-10-15T16:54:49.693115Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s12964-026-03097-3",
     "title": "3D chromatin structure remodelling in cancer.",
     "sent_at": "2026-10-23T18:19:40.158933Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760054",
+    "title": "CTCF gradually acquires novel function modalities during bilaterian evolution",
+    "sent_at": "2026-10-23T23:08:12.162269Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeh7499",
+    "title": "SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells.",
+    "sent_at": "2026-10-23T23:08:12.162269Z",
     "tier": 1,
     "kind": "journal"
   }
