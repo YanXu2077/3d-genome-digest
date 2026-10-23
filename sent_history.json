@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.118159",
-    "title": "NONO mitigates transcription-replication conflicts during replication stress by restraining BRD4-dependent transcription elongation.",
-    "sent_at": "2026-10-15T04:29:48.442766Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.13.758654",
-    "title": "Dissection of Polycomb complexes reveals canonical PRC1-independent 3D chromatin interactions",
-    "sent_at": "2026-10-15T11:22:56.895065Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.xgen.2026.101392",
     "title": "Deep learning uncovers hidden power of low-affinity motifs.",
     "sent_at": "2026-10-15T11:22:56.895065Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag979",
     "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of Escherichia coli chromosome organization.",
     "sent_at": "2026-10-23T13:29:16.320246Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.21.760768",
+    "title": "Micro-C-TALE: BAC-based targeted high-resolution measurement of 3D chromatin interactions",
+    "sent_at": "2026-10-23T18:19:40.158933Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12964-026-03097-3",
+    "title": "3D chromatin structure remodelling in cancer.",
+    "sent_at": "2026-10-23T18:19:40.158933Z",
     "tier": 1,
     "kind": "journal"
   }
