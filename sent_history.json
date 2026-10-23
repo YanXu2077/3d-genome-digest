@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/gr.281732.125",
-    "title": "The divergent 3D genome landscapes of aging and neurodegenerative mouse models.",
-    "sent_at": "2026-10-14T18:34:29.214921Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.11.756618",
-    "title": "Decoding super-enhancer regulatory grammar and pathogenic gain-of-function variants directly from DNA sequence",
-    "sent_at": "2026-10-14T23:16:09.610050Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3389/fmolb.2026.1896884",
     "title": "High-order chromatin structures mediated by phase separation in cell senescence.",
     "sent_at": "2026-10-14T23:16:09.610050Z",
@@ -557,6 +543,20 @@
     "title": "Med1 deletion reprograms dental epithelium into a hair-forming epidermal architecture associated with Trp63 induction.",
     "sent_at": "2026-10-23T00:38:49.717205Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.21.760732",
+    "title": "Systematic Functional Interrogation of Neurodevelopmental Disorder Risk Variants",
+    "sent_at": "2026-10-23T07:28:37.044751Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/femsyr/foag056",
+    "title": "Transcription-coupled recruitment of SMC complexes in yeast.",
+    "sent_at": "2026-10-23T07:28:37.044751Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
