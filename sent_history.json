@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.12.757977",
-    "title": "Generative design of functional disordered regions in a developmental transcription factor",
-    "sent_at": "2026-10-14T18:34:29.214921Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.281732.125",
     "title": "The divergent 3D genome landscapes of aging and neurodegenerative mouse models.",
     "sent_at": "2026-10-14T18:34:29.214921Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-10-22T21:31:16.625028Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.bbrep.2026.102828",
+    "title": "Med1 deletion reprograms dental epithelium into a hair-forming epidermal architecture associated with Trp63 induction.",
+    "sent_at": "2026-10-23T00:38:49.717205Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
