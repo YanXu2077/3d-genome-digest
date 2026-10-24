@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.cell.2026.09.034",
-    "title": "Somatic epimutations cap genetic determinism in the human diploid chromatin epigenome.",
-    "sent_at": "2026-10-16T07:07:53.849053Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.759128",
-    "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
-    "sent_at": "2026-10-16T11:47:57.044412Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1186/s12864-026-13455-7",
     "title": "Systematic assessment of sequencing depth requirements for Hi-C-derived metrics.",
     "sent_at": "2026-10-16T11:47:57.044412Z",
@@ -557,6 +543,20 @@
     "title": "Programmed DNA breaks drive chromatin reconfiguration and facilitate transcriptional potentiation at neuronal early response genes.",
     "sent_at": "2026-10-24T15:54:57.635489Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.20.760589",
+    "title": "Denoising single-cell ATAC-seq data with Shannon entropy",
+    "sent_at": "2026-10-24T18:49:12.752618Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78061-3",
+    "title": "SATB1 lowers the T cell receptor signaling threshold for thymocyte positive selection via super-enhancer reprogramming.",
+    "sent_at": "2026-10-24T18:49:12.752618Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
