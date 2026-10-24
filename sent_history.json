@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757940",
-    "title": "Deciphering Spatial Cellular Organization through RNA-Anchored Multi-Omics Deconvolution",
-    "sent_at": "2026-10-16T04:55:47.479147Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1042/BCJ20260251",
-    "title": "Recent advances in coarse-grained simulations of nucleic acid condensation.",
-    "sent_at": "2026-10-16T04:55:47.479147Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.cell.2026.09.034",
     "title": "Somatic epimutations cap genetic determinism in the human diploid chromatin epigenome.",
     "sent_at": "2026-10-16T07:07:53.849053Z",
@@ -556,6 +542,20 @@
     "doi": "10.1007/978-1-0716-5627-3_8",
     "title": "Revealing High-Resolution Open Chromatin-Associated Interactions by NicE-C.",
     "sent_at": "2026-10-24T10:54:19.823379Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.760194",
+    "title": "ONT-LibQC: rapid quality control of chromatin assay libraries using shallow nanopore sequencing",
+    "sent_at": "2026-10-24T15:54:57.635489Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118186",
+    "title": "Programmed DNA breaks drive chromatin reconfiguration and facilitate transcriptional potentiation at neuronal early response genes.",
+    "sent_at": "2026-10-24T15:54:57.635489Z",
     "tier": 1,
     "kind": "journal"
   }
