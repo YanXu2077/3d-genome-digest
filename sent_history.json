@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77603-z",
-    "title": "A scaffolding element rewires local 3D chromatin architecture during differentiation.",
-    "sent_at": "2026-10-15T16:54:49.693115Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.13.758779",
-    "title": "Translational isoforms of mammalian heterochromatin protein 1 (HP1) tune its interactions with chromatin effectors",
-    "sent_at": "2026-10-15T21:21:17.728041Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77871-9",
     "title": "Molecular dynamics guided all-atom reconstruction of cryo-ET maps reveals mechanisms of histone tail mediated chromatin compaction.",
     "sent_at": "2026-10-15T21:21:17.728041Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciadv.aeh7499",
     "title": "SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells.",
     "sent_at": "2026-10-23T23:08:12.162269Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.759930",
+    "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates",
+    "sent_at": "2026-10-24T04:28:27.888282Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aee5701",
+    "title": "TET2-driven activation of AGO2 links epigenetic remodeling to myeloid commitment and leukemia.",
+    "sent_at": "2026-10-24T04:28:27.888282Z",
     "tier": 1,
     "kind": "journal"
   }
