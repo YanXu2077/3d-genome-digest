@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/bioinformatics/btag753",
-    "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions.",
-    "sent_at": "2026-10-16T21:05:08.430823Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757904",
     "title": "MOFI reveals dynamic multi-omics coordination during cell fate progression",
     "sent_at": "2026-10-17T00:24:05.775754Z",
@@ -556,6 +549,13 @@
     "doi": "10.1093/nar/gkag1014",
     "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
     "sent_at": "2026-10-25T19:02:28.874200Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.10.757971",
+    "title": "Robust V(D)J Recombination in the Absence of SA1/2-mediated Chromatin Loops.",
+    "sent_at": "2026-10-25T21:07:47.397737Z",
     "tier": 1,
     "kind": "journal"
   }
