@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.118144",
-    "title": "Genome architecture shapes transcriptional responses to topoisomerase depletion in C. elegans.",
-    "sent_at": "2026-10-16T16:58:35.735585Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.759104",
-    "title": "From coarse-grained molecular dynamics simulations to continuum models of biomolecular condensation",
-    "sent_at": "2026-10-16T21:05:08.430823Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bioinformatics/btag753",
     "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions.",
     "sent_at": "2026-10-16T21:05:08.430823Z",
@@ -563,6 +549,13 @@
     "doi": "10.1093/nar/gkag1014",
     "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
     "sent_at": "2026-10-25T19:02:19.623612Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/nar/gkag1014",
+    "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
+    "sent_at": "2026-10-25T19:02:28.874200Z",
     "tier": 1,
     "kind": "journal"
   }
