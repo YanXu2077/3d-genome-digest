@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/ijms27198638",
-    "title": "Influence of Histone Acetylation on Chromatin 3D Organization in Drosophila S2 Cells.",
-    "sent_at": "2026-10-16T13:17:18.793860Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757970",
     "title": "Genome-wide chromatin reset at the onset of leg regeneration in pancrustaceans",
     "sent_at": "2026-10-16T16:58:35.735585Z",
@@ -557,6 +550,13 @@
     "title": "The elongation of Mest transcript into MestXL sustains, but does not initiate, the maternal allele bias of its convergent gene Copg2 during neurogenesis.",
     "sent_at": "2026-10-24T22:33:11.169483Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.07.757425",
+    "title": "Disrupted chromatin architecture blocks B lymphopoiesis in Down syndrome.",
+    "sent_at": "2026-10-25T11:17:16.236534Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
