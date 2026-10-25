@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757970",
-    "title": "Genome-wide chromatin reset at the onset of leg regeneration in pancrustaceans",
-    "sent_at": "2026-10-16T16:58:35.735585Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.118144",
     "title": "Genome architecture shapes transcriptional responses to topoisomerase depletion in C. elegans.",
     "sent_at": "2026-10-16T16:58:35.735585Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.10.07.757425",
     "title": "Disrupted chromatin architecture blocks B lymphopoiesis in Down syndrome.",
     "sent_at": "2026-10-25T11:17:16.236534Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.05.27.727961",
+    "title": "Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions.",
+    "sent_at": "2026-10-25T16:06:56.807728Z",
     "tier": 1,
     "kind": "journal"
   }
