@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.757677",
-    "title": "A Compact Regulatory Logic Governs Fibroblast Cell State Plasticity in Fibrosis",
-    "sent_at": "2026-10-17T12:14:52.355426Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s44318-026-00932-8",
-    "title": "Electrostatic control of chromatin compaction safeguards against apoptotic DNA release.",
-    "sent_at": "2026-10-17T12:14:52.355426Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.15.759339",
     "title": "The nuclear Argonaute HRDE-1 broadly interacts with euchromatin via an RGG domain to enable transgenerational epigenetic silencing",
     "sent_at": "2026-10-17T15:53:59.870178Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.10.05.753292",
     "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains.",
     "sent_at": "2026-10-26T12:52:36.704343Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.24.761575",
+    "title": "Protein cofactors diversify PRC2 architecture and function",
+    "sent_at": "2026-10-26T19:54:55.588032Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/cells15201899",
+    "title": "Genome-Wide Chromatin Structure Changes During Caste Differentiation in Honeybees.",
+    "sent_at": "2026-10-26T19:54:55.588032Z",
     "tier": 1,
     "kind": "journal"
   }
