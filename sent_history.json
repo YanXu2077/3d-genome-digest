@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.15.759339",
-    "title": "The nuclear Argonaute HRDE-1 broadly interacts with euchromatin via an RGG domain to enable transgenerational epigenetic silencing",
-    "sent_at": "2026-10-17T15:53:59.870178Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.282119.126",
     "title": "Liver X receptors participate in the fasting response by assisting CEBPB binding to enhancers and promoting the fasting transcriptional program.",
     "sent_at": "2026-10-17T15:53:59.870178Z",
@@ -556,6 +549,13 @@
     "doi": "10.3390/cells15201899",
     "title": "Genome-Wide Chromatin Structure Changes During Caste Differentiation in Honeybees.",
     "sent_at": "2026-10-26T19:54:55.588032Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1007/978-1-0716-5643-3_22",
+    "title": "High-Throughput Chromosome Conformation Capture Immunoprecipitation in Skeletal Muscle Stem Cells.",
+    "sent_at": "2026-10-26T23:51:54.427329Z",
     "tier": 1,
     "kind": "journal"
   }
