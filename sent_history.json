@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/cells15191795",
-    "title": "Molecular Architecture of the H2AX-Containing Nucleosome from Arabidopsis.",
-    "sent_at": "2026-10-17T00:24:05.775754Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.758069",
     "title": "ZBTB7B is a Master Regulator of Salivary Acinar Cell Function",
     "sent_at": "2026-10-17T06:55:32.839658Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.09.02.748911",
     "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain.",
     "sent_at": "2026-10-25T22:36:20.954370Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.05.756789",
+    "title": "Structural variants from donor-specific assemblies affect recurrent chromatin contact divergence in humans.",
+    "sent_at": "2026-10-26T00:34:30.603278Z",
     "tier": 1,
     "kind": "journal"
   }
