@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1101/gr.281897.126",
-    "title": "Conditional diffusion for single-cell Hi-C data imputation and enhancement with scHiC-Diff.",
-    "sent_at": "2026-10-17T06:55:32.839658Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.09.757677",
     "title": "A Compact Regulatory Logic Governs Fibroblast Cell State Plasticity in Fibrosis",
     "sent_at": "2026-10-17T12:14:52.355426Z",
@@ -557,6 +550,13 @@
     "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
     "sent_at": "2026-10-26T04:36:29.925049Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.05.753292",
+    "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains.",
+    "sent_at": "2026-10-26T12:52:36.704343Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
