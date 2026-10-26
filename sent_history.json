@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.09.758069",
-    "title": "ZBTB7B is a Master Regulator of Salivary Acinar Cell Function",
-    "sent_at": "2026-10-17T06:55:32.839658Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/gr.281897.126",
     "title": "Conditional diffusion for single-cell Hi-C data imputation and enhancement with scHiC-Diff.",
     "sent_at": "2026-10-17T06:55:32.839658Z",
@@ -557,6 +550,13 @@
     "title": "Structural variants from donor-specific assemblies affect recurrent chromatin contact divergence in humans.",
     "sent_at": "2026-10-26T00:34:30.603278Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-11000542/v1",
+    "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
+    "sent_at": "2026-10-26T04:36:29.925049Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
