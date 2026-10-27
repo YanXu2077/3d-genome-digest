@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.06.16.732674",
-    "title": "Foxf1 is required for the specification and maintenance of pulmonary capillary identity.",
-    "sent_at": "2026-10-17T20:34:53.718933Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.758827",
-    "title": "KDM4 inhibition alters H3K9me3 distribution and developmental responses in SETDB1-deficient embryonic stem cells",
-    "sent_at": "2026-10-17T22:37:00.954374Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.7554/eLife.110189",
     "title": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends.",
     "sent_at": "2026-10-17T22:37:00.954374Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/plcell/koag325",
     "title": "PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.",
     "sent_at": "2026-10-27T12:04:11.976629Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.26.761611",
+    "title": "Locus-specific spatial and transcriptional dynamics direct T cell lineage choice in the thymus",
+    "sent_at": "2026-10-27T17:59:52.003415Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/biology15201843",
+    "title": "DNA-Encoded Binding Affinity Shapes Robust CTCF Occupancy Across Cellular Contexts.",
+    "sent_at": "2026-10-27T17:59:52.003415Z",
     "tier": 1,
     "kind": "journal"
   }
