@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.110189",
-    "title": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends.",
-    "sent_at": "2026-10-17T22:37:00.954374Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1002/advs.78255",
-    "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
-    "sent_at": "2026-10-18T00:03:53.709001+00:00",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1002/advs.78255",
     "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
     "sent_at": "2026-10-18T00:04:02.449042Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/biology15201843",
     "title": "DNA-Encoded Binding Affinity Shapes Robust CTCF Occupancy Across Cellular Contexts.",
     "sent_at": "2026-10-27T17:59:52.003415Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.24.761391",
+    "title": "Lineage-specific transcription factor CEBPA accelerates RNA Polymerase I dynamics",
+    "sent_at": "2026-10-27T22:10:26.832427Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.pcbi.1014911",
+    "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies.",
+    "sent_at": "2026-10-27T22:10:26.832427Z",
     "tier": 1,
     "kind": "journal"
   }
