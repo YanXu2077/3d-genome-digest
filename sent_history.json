@@ -1,33 +1,5 @@
 [
   {
-    "doi": "10.1155/ijog/9324717",
-    "title": "Single-Cell Multiomics Integration Reveals Cell Trajectories and Regulatory Networks in Breast Cancer Progression.",
-    "sent_at": "2026-10-18T22:26:44.509938Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.13.758074",
-    "title": "cBAF drives AR-V7 expression through regulation of transcriptional termination in castration-resistant prostate cancer",
-    "sent_at": "2026-10-19T04:31:09.650719Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.16288/j.yczz.26-016",
-    "title": "A single-cell TAD-like domain identification method based on Hi-C contact matrix reconstruction.",
-    "sent_at": "2026-10-19T04:31:09.650719Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.18.759996",
-    "title": "U-Chrom: a unified framework for single-cell and spatial 3D genome data",
-    "sent_at": "2026-10-19T12:59:14.296502Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77901-6",
     "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication.",
     "sent_at": "2026-10-19T12:59:14.296502Z",
@@ -421,7 +393,7 @@
   },
   {
     "doi": "10.64898/2026.10.05.753292",
-    "title": "Heterochromatin protein 1\u03b1 acts as an essential stabilizer of chromatin packing domains.",
+    "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains.",
     "sent_at": "2026-10-26T12:52:36.704343Z",
     "tier": 1,
     "kind": "journal"
@@ -526,7 +498,7 @@
   },
   {
     "doi": "10.1016/j.pbi.2026.102990",
-    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin\u2011mediated loops.",
+    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
     "sent_at": "2026-10-28T05:31:47.291498Z",
     "tier": 1,
     "kind": "journal"
@@ -570,6 +542,20 @@
     "doi": "10.1038/s41421-026-00928-y",
     "title": "A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.",
     "sent_at": "2026-10-28T16:50:33.378176Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.26.761858",
+    "title": "Dynamic merging of enhancer- and promoter-associated assemblies is coupled to transcriptional bursting",
+    "sent_at": "2026-10-28T16:50:47.640850Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41421-026-00928-y",
+    "title": "A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.",
+    "sent_at": "2026-10-28T16:50:47.640850Z",
     "tier": 3,
     "kind": "journal"
   }
