@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1101/2025.11.22.689869",
-    "title": "Spatial patterning of transcriptional and regulatory programs in the primate subcortex.",
-    "sent_at": "2026-10-18T15:51:23.132763Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1080/15592294.2026.2745292",
-    "title": "Diverse patterns of transcriptional regulation and epigenetic reprogramming within PMDs contribute to ESCC progression by regulating EMT and immunosuppression.",
-    "sent_at": "2026-10-18T18:38:39.042153Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1155/ijog/9324717",
     "title": "Single-Cell Multiomics Integration Reveals Cell Trajectories and Regulatory Networks in Breast Cancer Progression.",
     "sent_at": "2026-10-18T22:26:44.509938Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.xpro.2026.104912",
     "title": "Protocol to identify higher order architectures across multiple species using HiArch.",
     "sent_at": "2026-10-28T08:55:25.440743Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.25.761546",
+    "title": "DNA damage at Lamina-Associated Domains triggers nuclear envelope reorganization and chromatin detachment to prevent nuclear envelope blebbing and genome instability.",
+    "sent_at": "2026-10-28T12:44:43.335792Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/ijms27208979",
+    "title": "Evolutionary and Functional Conservation of Topologically Associating Domain Boundaries in Rice Genomes.",
+    "sent_at": "2026-10-28T12:44:43.335792Z",
     "tier": 1,
     "kind": "journal"
   }
