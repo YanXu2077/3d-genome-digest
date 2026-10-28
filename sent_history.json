@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.isci.2026.117718",
-    "title": "Massive histone H3 phosphorylation without mitotic chromosome condensation.",
-    "sent_at": "2026-10-18T10:57:31.060326Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.12.758417",
-    "title": "Pan-cancer nucleosome landscapes reveal tumor heterogeneity and inform cell-free DNA-based detection",
-    "sent_at": "2026-10-18T15:51:23.132763Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1101/2025.11.22.689869",
     "title": "Spatial patterning of transcriptional and regulatory programs in the primate subcortex.",
     "sent_at": "2026-10-18T15:51:23.132763Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.pbi.2026.102990",
     "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
     "sent_at": "2026-10-28T05:31:47.291498Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.26.761859",
+    "title": "Direct effects on gene transcription revealed by global and CRISPR-targeted oxidative DNA damage",
+    "sent_at": "2026-10-28T08:55:25.440743Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.xpro.2026.104912",
+    "title": "Protocol to identify higher order architectures across multiple species using HiArch.",
+    "sent_at": "2026-10-28T08:55:25.440743Z",
     "tier": 1,
     "kind": "journal"
   }
