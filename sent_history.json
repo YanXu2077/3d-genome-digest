@@ -421,7 +421,7 @@
   },
   {
     "doi": "10.64898/2026.10.05.753292",
-    "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains.",
+    "title": "Heterochromatin protein 1\u03b1 acts as an essential stabilizer of chromatin packing domains.",
     "sent_at": "2026-10-26T12:52:36.704343Z",
     "tier": 1,
     "kind": "journal"
@@ -526,7 +526,7 @@
   },
   {
     "doi": "10.1016/j.pbi.2026.102990",
-    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
+    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin\u2011mediated loops.",
     "sent_at": "2026-10-28T05:31:47.291498Z",
     "tier": 1,
     "kind": "journal"
@@ -557,6 +557,20 @@
     "title": "Evolutionary and Functional Conservation of Topologically Associating Domain Boundaries in Rice Genomes.",
     "sent_at": "2026-10-28T12:44:43.335792Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.26.761858",
+    "title": "Dynamic merging of enhancer- and promoter-associated assemblies is coupled to transcriptional bursting",
+    "sent_at": "2026-10-28T16:50:33.378176Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41421-026-00928-y",
+    "title": "A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.",
+    "sent_at": "2026-10-28T16:50:33.378176Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
