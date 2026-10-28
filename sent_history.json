@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1186/s40364-026-01019-6",
-    "title": "Dynamic regulation of H3K9 modifications in cancer: pathogenesis and targeted therapies.",
-    "sent_at": "2026-10-18T04:21:14.793078Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.13.758960",
-    "title": "Multiplex programming of mappable, molecularly tagged genomic deletions",
-    "sent_at": "2026-10-18T10:57:31.060326Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.isci.2026.117718",
     "title": "Massive histone H3 phosphorylation without mitotic chromosome condensation.",
     "sent_at": "2026-10-18T10:57:31.060326Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/microorganisms14102162",
     "title": "DNA Geometry Around Highly Transcribed Bacterial Genes.",
     "sent_at": "2026-10-28T01:40:18.834010Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.25.761723",
+    "title": "Multivalent Scaffolding by XIST E-Repeats Tunes RNA Binding Protein Cooperativity and Lowers the Phase Separation Threshold",
+    "sent_at": "2026-10-28T05:31:47.291498Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.pbi.2026.102990",
+    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
+    "sent_at": "2026-10-28T05:31:47.291498Z",
     "tier": 1,
     "kind": "journal"
   }
