@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag1004",
-    "title": "Integrative analysis reveals extensive interactions among C2H2 zinc finger proteins at chromatin loop anchors.",
-    "sent_at": "2026-10-19T19:51:39.931072Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.17.759816",
-    "title": "CALISTO: A Standardized and Open-Source Software for Magnetic Tweezer Force Calibration",
-    "sent_at": "2026-10-19T23:37:17.434077Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.16288/j.yczz.26-060",
     "title": "Comparative analysis of chromosome interaction networks in 12 human cell types using Hi-C.",
     "sent_at": "2026-10-19T23:37:17.434077Z",
@@ -557,6 +543,20 @@
     "title": "SMARCA5 facilitates cohesin localization at R-loops to prevent transcription-replication collisions.",
     "sent_at": "2026-10-28T19:35:49.917910Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.22.760939",
+    "title": "Best Practices for Pre-Processing Large-Scale ATAC-Seq Data: Why Epidemiological Studies Demand Greater Stringency",
+    "sent_at": "2026-10-28T22:51:10.033312Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1084/jem.20260418",
+    "title": "Cbfβ regulates DNA looping at the Il4-Il13 loci to control their differential expression in Th2 cells.",
+    "sent_at": "2026-10-28T22:51:10.033312Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
