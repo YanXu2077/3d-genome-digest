@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77901-6",
-    "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication.",
-    "sent_at": "2026-10-19T12:59:14.296502Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.12.758470",
-    "title": "Enhanced DNA Scanning and Target Specificity via Motif Sequestration",
-    "sent_at": "2026-10-19T19:51:39.931072Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag1004",
     "title": "Integrative analysis reveals extensive interactions among C2H2 zinc finger proteins at chromatin loop anchors.",
     "sent_at": "2026-10-19T19:51:39.931072Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41421-026-00928-y",
     "title": "A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.",
     "sent_at": "2026-10-28T16:50:47.640850Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.27.762201",
+    "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
+    "sent_at": "2026-10-28T19:35:49.917910Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41418-026-01888-2",
+    "title": "SMARCA5 facilitates cohesin localization at R-loops to prevent transcription-replication collisions.",
+    "sent_at": "2026-10-28T19:35:49.917910Z",
     "tier": 3,
     "kind": "journal"
   }
