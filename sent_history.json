@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1158/2159-8290.CD-26-0180",
-    "title": "H3K4me1-Mediated Epigenomic Priming of Chemoresistant Tumor States in Ovarian Cancer.",
-    "sent_at": "2026-10-20T11:30:07.903885Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.17.759687",
-    "title": "Dynamic TET1 repression coordinates activation of macroH2A.2-poised bivalent genes during neuroectoderm differentiation",
-    "sent_at": "2026-10-20T16:54:15.954617Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77882-6",
     "title": "A ubiquitin carboxyl-terminal hydrolase facilitates H2A.Z removal in response to phosphate starvation.",
     "sent_at": "2026-10-20T16:54:15.954617Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41586-026-11197-w",
     "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin.",
     "sent_at": "2026-10-29T12:52:07.560148Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.27.761841",
+    "title": "Bayesian in situ point spread function modeling enables high-fidelity three-dimensional nanoscopy in deep tissue",
+    "sent_at": "2026-10-29T19:35:35.637095Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag995",
+    "title": "Exploring DNA movement through the application of droplet-based high-efficiency chromatin conformation capture (DropHiChew) and loop velocity.",
+    "sent_at": "2026-10-29T19:35:35.637095Z",
     "tier": 1,
     "kind": "journal"
   }
