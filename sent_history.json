@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.xcrm.2026.103117",
-    "title": "Targeting oncogenic SOX2 condensates suppresses squamous cell carcinoma progression.",
-    "sent_at": "2026-10-20T04:41:43.881552Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760026",
-    "title": "Predicting cell-state-specific gene regulation from DNA across species",
-    "sent_at": "2026-10-20T11:30:07.903885Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1158/2159-8290.CD-26-0180",
     "title": "H3K4me1-Mediated Epigenomic Priming of Chemoresistant Tumor States in Ovarian Cancer.",
     "sent_at": "2026-10-20T11:30:07.903885Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/advs.78529",
     "title": "STRIDE: A Sequencing Depth Robust Metric for Sparse Chromosome Conformation Capture Data Comparison.",
     "sent_at": "2026-10-29T05:40:14.029465Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.26.761993",
+    "title": "3D-genome impacts of TAD-boundary-disrupting ultra-rare structural variants identified in schizophrenia",
+    "sent_at": "2026-10-29T12:52:07.560148Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41586-026-11197-w",
+    "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin.",
+    "sent_at": "2026-10-29T12:52:07.560148Z",
     "tier": 1,
     "kind": "journal"
   }
