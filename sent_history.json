@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.jbc.2026.113659",
-    "title": "Hat1 Orchestrates Heterochromatin Structure by Regulating Localization of H3K9 Methyltransferases.",
-    "sent_at": "2026-10-21T07:33:20.574965Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.20.760189",
-    "title": "Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data",
-    "sent_at": "2026-10-21T13:45:19.232924Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41594-026-01902-8",
     "title": "Mechanism of M18BP1-mediated activation of condensin II for mitotic DNA compaction.",
     "sent_at": "2026-10-21T13:45:19.232924Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-77582-1",
     "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion.",
     "sent_at": "2026-10-30T12:44:22.538700Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.28.762611",
+    "title": "Feedback control via H3K9 methylation and siRNA biogenesis autonomously maintains RNAi heterochromatin through continuous low-level transcription",
+    "sent_at": "2026-10-30T19:19:11.558147Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78064-0",
+    "title": "3D Reconstruction of Dinoflagellate Chromosomes from Hi-C Data Challenges the Cholesteric Liquid Crystal Hypothesis.",
+    "sent_at": "2026-10-30T19:19:11.558147Z",
     "tier": 1,
     "kind": "journal"
   }
