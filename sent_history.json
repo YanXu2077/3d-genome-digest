@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77882-6",
-    "title": "A ubiquitin carboxyl-terminal hydrolase facilitates H2A.Z removal in response to phosphate starvation.",
-    "sent_at": "2026-10-20T16:54:15.954617Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760205",
-    "title": "Abnormal nuclear organization impairs adipogenic lineage commitment and terminal maturation in Hutchinson-Gilford progeria syndrome (HGPS)",
-    "sent_at": "2026-10-20T21:35:58.665794Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41431-026-02259-8",
     "title": "Deep intronic NIPBL variants underlie unresolved Cornelia de Lange syndrome revealed by integrated epigenomic and transcriptomic analysis.",
     "sent_at": "2026-10-20T21:35:58.665794Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag995",
     "title": "Exploring DNA movement through the application of droplet-based high-efficiency chromatin conformation capture (DropHiChew) and loop velocity.",
     "sent_at": "2026-10-29T19:35:35.637095Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.27.762200",
+    "title": "A CTCF-LDHB axis converts nuclear lactate availability into an H3K18 acylation switch that directs alternative splicing in hypoxic breast cancer",
+    "sent_at": "2026-10-30T00:01:29.678580Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeh6541",
+    "title": "FOSL1-associated condensates modulate superenhancer-mediated selected IL-1 family gene activation in psoriasis.",
+    "sent_at": "2026-10-30T00:01:29.678580Z",
     "tier": 1,
     "kind": "journal"
   }
