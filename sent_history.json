@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41431-026-02259-8",
-    "title": "Deep intronic NIPBL variants underlie unresolved Cornelia de Lange syndrome revealed by integrated epigenomic and transcriptomic analysis.",
-    "sent_at": "2026-10-20T21:35:58.665794Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760300",
-    "title": "Design of synthetic activators for programmable gene expression",
-    "sent_at": "2026-10-21T00:38:19.881263Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.7554/eLife.106510",
     "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex.",
     "sent_at": "2026-10-21T00:38:19.881263Z",
@@ -557,6 +543,20 @@
     "title": "FOSL1-associated condensates modulate superenhancer-mediated selected IL-1 family gene activation in psoriasis.",
     "sent_at": "2026-10-30T00:01:29.678580Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.27.761987",
+    "title": "Myogenic and neural transcriptional circuitry determines PAX3::FOXO1 driven initiation of rhabdomyosarcoma",
+    "sent_at": "2026-10-30T05:42:32.325082Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/cbmi.6c00156",
+    "title": "Quantitative In-Cell Localization Microscopy: From Single-Molecule Localizations to Mechanistic Inference.",
+    "sent_at": "2026-10-30T05:42:32.325082Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
