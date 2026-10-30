@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.7554/eLife.106510",
-    "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex.",
-    "sent_at": "2026-10-21T00:38:19.881263Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.759117",
-    "title": "multiomeR: a pipeline for reproducible analysis of large-scale single-nucleus Epi Multiome datasets",
-    "sent_at": "2026-10-21T07:33:20.574965Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.jbc.2026.113659",
     "title": "Hat1 Orchestrates Heterochromatin Structure by Regulating Localization of H3K9 Methyltransferases.",
     "sent_at": "2026-10-21T07:33:20.574965Z",
@@ -557,6 +543,20 @@
     "title": "Quantitative In-Cell Localization Microscopy: From Single-Molecule Localizations to Mechanistic Inference.",
     "sent_at": "2026-10-30T05:42:32.325082Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.28.761900",
+    "title": "The Structural Basis of Genome Silencing: The Inactive X Chromosome Resolved by Electron Spectroscopic Imaging",
+    "sent_at": "2026-10-30T12:44:22.538700Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-77582-1",
+    "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion.",
+    "sent_at": "2026-10-30T12:44:22.538700Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
