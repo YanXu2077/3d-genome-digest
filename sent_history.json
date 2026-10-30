@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41594-026-01902-8",
-    "title": "Mechanism of M18BP1-mediated activation of condensin II for mitotic DNA compaction.",
-    "sent_at": "2026-10-21T13:45:19.232924Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760027",
-    "title": "Constitutive ATR Signaling Enforces Domain-Wide Origin Synchrony",
-    "sent_at": "2026-10-21T18:38:26.836384Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77798-1",
     "title": "Disruption of SWI/SNF ATPases in the mouse liver impairs diurnal gene expression associated with specific promoter features.",
     "sent_at": "2026-10-21T18:38:26.836384Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-78064-0",
     "title": "3D Reconstruction of Dinoflagellate Chromosomes from Hi-C Data Challenges the Cholesteric Liquid Crystal Hypothesis.",
     "sent_at": "2026-10-30T19:19:11.558147Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.24.761502",
+    "title": "Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)",
+    "sent_at": "2026-10-30T23:43:21.070838Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg2830",
+    "title": "PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.",
+    "sent_at": "2026-10-30T23:43:21.070838Z",
     "tier": 1,
     "kind": "journal"
   }
