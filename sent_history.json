@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77898-y",
-    "title": "Spatial partitioning of NSD2 defines H3K36me2 as an active mark for repetitive sequence activation.",
-    "sent_at": "2026-10-21T23:17:34.827019Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1016/j.bpj.2026.10.015",
-    "title": "Characterizing the unfolding activation barrier of c-MYC G-quadruplex by temperature-dependent single-molecule force spectroscopy.",
-    "sent_at": "2026-10-22T04:32:05.080142Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.15.757424",
     "title": "Epigenomic heterogeneity and spatial organization during human reprogramming",
     "sent_at": "2026-10-22T11:42:18.935849Z",
@@ -557,6 +543,20 @@
     "title": "From 3D to 4D: spatiotemporal genome architecture and functional genomics in cardiovascular disease.",
     "sent_at": "2026-10-31T12:21:10.289770Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762653",
+    "title": "Single-nucleus multiome profiling reveals osteocyte-centered remodeling of human subchondral bone across osteoarthritis severity",
+    "sent_at": "2026-10-31T18:33:58.420166Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.psj.2026.107987",
+    "title": "A tandem repeat in TCF25 intron 1 is associated with MC1R activation through dual mechanisms of transcriptional derepression and chromatin looping underlying black plumage in chickens.",
+    "sent_at": "2026-10-31T18:33:58.420166Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
