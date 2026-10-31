@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.15.757424",
-    "title": "Epigenomic heterogeneity and spatial organization during human reprogramming",
-    "sent_at": "2026-10-22T11:42:18.935849Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.10.21.760624",
-    "title": "Rewired mRNA homeostasis enforces cell-size associated senescence",
-    "sent_at": "2026-10-22T17:06:38.822778Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.10.16.759625",
     "title": "Chromatin states coordinate diurnal gene expression in the Drosophila retina",
     "sent_at": "2026-10-22T21:31:16.625028Z",
@@ -557,6 +543,20 @@
     "title": "A tandem repeat in TCF25 intron 1 is associated with MC1R activation through dual mechanisms of transcriptional derepression and chromatin looping underlying black plumage in chickens.",
     "sent_at": "2026-10-31T18:33:58.420166Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.30.762954",
+    "title": "SMFnet reveals principles of combinatorial transcription factor assembly",
+    "sent_at": "2026-10-31T23:25:22.102132Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.4014/jmb.2608.08034",
+    "title": "Molecular Packaging, Liquid-Crystalline Order, and Three-Dimensional Architecture of Dinoflagellate Chromosomes.",
+    "sent_at": "2026-10-31T23:25:22.102132Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
