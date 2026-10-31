@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-77798-1",
-    "title": "Disruption of SWI/SNF ATPases in the mouse liver impairs diurnal gene expression associated with specific promoter features.",
-    "sent_at": "2026-10-21T18:38:26.836384Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760212",
-    "title": "Extrachromosomal circular DNA formation follows a 10.5-bp periodicity reflecting the minor groove orientation around nucleosomes",
-    "sent_at": "2026-10-21T23:17:25.138980+00:00",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-77898-y",
     "title": "Spatial partitioning of NSD2 defines H3K36me2 as an active mark for repetitive sequence activation.",
     "sent_at": "2026-10-21T23:17:25.138980+00:00",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciadv.aeg2830",
     "title": "PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.",
     "sent_at": "2026-10-30T23:43:21.070838Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762828",
+    "title": "Osmotic Coupling of Mechanics and Epigenetics Regulates Chromatin Phase Organization",
+    "sent_at": "2026-10-31T05:28:47.532709Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44318-026-00938-2",
+    "title": "Cis-regulatory co-option of a transposon family reinforces cell identity across the immune system.",
+    "sent_at": "2026-10-31T05:28:47.532709Z",
     "tier": 1,
     "kind": "journal"
   }
