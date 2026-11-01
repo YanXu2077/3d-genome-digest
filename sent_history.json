@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeh7499",
-    "title": "SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells.",
-    "sent_at": "2026-10-23T23:08:12.162269Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.19.759930",
     "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates",
     "sent_at": "2026-10-24T04:28:27.888282Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s41556-026-02099-0",
     "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
     "sent_at": "2026-11-01T18:56:51.464244Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/nar/gkag1068",
+    "title": "Integrator complex removes lesion-stalled RNA polymerase II after transcription-coupled repair to facilitate transcription restart.",
+    "sent_at": "2026-11-01T20:43:36.596600Z",
     "tier": 2,
     "kind": "journal"
   }
