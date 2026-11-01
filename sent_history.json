@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.16.759625",
-    "title": "Chromatin states coordinate diurnal gene expression in the Drosophila retina",
-    "sent_at": "2026-10-22T21:31:16.625028Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.bbrep.2026.102828",
-    "title": "Med1 deletion reprograms dental epithelium into a hair-forming epidermal architecture associated with Trp63 induction.",
-    "sent_at": "2026-10-23T00:38:49.717205Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.21.760732",
     "title": "Systematic Functional Interrogation of Neurodevelopmental Disorder Risk Variants",
     "sent_at": "2026-10-23T07:28:37.044751Z",
@@ -556,6 +542,20 @@
     "doi": "10.4014/jmb.2608.08034",
     "title": "Molecular Packaging, Liquid-Crystalline Order, and Three-Dimensional Architecture of Dinoflagellate Chromosomes.",
     "sent_at": "2026-10-31T23:25:22.102132Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762938",
+    "title": "ChAI-Net learns a regulatory code for chromatin co-accessibility",
+    "sent_at": "2026-11-01T05:53:25.999383Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1061",
+    "title": "Region-specific generation and retention of acetylated cohesin shape the genome-wide pattern of sister chromatid cohesion.",
+    "sent_at": "2026-11-01T05:53:25.999383Z",
     "tier": 1,
     "kind": "journal"
   }
