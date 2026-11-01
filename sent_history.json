@@ -1,33 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag979",
-    "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of Escherichia coli chromosome organization.",
-    "sent_at": "2026-10-23T13:29:16.320246Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.21.760768",
-    "title": "Micro-C-TALE: BAC-based targeted high-resolution measurement of 3D chromatin interactions",
-    "sent_at": "2026-10-23T18:19:40.158933Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1186/s12964-026-03097-3",
-    "title": "3D chromatin structure remodelling in cancer.",
-    "sent_at": "2026-10-23T18:19:40.158933Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.19.760054",
-    "title": "CTCF gradually acquires novel function modalities during bilaterian evolution",
-    "sent_at": "2026-10-23T23:08:12.162269Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1126/sciadv.aeh7499",
     "title": "SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells.",
     "sent_at": "2026-10-23T23:08:12.162269Z",
@@ -556,6 +528,34 @@
     "doi": "10.1007/s10577-026-09823-4",
     "title": "\"Frozen\" chromatin: insights on its structuring from cryo-EM tomography.",
     "sent_at": "2026-11-01T15:25:39.620695Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1038/s41556-026-02099-0",
+    "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
+    "sent_at": "2026-11-01T18:56:42.079559Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.30.763179",
+    "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
+    "sent_at": "2026-11-01T18:56:42.079559Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.30.763179",
+    "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
+    "sent_at": "2026-11-01T18:56:51.464244Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41556-026-02099-0",
+    "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
+    "sent_at": "2026-11-01T18:56:51.464244Z",
     "tier": 2,
     "kind": "journal"
   }
