@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.21.760732",
-    "title": "Systematic Functional Interrogation of Neurodevelopmental Disorder Risk Variants",
-    "sent_at": "2026-10-23T07:28:37.044751Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/femsyr/foag056",
-    "title": "Transcription-coupled recruitment of SMC complexes in yeast.",
-    "sent_at": "2026-10-23T07:28:37.044751Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.21.760833",
     "title": "Histone modifications directly modulate transcription factor binding to nucleosomes",
     "sent_at": "2026-10-23T13:29:16.320246Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag1061",
     "title": "Region-specific generation and retention of acetylated cohesin shape the genome-wide pattern of sister chromatid cohesion.",
     "sent_at": "2026-11-01T05:53:25.999383Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762797",
+    "title": "FiberBrowser: a unified framework for single-molecule genomics",
+    "sent_at": "2026-11-01T13:15:48.416110Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.ijbiomac.2026.155111",
+    "title": "Regulatory roles and mechanistic insights of chromatin 3D structure in mammalian growth and development: A research progress review.",
+    "sent_at": "2026-11-01T13:15:48.416110Z",
     "tier": 1,
     "kind": "journal"
   }
