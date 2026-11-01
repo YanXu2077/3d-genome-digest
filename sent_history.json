@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.21.760833",
-    "title": "Histone modifications directly modulate transcription factor binding to nucleosomes",
-    "sent_at": "2026-10-23T13:29:16.320246Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag979",
     "title": "Disentangling polymer confinement from specific-folding interactions reveals the drivers of Escherichia coli chromosome organization.",
     "sent_at": "2026-10-23T13:29:16.320246Z",
@@ -557,6 +550,13 @@
     "title": "Regulatory roles and mechanistic insights of chromatin 3D structure in mammalian growth and development: A research progress review.",
     "sent_at": "2026-11-01T13:15:48.416110Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1007/s10577-026-09823-4",
+    "title": "\"Frozen\" chromatin: insights on its structuring from cryo-EM tomography.",
+    "sent_at": "2026-11-01T15:25:39.620695Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
