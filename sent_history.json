@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.23.761042",
-    "title": "Regulation by partition predicts enhancer target selection in mammalian genomes",
-    "sent_at": "2026-10-24T10:54:19.823379Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/978-1-0716-5627-3_8",
     "title": "Revealing High-Resolution Open Chromatin-Associated Interactions by NicE-C.",
     "sent_at": "2026-10-24T10:54:19.823379Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/advs.78518",
     "title": "3'-UTR Hypermethylation and ABA Signaling Coordinate Transcriptional Activation of SWEET14 for High Sugar Accumulation in Citrus.",
     "sent_at": "2026-11-02T05:52:49.132341Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.mam.2026.101524",
+    "title": "UHRF proteins as epigenetic integrators coordinating DNA methylation, histone modifications, and chromatin remodeling.",
+    "sent_at": "2026-11-02T09:51:26.414221Z",
     "tier": 3,
     "kind": "journal"
   }
