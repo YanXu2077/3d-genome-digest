@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aee5701",
-    "title": "TET2-driven activation of AGO2 links epigenetic remodeling to myeloid commitment and leukemia.",
-    "sent_at": "2026-10-24T04:28:27.888282Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.23.761042",
     "title": "Regulation by partition predicts enhancer target selection in mammalian genomes",
     "sent_at": "2026-10-24T10:54:19.823379Z",
@@ -556,6 +549,13 @@
     "doi": "10.1038/s44318-026-00933-7",
     "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
     "sent_at": "2026-11-01T23:34:01.662916Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/advs.78518",
+    "title": "3'-UTR Hypermethylation and ABA Signaling Coordinate Transcriptional Activation of SWEET14 for High Sugar Accumulation in Citrus.",
+    "sent_at": "2026-11-02T05:52:49.132341Z",
     "tier": 3,
     "kind": "journal"
   }
