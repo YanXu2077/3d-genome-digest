@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-78061-3",
-    "title": "SATB1 lowers the T cell receptor signaling threshold for thymocyte positive selection via super-enhancer reprogramming.",
-    "sent_at": "2026-10-24T18:49:12.752618Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41467-026-77877-3",
-    "title": "The elongation of Mest transcript into MestXL sustains, but does not initiate, the maternal allele bias of its convergent gene Copg2 during neurogenesis.",
-    "sent_at": "2026-10-24T22:33:03.132987+00:00",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s41467-026-77877-3",
     "title": "The elongation of Mest transcript into MestXL sustains, but does not initiate, the maternal allele bias of its convergent gene Copg2 during neurogenesis.",
     "sent_at": "2026-10-24T22:33:11.169483Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/bib/bbag603",
     "title": "AxialTAD: an axial contrast architecture for TAD boundary prediction from Hi-C.",
     "sent_at": "2026-11-02T20:30:40.817735Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.30.763054",
+    "title": "Mitotic centromeres organize in repeat-subunits with specialized histone landscape and multi-domain architecture as revealed by expansion microscopy",
+    "sent_at": "2026-11-02T23:30:48.404863Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bib/bbag610",
+    "title": "HiCP2GAN: a plug and play foundation model-based GAN for Hi-C enhancement.",
+    "sent_at": "2026-11-02T23:30:48.404863Z",
     "tier": 1,
     "kind": "journal"
   }
