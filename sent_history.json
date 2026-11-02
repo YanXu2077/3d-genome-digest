@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.118186",
-    "title": "Programmed DNA breaks drive chromatin reconfiguration and facilitate transcriptional potentiation at neuronal early response genes.",
-    "sent_at": "2026-10-24T15:54:57.635489Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.20.760589",
-    "title": "Denoising single-cell ATAC-seq data with Shannon entropy",
-    "sent_at": "2026-10-24T18:49:12.752618Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-78061-3",
     "title": "SATB1 lowers the T cell receptor signaling threshold for thymocyte positive selection via super-enhancer reprogramming.",
     "sent_at": "2026-10-24T18:49:12.752618Z",
@@ -557,6 +543,20 @@
     "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization.",
     "sent_at": "2026-11-02T15:39:02.475903Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762969",
+    "title": "Molecular dissection of the ChAHP complex subunits Adnp and Chd4 reveals common and divergent functions in retinal development",
+    "sent_at": "2026-11-02T20:30:40.817735Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bib/bbag603",
+    "title": "AxialTAD: an axial contrast architecture for TAD boundary prediction from Hi-C.",
+    "sent_at": "2026-11-02T20:30:40.817735Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
