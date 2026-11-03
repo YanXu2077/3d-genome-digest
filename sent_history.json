@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.09.02.748911",
-    "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain.",
-    "sent_at": "2026-10-25T22:36:20.954370Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.756789",
-    "title": "Structural variants from donor-specific assemblies affect recurrent chromatin contact divergence in humans.",
-    "sent_at": "2026-10-26T00:34:30.603278Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.21203/rs.3.rs-11000542/v1",
     "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
     "sent_at": "2026-10-26T04:36:29.925049Z",
@@ -557,6 +543,20 @@
     "title": "MeCP2 stabilizes the glucocorticoid system in active chromatin regions.",
     "sent_at": "2026-11-03T09:57:22.086544Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.02.763620",
+    "title": "Continuous Topological Accessibility (RFA) as a 3D-Aware GRN Filter: Anticorrelation with eQTL and No Prediction of ΔRNA",
+    "sent_at": "2026-11-03T16:12:56.606814Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44319-026-00969-0",
+    "title": "Self-organization of Drosophila chromatin architecture in a cell-free system.",
+    "sent_at": "2026-11-03T16:12:56.606814Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
