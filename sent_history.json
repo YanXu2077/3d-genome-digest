@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.21203/rs.3.rs-11000542/v1",
-    "title": "A comparative analysis of promoter-proximal pausing reveals kinetic and distributional dimensions of variation.",
-    "sent_at": "2026-10-26T04:36:29.925049Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.05.753292",
-    "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains.",
-    "sent_at": "2026-10-26T12:52:36.704343Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.24.761575",
     "title": "Protein cofactors diversify PRC2 architecture and function",
     "sent_at": "2026-10-26T19:54:55.588032Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s44319-026-00969-0",
     "title": "Self-organization of Drosophila chromatin architecture in a cell-free system.",
     "sent_at": "2026-11-03T16:12:56.606814Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.01.763477",
+    "title": "FoxO1 and HNF1α cooperatively remodel nucleosome architecture and mechanical stability to activate transcription",
+    "sent_at": "2026-11-03T18:02:17.966129Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78098-4",
+    "title": "PSHIC reveals allele-specific chromatin organization by phasing-free structural modeling.",
+    "sent_at": "2026-11-03T18:02:17.966129Z",
     "tier": 1,
     "kind": "journal"
   }
