@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.24.761575",
-    "title": "Protein cofactors diversify PRC2 architecture and function",
-    "sent_at": "2026-10-26T19:54:55.588032Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/cells15201899",
-    "title": "Genome-Wide Chromatin Structure Changes During Caste Differentiation in Honeybees.",
-    "sent_at": "2026-10-26T19:54:55.588032Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1007/978-1-0716-5643-3_22",
     "title": "High-Throughput Chromosome Conformation Capture Immunoprecipitation in Skeletal Muscle Stem Cells.",
     "sent_at": "2026-10-26T23:51:54.427329Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41467-026-78098-4",
     "title": "PSHIC reveals allele-specific chromatin organization by phasing-free structural modeling.",
     "sent_at": "2026-11-03T18:02:17.966129Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.03.763895",
+    "title": "Local chromatin, 3D genome folding and transposon cargo shape Sleeping Beauty transposition",
+    "sent_at": "2026-11-03T23:19:30.333427Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1082",
+    "title": "Varied Ensembles of Long-range ChROmatin interactions drive chromatin compartmentalization.",
+    "sent_at": "2026-11-03T23:19:30.333427Z",
     "tier": 1,
     "kind": "journal"
   }
