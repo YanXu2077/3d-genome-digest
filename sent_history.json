@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag1014",
-    "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
-    "sent_at": "2026-10-25T19:02:28.874200Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.10.757971",
-    "title": "Robust V(D)J Recombination in the Absence of SA1/2-mediated Chromatin Loops.",
-    "sent_at": "2026-10-25T21:07:47.397737Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.09.02.748911",
     "title": "Multiscale spatial analysis implicates chromosomal metaloops in gene patterning across the Drosophila brain.",
     "sent_at": "2026-10-25T22:36:20.954370Z",
@@ -556,6 +542,20 @@
     "doi": "10.1172/JCI189034",
     "title": "Targeting N-acetyltransferase 10 reprograms Treg function to enhance anti-PD-1 immunotherapy sensitivity in murine lung tumors.",
     "sent_at": "2026-11-03T06:39:34.275618Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.30.763187",
+    "title": "Nuclear speckles comprise hierarchical nanoscale interaction networks that shape molecular dynamics",
+    "sent_at": "2026-11-03T09:57:22.086544Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.scib.2026.10.066",
+    "title": "MeCP2 stabilizes the glucocorticoid system in active chromatin regions.",
+    "sent_at": "2026-11-03T09:57:22.086544Z",
     "tier": 3,
     "kind": "journal"
   }
