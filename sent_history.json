@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.05.27.727961",
-    "title": "Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions.",
-    "sent_at": "2026-10-25T16:06:56.807728Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/nar/gkag1014",
-    "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
-    "sent_at": "2026-10-25T19:02:19.623612Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/nar/gkag1014",
     "title": "Condensins-mediated mitotic folding persists as a structural echo in interphase chromatin.",
     "sent_at": "2026-10-25T19:02:28.874200Z",
@@ -557,6 +543,20 @@
     "title": "Recurrent enhancer-promoter interactions across samples.",
     "sent_at": "2026-11-03T02:34:28.997531Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762771",
+    "title": "Gene regulatory logic underlying the differentiation of mixed lineages in human thymic epithelial cells",
+    "sent_at": "2026-11-03T06:39:34.275618Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1172/JCI189034",
+    "title": "Targeting N-acetyltransferase 10 reprograms Treg function to enhance anti-PD-1 immunotherapy sensitivity in murine lung tumors.",
+    "sent_at": "2026-11-03T06:39:34.275618Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
