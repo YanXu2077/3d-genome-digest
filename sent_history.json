@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/978-1-0716-5643-3_22",
-    "title": "High-Throughput Chromosome Conformation Capture Immunoprecipitation in Skeletal Muscle Stem Cells.",
-    "sent_at": "2026-10-26T23:51:54.427329Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.26.761753",
-    "title": "Intercalator effects on DNA loop extrusion by SMC proteins",
-    "sent_at": "2026-10-27T04:53:40.306511Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bib/bbag589",
     "title": "EpiInsula: calibrated regression of the Hi-C insulation score from cell-type-specific epigenomic signal.",
     "sent_at": "2026-10-27T04:53:40.306511Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nar/gkag1082",
     "title": "Varied Ensembles of Long-range ChROmatin interactions drive chromatin compartmentalization.",
     "sent_at": "2026-11-03T23:19:30.333427Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.28.762654",
+    "title": "scSTEC: Annotating Chromatin Subcompartments from Individual Single-Cell Hi-C Data via Direct Two-Dimensional Embedding and Chromosome-wise Consensus",
+    "sent_at": "2026-11-04T06:08:19.432956Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.10.009",
+    "title": "An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.",
+    "sent_at": "2026-11-04T06:08:19.432956Z",
     "tier": 1,
     "kind": "journal"
   }
