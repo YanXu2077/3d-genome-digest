@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/plcell/koag325",
-    "title": "PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.",
-    "sent_at": "2026-10-27T12:04:11.976629Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.26.761611",
-    "title": "Locus-specific spatial and transcriptional dynamics direct T cell lineage choice in the thymus",
-    "sent_at": "2026-10-27T17:59:52.003415Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/biology15201843",
     "title": "DNA-Encoded Binding Affinity Shapes Robust CTCF Occupancy Across Cellular Contexts.",
     "sent_at": "2026-10-27T17:59:52.003415Z",
@@ -557,6 +543,20 @@
     "title": "Niche Condensin Controls Stem Cell Differentiation through Genome Architecture-Regulated Neuronal Gene Networks.",
     "sent_at": "2026-11-04T14:27:03.514094Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.02.763844",
+    "title": "Chromosome folding encodes mechanisms of cohesion maintenance",
+    "sent_at": "2026-11-04T16:33:08.843295Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/noajnl/vdag260",
+    "title": "Bromodomain and extra-terminal motif (BET) inhibition induces coordinated repression of the stem cell-related HOX signature in glioblastoma uncovering an epigenetic vulnerability.",
+    "sent_at": "2026-11-04T16:33:08.843295Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
