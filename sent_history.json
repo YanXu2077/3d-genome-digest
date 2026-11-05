@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1371/journal.pcbi.1014911",
-    "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies.",
-    "sent_at": "2026-10-27T22:10:26.832427Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.25.761679",
-    "title": "NMR-measured Per-residue Electrostatic Potentials Reveal the Importance of Arginine-Lysine Balance on the Conformational Ensemble of Disordered Histone H3 Tails in Nucleosome Core Particles",
-    "sent_at": "2026-10-28T01:40:18.834010Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/microorganisms14102162",
     "title": "DNA Geometry Around Highly Transcribed Bacterial Genes.",
     "sent_at": "2026-10-28T01:40:18.834010Z",
@@ -557,6 +543,20 @@
     "title": "P-TEFb regulates nucleosome positioning at promoters.",
     "sent_at": "2026-11-04T21:55:03.993764Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762992",
+    "title": "Predicting single-molecule chromatin distribution from DNA sequence",
+    "sent_at": "2026-11-05T02:20:47.701377Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.118253",
+    "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions.",
+    "sent_at": "2026-11-05T02:20:47.701377Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
