@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.25.761723",
-    "title": "Multivalent Scaffolding by XIST E-Repeats Tunes RNA Binding Protein Cooperativity and Lowers the Phase Separation Threshold",
-    "sent_at": "2026-10-28T05:31:47.291498Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.pbi.2026.102990",
-    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
-    "sent_at": "2026-10-28T05:31:47.291498Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.26.761859",
     "title": "Direct effects on gene transcription revealed by global and CRISPR-targeted oxidative DNA damage",
     "sent_at": "2026-10-28T08:55:25.440743Z",
@@ -558,5 +544,19 @@
     "sent_at": "2026-11-05T12:14:30.830233Z",
     "tier": 2,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.11.03.764042",
+    "title": "HOX13 factors shape cell developmental transcriptional program through multiple mechanisms that regulate chromatin accessibility.",
+    "sent_at": "2026-11-05T21:09:11.077627Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1099",
+    "title": "CFDP1 is required for histone variant H2A.Z deposition by the human SRCAP chromatin remodeling complex.",
+    "sent_at": "2026-11-05T21:09:11.077627Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
