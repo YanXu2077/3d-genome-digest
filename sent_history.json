@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.3390/microorganisms14102162",
-    "title": "DNA Geometry Around Highly Transcribed Bacterial Genes.",
-    "sent_at": "2026-10-28T01:40:18.834010Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.25.761723",
     "title": "Multivalent Scaffolding by XIST E-Repeats Tunes RNA Binding Protein Cooperativity and Lowers the Phase Separation Threshold",
     "sent_at": "2026-10-28T05:31:47.291498Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-11-05T02:20:47.701377Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.01.763421",
+    "title": "Decoding Cell-type Specific Gene Regulation with CellReg3D by Integrating DNA Large Language Models and 3D Genome Structure",
+    "sent_at": "2026-11-05T12:14:30.830233Z",
+    "tier": 2,
+    "kind": "preprint"
   }
 ]
