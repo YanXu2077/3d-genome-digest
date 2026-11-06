@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.26.761859",
-    "title": "Direct effects on gene transcription revealed by global and CRISPR-targeted oxidative DNA damage",
-    "sent_at": "2026-10-28T08:55:25.440743Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.xpro.2026.104912",
-    "title": "Protocol to identify higher order architectures across multiple species using HiArch.",
-    "sent_at": "2026-10-28T08:55:25.440743Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.25.761546",
     "title": "DNA damage at Lamina-Associated Domains triggers nuclear envelope reorganization and chromatin detachment to prevent nuclear envelope blebbing and genome instability.",
     "sent_at": "2026-10-28T12:44:43.335792Z",
@@ -557,6 +543,20 @@
     "title": "CFDP1 is required for histone variant H2A.Z deposition by the human SRCAP chromatin remodeling complex.",
     "sent_at": "2026-11-05T21:09:11.077627Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.30.762802",
+    "title": "Genome-wide chromatin accessibility during early embryogenesis in a generalist cichlid fish",
+    "sent_at": "2026-11-06T02:19:05.611106Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/plcell/koag340",
+    "title": "Phosphorylation Alters the Condensation State of the Potato Transcription Factor bZIP18 to Enhance Plant Immunity.",
+    "sent_at": "2026-11-06T02:19:05.611106Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
