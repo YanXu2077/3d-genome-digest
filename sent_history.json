@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.25.761546",
-    "title": "DNA damage at Lamina-Associated Domains triggers nuclear envelope reorganization and chromatin detachment to prevent nuclear envelope blebbing and genome instability.",
-    "sent_at": "2026-10-28T12:44:43.335792Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.3390/ijms27208979",
-    "title": "Evolutionary and Functional Conservation of Topologically Associating Domain Boundaries in Rice Genomes.",
-    "sent_at": "2026-10-28T12:44:43.335792Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.26.761858",
     "title": "Dynamic merging of enhancer- and promoter-associated assemblies is coupled to transcriptional bursting",
     "sent_at": "2026-10-28T16:50:33.378176Z",
@@ -557,6 +543,20 @@
     "title": "Phosphorylation Alters the Condensation State of the Potato Transcription Factor bZIP18 to Enhance Plant Immunity.",
     "sent_at": "2026-11-06T02:19:05.611106Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.04.764297",
+    "title": "The long noncoding RNA FOSIL shapes the dynamics of FOS induction",
+    "sent_at": "2026-11-06T12:03:10.014776Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103418",
+    "title": "Rules of the road for loop-extruding motors: loading, unloading, and crowding.",
+    "sent_at": "2026-11-06T12:03:10.014776Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
