@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.26.761858",
-    "title": "Dynamic merging of enhancer- and promoter-associated assemblies is coupled to transcriptional bursting",
-    "sent_at": "2026-10-28T16:50:47.640850Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41421-026-00928-y",
-    "title": "A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.",
-    "sent_at": "2026-10-28T16:50:47.640850Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.27.762201",
     "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
     "sent_at": "2026-10-28T19:35:49.917910Z",
@@ -557,6 +543,20 @@
     "title": "Distal cis-regulatory elements in 3' UTRs orchestrate gene expression via single-gene domain architecture in Brassica rapa.",
     "sent_at": "2026-11-06T19:22:02.524180Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.04.764273",
+    "title": "Epigenome-informed Polymer Modeling Reveals Chromosome Folding Landscapes across Distinct Genetic and Epigenetic Contexts",
+    "sent_at": "2026-11-07T00:09:46.676009Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.24.761391",
+    "title": "Lineage-specific transcription factor CEBPA accelerates RNA Polymerase I dynamics.",
+    "sent_at": "2026-11-07T00:09:46.676009Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
