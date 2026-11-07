@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.22.760939",
-    "title": "Best Practices for Pre-Processing Large-Scale ATAC-Seq Data: Why Epidemiological Studies Demand Greater Stringency",
-    "sent_at": "2026-10-28T22:51:10.033312Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1084/jem.20260418",
-    "title": "Cbfβ regulates DNA looping at the Il4-Il13 loci to control their differential expression in Th2 cells.",
-    "sent_at": "2026-10-28T22:51:10.033312Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.25.761580",
     "title": "Nascent transcription profiling identifies H3K36 methylation as a custodian of the somatic transcriptome",
     "sent_at": "2026-10-29T05:40:14.029465Z",
@@ -557,6 +543,20 @@
     "title": "Protein cofactors diversify PRC2 architecture and function.",
     "sent_at": "2026-11-07T05:59:21.495312Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.05.764606",
+    "title": "Multimodal cellular context enables molecular phenotyping from single-molecule trajectories",
+    "sent_at": "2026-11-07T12:55:21.213441Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.27.762201",
+    "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors.",
+    "sent_at": "2026-11-07T12:55:21.213441Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
