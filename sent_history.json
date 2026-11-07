@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.25.761580",
-    "title": "Nascent transcription profiling identifies H3K36 methylation as a custodian of the somatic transcriptome",
-    "sent_at": "2026-10-29T05:40:14.029465Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1002/advs.78529",
-    "title": "STRIDE: A Sequencing Depth Robust Metric for Sparse Chromosome Conformation Capture Data Comparison.",
-    "sent_at": "2026-10-29T05:40:14.029465Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.26.761993",
     "title": "3D-genome impacts of TAD-boundary-disrupting ultra-rare structural variants identified in schizophrenia",
     "sent_at": "2026-10-29T12:52:07.560148Z",
@@ -557,6 +543,20 @@
     "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors.",
     "sent_at": "2026-11-07T12:55:21.213441Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.06.764689",
+    "title": "SPACE-Tag Enables High-Throughput Spatial Chromatin Profiling With CUT&Tag",
+    "sent_at": "2026-11-07T18:45:12.269302Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.chembiol.2026.10.002",
+    "title": "Phase-separated SOX5 drives human cranial neural crest fate commitment.",
+    "sent_at": "2026-11-07T18:45:12.269302Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
