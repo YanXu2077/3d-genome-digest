@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.27.762201",
-    "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
-    "sent_at": "2026-10-28T19:35:49.917910Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41418-026-01888-2",
-    "title": "SMARCA5 facilitates cohesin localization at R-loops to prevent transcription-replication collisions.",
-    "sent_at": "2026-10-28T19:35:49.917910Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.22.760939",
     "title": "Best Practices for Pre-Processing Large-Scale ATAC-Seq Data: Why Epidemiological Studies Demand Greater Stringency",
     "sent_at": "2026-10-28T22:51:10.033312Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.10.24.761391",
     "title": "Lineage-specific transcription factor CEBPA accelerates RNA Polymerase I dynamics.",
     "sent_at": "2026-11-07T00:09:46.676009Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.05.761835",
+    "title": "2'-O-Methylated ncRNA condensates form a recombination center for IgH synapsis",
+    "sent_at": "2026-11-07T05:59:21.495312Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.24.761575",
+    "title": "Protein cofactors diversify PRC2 architecture and function.",
+    "sent_at": "2026-11-07T05:59:21.495312Z",
     "tier": 2,
     "kind": "journal"
   }
