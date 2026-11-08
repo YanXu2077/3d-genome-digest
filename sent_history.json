@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.27.761841",
-    "title": "Bayesian in situ point spread function modeling enables high-fidelity three-dimensional nanoscopy in deep tissue",
-    "sent_at": "2026-10-29T19:35:35.637095Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag995",
     "title": "Exploring DNA movement through the application of droplet-based high-efficiency chromatin conformation capture (DropHiChew) and loop velocity.",
     "sent_at": "2026-10-29T19:35:35.637095Z",
@@ -557,6 +550,13 @@
     "title": "HDAC3 deacetylase activity coordinates the reprogramming of histone acetylation and chromatin accessibility to drive zygotic genome activation during preimplantation embryonic development.",
     "sent_at": "2026-11-07T23:42:36.083064Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.19.759930",
+    "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates.",
+    "sent_at": "2026-11-08T06:30:25.185508Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
