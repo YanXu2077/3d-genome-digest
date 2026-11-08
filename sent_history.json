@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag995",
-    "title": "Exploring DNA movement through the application of droplet-based high-efficiency chromatin conformation capture (DropHiChew) and loop velocity.",
-    "sent_at": "2026-10-29T19:35:35.637095Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.27.762200",
     "title": "A CTCF-LDHB axis converts nuclear lactate availability into an H3K18 acylation switch that directs alternative splicing in hypoxic breast cancer",
     "sent_at": "2026-10-30T00:01:29.678580Z",
@@ -557,6 +550,13 @@
     "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates.",
     "sent_at": "2026-11-08T06:30:25.185508Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.15.757424",
+    "title": "Epigenomic heterogeneity and spatial organization during human reprogramming.",
+    "sent_at": "2026-11-08T13:18:34.619315Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
