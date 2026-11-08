@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1126/sciadv.aeh6541",
-    "title": "FOSL1-associated condensates modulate superenhancer-mediated selected IL-1 family gene activation in psoriasis.",
-    "sent_at": "2026-10-30T00:01:29.678580Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.27.761987",
     "title": "Myogenic and neural transcriptional circuitry determines PAX3::FOXO1 driven initiation of rhabdomyosarcoma",
     "sent_at": "2026-10-30T05:42:32.325082Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.10.19.760194",
     "title": "ONT-LibQC: rapid quality control of chromatin assay libraries using shallow nanopore sequencing.",
     "sent_at": "2026-11-08T18:52:08.583036Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.14.759128",
+    "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution.",
+    "sent_at": "2026-11-08T23:43:50.651489Z",
     "tier": 1,
     "kind": "journal"
   }
