@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.28.761900",
-    "title": "The Structural Basis of Genome Silencing: The Inactive X Chromosome Resolved by Electron Spectroscopic Imaging",
-    "sent_at": "2026-10-30T12:44:22.538700Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-77582-1",
-    "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion.",
-    "sent_at": "2026-10-30T12:44:22.538700Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.28.762611",
     "title": "Feedback control via H3K9 methylation and siRNA biogenesis autonomously maintains RNAi heterochromatin through continuous low-level transcription",
     "sent_at": "2026-10-30T19:19:11.558147Z",
@@ -556,6 +542,20 @@
     "doi": "pmid:42999454",
     "title": "MultiPASE: Shape-Aware Comparative 3D Genome Analysis.",
     "sent_at": "2026-11-09T06:12:34.313821Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.29.762793",
+    "title": "MaaD-TAD: an all-atom model of the duplicated PRAMEF/HNRNPCL chromatin domain built from sequence homology",
+    "sent_at": "2026-11-09T18:45:20.835595Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78244-y",
+    "title": "CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity.",
+    "sent_at": "2026-11-09T18:45:20.835595Z",
     "tier": 1,
     "kind": "journal"
   }
