@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.27.761987",
-    "title": "Myogenic and neural transcriptional circuitry determines PAX3::FOXO1 driven initiation of rhabdomyosarcoma",
-    "sent_at": "2026-10-30T05:42:32.325082Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1021/cbmi.6c00156",
-    "title": "Quantitative In-Cell Localization Microscopy: From Single-Molecule Localizations to Mechanistic Inference.",
-    "sent_at": "2026-10-30T05:42:32.325082Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.28.761900",
     "title": "The Structural Basis of Genome Silencing: The Inactive X Chromosome Resolved by Electron Spectroscopic Imaging",
     "sent_at": "2026-10-30T12:44:22.538700Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.10.14.759128",
     "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution.",
     "sent_at": "2026-11-08T23:43:50.651489Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.10.13.758074",
+    "title": "cBAF drives AR-V7 expression through regulation of transcriptional termination in castration-resistant prostate cancer.",
+    "sent_at": "2026-11-09T06:12:34.313821Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "pmid:42999454",
+    "title": "MultiPASE: Shape-Aware Comparative 3D Genome Analysis.",
+    "sent_at": "2026-11-09T06:12:34.313821Z",
     "tier": 1,
     "kind": "journal"
   }
