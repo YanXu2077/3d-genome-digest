@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.29.762828",
-    "title": "Osmotic Coupling of Mechanics and Epigenetics Regulates Chromatin Phase Organization",
-    "sent_at": "2026-10-31T05:28:47.532709Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s44318-026-00938-2",
-    "title": "Cis-regulatory co-option of a transposon family reinforces cell identity across the immune system.",
-    "sent_at": "2026-10-31T05:28:47.532709Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.25.761612",
     "title": "An invariant network architecture with broadly expressed regulators distinguishes cell-type from cell-state identity in situ",
     "sent_at": "2026-10-31T12:21:10.289770Z",
@@ -557,6 +543,20 @@
     "title": "Hierarchical buffering of cellular RNA polymerase II pools maintains transcriptional homeostasis.",
     "sent_at": "2026-11-10T12:32:13.150739Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.06.765004",
+    "title": "FACT frees Ubp10 from nucleosome sequestration after rapid H2B deubiquitination",
+    "sent_at": "2026-11-10T20:50:57.351347Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1146",
+    "title": "Microfluidic concatemer sequencing unveils cooperative and competitive enhancer clusters in gene regulation.",
+    "sent_at": "2026-11-10T20:50:57.351347Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
