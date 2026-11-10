@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.24.761502",
-    "title": "Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)",
-    "sent_at": "2026-10-30T23:43:21.070838Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1126/sciadv.aeg2830",
-    "title": "PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.",
-    "sent_at": "2026-10-30T23:43:21.070838Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.29.762828",
     "title": "Osmotic Coupling of Mechanics and Epigenetics Regulates Chromatin Phase Organization",
     "sent_at": "2026-10-31T05:28:47.532709Z",
@@ -556,6 +542,20 @@
     "doi": "10.1021/acs.biomac.6c01575",
     "title": "Unveiling the Formation and Stability of the Droplet Phase of the Thyroid Transcription Factor TTF-1HD/dsDNA Complex under Cell-like Crowding Conditions.",
     "sent_at": "2026-11-10T02:45:58.774212Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.07.764600",
+    "title": "Learning from Hi-C reveals nuclear dynamical reorganization in budding yeast across the cell cycle",
+    "sent_at": "2026-11-10T12:32:13.150739Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.10.025",
+    "title": "Hierarchical buffering of cellular RNA polymerase II pools maintains transcriptional homeostasis.",
+    "sent_at": "2026-11-10T12:32:13.150739Z",
     "tier": 2,
     "kind": "journal"
   }
