@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.28.762611",
-    "title": "Feedback control via H3K9 methylation and siRNA biogenesis autonomously maintains RNAi heterochromatin through continuous low-level transcription",
-    "sent_at": "2026-10-30T19:19:11.558147Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-78064-0",
-    "title": "3D Reconstruction of Dinoflagellate Chromosomes from Hi-C Data Challenges the Cholesteric Liquid Crystal Hypothesis.",
-    "sent_at": "2026-10-30T19:19:11.558147Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.24.761502",
     "title": "Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)",
     "sent_at": "2026-10-30T23:43:21.070838Z",
@@ -557,6 +543,20 @@
     "title": "CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity.",
     "sent_at": "2026-11-09T18:45:20.835595Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.06.764816",
+    "title": "scHiR learns joint cellular representations from paired single-cell transcriptome and 3D genome data",
+    "sent_at": "2026-11-10T02:45:58.774212Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1021/acs.biomac.6c01575",
+    "title": "Unveiling the Formation and Stability of the Droplet Phase of the Thyroid Transcription Factor TTF-1HD/dsDNA Complex under Cell-like Crowding Conditions.",
+    "sent_at": "2026-11-10T02:45:58.774212Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
