@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.25.761612",
-    "title": "An invariant network architecture with broadly expressed regulators distinguishes cell-type from cell-state identity in situ",
-    "sent_at": "2026-10-31T12:21:10.289770Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/cvr/cvag239",
-    "title": "From 3D to 4D: spatiotemporal genome architecture and functional genomics in cardiovascular disease.",
-    "sent_at": "2026-10-31T12:21:10.289770Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.29.762653",
     "title": "Single-nucleus multiome profiling reveals osteocyte-centered remodeling of human subchondral bone across osteoarthritis severity",
     "sent_at": "2026-10-31T18:33:58.420166Z",
@@ -557,6 +543,20 @@
     "title": "Microfluidic concatemer sequencing unveils cooperative and competitive enhancer clusters in gene regulation.",
     "sent_at": "2026-11-10T20:50:57.351347Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.07.765049",
+    "title": "KAT6 and KAT7 actively maintain mitotic chromatin composition and acetylation to preserve developmental competence",
+    "sent_at": "2026-11-11T01:56:25.665309Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1140",
+    "title": "PlantPAN 5.0: updated database for integrating multiomics evidence and exploring multilayered transcriptional regulatory networks in plants.",
+    "sent_at": "2026-11-11T01:56:25.665309Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
