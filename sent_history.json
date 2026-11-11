@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.29.762653",
-    "title": "Single-nucleus multiome profiling reveals osteocyte-centered remodeling of human subchondral bone across osteoarthritis severity",
-    "sent_at": "2026-10-31T18:33:58.420166Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.psj.2026.107987",
-    "title": "A tandem repeat in TCF25 intron 1 is associated with MC1R activation through dual mechanisms of transcriptional derepression and chromatin looping underlying black plumage in chickens.",
-    "sent_at": "2026-10-31T18:33:58.420166Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.30.762954",
     "title": "SMFnet reveals principles of combinatorial transcription factor assembly",
     "sent_at": "2026-10-31T23:25:22.102132Z",
@@ -557,6 +543,20 @@
     "title": "PlantPAN 5.0: updated database for integrating multiomics evidence and exploring multilayered transcriptional regulatory networks in plants.",
     "sent_at": "2026-11-11T01:56:25.665309Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.09.765236",
+    "title": "IL13 critically contributes to the antitumor activity of polyfunctional CD4+ T cells driven by constitutively active Stat5",
+    "sent_at": "2026-11-11T09:18:51.477008Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.psj.2026.108099",
+    "title": "Epigenetic regulation and three-dimensional chromatin structural changes during myofiber formation in chicken embryos.",
+    "sent_at": "2026-11-11T09:18:51.477008Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
