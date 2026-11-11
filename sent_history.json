@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.30.762954",
-    "title": "SMFnet reveals principles of combinatorial transcription factor assembly",
-    "sent_at": "2026-10-31T23:25:22.102132Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.4014/jmb.2608.08034",
-    "title": "Molecular Packaging, Liquid-Crystalline Order, and Three-Dimensional Architecture of Dinoflagellate Chromosomes.",
-    "sent_at": "2026-10-31T23:25:22.102132Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.29.762938",
     "title": "ChAI-Net learns a regulatory code for chromatin co-accessibility",
     "sent_at": "2026-11-01T05:53:25.999383Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.psj.2026.108099",
     "title": "Epigenetic regulation and three-dimensional chromatin structural changes during myofiber formation in chicken embryos.",
     "sent_at": "2026-11-11T09:18:51.477008Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.10.765568",
+    "title": "Non-coding RNA controls long-range enhancer-promoter interactions",
+    "sent_at": "2026-11-11T17:55:21.264192Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/narmme/ugag046",
+    "title": "Lamin A regulates chromatin structure and function in cardiac myocytes in a mouse model of lamin-cardiomyopathy.",
+    "sent_at": "2026-11-11T17:55:21.264192Z",
     "tier": 1,
     "kind": "journal"
   }
