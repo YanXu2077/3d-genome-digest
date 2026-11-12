@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.29.762797",
-    "title": "FiberBrowser: a unified framework for single-molecule genomics",
-    "sent_at": "2026-11-01T13:15:48.416110Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.ijbiomac.2026.155111",
-    "title": "Regulatory roles and mechanistic insights of chromatin 3D structure in mammalian growth and development: A research progress review.",
-    "sent_at": "2026-11-01T13:15:48.416110Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1007/s10577-026-09823-4",
     "title": "\"Frozen\" chromatin: insights on its structuring from cryo-EM tomography.",
     "sent_at": "2026-11-01T15:25:39.620695Z",
@@ -556,6 +542,20 @@
     "doi": "10.1073/pnas.2609070123",
     "title": "Chromatin dynamics secondary to dexamethasone exposure identifies 67 genes linked to elevated IOP and primary open-angle glaucoma.",
     "sent_at": "2026-11-12T00:37:28.032901Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.08.765174",
+    "title": "Long-read analysis of complete human 5S rDNA arrays reveals a zoned organization with two-state unit methylation linked to chromatin architecture",
+    "sent_at": "2026-11-12T09:45:46.615559Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1523/JNEUROSCI.0972-26.2026",
+    "title": "Characterization of the 3D Structure of Chromatin in D1 and D2 Medium Spiny Neurons of the Nucleus Accumbens.",
+    "sent_at": "2026-11-12T09:45:46.615559Z",
     "tier": 1,
     "kind": "journal"
   }
