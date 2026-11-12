@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1007/s10577-026-09823-4",
-    "title": "\"Frozen\" chromatin: insights on its structuring from cryo-EM tomography.",
-    "sent_at": "2026-11-01T15:25:39.620695Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1038/s41556-026-02099-0",
-    "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
-    "sent_at": "2026-11-01T18:56:42.079559Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.30.763179",
     "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
     "sent_at": "2026-11-01T18:56:42.079559Z",
@@ -557,6 +543,20 @@
     "title": "Characterization of the 3D Structure of Chromatin in D1 and D2 Medium Spiny Neurons of the Nucleus Accumbens.",
     "sent_at": "2026-11-12T09:45:46.615559Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.08.764927",
+    "title": "BAF complexes cooperate with lineage-restricted transcription factors to establish cell-state-specific regulatory programs",
+    "sent_at": "2026-11-12T18:13:48.796861Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41586-026-11240-w",
+    "title": "Transient nuclear softening for zygotic gene activation in mice.",
+    "sent_at": "2026-11-12T18:13:48.796861Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
