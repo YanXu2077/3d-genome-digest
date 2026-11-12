@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.30.763179",
-    "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
-    "sent_at": "2026-11-01T18:56:42.079559Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.10.30.763179",
-    "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
-    "sent_at": "2026-11-01T18:56:51.464244Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41556-026-02099-0",
     "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
     "sent_at": "2026-11-01T18:56:51.464244Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41586-026-11240-w",
     "title": "Transient nuclear softening for zygotic gene activation in mice.",
     "sent_at": "2026-11-12T18:13:48.796861Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.10.765814",
+    "title": "Interplay of diffusive and active motion governs cohesin extrusion and CTCF barrier function",
+    "sent_at": "2026-11-12T23:51:49.224601Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.10.021",
+    "title": "A sequence-encoded promoter-proximal super pause stabilizes an offline RNA polymerase II state.",
+    "sent_at": "2026-11-12T23:51:49.224601Z",
     "tier": 2,
     "kind": "journal"
   }
