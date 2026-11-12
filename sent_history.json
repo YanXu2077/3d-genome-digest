@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.29.762938",
-    "title": "ChAI-Net learns a regulatory code for chromatin co-accessibility",
-    "sent_at": "2026-11-01T05:53:25.999383Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag1061",
-    "title": "Region-specific generation and retention of acetylated cohesin shape the genome-wide pattern of sister chromatid cohesion.",
-    "sent_at": "2026-11-01T05:53:25.999383Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.29.762797",
     "title": "FiberBrowser: a unified framework for single-molecule genomics",
     "sent_at": "2026-11-01T13:15:48.416110Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/narmme/ugag046",
     "title": "Lamin A regulates chromatin structure and function in cardiac myocytes in a mouse model of lamin-cardiomyopathy.",
     "sent_at": "2026-11-11T17:55:21.264192Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.10.765665",
+    "title": "Inferring chromatin looping interactions from microscopy-based measurements: opportunities and pitfalls",
+    "sent_at": "2026-11-12T00:37:28.032901Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2609070123",
+    "title": "Chromatin dynamics secondary to dexamethasone exposure identifies 67 genes linked to elevated IOP and primary open-angle glaucoma.",
+    "sent_at": "2026-11-12T00:37:28.032901Z",
     "tier": 1,
     "kind": "journal"
   }
