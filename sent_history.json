@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s44318-026-00933-7",
-    "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
-    "sent_at": "2026-11-01T23:34:01.662916Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1002/advs.78518",
-    "title": "3'-UTR Hypermethylation and ABA Signaling Coordinate Transcriptional Activation of SWEET14 for High Sugar Accumulation in Citrus.",
-    "sent_at": "2026-11-02T05:52:49.132341Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.mam.2026.101524",
     "title": "UHRF proteins as epigenetic integrators coordinating DNA methylation, histone modifications, and chromatin remodeling.",
     "sent_at": "2026-11-02T09:51:26.414221Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.cell.2026.08.012",
     "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
     "sent_at": "2026-11-13T07:11:11.142049Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.10.765673",
+    "title": "NFIB and TCF4 converge to regulate the expression of genes involved in neuronal differentiation during neocortical development",
+    "sent_at": "2026-11-13T09:33:17.328950Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.10.022",
+    "title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain.",
+    "sent_at": "2026-11-13T09:33:17.328950Z",
     "tier": 1,
     "kind": "journal"
   }
