@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41556-026-02099-0",
-    "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression.",
-    "sent_at": "2026-11-01T18:56:51.464244Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1093/nar/gkag1068",
-    "title": "Integrator complex removes lesion-stalled RNA polymerase II after transcription-coupled repair to facilitate transcription restart.",
-    "sent_at": "2026-11-01T20:43:36.596600Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1038/s44318-026-00933-7",
     "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
     "sent_at": "2026-11-01T23:34:01.662916Z",
@@ -557,6 +543,20 @@
     "title": "A sequence-encoded promoter-proximal super pause stabilizes an offline RNA polymerase II state.",
     "sent_at": "2026-11-12T23:51:49.224601Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.09.765385",
+    "title": "The SOX9 C-terminus encodes a transferable cBAF-recruitment module for enhancer remodeling and cell-state control",
+    "sent_at": "2026-11-13T07:11:11.142049Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.cell.2026.08.012",
+    "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
+    "sent_at": "2026-11-13T07:11:11.142049Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
