@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag1089",
-    "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization.",
-    "sent_at": "2026-11-02T15:39:02.475903Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.29.762969",
-    "title": "Molecular dissection of the ChAHP complex subunits Adnp and Chd4 reveals common and divergent functions in retinal development",
-    "sent_at": "2026-11-02T20:30:40.817735Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/bib/bbag603",
     "title": "AxialTAD: an axial contrast architecture for TAD boundary prediction from Hi-C.",
     "sent_at": "2026-11-02T20:30:40.817735Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.crmeth.2026.101567",
     "title": "An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN.",
     "sent_at": "2026-11-13T16:48:36.765436Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.11.765832",
+    "title": "Transcription factor handover reshapes hub dynamics to coordinate temporal progression of Notch response",
+    "sent_at": "2026-11-13T23:32:52.296976Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78565-y",
+    "title": "Uhrf1 loss disrupts CTCF-associated chromatin organization during early mouse embryogenesis.",
+    "sent_at": "2026-11-13T23:32:52.296976Z",
     "tier": 1,
     "kind": "journal"
   }
