@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.mam.2026.101524",
-    "title": "UHRF proteins as epigenetic integrators coordinating DNA methylation, histone modifications, and chromatin remodeling.",
-    "sent_at": "2026-11-02T09:51:26.414221Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.30.763078",
-    "title": "A Unique Promoter Architecture Defines Menin-KMT2A Complex Selectivity",
-    "sent_at": "2026-11-02T15:39:02.475903Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag1089",
     "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization.",
     "sent_at": "2026-11-02T15:39:02.475903Z",
@@ -556,6 +542,20 @@
     "doi": "10.1016/j.cell.2026.10.022",
     "title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain.",
     "sent_at": "2026-11-13T09:33:17.328950Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.12.766163",
+    "title": "DNA Sequence Differentially Modulates Histone Core and Tail Interactions in Canonical and Centromeric Nucleosomes",
+    "sent_at": "2026-11-13T16:48:36.765436Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.crmeth.2026.101567",
+    "title": "An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN.",
+    "sent_at": "2026-11-13T16:48:36.765436Z",
     "tier": 1,
     "kind": "journal"
   }
