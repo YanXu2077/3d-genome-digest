@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/bib/bbag610",
-    "title": "HiCP2GAN: a plug and play foundation model-based GAN for Hi-C enhancement.",
-    "sent_at": "2026-11-02T23:30:48.404863Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.28.762297",
-    "title": "A single-cell multimodal foundation model enables cross modality analysis between transcriptome and chromatin",
-    "sent_at": "2026-11-03T02:34:28.997531Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1371/journal.pone.0360620",
     "title": "Recurrent enhancer-promoter interactions across samples.",
     "sent_at": "2026-11-03T02:34:28.997531Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/nargab/lqag136",
     "title": "GOntact: using chromatin contacts to infer target genes and Gene Ontology enrichments for cis-regulatory elements.",
     "sent_at": "2026-11-14T06:11:09.388911Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.12.766149",
+    "title": "Spatial multi-omic profiling of non-autonomous transcriptomic and epigenomic responses to genetic perturbation",
+    "sent_at": "2026-11-14T15:05:15.017049Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3390/molecules31213870",
+    "title": "Polymer Physics Predicts Conformational Diversity of Individual Chromatin Molecules.",
+    "sent_at": "2026-11-14T15:05:15.017049Z",
     "tier": 1,
     "kind": "journal"
   }
