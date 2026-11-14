@@ -1,33 +1,5 @@
 [
   {
-    "doi": "10.1371/journal.pone.0360620",
-    "title": "Recurrent enhancer-promoter interactions across samples.",
-    "sent_at": "2026-11-03T02:34:28.997531Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.29.762771",
-    "title": "Gene regulatory logic underlying the differentiation of mixed lineages in human thymic epithelial cells",
-    "sent_at": "2026-11-03T06:39:34.275618Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1172/JCI189034",
-    "title": "Targeting N-acetyltransferase 10 reprograms Treg function to enhance anti-PD-1 immunotherapy sensitivity in murine lung tumors.",
-    "sent_at": "2026-11-03T06:39:34.275618Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.30.763187",
-    "title": "Nuclear speckles comprise hierarchical nanoscale interaction networks that shape molecular dynamics",
-    "sent_at": "2026-11-03T09:57:22.086544Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.scib.2026.10.066",
     "title": "MeCP2 stabilizes the glucocorticoid system in active chromatin regions.",
     "sent_at": "2026-11-03T09:57:22.086544Z",
@@ -556,6 +528,34 @@
     "doi": "10.3390/molecules31213870",
     "title": "Polymer Physics Predicts Conformational Diversity of Individual Chromatin Molecules.",
     "sent_at": "2026-11-14T15:05:15.017049Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.12.766027",
+    "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
+    "sent_at": "2026-11-14T20:46:25.871556+00:00",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.ppat.1014342",
+    "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
+    "sent_at": "2026-11-14T20:46:25.871556+00:00",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.12.766027",
+    "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
+    "sent_at": "2026-11-14T20:46:35.568996Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1371/journal.ppat.1014342",
+    "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
+    "sent_at": "2026-11-14T20:46:35.568996Z",
     "tier": 1,
     "kind": "journal"
   }
