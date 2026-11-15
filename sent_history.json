@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1038/s44319-026-00969-0",
-    "title": "Self-organization of Drosophila chromatin architecture in a cell-free system.",
-    "sent_at": "2026-11-03T16:12:56.606814Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.01.763477",
     "title": "FoxO1 and HNF1α cooperatively remodel nucleosome architecture and mechanical stability to activate transcription",
     "sent_at": "2026-11-03T18:02:17.966129Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.isci.2026.118155",
     "title": "Chromatin compartment shifting is recurrent and associated with epigenetic reprogramming in prostate cancer.",
     "sent_at": "2026-11-15T09:14:23.876099Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3390/biology15211957",
+    "title": "Comparative Analysis of Three-Dimensional Chromatin Architecture in the Shell Gland Between Blue- and White-Shelled Laying Ducks.",
+    "sent_at": "2026-11-15T17:00:58.557635Z",
     "tier": 1,
     "kind": "journal"
   }
