@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.scib.2026.10.066",
-    "title": "MeCP2 stabilizes the glucocorticoid system in active chromatin regions.",
-    "sent_at": "2026-11-03T09:57:22.086544Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.02.763620",
     "title": "Continuous Topological Accessibility (RFA) as a 3D-Aware GRN Filter: Anticorrelation with eQTL and No Prediction of ΔRNA",
     "sent_at": "2026-11-03T16:12:56.606814Z",
@@ -556,6 +549,13 @@
     "doi": "10.1371/journal.ppat.1014342",
     "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
     "sent_at": "2026-11-14T20:46:35.568996Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/cnr2.70744",
+    "title": "Integrated Genomic Characterization of Aggressive Multiple Myeloma With 1q21 Gain Reveals IL6R-Associated Chromatin Remodeling: A Case Report.",
+    "sent_at": "2026-11-15T01:50:06.923594Z",
     "tier": 1,
     "kind": "journal"
   }
