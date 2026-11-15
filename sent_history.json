@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.02.763620",
-    "title": "Continuous Topological Accessibility (RFA) as a 3D-Aware GRN Filter: Anticorrelation with eQTL and No Prediction of ΔRNA",
-    "sent_at": "2026-11-03T16:12:56.606814Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s44319-026-00969-0",
     "title": "Self-organization of Drosophila chromatin architecture in a cell-free system.",
     "sent_at": "2026-11-03T16:12:56.606814Z",
@@ -556,6 +549,13 @@
     "doi": "10.1002/cnr2.70744",
     "title": "Integrated Genomic Characterization of Aggressive Multiple Myeloma With 1q21 Gain Reveals IL6R-Associated Chromatin Remodeling: A Case Report.",
     "sent_at": "2026-11-15T01:50:06.923594Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.isci.2026.118155",
+    "title": "Chromatin compartment shifting is recurrent and associated with epigenetic reprogramming in prostate cancer.",
+    "sent_at": "2026-11-15T09:14:23.876099Z",
     "tier": 1,
     "kind": "journal"
   }
