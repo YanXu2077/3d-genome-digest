@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.01.763477",
-    "title": "FoxO1 and HNF1α cooperatively remodel nucleosome architecture and mechanical stability to activate transcription",
-    "sent_at": "2026-11-03T18:02:17.966129Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-78098-4",
-    "title": "PSHIC reveals allele-specific chromatin organization by phasing-free structural modeling.",
-    "sent_at": "2026-11-03T18:02:17.966129Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.03.763895",
     "title": "Local chromatin, 3D genome folding and transposon cargo shape Sleeping Beauty transposition",
     "sent_at": "2026-11-03T23:19:30.333427Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/biology15211957",
     "title": "Comparative Analysis of Three-Dimensional Chromatin Architecture in the Shell Gland Between Blue- and White-Shelled Laying Ducks.",
     "sent_at": "2026-11-15T17:00:58.557635Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3390/cancers18213416",
+    "title": "Epigenetic Rewiring of Enhancer-Promoter Interactions in Cancer: Mechanisms and Therapeutic Implications.",
+    "sent_at": "2026-11-15T22:47:54.019888Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3390/cancers18213416",
+    "title": "Epigenetic Rewiring of Enhancer-Promoter Interactions in Cancer: Mechanisms and Therapeutic Implications.",
+    "sent_at": "2026-11-15T22:47:59.761467Z",
     "tier": 1,
     "kind": "journal"
   }
