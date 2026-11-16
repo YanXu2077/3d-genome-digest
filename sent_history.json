@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag1082",
-    "title": "Varied Ensembles of Long-range ChROmatin interactions drive chromatin compartmentalization.",
-    "sent_at": "2026-11-03T23:19:30.333427Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.28.762654",
-    "title": "scSTEC: Annotating Chromatin Subcompartments from Individual Single-Cell Hi-C Data via Direct Two-Dimensional Embedding and Chromosome-wise Consensus",
-    "sent_at": "2026-11-04T06:08:19.432956Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.10.009",
     "title": "An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.",
     "sent_at": "2026-11-04T06:08:19.432956Z",
@@ -557,6 +543,20 @@
     "title": "Transcriptional regulatory landscape of plum (Prunus salicina) fruit ripening.",
     "sent_at": "2026-11-16T06:11:30.443485Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.11.766038",
+    "title": "Co-transcriptional splicing of the Drosophila Y-loop A transcript is organized in chromatin hubs and shows variable delay which increases with spermatocyte maturation",
+    "sent_at": "2026-11-16T18:24:13.254350Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1172/JCI199747",
+    "title": "METTL8 orchestrates TFH cell differentiation through m³C-mediated TCF1 regulation in infection and cancer models.",
+    "sent_at": "2026-11-16T18:24:13.254350Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
