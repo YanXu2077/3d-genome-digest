@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.03.763895",
-    "title": "Local chromatin, 3D genome folding and transposon cargo shape Sleeping Beauty transposition",
-    "sent_at": "2026-11-03T23:19:30.333427Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/nar/gkag1082",
     "title": "Varied Ensembles of Long-range ChROmatin interactions drive chromatin compartmentalization.",
     "sent_at": "2026-11-03T23:19:30.333427Z",
@@ -557,6 +550,13 @@
     "title": "Epigenetic Rewiring of Enhancer-Promoter Interactions in Cancer: Mechanisms and Therapeutic Implications.",
     "sent_at": "2026-11-15T22:47:59.761467Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1093/plcell/koag350",
+    "title": "Transcriptional regulatory landscape of plum (Prunus salicina) fruit ripening.",
+    "sent_at": "2026-11-16T06:11:30.443485Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
