@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/jmcb/mjag047",
-    "title": "Niche Condensin Controls Stem Cell Differentiation through Genome Architecture-Regulated Neuronal Gene Networks.",
-    "sent_at": "2026-11-04T14:27:03.514094Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.02.763844",
-    "title": "Chromosome folding encodes mechanisms of cohesion maintenance",
-    "sent_at": "2026-11-04T16:33:08.843295Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/noajnl/vdag260",
     "title": "Bromodomain and extra-terminal motif (BET) inhibition induces coordinated repression of the stem cell-related HOX signature in glioblastoma uncovering an epigenetic vulnerability.",
     "sent_at": "2026-11-04T16:33:08.843295Z",
@@ -557,6 +543,20 @@
     "title": "LoopID reveals JMJD2 condensates as scaffolds for enhancer-promoter looping.",
     "sent_at": "2026-11-17T02:56:43.733065Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.13.766381",
+    "title": "The Ran-binding protein Mog1 sustains Spt5 C-terminal phosphorylation by counteracting Spt4 in budding yeast",
+    "sent_at": "2026-11-17T13:13:14.908969Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.10.027",
+    "title": "An image-based CRISPR screen reveals RNA processing control of HP1α condensates.",
+    "sent_at": "2026-11-17T13:13:14.908969Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
