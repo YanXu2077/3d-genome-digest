@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/noajnl/vdag260",
-    "title": "Bromodomain and extra-terminal motif (BET) inhibition induces coordinated repression of the stem cell-related HOX signature in glioblastoma uncovering an epigenetic vulnerability.",
-    "sent_at": "2026-11-04T16:33:08.843295Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.28.762220",
-    "title": "A generative network model reveals hierarchical structural memory guiding post-mitotic 3D genome inheritance",
-    "sent_at": "2026-11-04T21:55:03.993764Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.10.011",
     "title": "P-TEFb regulates nucleosome positioning at promoters.",
     "sent_at": "2026-11-04T21:55:03.993764Z",
@@ -557,6 +543,20 @@
     "title": "An image-based CRISPR screen reveals RNA processing control of HP1α condensates.",
     "sent_at": "2026-11-17T13:13:14.908969Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.767090",
+    "title": "CTCF-anchored cohesin loops are a vertebrate-specific innovation",
+    "sent_at": "2026-11-17T22:17:03.226789Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78943-6",
+    "title": "A CRC-MYB chromatin loop controls auxin-mediated nectary growth in Arabidopsis.",
+    "sent_at": "2026-11-17T22:17:03.226789Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
