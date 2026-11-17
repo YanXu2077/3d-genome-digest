@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.10.009",
-    "title": "An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.",
-    "sent_at": "2026-11-04T06:08:19.432956Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.31.763357",
-    "title": "Reference-Guided De Novo Retrieval of 3D Chromatin Organizational Features with Representation Learning",
-    "sent_at": "2026-11-04T14:27:03.514094Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/jmcb/mjag047",
     "title": "Niche Condensin Controls Stem Cell Differentiation through Genome Architecture-Regulated Neuronal Gene Networks.",
     "sent_at": "2026-11-04T14:27:03.514094Z",
@@ -557,6 +543,20 @@
     "title": "METTL8 orchestrates TFH cell differentiation through m³C-mediated TCF1 regulation in infection and cancer models.",
     "sent_at": "2026-11-16T18:24:13.254350Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.13.766432",
+    "title": "Distinct contributions of cohesin-STAG1 and cohesin-STAG2 to the pluripotent and totipotent states",
+    "sent_at": "2026-11-17T02:56:43.733065Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1007/s11427-026-3390-x",
+    "title": "LoopID reveals JMJD2 condensates as scaffolds for enhancer-promoter looping.",
+    "sent_at": "2026-11-17T02:56:43.733065Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
