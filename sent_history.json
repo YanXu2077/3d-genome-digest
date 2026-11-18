@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.04.764297",
-    "title": "The long noncoding RNA FOSIL shapes the dynamics of FOS induction",
-    "sent_at": "2026-11-06T12:03:10.014776Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.sbi.2026.103418",
-    "title": "Rules of the road for loop-extruding motors: loading, unloading, and crowding.",
-    "sent_at": "2026-11-06T12:03:10.014776Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.04.764356",
     "title": "Optogenetic induction of TAD boundary pairing promotes gene activity",
     "sent_at": "2026-11-06T19:22:02.524180Z",
@@ -557,6 +543,20 @@
     "title": "Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences.",
     "sent_at": "2026-11-18T17:16:21.990278Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.17.767085",
+    "title": "ChIMe-seq enables multimodal epigenetic profiling in single molecules and single cells",
+    "sent_at": "2026-11-18T22:18:06.387494Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1063/5.0350655",
+    "title": "The exchange dynamics of client molecules in biomolecular condensates.",
+    "sent_at": "2026-11-18T22:18:06.387494Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
