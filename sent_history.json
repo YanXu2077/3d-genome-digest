@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.03.764042",
-    "title": "HOX13 factors shape cell developmental transcriptional program through multiple mechanisms that regulate chromatin accessibility.",
-    "sent_at": "2026-11-05T21:09:11.077627Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag1099",
-    "title": "CFDP1 is required for histone variant H2A.Z deposition by the human SRCAP chromatin remodeling complex.",
-    "sent_at": "2026-11-05T21:09:11.077627Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.30.762802",
     "title": "Genome-wide chromatin accessibility during early embryogenesis in a generalist cichlid fish",
     "sent_at": "2026-11-06T02:19:05.611106Z",
@@ -557,6 +543,20 @@
     "title": "Single-molecule FRET at 30: Toward conformational sequencing.",
     "sent_at": "2026-11-18T07:16:57.700911Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.751813",
+    "title": "A histone hitchhiking mechanism for chromatin maintenance during mammalian transcription elongation",
+    "sent_at": "2026-11-18T13:23:21.618705Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s44318-026-00957-z",
+    "title": "Nuclear receptor transcription factors promote axon regeneration in the adult corticospinal tract.",
+    "sent_at": "2026-11-18T13:23:21.618705Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
