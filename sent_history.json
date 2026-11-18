@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.celrep.2026.118253",
-    "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions.",
-    "sent_at": "2026-11-05T02:20:47.701377Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.01.763421",
-    "title": "Decoding Cell-type Specific Gene Regulation with CellReg3D by Integrating DNA Large Language Models and 3D Genome Structure",
-    "sent_at": "2026-11-05T12:14:30.830233Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.64898/2026.11.03.764042",
     "title": "HOX13 factors shape cell developmental transcriptional program through multiple mechanisms that regulate chromatin accessibility.",
     "sent_at": "2026-11-05T21:09:11.077627Z",
@@ -557,6 +543,20 @@
     "title": "Molecular interactions underlying selective partitioning of clients into MED1 and FUS condensates.",
     "sent_at": "2026-11-18T03:52:05.590415Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.766978",
+    "title": "Gene-scale DNA and chromatin ensembles with atomic resolution",
+    "sent_at": "2026-11-18T07:16:57.700911Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2623191123",
+    "title": "Single-molecule FRET at 30: Toward conformational sequencing.",
+    "sent_at": "2026-11-18T07:16:57.700911Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
