@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.10.011",
-    "title": "P-TEFb regulates nucleosome positioning at promoters.",
-    "sent_at": "2026-11-04T21:55:03.993764Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.29.762992",
-    "title": "Predicting single-molecule chromatin distribution from DNA sequence",
-    "sent_at": "2026-11-05T02:20:47.701377Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.celrep.2026.118253",
     "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions.",
     "sent_at": "2026-11-05T02:20:47.701377Z",
@@ -557,6 +543,20 @@
     "title": "A CRC-MYB chromatin loop controls auxin-mediated nectary growth in Arabidopsis.",
     "sent_at": "2026-11-17T22:17:03.226789Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.766639",
+    "title": "Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability",
+    "sent_at": "2026-11-18T03:52:05.590415Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2602243123",
+    "title": "Molecular interactions underlying selective partitioning of clients into MED1 and FUS condensates.",
+    "sent_at": "2026-11-18T03:52:05.590415Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
