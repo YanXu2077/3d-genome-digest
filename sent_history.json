@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.30.762802",
-    "title": "Genome-wide chromatin accessibility during early embryogenesis in a generalist cichlid fish",
-    "sent_at": "2026-11-06T02:19:05.611106Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/plcell/koag340",
-    "title": "Phosphorylation Alters the Condensation State of the Potato Transcription Factor bZIP18 to Enhance Plant Immunity.",
-    "sent_at": "2026-11-06T02:19:05.611106Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.04.764297",
     "title": "The long noncoding RNA FOSIL shapes the dynamics of FOS induction",
     "sent_at": "2026-11-06T12:03:10.014776Z",
@@ -557,6 +543,20 @@
     "title": "Nuclear receptor transcription factors promote axon regeneration in the adult corticospinal tract.",
     "sent_at": "2026-11-18T13:23:21.618705Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.766941",
+    "title": "Phosphorylated Pol II CTD supports histone hitchhiking during transcription elongation",
+    "sent_at": "2026-11-18T17:16:21.990278Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41588-026-02823-4",
+    "title": "Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences.",
+    "sent_at": "2026-11-18T17:16:21.990278Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
