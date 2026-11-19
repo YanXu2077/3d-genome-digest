@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.04.764245",
-    "title": "Global repression of mesenchymal genes in epithelial cells by the histone demethylase LSD1",
-    "sent_at": "2026-11-07T23:42:36.083064Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.scib.2026.10.058",
-    "title": "HDAC3 deacetylase activity coordinates the reprogramming of histone acetylation and chromatin accessibility to drive zygotic genome activation during preimplantation embryonic development.",
-    "sent_at": "2026-11-07T23:42:36.083064Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.19.759930",
     "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates.",
     "sent_at": "2026-11-08T06:30:25.185508Z",
@@ -556,6 +542,20 @@
     "doi": "10.7554/eLife.108797",
     "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation.",
     "sent_at": "2026-11-19T20:33:18.126548Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.18.767643",
+    "title": "AMBER: mapping accessible chromatin associations through barcode seed expansion",
+    "sent_at": "2026-11-19T22:29:52.320155Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1039/d6nr02520j",
+    "title": "Differential effects of ions and crowding agents on DNA plectoneme dynamics revealed by single-molecule visualization.",
+    "sent_at": "2026-11-19T22:29:52.320155Z",
     "tier": 2,
     "kind": "journal"
   }
