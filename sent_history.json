@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.05.761835",
-    "title": "2'-O-Methylated ncRNA condensates form a recombination center for IgH synapsis",
-    "sent_at": "2026-11-07T05:59:21.495312Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.10.24.761575",
-    "title": "Protein cofactors diversify PRC2 architecture and function.",
-    "sent_at": "2026-11-07T05:59:21.495312Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.05.764606",
     "title": "Multimodal cellular context enables molecular phenotyping from single-molecule trajectories",
     "sent_at": "2026-11-07T12:55:21.213441Z",
@@ -557,6 +543,20 @@
     "title": "Protocol for genome-wide characterization of replication-associated chromatin fountains using replication-associated Micro-C.",
     "sent_at": "2026-11-19T03:47:47.951801Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.17.767007",
+    "title": "Regulatory grammar design of tissue-specific enhancers across species",
+    "sent_at": "2026-11-19T10:14:29.422170Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1016/j.sbi.2026.103436",
+    "title": "Bind me if you can: Transcription factor target search in condensed chromatin.",
+    "sent_at": "2026-11-19T10:14:29.422170Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
