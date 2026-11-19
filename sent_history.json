@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.06.764689",
-    "title": "SPACE-Tag Enables High-Throughput Spatial Chromatin Profiling With CUT&Tag",
-    "sent_at": "2026-11-07T18:45:12.269302Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.chembiol.2026.10.002",
-    "title": "Phase-separated SOX5 drives human cranial neural crest fate commitment.",
-    "sent_at": "2026-11-07T18:45:12.269302Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.04.764245",
     "title": "Global repression of mesenchymal genes in epithelial cells by the histone demethylase LSD1",
     "sent_at": "2026-11-07T23:42:36.083064Z",
@@ -557,6 +543,20 @@
     "title": "Chromatin Remodeling of RasGRP3 Underlies Temozolomide Sensitivity in Glioblastoma Organoids.",
     "sent_at": "2026-11-19T13:46:13.112184Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.18.767706",
+    "title": "Spatial and epigenetic programs underlie heterogeneous cellular senescence in the aging liver",
+    "sent_at": "2026-11-19T20:33:18.126548Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.7554/eLife.108797",
+    "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation.",
+    "sent_at": "2026-11-19T20:33:18.126548Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
