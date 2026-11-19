@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.04.764356",
-    "title": "Optogenetic induction of TAD boundary pairing promotes gene activity",
-    "sent_at": "2026-11-06T19:22:02.524180Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/hr/uhag236",
-    "title": "Distal cis-regulatory elements in 3' UTRs orchestrate gene expression via single-gene domain architecture in Brassica rapa.",
-    "sent_at": "2026-11-06T19:22:02.524180Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.04.764273",
     "title": "Epigenome-informed Polymer Modeling Reveals Chromosome Folding Landscapes across Distinct Genetic and Epigenetic Contexts",
     "sent_at": "2026-11-07T00:09:46.676009Z",
@@ -557,6 +543,20 @@
     "title": "The exchange dynamics of client molecules in biomolecular condensates.",
     "sent_at": "2026-11-18T22:18:06.387494Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.17.767299",
+    "title": "FULL-seq reveals isoform-specific regulatory architecture in single cells",
+    "sent_at": "2026-11-19T00:20:22.138958Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aei5536",
+    "title": "Chromatin loci move coherently due to spatially correlated fluctuations.",
+    "sent_at": "2026-11-19T00:20:22.138958Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
