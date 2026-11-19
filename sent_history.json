@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.05.764606",
-    "title": "Multimodal cellular context enables molecular phenotyping from single-molecule trajectories",
-    "sent_at": "2026-11-07T12:55:21.213441Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.64898/2026.10.27.762201",
-    "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors.",
-    "sent_at": "2026-11-07T12:55:21.213441Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.06.764689",
     "title": "SPACE-Tag Enables High-Throughput Spatial Chromatin Profiling With CUT&Tag",
     "sent_at": "2026-11-07T18:45:12.269302Z",
@@ -557,6 +543,20 @@
     "title": "Bind me if you can: Transcription factor target search in condensed chromatin.",
     "sent_at": "2026-11-19T10:14:29.422170Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.16.767207",
+    "title": "EHMT1 and EHMT2 Control the Timing of Cortical Neurogenesis Through H3K9me2-Dependent and -Independent Mechanisms",
+    "sent_at": "2026-11-19T13:46:13.112184Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/advs.78665",
+    "title": "Chromatin Remodeling of RasGRP3 Underlies Temozolomide Sensitivity in Glioblastoma Organoids.",
+    "sent_at": "2026-11-19T13:46:13.112184Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
