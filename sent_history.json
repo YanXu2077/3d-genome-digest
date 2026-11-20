@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.19.760194",
-    "title": "ONT-LibQC: rapid quality control of chromatin assay libraries using shallow nanopore sequencing.",
-    "sent_at": "2026-11-08T18:52:08.583036Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.14.759128",
-    "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution.",
-    "sent_at": "2026-11-08T23:43:50.651489Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.13.758074",
     "title": "cBAF drives AR-V7 expression through regulation of transcriptional termination in castration-resistant prostate cancer.",
     "sent_at": "2026-11-09T06:12:34.313821Z",
@@ -557,6 +543,20 @@
     "title": "Physicochemical microenvironments within biomolecular condensates govern reaction kinetics beyond mass-action effects.",
     "sent_at": "2026-11-20T03:06:48.338535Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.17.766938",
+    "title": "Glioblastoma exhibits bidirectional adaptation to treatment through JARID2-associated developmental plasticity",
+    "sent_at": "2026-11-20T12:50:00.548407Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1101/pdb.prot108756",
+    "title": "Mapping the Three-Dimensional Chromatin Structure of the Harpegnathos saltator Brain by Micro-C.",
+    "sent_at": "2026-11-20T12:50:00.548407Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
