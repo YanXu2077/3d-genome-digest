@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.19.759930",
-    "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates.",
-    "sent_at": "2026-11-08T06:30:25.185508Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.10.15.757424",
-    "title": "Epigenomic heterogeneity and spatial organization during human reprogramming.",
-    "sent_at": "2026-11-08T13:18:34.619315Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.19.760194",
     "title": "ONT-LibQC: rapid quality control of chromatin assay libraries using shallow nanopore sequencing.",
     "sent_at": "2026-11-08T18:52:08.583036Z",
@@ -556,6 +542,20 @@
     "doi": "10.1039/d6nr02520j",
     "title": "Differential effects of ions and crowding agents on DNA plectoneme dynamics revealed by single-molecule visualization.",
     "sent_at": "2026-11-19T22:29:52.320155Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.15.766730",
+    "title": "YAP1-induced super-enhancer rewiring mediates gene-environment-driven malignant reprogramming and metastatic ecosystem formation in head and neck cancer",
+    "sent_at": "2026-11-20T03:06:48.338535Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2611172123",
+    "title": "Physicochemical microenvironments within biomolecular condensates govern reaction kinetics beyond mass-action effects.",
+    "sent_at": "2026-11-20T03:06:48.338535Z",
     "tier": 2,
     "kind": "journal"
   }
