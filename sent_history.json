@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.13.758074",
-    "title": "cBAF drives AR-V7 expression through regulation of transcriptional termination in castration-resistant prostate cancer.",
-    "sent_at": "2026-11-09T06:12:34.313821Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "pmid:42999454",
-    "title": "MultiPASE: Shape-Aware Comparative 3D Genome Analysis.",
-    "sent_at": "2026-11-09T06:12:34.313821Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.10.29.762793",
     "title": "MaaD-TAD: an all-atom model of the duplicated PRAMEF/HNRNPCL chromatin domain built from sequence homology",
     "sent_at": "2026-11-09T18:45:20.835595Z",
@@ -556,6 +542,20 @@
     "doi": "10.1101/pdb.prot108756",
     "title": "Mapping the Three-Dimensional Chromatin Structure of the Harpegnathos saltator Brain by Micro-C.",
     "sent_at": "2026-11-20T12:50:00.548407Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.19.766859",
+    "title": "Intragenic redistribution of RNA polymerase II licenses epigenetic silencing",
+    "sent_at": "2026-11-20T21:52:55.703172Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.11.02.763844",
+    "title": "Chromosome folding encodes mechanisms of cohesion maintenance.",
+    "sent_at": "2026-11-20T21:52:55.703172Z",
     "tier": 1,
     "kind": "journal"
   }
