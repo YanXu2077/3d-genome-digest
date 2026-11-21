@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1021/acs.biomac.6c01575",
-    "title": "Unveiling the Formation and Stability of the Droplet Phase of the Thyroid Transcription Factor TTF-1HD/dsDNA Complex under Cell-like Crowding Conditions.",
-    "sent_at": "2026-11-10T02:45:58.774212Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.07.764600",
     "title": "Learning from Hi-C reveals nuclear dynamical reorganization in budding yeast across the cell cycle",
     "sent_at": "2026-11-10T12:32:13.150739Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.10.31.763357",
     "title": "Reference-Guided De Novo Retrieval of 3D Chromatin Organizational Features with Representation Learning.",
     "sent_at": "2026-11-21T12:35:39.240916Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.01.763250",
+    "title": "NAD Metabolism Drives CTCF-Cohesin Chromatin Regulation in EBV-Transformed B-Cells.",
+    "sent_at": "2026-11-21T20:33:12.023866Z",
     "tier": 1,
     "kind": "journal"
   }
