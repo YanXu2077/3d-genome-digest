@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.10.29.762793",
-    "title": "MaaD-TAD: an all-atom model of the duplicated PRAMEF/HNRNPCL chromatin domain built from sequence homology",
-    "sent_at": "2026-11-09T18:45:20.835595Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1038/s41467-026-78244-y",
     "title": "CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity.",
     "sent_at": "2026-11-09T18:45:20.835595Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.11.02.763844",
     "title": "Chromosome folding encodes mechanisms of cohesion maintenance.",
     "sent_at": "2026-11-20T21:52:55.703172Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.04.764356",
+    "title": "Optogenetic induction of TAD boundary pairing promotes gene activity.",
+    "sent_at": "2026-11-21T03:10:20.640303Z",
     "tier": 1,
     "kind": "journal"
   }
