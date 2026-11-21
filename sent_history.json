@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1038/s41467-026-78244-y",
-    "title": "CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity.",
-    "sent_at": "2026-11-09T18:45:20.835595Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.06.764816",
-    "title": "scHiR learns joint cellular representations from paired single-cell transcriptome and 3D genome data",
-    "sent_at": "2026-11-10T02:45:58.774212Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1021/acs.biomac.6c01575",
     "title": "Unveiling the Formation and Stability of the Droplet Phase of the Thyroid Transcription Factor TTF-1HD/dsDNA Complex under Cell-like Crowding Conditions.",
     "sent_at": "2026-11-10T02:45:58.774212Z",
@@ -556,6 +542,20 @@
     "doi": "10.64898/2026.11.04.764356",
     "title": "Optogenetic induction of TAD boundary pairing promotes gene activity.",
     "sent_at": "2026-11-21T03:10:20.640303Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.20.767314",
+    "title": "TrES-seq integrates single-cell RNA and nanobody-based histone mark profiles to decode epigenetic and transcriptional axes of cell identity",
+    "sent_at": "2026-11-21T12:35:39.240916Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.31.763357",
+    "title": "Reference-Guided De Novo Retrieval of 3D Chromatin Organizational Features with Representation Learning.",
+    "sent_at": "2026-11-21T12:35:39.240916Z",
     "tier": 1,
     "kind": "journal"
   }
