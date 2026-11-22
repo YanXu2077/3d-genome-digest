@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.07.765049",
-    "title": "KAT6 and KAT7 actively maintain mitotic chromatin composition and acetylation to preserve developmental competence",
-    "sent_at": "2026-11-11T01:56:25.665309Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1093/nar/gkag1140",
-    "title": "PlantPAN 5.0: updated database for integrating multiomics evidence and exploring multilayered transcriptional regulatory networks in plants.",
-    "sent_at": "2026-11-11T01:56:25.665309Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.09.765236",
     "title": "IL13 critically contributes to the antitumor activity of polyfunctional CD4+ T cells driven by constitutively active Stat5",
     "sent_at": "2026-11-11T09:18:51.477008Z",
@@ -557,6 +543,20 @@
     "title": "P2-seq resolves topology-dependent DNA structural states and their long-range coupling in individual molecules.",
     "sent_at": "2026-11-22T18:00:42.910677Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.12.766196",
+    "title": "EPIC2: integrating single-cell chromatin accessibility with human genetics to identify trait-relevant cell types",
+    "sent_at": "2026-11-22T20:43:41.497629Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.10.28.26366656",
+    "title": "Long-range chromatin interactions nominate candidate susceptibility genes at non-coding PDAC risk loci.",
+    "sent_at": "2026-11-22T20:43:41.497629Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
