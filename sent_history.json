@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.10.025",
-    "title": "Hierarchical buffering of cellular RNA polymerase II pools maintains transcriptional homeostasis.",
-    "sent_at": "2026-11-10T12:32:13.150739Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.06.765004",
     "title": "FACT frees Ubp10 from nucleosome sequestration after rapid H2B deubiquitination",
     "sent_at": "2026-11-10T20:50:57.351347Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-11-22T02:07:01.008760Z",
     "tier": 3,
     "kind": "preprint"
+  },
+  {
+    "doi": "10.46471/gigabyte.197",
+    "title": "Single-nucleus chromatin accessibility time course of excisional wound repair in rat skin.",
+    "sent_at": "2026-11-22T10:05:24.856278Z",
+    "tier": 3,
+    "kind": "journal"
   }
 ]
