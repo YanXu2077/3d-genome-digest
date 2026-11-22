@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/nar/gkag1146",
-    "title": "Microfluidic concatemer sequencing unveils cooperative and competitive enhancer clusters in gene regulation.",
-    "sent_at": "2026-11-10T20:50:57.351347Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.07.765049",
     "title": "KAT6 and KAT7 actively maintain mitotic chromatin composition and acetylation to preserve developmental competence",
     "sent_at": "2026-11-11T01:56:25.665309Z",
@@ -557,6 +550,13 @@
     "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization.",
     "sent_at": "2026-11-22T12:32:07.067575Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-10554770/v1",
+    "title": "P2-seq resolves topology-dependent DNA structural states and their long-range coupling in individual molecules.",
+    "sent_at": "2026-11-22T18:00:42.910677Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
