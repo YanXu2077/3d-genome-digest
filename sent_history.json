@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.07.764600",
-    "title": "Learning from Hi-C reveals nuclear dynamical reorganization in budding yeast across the cell cycle",
-    "sent_at": "2026-11-10T12:32:13.150739Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.10.025",
     "title": "Hierarchical buffering of cellular RNA polymerase II pools maintains transcriptional homeostasis.",
     "sent_at": "2026-11-10T12:32:13.150739Z",
@@ -558,5 +551,12 @@
     "sent_at": "2026-11-21T20:33:12.023866Z",
     "tier": 1,
     "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.20.768104",
+    "title": "Single-base 5mC and 5hmC profiling identifies a dynamic 5hmC-to-5mC transition at gene bodies and transcription end sites during neuronal differentiation of mouse embryonic stem cells.",
+    "sent_at": "2026-11-22T02:07:01.008760Z",
+    "tier": 3,
+    "kind": "preprint"
   }
 ]
