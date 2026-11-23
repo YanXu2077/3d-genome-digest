@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.10.765665",
-    "title": "Inferring chromatin looping interactions from microscopy-based measurements: opportunities and pitfalls",
-    "sent_at": "2026-11-12T00:37:28.032901Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2609070123",
-    "title": "Chromatin dynamics secondary to dexamethasone exposure identifies 67 genes linked to elevated IOP and primary open-angle glaucoma.",
-    "sent_at": "2026-11-12T00:37:28.032901Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.08.765174",
     "title": "Long-read analysis of complete human 5S rDNA arrays reveals a zoned organization with two-state unit methylation linked to chromatin architecture",
     "sent_at": "2026-11-12T09:45:46.615559Z",
@@ -557,6 +543,20 @@
     "title": "TFAP2-Dependent Super-Enhancer Activation of PAX3 Drives Chondrogenic Fate in the Cranial Neural Crest.",
     "sent_at": "2026-11-23T08:02:42.758418Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.20.768047",
+    "title": "Locus-resolved expression and manipulation of human-specific transposable elements reveal their role in timely progression of early brain development",
+    "sent_at": "2026-11-23T14:31:07.861663Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1275",
+    "title": "Endogenous variability in transcription factor concentrations shapes their genome-wide occupancy.",
+    "sent_at": "2026-11-23T14:31:07.861663Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
