@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.08.765174",
-    "title": "Long-read analysis of complete human 5S rDNA arrays reveals a zoned organization with two-state unit methylation linked to chromatin architecture",
-    "sent_at": "2026-11-12T09:45:46.615559Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1523/JNEUROSCI.0972-26.2026",
-    "title": "Characterization of the 3D Structure of Chromatin in D1 and D2 Medium Spiny Neurons of the Nucleus Accumbens.",
-    "sent_at": "2026-11-12T09:45:46.615559Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.08.764927",
     "title": "BAF complexes cooperate with lineage-restricted transcription factors to establish cell-state-specific regulatory programs",
     "sent_at": "2026-11-12T18:13:48.796861Z",
@@ -557,6 +543,20 @@
     "title": "Endogenous variability in transcription factor concentrations shapes their genome-wide occupancy.",
     "sent_at": "2026-11-23T14:31:07.861663Z",
     "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.20.768217",
+    "title": "Intrinsically disordered regions within transcription factors impact DNA binding through both autoinhibition and independent DNA binding",
+    "sent_at": "2026-11-23T20:30:30.639131Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1080/21541264.2026.2767353",
+    "title": "Promoter-proximal pausing as a transcription quality control checkpoint.",
+    "sent_at": "2026-11-23T20:30:30.639131Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
