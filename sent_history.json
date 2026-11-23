@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1093/narmme/ugag046",
-    "title": "Lamin A regulates chromatin structure and function in cardiac myocytes in a mouse model of lamin-cardiomyopathy.",
-    "sent_at": "2026-11-11T17:55:21.264192Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.10.765665",
     "title": "Inferring chromatin looping interactions from microscopy-based measurements: opportunities and pitfalls",
     "sent_at": "2026-11-12T00:37:28.032901Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.xops.2026.101423",
     "title": "A Novel TEAD2 Variant Disrupts Eye Development Resulting in Microphthalmia and Ocular Coloboma.",
     "sent_at": "2026-11-23T02:35:23.378811Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1002/advs.78662",
+    "title": "TFAP2-Dependent Super-Enhancer Activation of PAX3 Drives Chondrogenic Fate in the Cranial Neural Crest.",
+    "sent_at": "2026-11-23T08:02:42.758418Z",
     "tier": 3,
     "kind": "journal"
   }
