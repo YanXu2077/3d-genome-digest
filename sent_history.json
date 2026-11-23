@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.10.765568",
-    "title": "Non-coding RNA controls long-range enhancer-promoter interactions",
-    "sent_at": "2026-11-11T17:55:21.264192Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1093/narmme/ugag046",
     "title": "Lamin A regulates chromatin structure and function in cardiac myocytes in a mouse model of lamin-cardiomyopathy.",
     "sent_at": "2026-11-11T17:55:21.264192Z",
@@ -556,6 +549,13 @@
     "doi": "10.64898/2026.08.25.747127",
     "title": "Predictive all-atom simulations of disordered proteins and biomolecular condensates through osmometry-guided force-field optimization.",
     "sent_at": "2026-11-22T23:47:05.854181Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.xops.2026.101423",
+    "title": "A Novel TEAD2 Variant Disrupts Eye Development Resulting in Microphthalmia and Ocular Coloboma.",
+    "sent_at": "2026-11-23T02:35:23.378811Z",
     "tier": 3,
     "kind": "journal"
   }
