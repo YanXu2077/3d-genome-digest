@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.10.021",
-    "title": "A sequence-encoded promoter-proximal super pause stabilizes an offline RNA polymerase II state.",
-    "sent_at": "2026-11-12T23:51:49.224601Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.09.765385",
-    "title": "The SOX9 C-terminus encodes a transferable cBAF-recruitment module for enhancer remodeling and cell-state control",
-    "sent_at": "2026-11-13T07:11:11.142049Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.cell.2026.08.012",
     "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
     "sent_at": "2026-11-13T07:11:11.142049Z",
@@ -556,6 +542,20 @@
     "doi": "10.1146/annurev-genet-022026-092318",
     "title": "RNA-Guided Genome Organization Across Scales.",
     "sent_at": "2026-11-24T04:57:52.520429Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.20.768082",
+    "title": "Integrating CRISPRi perturbation responses and transcription-factor binding priors for regulatory network inference in triple-negative breast cancer",
+    "sent_at": "2026-11-24T14:47:59.323778Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.3389/fbinf.2026.1986674",
+    "title": "WLoops: appropriate background model in scale-space representation of Hi-C maps improves detection of chromatin loops.",
+    "sent_at": "2026-11-24T14:47:59.323778Z",
     "tier": 1,
     "kind": "journal"
   }
