@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.10.765814",
-    "title": "Interplay of diffusive and active motion governs cohesin extrusion and CTCF barrier function",
-    "sent_at": "2026-11-12T23:51:49.224601Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1016/j.molcel.2026.10.021",
     "title": "A sequence-encoded promoter-proximal super pause stabilizes an offline RNA polymerase II state.",
     "sent_at": "2026-11-12T23:51:49.224601Z",
@@ -557,6 +550,13 @@
     "title": "A chromatin biology assessment of AlphaFold3.",
     "sent_at": "2026-11-24T02:55:01.718507Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1146/annurev-genet-022026-092318",
+    "title": "RNA-Guided Genome Organization Across Scales.",
+    "sent_at": "2026-11-24T04:57:52.520429Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
