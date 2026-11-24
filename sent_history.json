@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.cell.2026.08.012",
-    "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
-    "sent_at": "2026-11-13T07:11:11.142049Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.10.765673",
     "title": "NFIB and TCF4 converge to regulate the expression of genes involved in neuronal differentiation during neocortical development",
     "sent_at": "2026-11-13T09:33:17.328950Z",
@@ -557,6 +550,13 @@
     "title": "WLoops: appropriate background model in scale-space representation of Hi-C maps improves detection of chromatin loops.",
     "sent_at": "2026-11-24T14:47:59.323778Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.1016/j.molcel.2026.10.037",
+    "title": "A temporal SOX2 engagement cycle at Nanog is linked to molecular crowding and transcriptional states.",
+    "sent_at": "2026-11-24T18:08:18.447420Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
