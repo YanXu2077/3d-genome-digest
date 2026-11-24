@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.08.764927",
-    "title": "BAF complexes cooperate with lineage-restricted transcription factors to establish cell-state-specific regulatory programs",
-    "sent_at": "2026-11-12T18:13:48.796861Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41586-026-11240-w",
-    "title": "Transient nuclear softening for zygotic gene activation in mice.",
-    "sent_at": "2026-11-12T18:13:48.796861Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.10.765814",
     "title": "Interplay of diffusive and active motion governs cohesin extrusion and CTCF barrier function",
     "sent_at": "2026-11-12T23:51:49.224601Z",
@@ -556,6 +542,20 @@
     "doi": "10.1080/21541264.2026.2767353",
     "title": "Promoter-proximal pausing as a transcription quality control checkpoint.",
     "sent_at": "2026-11-23T20:30:30.639131Z",
+    "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.21.768281",
+    "title": "BASIN: Background-Anchored Signal Normalization with Integrated Quality Control for CUT&RUN and CUT&Tag",
+    "sent_at": "2026-11-24T02:55:01.718507Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1073/pnas.2621340123",
+    "title": "A chromatin biology assessment of AlphaFold3.",
+    "sent_at": "2026-11-24T02:55:01.718507Z",
     "tier": 3,
     "kind": "journal"
   }
