@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/nargab/lqag136",
-    "title": "GOntact: using chromatin contacts to infer target genes and Gene Ontology enrichments for cis-regulatory elements.",
-    "sent_at": "2026-11-14T06:11:09.388911Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.12.766149",
-    "title": "Spatial multi-omic profiling of non-autonomous transcriptomic and epigenomic responses to genetic perturbation",
-    "sent_at": "2026-11-14T15:05:15.017049Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.3390/molecules31213870",
     "title": "Polymer Physics Predicts Conformational Diversity of Individual Chromatin Molecules.",
     "sent_at": "2026-11-14T15:05:15.017049Z",
@@ -556,6 +542,20 @@
     "doi": "10.1073/pnas.2533345123",
     "title": "ZCWPW1 organizes telomeric architecture to drive meiotic chromosome movements.",
     "sent_at": "2026-11-25T14:53:03.726769Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.768880",
+    "title": "Transcriptional activation forms insulation boundaries through cohesin-independent decompaction and cohesin-dependent barrier formation",
+    "sent_at": "2026-11-25T21:41:56.385036Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41467-026-78861-7",
+    "title": "Nascent RNA-mediated recruitment and R-loop suppression underlie FUS-driven enhancement of transcription.",
+    "sent_at": "2026-11-25T21:41:56.385036Z",
     "tier": 2,
     "kind": "journal"
   }
