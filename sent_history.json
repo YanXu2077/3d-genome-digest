@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.12.766163",
-    "title": "DNA Sequence Differentially Modulates Histone Core and Tail Interactions in Canonical and Centromeric Nucleosomes",
-    "sent_at": "2026-11-13T16:48:36.765436Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1016/j.crmeth.2026.101567",
-    "title": "An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN.",
-    "sent_at": "2026-11-13T16:48:36.765436Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.11.765832",
     "title": "Transcription factor handover reshapes hub dynamics to coordinate temporal progression of Notch response",
     "sent_at": "2026-11-13T23:32:52.296976Z",
@@ -556,6 +542,20 @@
     "doi": "10.1103/g3mp-mqmt",
     "title": "Dynamical mean-field theory of active, self-interacting heteropolymers.",
     "sent_at": "2026-11-25T00:38:23.320135Z",
+    "tier": 2,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.13.762587",
+    "title": "FiberTron enables regulatory variant effect prediction and testing from multi-omic long reads of a single sample",
+    "sent_at": "2026-11-25T02:46:30.977822Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1103/yt89-j872",
+    "title": "Visualization of the chromatin structure in intact nuclei of cancer cells using small-angle x-ray scattering.",
+    "sent_at": "2026-11-25T02:46:30.977822Z",
     "tier": 2,
     "kind": "journal"
   }
