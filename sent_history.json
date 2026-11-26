@@ -2,20 +2,6 @@
   {
     "doi": "10.1371/journal.ppat.1014342",
     "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
-    "sent_at": "2026-11-14T20:46:25.871556+00:00",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.12.766027",
-    "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
-    "sent_at": "2026-11-14T20:46:35.568996Z",
-    "tier": 3,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1371/journal.ppat.1014342",
-    "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
     "sent_at": "2026-11-14T20:46:35.568996Z",
     "tier": 1,
     "kind": "journal"
@@ -557,6 +543,20 @@
     "title": "Interaction-Rich Odorant Receptor Neighborhoods and Olfaction-Dependent Subsocial Behavior in a Parasitoid Wasp.",
     "sent_at": "2026-11-26T00:40:40.511217Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.768923",
+    "title": "A method to disentangle enhancer-gene interactions from latent factors in single-cell multi-omics data",
+    "sent_at": "2026-11-26T04:09:50.657833Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aej7096",
+    "title": "Aclarubicin disrupts RNA polymerase II progression at replication-coupled histone genes.",
+    "sent_at": "2026-11-26T04:09:50.657833Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
