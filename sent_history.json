@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.3390/cancers18213416",
-    "title": "Epigenetic Rewiring of Enhancer-Promoter Interactions in Cancer: Mechanisms and Therapeutic Implications.",
-    "sent_at": "2026-11-15T22:47:54.019888Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.3390/cancers18213416",
-    "title": "Epigenetic Rewiring of Enhancer-Promoter Interactions in Cancer: Mechanisms and Therapeutic Implications.",
-    "sent_at": "2026-11-15T22:47:59.761467Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1093/plcell/koag350",
     "title": "Transcriptional regulatory landscape of plum (Prunus salicina) fruit ripening.",
     "sent_at": "2026-11-16T06:11:30.443485Z",
@@ -556,6 +542,20 @@
     "doi": "10.1038/s41586-026-11311-y",
     "title": "Transcription from megabase-scale heterochromatin generates neural barcodes.",
     "sent_at": "2026-11-26T16:51:12.884042Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.769040",
+    "title": "Dynamic Transcription Factor Coupling Shapes Adaptive Enhancer Programs Driving Tumour Cell Heterogeneity and Growth",
+    "sent_at": "2026-11-26T21:54:05.551590Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s13059-026-04264-y",
+    "title": "Differential analysis of image-based chromatin tracing data with Dory.",
+    "sent_at": "2026-11-26T21:54:05.551590Z",
     "tier": 1,
     "kind": "journal"
   }
