@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1371/journal.ppat.1014342",
-    "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.",
-    "sent_at": "2026-11-14T20:46:35.568996Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.1002/cnr2.70744",
-    "title": "Integrated Genomic Characterization of Aggressive Multiple Myeloma With 1q21 Gain Reveals IL6R-Associated Chromatin Remodeling: A Case Report.",
-    "sent_at": "2026-11-15T01:50:06.923594Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.1016/j.isci.2026.118155",
     "title": "Chromatin compartment shifting is recurrent and associated with epigenetic reprogramming in prostate cancer.",
     "sent_at": "2026-11-15T09:14:23.876099Z",
@@ -557,6 +543,20 @@
     "title": "Aclarubicin disrupts RNA polymerase II progression at replication-coupled histone genes.",
     "sent_at": "2026-11-26T04:09:50.657833Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.768903",
+    "title": "Structural and functional reference maps of transcriptional enhancers in the developing human cortex",
+    "sent_at": "2026-11-26T11:20:59.612411Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1038/s41586-026-11275-z",
+    "title": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease.",
+    "sent_at": "2026-11-26T11:20:59.612411Z",
+    "tier": 1,
     "kind": "journal"
   }
 ]
