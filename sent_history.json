@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.16.767090",
-    "title": "CTCF-anchored cohesin loops are a vertebrate-specific innovation",
-    "sent_at": "2026-11-17T22:17:03.226789Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41467-026-78943-6",
-    "title": "A CRC-MYB chromatin loop controls auxin-mediated nectary growth in Arabidopsis.",
-    "sent_at": "2026-11-17T22:17:03.226789Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.16.766639",
     "title": "Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability",
     "sent_at": "2026-11-18T03:52:05.590415Z",
@@ -556,6 +542,20 @@
     "doi": "10.3390/genes17111413",
     "title": "Integrating CTCF and Histone Modification Profiles Identifies Distinct Chromatin Signatures in Human Cancer Cell Lines.",
     "sent_at": "2026-11-27T14:12:52.791499Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.25.769053",
+    "title": "A Framework for Identifying Determinants of Epigenomic State: Decoding Variable CTCF Occupancy and Contact Frequency",
+    "sent_at": "2026-11-27T21:08:40.562334Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1002/hem3.70530",
+    "title": "Menin maintains enhancer-promoter interactions in a leukemia-specific manner.",
+    "sent_at": "2026-11-27T21:08:40.562334Z",
     "tier": 1,
     "kind": "journal"
   }
