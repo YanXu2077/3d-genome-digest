@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1172/JCI199747",
-    "title": "METTL8 orchestrates TFH cell differentiation through m³C-mediated TCF1 regulation in infection and cancer models.",
-    "sent_at": "2026-11-16T18:24:13.254350Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.13.766432",
-    "title": "Distinct contributions of cohesin-STAG1 and cohesin-STAG2 to the pluripotent and totipotent states",
-    "sent_at": "2026-11-17T02:56:43.733065Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1007/s11427-026-3390-x",
     "title": "LoopID reveals JMJD2 condensates as scaffolds for enhancer-promoter looping.",
     "sent_at": "2026-11-17T02:56:43.733065Z",
@@ -556,6 +542,20 @@
     "doi": "10.1093/bioadv/vbag269",
     "title": "Loopcity: an R package for the detection of chromatin loop communities from Hi-C data.",
     "sent_at": "2026-11-27T01:47:20.992010Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.769058",
+    "title": "Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores",
+    "sent_at": "2026-11-27T04:29:45.197534Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/nar/gkag1197",
+    "title": "Androgen stimulation rapidly reorganizes temporal 3D genome and epigenome states to trigger AR-mediated transcription in prostate cancer.",
+    "sent_at": "2026-11-27T04:29:45.197534Z",
     "tier": 1,
     "kind": "journal"
   }
