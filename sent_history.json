@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.16.766639",
-    "title": "Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability",
-    "sent_at": "2026-11-18T03:52:05.590415Z",
-    "tier": 1,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2602243123",
-    "title": "Molecular interactions underlying selective partitioning of clients into MED1 and FUS condensates.",
-    "sent_at": "2026-11-18T03:52:05.590415Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.16.766978",
     "title": "Gene-scale DNA and chromatin ensembles with atomic resolution",
     "sent_at": "2026-11-18T07:16:57.700911Z",
@@ -556,6 +542,20 @@
     "doi": "10.1002/hem3.70530",
     "title": "Menin maintains enhancer-promoter interactions in a leukemia-specific manner.",
     "sent_at": "2026-11-27T21:08:40.562334Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.26.769172",
+    "title": "Genomic conformation reflects epigenetic programming rather than gene expression",
+    "sent_at": "2026-11-27T22:57:20.964494Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1126/sciadv.aef5318",
+    "title": "Principles of locus-specific chromatin remodeling induced by therapeutic DNA integration.",
+    "sent_at": "2026-11-27T22:57:20.964494Z",
     "tier": 1,
     "kind": "journal"
   }
