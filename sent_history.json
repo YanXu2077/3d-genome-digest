@@ -1,12 +1,5 @@
 [
   {
-    "doi": "10.1016/j.molcel.2026.10.027",
-    "title": "An image-based CRISPR screen reveals RNA processing control of HP1α condensates.",
-    "sent_at": "2026-11-17T13:13:14.908969Z",
-    "tier": 2,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.16.767090",
     "title": "CTCF-anchored cohesin loops are a vertebrate-specific innovation",
     "sent_at": "2026-11-17T22:17:03.226789Z",
@@ -556,6 +549,13 @@
     "doi": "10.1016/j.jmb.2026.170111",
     "title": "Drosophila co-insulator proteins Pzg and Chro but not CP190 effectively interact with promoter-proximal insulator-binding protein BEAF from a distance.",
     "sent_at": "2026-11-27T10:55:37.906996Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.3390/genes17111413",
+    "title": "Integrating CTCF and Histone Modification Profiles Identifies Distinct Chromatin Signatures in Human Cancer Cell Lines.",
+    "sent_at": "2026-11-27T14:12:52.791499Z",
     "tier": 1,
     "kind": "journal"
   }
