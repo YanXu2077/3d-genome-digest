@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.1093/plcell/koag350",
-    "title": "Transcriptional regulatory landscape of plum (Prunus salicina) fruit ripening.",
-    "sent_at": "2026-11-16T06:11:30.443485Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
-    "doi": "10.64898/2026.11.11.766038",
-    "title": "Co-transcriptional splicing of the Drosophila Y-loop A transcript is organized in chromatin hubs and shows variable delay which increases with spermatocyte maturation",
-    "sent_at": "2026-11-16T18:24:13.254350Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
     "doi": "10.1172/JCI199747",
     "title": "METTL8 orchestrates TFH cell differentiation through m³C-mediated TCF1 regulation in infection and cancer models.",
     "sent_at": "2026-11-16T18:24:13.254350Z",
@@ -556,6 +542,20 @@
     "doi": "10.1186/s13059-026-04264-y",
     "title": "Differential analysis of image-based chromatin tracing data with Dory.",
     "sent_at": "2026-11-26T21:54:05.551590Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.24.768996",
+    "title": "Segmental Acceleration in Protein Condensates",
+    "sent_at": "2026-11-27T01:47:20.992010Z",
+    "tier": 2,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1093/bioadv/vbag269",
+    "title": "Loopcity: an R package for the detection of chromatin loop communities from Hi-C data.",
+    "sent_at": "2026-11-27T01:47:20.992010Z",
     "tier": 1,
     "kind": "journal"
   }
