@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.16.766978",
-    "title": "Gene-scale DNA and chromatin ensembles with atomic resolution",
-    "sent_at": "2026-11-18T07:16:57.700911Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1073/pnas.2623191123",
-    "title": "Single-molecule FRET at 30: Toward conformational sequencing.",
-    "sent_at": "2026-11-18T07:16:57.700911Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.16.751813",
     "title": "A histone hitchhiking mechanism for chromatin maintenance during mammalian transcription elongation",
     "sent_at": "2026-11-18T13:23:21.618705Z",
@@ -556,6 +542,20 @@
     "doi": "10.1126/sciadv.aef5318",
     "title": "Principles of locus-specific chromatin remodeling induced by therapeutic DNA integration.",
     "sent_at": "2026-11-27T22:57:20.964494Z",
+    "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.25.769351",
+    "title": "A human-accelerated enhancer rewires FOXC1-dependent skeletal development",
+    "sent_at": "2026-11-28T03:55:39.475836Z",
+    "tier": 1,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.64898/2026.11.16.766639",
+    "title": "Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability.",
+    "sent_at": "2026-11-28T03:55:39.475836Z",
     "tier": 1,
     "kind": "journal"
   }
