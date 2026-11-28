@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.16.751813",
-    "title": "A histone hitchhiking mechanism for chromatin maintenance during mammalian transcription elongation",
-    "sent_at": "2026-11-18T13:23:21.618705Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s44318-026-00957-z",
-    "title": "Nuclear receptor transcription factors promote axon regeneration in the adult corticospinal tract.",
-    "sent_at": "2026-11-18T13:23:21.618705Z",
-    "tier": 1,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.16.766941",
     "title": "Phosphorylated Pol II CTD supports histone hitchhiking during transcription elongation",
     "sent_at": "2026-11-18T17:16:21.990278Z",
@@ -557,6 +543,20 @@
     "title": "Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability.",
     "sent_at": "2026-11-28T03:55:39.475836Z",
     "tier": 1,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.25.769226",
+    "title": "A Tunable Centromere-inheritance Switch Links DNA Replication to Germline Regeneration and Reproductive Aging",
+    "sent_at": "2026-11-28T08:21:35.137515Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1039/d6cs01040g",
+    "title": "Molecular resolution fluorescence imaging: from Abbe to Ångström.",
+    "sent_at": "2026-11-28T08:21:35.137515Z",
+    "tier": 3,
     "kind": "journal"
   }
 ]
