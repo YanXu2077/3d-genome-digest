@@ -1,19 +1,5 @@
 [
   {
-    "doi": "10.64898/2026.11.16.766941",
-    "title": "Phosphorylated Pol II CTD supports histone hitchhiking during transcription elongation",
-    "sent_at": "2026-11-18T17:16:21.990278Z",
-    "tier": 2,
-    "kind": "preprint"
-  },
-  {
-    "doi": "10.1038/s41588-026-02823-4",
-    "title": "Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences.",
-    "sent_at": "2026-11-18T17:16:21.990278Z",
-    "tier": 3,
-    "kind": "journal"
-  },
-  {
     "doi": "10.64898/2026.11.17.767085",
     "title": "ChIMe-seq enables multimodal epigenetic profiling in single molecules and single cells",
     "sent_at": "2026-11-18T22:18:06.387494Z",
@@ -557,6 +543,20 @@
     "title": "Molecular resolution fluorescence imaging: from Abbe to Ångström.",
     "sent_at": "2026-11-28T08:21:35.137515Z",
     "tier": 3,
+    "kind": "journal"
+  },
+  {
+    "doi": "10.64898/2026.11.26.769093",
+    "title": "Inferring transcriptional bursting dynamics from scSLAM-seq data",
+    "sent_at": "2026-11-28T13:00:45.334181Z",
+    "tier": 3,
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.1186/s12935-026-04457-2",
+    "title": "MED1 in cancer: a context-dependent transcriptional regulator.",
+    "sent_at": "2026-11-28T13:00:45.334181Z",
+    "tier": 2,
     "kind": "journal"
   }
 ]
